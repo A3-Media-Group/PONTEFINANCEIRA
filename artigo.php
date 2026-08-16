@@ -22,7 +22,7 @@ if (!$post) {
 $page_title = $post['title'] . ' | ' . SITE_NAME;
 $page_description = $post['excerpt'];
 $page_url = SITE_URL . '/artigo/' . $post['slug'];
-$page_image = SITE_URL . $post['image'];
+$page_image = SITE_URL . asset_v($post['image']);
 $page_type = 'article';
 
 $schema_json = json_encode([
@@ -84,7 +84,7 @@ $related = array_slice($related, 0, 3);
     </header>
 
     <div class="container" style="padding-top:32px">
-        <img src="<?php echo htmlspecialchars($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" style="width:100%;max-height:420px;object-fit:cover" loading="lazy">
+        <img src="<?php echo htmlspecialchars(asset_v($post['image'])); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" style="width:100%;max-height:420px;object-fit:cover" loading="lazy">
     </div>
 
     <div class="article-body">

@@ -15,6 +15,19 @@ define('SITE_DEFAULT_IMAGE', SITE_URL . '/assets/img/og-default.jpg');
 define('SITE_LOCALE', 'pt_BR');
 define('SITE_PUBLISHER', 'Ponte Financeira');
 
+/**
+ * Adiciona um parâmetro de cache-busting (?v=timestamp) a um caminho de asset
+ * (imagem, CSS etc.), baseado na data de modificação do arquivo. Assim, quando
+ * uma imagem de capa é regenerada, o navegador busca a versão nova em vez de
+ * usar a antiga do cache.
+ */
+function asset_v($relative_path)
+{
+    $file = __DIR__ . '/..' . $relative_path;
+    $v = @filemtime($file) ?: '1';
+    return $relative_path . '?v=' . $v;
+}
+
 // Menu principal (usado no header e no footer)
 $GLOBALS['main_menu'] = [
     'Início'      => '/',

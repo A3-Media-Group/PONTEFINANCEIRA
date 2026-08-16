@@ -77,7 +77,7 @@ function pagina_url($n, $busca = '')
         <div class="post-grid">
             <?php foreach ($page_posts as $post): ?>
                 <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
-                    <div class="thumb"><img src="<?php echo htmlspecialchars($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy"></div>
+                    <div class="thumb"><img src="<?php echo htmlspecialchars(asset_v($post['image'])); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy"></div>
                     <div class="post-card-body">
                         <div class="post-cats">
                             <?php foreach ($post['category'] as $cat): ?><span class="post-cat"><?php echo htmlspecialchars($cat); ?></span><?php endforeach; ?>
