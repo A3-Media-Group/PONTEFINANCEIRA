@@ -140,6 +140,204 @@ $posts = [
         'tags' => 'segurança digital, fraudes online, inteligência artificial, visa, mastercard, compras online, cartão de crédito',
     ],
 
+    [
+        'slug' => 'tesouro-selic-ou-poupanca-2026',
+        'title' => 'Poupança ou Tesouro Selic: Qual Rende Mais com a Selic em 14%?',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-16',
+        'read_time' => '5 min',
+        'excerpt' => 'Com a Selic em 14% ao ano, veja se poupança ou Tesouro Selic rende mais e qual escolher para sua reserva de emergência em 2026.',
+        'image' => '/assets/img/post-tesouro-selic-poupanca.jpg',
+        'full' => true,
+        'content' => '
+<p>Com o Copom reduzindo a Selic para 14% ao ano em agosto de 2026, quem tem dinheiro parado começou a se perguntar: poupança ou Tesouro Selic, o que rende mais agora? A resposta impacta diretamente sua reserva de emergência e o planejamento financeiro do restante do ano.</p>
+
+<h2>O Que Mudou com o Corte da Selic para 14%</h2>
+<p>Na reunião de 4 e 5 de agosto de 2026, o Comitê de Política Monetária (Copom) decidiu, por unanimidade, reduzir a taxa básica de juros em 0,25 ponto percentual, levando a Selic de 14,25% para 14,00% ao ano — a quarta queda consecutiva no ano. Segundo o Banco Central, a decisão considerou a inflação em desaceleração, ainda que os riscos para os preços continuem mais altos que o normal.</p>
+<p>De acordo com o boletim Focus de 10 de agosto de 2026, o mercado financeiro projeta a Selic encerrando o ano em 13,75%, com a próxima decisão do Copom marcada para 15 e 16 de setembro.</p>
+
+<h2>Como Funciona o Rendimento da Poupança</h2>
+<p>A regra da poupança não muda com pequenas oscilações da Selic, mas o patamar da taxa básica define o cálculo. Sempre que a Selic está acima de 8,5% ao ano — como é o caso agora, a 14% — a poupança rende 0,5% ao mês mais a Taxa Referencial (TR), o que equivale a cerca de 6,17% ao ano sem contar a TR.</p>
+<p>Ou seja, mesmo com a Selic em dois dígitos, a poupança segue travada nesse teto. É justamente essa trava que abre espaço de vantagem para o Tesouro Selic.</p>
+
+<h2>Como Funciona o Tesouro Selic</h2>
+<p>O Tesouro Selic é um título público pós-fixado que acompanha de perto a variação da taxa básica de juros. Diferentemente da poupança, ele não tem teto: quanto maior a Selic, maior a rentabilidade bruta do título, hoje próxima dos 14% ao ano.</p>
+<p>O investimento é considerado um dos mais seguros do país, garantido pelo Tesouro Nacional, e pode ser resgatado a qualquer momento — o que o torna, ao lado da poupança, uma das opções mais usadas para reserva de emergência.</p>
+
+<h3>Impostos e Taxas: A Diferença Que Pesa no Bolso</h3>
+<ul>
+    <li><strong>Poupança:</strong> isenta de Imposto de Renda e de qualquer taxa de administração;</li>
+    <li><strong>Tesouro Selic:</strong> sujeito à tabela regressiva do IR (de 22,5% a 15%, conforme o prazo da aplicação) e, em geral, a uma pequena taxa de custódia cobrada pela B3.</li>
+</ul>
+<p>Mesmo descontando o IR e a taxa de custódia, o Tesouro Selic costuma render mais que a poupança sempre que a Selic está acima de aproximadamente 8,5% ao ano — exatamente o cenário atual. Quanto maior a distância entre a Selic e esse patamar, maior tende a ser a vantagem do título público.</p>
+
+<h2>Vale a Pena Trocar a Poupança pelo Tesouro Selic?</h2>
+<p>Para quem já tem reserva de emergência guardada na poupança, migrar para o Tesouro Selic costuma valer a pena no cenário atual, especialmente para valores que ficarão parados por mais de alguns meses. A liquidez é parecida — em ambos os casos o resgate costuma cair na conta em poucos dias úteis —, mas a rentabilidade líquida tende a ser superior no título público.</p>
+<p>Antes de decidir, vale simular os dois cenários considerando prazo, valor aplicado e alíquota de IR esperada. Nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> ajuda a visualizar quanto cada alternativa pode render ao longo do tempo.</p>
+
+<h2>E o CDB, Vale a Pena Comparar Também?</h2>
+<p>Além do Tesouro Selic, vale observar CDBs com liquidez diária de bancos e corretoras, que também acompanham a Selic e, em alguns casos, oferecem um percentual do CDI acima de 100%. A lógica de comparação é a mesma: olhar a rentabilidade líquida (já descontado o IR) e verificar se a instituição tem cobertura do Fundo Garantidor de Créditos (FGC) até o limite de R$ 250 mil por CPF e instituição.</p>
+
+<h2>Como Começar a Investir no Tesouro Selic</h2>
+<p>O processo é simples: abra conta em uma corretora habilitada, transfira os recursos e compre o título diretamente pelo Tesouro Direto, com aplicações a partir de valores baixos. Quem está começando agora também pode conferir nosso guia completo sobre <a href="/artigo/como-comecar-a-investir">como começar a investir</a> para entender os passos anteriores, como montar a reserva de emergência e definir objetivos financeiros.</p>
+
+<h2>Conclusão</h2>
+<p>Com a Selic em 14% ao ano, o Tesouro Selic leva vantagem sobre a poupança na maioria dos cenários, principalmente para quem pode manter o dinheiro aplicado por alguns meses. A poupança ainda tem seu espaço — simplicidade e isenção de IR —, mas migrar parte da reserva para o título público costuma exigir bem menos esforço do que parece.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Rentabilidades passadas não garantem resultados futuros, e a escolha entre poupança, Tesouro Selic e CDB deve considerar seu perfil, prazo e objetivos financeiros.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/corte-da-selic-decisao-copom-expectativas-082026/" target="_blank" rel="noopener">Inflação deve ajudar Copom a cortar Selic a 14%</a></li>
+    <li>Banco Central do Brasil (BCB) — Comunicado do Copom, reunião de 4 e 5 de agosto de 2026</li>
+    <li>InfoMoney — Boletim Focus, projeções de mercado de 10 de agosto de 2026</li>
+</ul>
+
+<p>Quer simular quanto seu dinheiro pode render com a Selic atual? Acesse nosso <a href="/simuladores-financeiros.php">simulador de juros compostos e investimentos</a> e compare cenários gratuitamente.</p>
+',
+        'tags' => 'poupança ou tesouro selic, rendimento da poupança 2026, tesouro selic como funciona, selic 14% investimentos, reserva de emergência',
+    ],
+
+    [
+        'slug' => 'pix-parcelado-como-funciona',
+        'title' => 'Pix Parcelado: Como Funciona a Nova Forma de Crédito do Banco Central',
+        'category' => ['Notícias', 'Cartão de Crédito'],
+        'date' => '2026-08-16',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda como funciona o Pix Parcelado, novidade do Banco Central que permite dividir pagamentos em prestações sem precisar de cartão de crédito.',
+        'image' => '/assets/img/post-pix-parcelado.jpg',
+        'full' => true,
+        'content' => '
+<p>O Pix parcelado começou a ganhar contornos mais claros em 2026, e a pergunta mais comum é simples: como funciona o Pix parcelado na prática? A modalidade, regulamentada pelo Banco Central, promete ampliar o acesso a crédito para milhões de brasileiros que não têm cartão — mas exige atenção a juros e taxas antes de usar.</p>
+
+<h2>O Que É o Pix Parcelado</h2>
+<p>O Pix parcelado permite que o pagador divida o valor de uma transferência em várias prestações, mesmo sem usar cartão de crédito. Na prática, funciona como um parcelamento: quem recebe o pagamento tem o valor integral creditado na hora, exatamente como em um Pix comum, enquanto quem paga assume as parcelas, geralmente acrescidas de juros.</p>
+<p>Segundo o Banco Central, a expectativa é de que a ferramenta amplie o acesso a crédito para uma parcela relevante da população que hoje está fora do sistema tradicional de cartões — um público estimado em dezenas de milhões de pessoas.</p>
+
+<h2>Como Funciona para Quem Paga e Quem Recebe</h2>
+<ul>
+    <li><strong>Quem recebe:</strong> o dinheiro cai na conta imediatamente, como em qualquer Pix — a instituição financeira do pagador assume o risco do parcelamento;</li>
+    <li><strong>Quem paga:</strong> escolhe o número de parcelas no momento da transação e passa a pagar prestações mensais, com juros definidos pela instituição financeira;</li>
+    <li><strong>Comércio:</strong> pode oferecer o Pix parcelado como alternativa ao cartão de crédito, inclusive para clientes que não possuem cartão.</li>
+</ul>
+
+<h2>Regras do Banco Central para 2026</h2>
+<p>Para evitar armadilhas nas prestações, o Banco Central determinou que as instituições sejam obrigadas a informar de forma clara, antes da confirmação do pagamento:</p>
+<ul>
+    <li>A taxa de juros cobrada na operação;</li>
+    <li>O Custo Efetivo Total (CET) do parcelamento;</li>
+    <li>O número e o valor de cada parcela;</li>
+    <li>Eventuais encargos adicionais em caso de atraso no pagamento.</li>
+</ul>
+<p>Essa exigência de transparência busca padronizar a modalidade como uma alternativa de crédito regulada, evitando que o Pix parcelado se torne uma nova fonte de endividamento sem informação clara ao consumidor.</p>
+
+<h2>Pix Parcelado x Cartão de Crédito: Vale a Pena?</h2>
+<p>Antes de escolher o Pix parcelado para uma compra, vale comparar o CET oferecido com o custo do cartão de crédito ou de outras linhas, como o crédito pessoal. Como o parcelamento é uma forma de crédito, os juros podem variar bastante entre instituições — e, assim como no cartão, atrasar uma parcela pode gerar multa, juros e negativação do CPF.</p>
+<p>Para quem já usa bem o cartão de crédito e paga a fatura em dia, o Pix parcelado pode não trazer vantagem relevante. Já para quem não tem cartão ou prefere não usá-lo, a modalidade amplia as opções de parcelamento — mas exige o mesmo cuidado: parcelar apenas o que cabe no orçamento do mês.</p>
+<p>Se você ainda está decidindo qual meio de pagamento faz mais sentido no dia a dia, nosso guia sobre <a href="/artigo/escolher-melhor-cartao-credito">como escolher o melhor cartão de crédito</a> ajuda a comparar taxas e benefícios antes de bater o martelo.</p>
+
+<h2>O Pix Já Domina os Pagamentos no Brasil</h2>
+<p>O avanço do Pix parcelado acontece em um momento em que o meio de pagamento já lidera as transações no país, respondendo por mais da metade de todas as operações de pagamento realizadas por aqui. Esse volume é parte do motivo pelo qual o Banco Central trata a nova modalidade com cautela regulatória: qualquer falha na comunicação de juros afetaria um número muito grande de pessoas de uma só vez.</p>
+<p>Vale lembrar que o Pix parcelado é diferente do impacto que o Pix tradicional já teve nas taxas de cartão de crédito — tema que também já exploramos no artigo sobre o <a href="/artigo/pix-taxas-cartao">impacto da criação do Pix nas taxas de cartão</a>.</p>
+
+<h2>Cuidados Antes de Usar o Pix Parcelado</h2>
+<ul>
+    <li>Compare sempre o CET informado antes de confirmar o parcelamento, não apenas o valor da parcela;</li>
+    <li>Verifique se o valor total parcelado cabe no seu orçamento mensal, incluindo outras dívidas em aberto;</li>
+    <li>Evite parcelar compras de baixo valor que poderiam ser pagas à vista sem comprometer o mês;</li>
+    <li>Fique atento a golpes: desconfie de cobranças de parcelamento fora do aplicativo oficial do seu banco.</li>
+</ul>
+
+<h2>Conclusão</h2>
+<p>O Pix parcelado chega como mais uma alternativa de crédito no Brasil, com potencial de incluir quem hoje não tem acesso a cartão. As regras do Banco Central para transparência de juros e CET são um avanço, mas a responsabilidade final de usar a modalidade com equilíbrio continua sendo do consumidor — comparar custos e respeitar o orçamento seguem sendo o caminho mais seguro.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições, prazos e disponibilidade do Pix parcelado podem variar entre instituições financeiras — confirme sempre diretamente no aplicativo do seu banco.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/pix-parcelado-chega-para-competir-com-cartao-de-credito-veja-diferencas/" target="_blank" rel="noopener">Pix Parcelado chega para competir com cartão de crédito: veja diferenças</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/pix-parcelado-deve-ser-lancado-em-setembro-diz-banco-central/" target="_blank" rel="noopener">Pix parcelado deve ser lançado em setembro, diz Banco Central</a></li>
+    <li>Banco Central do Brasil (BCB) — Diretrizes regulatórias do Pix Parcelado, 2026</li>
+</ul>
+
+<p>Quer organizar melhor o orçamento antes de parcelar qualquer compra? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar gastos e evitar surpresas na fatura.</p>
+',
+        'tags' => 'pix parcelado como funciona, pix parcelado banco central, crédito pelo pix, cet pix parcelado, cartão de crédito',
+    ],
+
+    [
+        'slug' => 'nome-sujo-como-consultar-2026',
+        'title' => 'Nome Sujo em 2026: Como Consultar Grátis e Sair da Inadimplência',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-08-16',
+        'read_time' => '5 min',
+        'excerpt' => 'Veja como saber se seu nome está sujo, consultar de graça no Serasa e SPC e os passos para negociar dívidas e sair da inadimplência em 2026.',
+        'image' => '/assets/img/post-nome-sujo-inadimplencia.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber como consultar se o nome está sujo é o primeiro passo para quem quer organizar as finanças em 2026 — ano em que o Brasil bateu recorde de inadimplência. Segundo levantamento da Serasa, o país chegou a 81,7 milhões de inadimplentes, um crescimento de 38,1% em dez anos.</p>
+
+<h2>Quantos Brasileiros Estão com o Nome Sujo em 2026</h2>
+<p>De acordo com o Mapa da Inadimplência da Serasa, o Brasil somava, no início de 2026, mais de 332 milhões de dívidas em atraso — volume 43% maior do que o registrado em 2016. O valor médio da dívida por CPF também subiu, passando de R$ 5.880,02 para R$ 6.598,13 (valores corrigidos pela inflação) ao longo da última década.</p>
+<p>O levantamento também mostra uma mudança no perfil de quem está negativado: a inadimplência cresce com mais força entre pessoas acima de 60 anos, grupo que historicamente tinha menor participação nas listas de devedores.</p>
+
+<h2>Como Saber se Seu Nome Está Sujo</h2>
+<p>Existem formas gratuitas e oficiais de consultar pendências no seu CPF:</p>
+<ul>
+    <li><strong>Serasa Consumidor:</strong> consulta gratuita pelo site ou aplicativo, mostrando as dívidas registradas pelas empresas credoras;</li>
+    <li><strong>SPC Brasil:</strong> consulta disponível no site oficial, com cadastro simples e gratuito;</li>
+    <li><strong>Registrato, do Banco Central:</strong> mostra o relacionamento do seu CPF com bancos e financeiras, incluindo operações de crédito em aberto;</li>
+    <li><strong>Cadastro Positivo:</strong> além das dívidas em atraso, permite acompanhar seu histórico de pagamentos, o que influencia diretamente o score de crédito.</li>
+</ul>
+<p>Vale reforçar: essas consultas são gratuitas e não afetam o seu score. Desconfie de qualquer serviço que cobre para "descobrir" se o nome está sujo.</p>
+
+<h2>Por Que a Inadimplência Está Subindo</h2>
+<p>Mesmo com a Selic em trajetória de queda em 2026, o crédito para o consumidor segue caro e seletivo, o que dificulta a quitação de dívidas antigas e empurra parte da população para novos atrasos. Executivos de grandes bancos brasileiros afirmam não enxergar, no curto prazo, sinais claros de reversão da inadimplência recorde no crédito ao consumidor.</p>
+
+<h2>Passo a Passo Para Sair do Vermelho</h2>
+<h3>1. Liste Todas as Suas Dívidas</h3>
+<p>Use as consultas gratuitas acima para mapear cada pendência: valor original, valor atualizado, credor e data de vencimento.</p>
+<h3>2. Priorize por Urgência e Custo</h3>
+<p>Dívidas com juros mais altos, como cartão de crédito e cheque especial, tendem a crescer mais rápido e merecem prioridade. Nosso guia sobre o <a href="/artigo/metodo-bola-de-neve">Método Bola de Neve para quitar dívidas</a> explica uma forma prática de organizar essa ordem de pagamento.</p>
+<h3>3. Negocie Diretamente ou Via Programas Oficiais</h3>
+<p>Programas como o <a href="/artigo/desenrola-brasil-2026">Desenrola Brasil</a> e mutirões de negociação oferecidos por bancos e varejistas costumam trazer descontos relevantes para quem paga à vista ou em poucas parcelas. Antes de aceitar a primeira proposta, veja também nossas dicas sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira oferta</a>.</p>
+<h3>4. Reconstrua o Score Depois de Pagar</h3>
+<p>Quitar a dívida é o primeiro passo, mas o score de crédito leva tempo para se recuperar. Veja nosso conteúdo sobre <a href="/artigo/recuperar-score-credito">como recuperar seu score de crédito</a> para entender o papel do Cadastro Positivo nesse processo.</p>
+
+<h2>Como o Nome Sujo Afeta Seu Score de Crédito</h2>
+<p>Ter dívidas em atraso derruba diretamente o score de crédito, dificultando desde a aprovação de um cartão até condições melhores em um financiamento. Mas o inverso também é verdadeiro: quitar pendências e manter contas em dia — inclusive as recorrentes, como luz e telefone, dentro do Cadastro Positivo — ajuda o score a subir de forma consistente ao longo dos meses.</p>
+<p>Por isso, negociar uma dívida não deve ser visto como o fim do processo, e sim como o início da reconstrução do histórico financeiro.</p>
+
+<h2>Como Não Cair de Novo na Inadimplência</h2>
+<p>Depois de limpar o nome, o maior risco é voltar a se endividar sem uma reserva mínima ou um orçamento organizado. Monte um planejamento mensal considerando receitas fixas, gastos essenciais e uma margem para imprevistos — e, se possível, comece a guardar mesmo pequenos valores todo mês, mesmo que a longo prazo pareçam pouco relevantes.</p>
+<p>Vale também revisar assinaturas e gastos recorrentes que passaram despercebidos, renegociar contratos como internet e plano de celular, e evitar novos parcelamentos até que o orçamento esteja de fato equilibrado. Pequenos ajustes recorrentes costumam pesar mais no fim do mês do que um corte pontual em um gasto maior.</p>
+
+<h2>Perguntas Frequentes</h2>
+<h3>Consultar o CPF pelo Serasa ou SPC deixa meu nome mais sujo?</h3>
+<p>Não. A consulta é apenas informativa e não gera nenhum registro de dívida nem altera o score.</p>
+<h3>Depois de pagar, o nome sai da lista de negativados na hora?</h3>
+<p>Normalmente a baixa é feita em até cinco dias úteis após o pagamento ser confirmado ao credor, mas o prazo pode variar conforme a instituição.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter educativo. Antes de negociar dívidas ou aderir a qualquer programa, confirme as condições diretamente com a instituição credora ou pelos canais oficiais.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">10 anos do Mapa da Inadimplência</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/inadimplencia-no-brasil-da-salto-em-10-anos-e-atinge-quase-metade-da-populacao-adulta/" target="_blank" rel="noopener">Inadimplência no Brasil dá salto em 10 anos e atinge quase metade da população adulta</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/mercados/executivos-de-bancoes-brasileiros-nao-veem-fim-para-inadimplencia-recorde-em-2026/" target="_blank" rel="noopener">Executivos de bancões brasileiros não veem fim para inadimplência recorde em 2026</a></li>
+</ul>
+
+<p>Quer organizar suas dívidas e planejar a quitação? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de rescisão, FGTS e orçamento para dar o próximo passo.</p>
+',
+        'tags' => 'como saber se meu nome está sujo, consultar nome sujo grátis, inadimplência no brasil 2026, negociar dívidas atrasadas, score de crédito',
+    ],
+
 ];
 
 /**
