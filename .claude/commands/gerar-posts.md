@@ -32,10 +32,45 @@ no Google sobre isso) e 2-3 palavras-chave secundárias relacionadas.
 - Termine com uma seção "## Fontes" citando de onde veio a informação (nome da fonte 
   + link), e um CTA linkando para /calculadoras.php ou /simuladores-financeiros.php
 
-## 4. IMAGEM DE CAPA
-Gere via API do Gemini (variável GEMINI_API_KEY), representando o tema, na paleta do 
-site (#0E2438 azul-tinta, #1E7F5C verde, #C9A227 dourado). Salve em /assets/img/ com 
-nome baseado no slug. Escreva um alt text descritivo incluindo a palavra-chave principal.
+## 4. IMAGEM DE CAPA (moderna, sem texto/logo, obrigatório)
+Gere via API do Gemini (Imagen), usando a variável GEMINI_API_KEY.
+
+NUNCA inclua texto, palavras, números legíveis ou logotipos na imagem — a arte deve 
+comunicar o tema só pela composição visual. O objetivo é uma peça editorial moderna 
+e marcante, não uma foto-estoque genérica.
+
+Antes de montar o prompt, pense num CONCEITO VISUAL ÚNICO para o tema específico do 
+artigo — não use os clichês batidos (aperto de mão, calculadora numa mesa branca, 
+pilha de moedas genérica, gráfico de linha solto no vazio). Busque uma metáfora visual 
+mais inteligente e específica pro assunto exato. Exemplos de raciocínio (adapte, não copie):
+- Artigo sobre reserva de emergência → um guarda-chuva de estrutura dourada abrindo 
+  sobre uma cidade miniatura à noite
+- Artigo sobre dívidas/renegociação → correntes de metal se transformando em uma ponte 
+  de luz
+- Artigo sobre Selic/juros → engrenagens de relógio entrelaçadas com feixes de luz verde
+- Artigo sobre investimentos → sementes de luz dourada brotando de um solo geométrico escuro
+
+Monte o prompt final seguindo esta estrutura:
+
+"Ilustração editorial digital premium, [conceito visual único pensado para este tema 
+específico, descrito em detalhe: objeto principal, ação, ambiente], estilo de arte 
+conceitual moderna com elementos 3D sutis e iluminação cinematográfica, paleta de cores 
+dominada por azul petróleo escuro (#0E2438) e verde esmeralda (#1E7F5C), com acentos 
+pontuais em dourado (#C9A227), contraste de luz forte criando profundidade e drama 
+visual, composição assimétrica com espaço negativo generoso em um dos lados para 
+sobreposição futura de texto, textura sutil de grão fino, acabamento estilo capa de 
+revista econômica premium (referência: The Economist, Bloomberg Businessweek, Fast 
+Company), altíssima resolução e nitidez, proporção 16:9, sem texto, sem números, 
+sem logotipos, sem marcas d'água"
+
+Regras obrigatórias:
+- Sempre um conceito visual específico e não-genérico, pensado pro tema exato do artigo
+- Sempre as 3 cores da marca (azul petróleo, verde esmeralda, dourado como acento)
+- Sempre luz dramática/cinematográfica e boa profundidade — nunca imagem "chapada" e 
+  sem contraste
+- Sempre espaço negativo em algum canto (útil se um dia quisermos sobrepor título por 
+  cima via CSS, mesmo que hoje não sobreponhamos)
+- Proibir explicitamente texto e logos no prompt, mesmo que o modelo às vezes erre
 
 ## 5. METADADOS SEO
 - excerpt (meta description): até 160 caracteres, contendo a palavra-chave principal
