@@ -15,6 +15,13 @@ RewriteRule ^ /artigo/%1? [R=301,L]
 # URL amigável do artigo (/artigo/slug) aponta internamente para artigo.php
 RewriteRule ^artigo/([a-zA-Z0-9-]+)/?$ artigo.php?slug=$1 [L,QSA]
 
+# Tipos MIME corretos para downloads (servidor não tinha esses mapeados)
+<IfModule mod_mime.c>
+    AddType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet .xlsx
+    AddType application/vnd.ms-excel .xls
+    AddType application/pdf .pdf
+</IfModule>
+
 # Página de erro 404 customizada
 ErrorDocument 404 /404.php
 
