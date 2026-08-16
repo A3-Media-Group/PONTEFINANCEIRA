@@ -485,10 +485,10 @@ $posts_resumo_images = [
     'cashback-imposto-renda' => '/assets/img/post-cashback-imposto-renda.jpg',
     'financiamento-ou-consorcio' => '/assets/img/post-financiamento-ou-consorcio.jpg',
     'educacao-financeira-nas-ferias' => '/assets/img/post-educacao-financeira-nas-ferias.jpg',
-    'dividas-caixa-serasa' => '/assets/img/posts/dividas-caixa-serasa.svg',
-    'recuperar-score-credito' => '/assets/img/posts/recuperar-score-credito.svg',
-    'orcamento-de-sobrevivencia' => '/assets/img/posts/orcamento-de-sobrevivencia.svg',
-    'negociar-dividas-bancos' => '/assets/img/posts/negociar-dividas-bancos.svg',
+    'dividas-caixa-serasa' => '/assets/img/post-dividas-caixa-serasa.jpg',
+    'recuperar-score-credito' => '/assets/img/post-recuperar-score-credito.jpg',
+    'orcamento-de-sobrevivencia' => '/assets/img/post-orcamento-de-sobrevivencia.jpg',
+    'negociar-dividas-bancos' => '/assets/img/post-negociar-dividas-bancos.jpg',
 ];
 
 // Converte os artigos resumidos para o mesmo formato dos artigos completos
