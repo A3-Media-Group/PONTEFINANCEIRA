@@ -18,7 +18,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
     <url><loc><?php echo SITE_URL; ?>/contato.php</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
     <?php foreach ($posts as $post): ?>
     <url>
-        <loc><?php echo SITE_URL; ?>/artigo.php?slug=<?php echo urlencode($post['slug']); ?></loc>
+        <loc><?php echo SITE_URL; ?>/artigo/<?php echo urlencode($post['slug']); ?></loc>
         <lastmod><?php echo $post['date']; ?></lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>

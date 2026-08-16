@@ -15,6 +15,7 @@ if (!isset($page_description))  $page_description = SITE_DEFAULT_DESCRIPTION;
 if (!isset($page_url))          $page_url = SITE_URL . strtok($_SERVER['REQUEST_URI'], '?');
 if (!isset($page_image))        $page_image = SITE_DEFAULT_IMAGE;
 if (!isset($page_type))         $page_type = 'website';
+if (!isset($page_robots))       $page_robots = 'index, follow';
 if (!isset($body_class))        $body_class = '';
 ?><!DOCTYPE html>
 <html lang="pt-BR">
@@ -24,7 +25,7 @@ if (!isset($body_class))        $body_class = '';
 <title><?php echo htmlspecialchars($page_title); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
 <link rel="canonical" href="<?php echo htmlspecialchars($page_url); ?>">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="<?php echo htmlspecialchars($page_robots); ?>">
 <meta name="theme-color" content="#0E2438">
 
 <!-- Open Graph -->
@@ -76,14 +77,7 @@ if (!isset($body_class))        $body_class = '';
 <header class="site-header">
     <div class="container header-inner">
         <a href="/" class="logo">
-            <span class="logo-mark" aria-hidden="true">
-                <svg viewBox="0 0 40 28" width="34" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M2 24C2 24 10 8 20 8C30 8 38 24 38 24" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
-                    <circle cx="4" cy="25" r="2.5" fill="currentColor"/>
-                    <circle cx="36" cy="25" r="2.5" fill="currentColor"/>
-                </svg>
-            </span>
-            <span class="logo-text">Ponte<strong>Financeira</strong></span>
+            <img src="/assets/img/logo.png" alt="Ponte Financeira" class="logo-img" width="46" height="39">
         </a>
 
         <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="siteNav" aria-label="Abrir menu">

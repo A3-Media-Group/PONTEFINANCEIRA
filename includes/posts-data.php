@@ -244,6 +244,55 @@ $posts_resumo = [
         'Entenda os bastidores das assessorias de cobrança e aprenda a contrapropor valores que realmente cabem no seu orçamento mensal.'],
 ];
 
+// Imagens de capa ilustradas (uma por artigo, tema relevante ao assunto)
+$posts_resumo_images = [
+    'taxa-selic' => '/assets/img/posts/taxa-selic.svg',
+    'nova-lei-vale-alimentacao-refeicao-2026' => '/assets/img/posts/nova-lei-vale-alimentacao-refeicao-2026.svg',
+    'vale-refeicao' => '/assets/img/posts/vale-refeicao.svg',
+    'desenrola-brasil-2026' => '/assets/img/posts/desenrola-brasil-2026.svg',
+    'metodo-bola-de-neve' => '/assets/img/posts/metodo-bola-de-neve.svg',
+    'fundo-de-garantia' => '/assets/img/posts/fundo-de-garantia.svg',
+    'estresse-financeiro' => '/assets/img/posts/estresse-financeiro.svg',
+    'desenrola-20' => '/assets/img/posts/desenrola-20.svg',
+    'melhores-cartoes-credito-2026' => '/assets/img/posts/melhores-cartoes-credito-2026.svg',
+    'bolsa-de-valores-assimetria' => '/assets/img/posts/bolsa-de-valores-assimetria.svg',
+    'transformacao-financas-gestao-corporativa' => '/assets/img/posts/transformacao-financas-gestao-corporativa.svg',
+    'indice-bovespa' => '/assets/img/posts/indice-bovespa.svg',
+    'tarifas-de-comercio' => '/assets/img/posts/tarifas-de-comercio.svg',
+    'motorista-de-aplicativo' => '/assets/img/posts/motorista-de-aplicativo.svg',
+    'perigo-cartao-credito-banco-central' => '/assets/img/posts/perigo-cartao-credito-banco-central.svg',
+    'rescisao-contrato-de-trabalho' => '/assets/img/posts/rescisao-contrato-de-trabalho.svg',
+    'fgts-calculadora' => '/assets/img/posts/fgts-calculadora.svg',
+    'novas-tarifas-casa-branca' => '/assets/img/posts/novas-tarifas-casa-branca.svg',
+    'programa-brasil-soberano-3' => '/assets/img/posts/programa-brasil-soberano-3.svg',
+    'entenda-o-tarifaco' => '/assets/img/posts/entenda-o-tarifaco.svg',
+    'preco-do-petroleo' => '/assets/img/posts/preco-do-petroleo.svg',
+    'instabilidade-mercado-financeiro' => '/assets/img/posts/instabilidade-mercado-financeiro.svg',
+    'cursos-gratuitos-b3' => '/assets/img/posts/cursos-gratuitos-b3.svg',
+    'situacao-financeira-amapa' => '/assets/img/posts/situacao-financeira-amapa.svg',
+    'estoques-petroleo-eua' => '/assets/img/posts/estoques-petroleo-eua.svg',
+    'cartao-credito-gestao-despesas' => '/assets/img/posts/cartao-credito-gestao-despesas.svg',
+    'tarifa-25-eua' => '/assets/img/posts/tarifa-25-eua.svg',
+    'fundos-imobiliarios-crescimento' => '/assets/img/posts/fundos-imobiliarios-crescimento.svg',
+    'recursos-esquecidos-banco-central' => '/assets/img/posts/recursos-esquecidos-banco-central.svg',
+    'distribuicao-fgts-2026' => '/assets/img/posts/distribuicao-fgts-2026.svg',
+    'educacao-financeira-lei-aprovada' => '/assets/img/posts/educacao-financeira-lei-aprovada.svg',
+    'desenrola-brasil' => '/assets/img/posts/desenrola-brasil.svg',
+    'dinheiro-durar-ate-fim-do-mes' => '/assets/img/posts/dinheiro-durar-ate-fim-do-mes.svg',
+    'desafio-financeiro-maternidade' => '/assets/img/posts/desafio-financeiro-maternidade.svg',
+    'escolher-melhor-cartao-credito' => '/assets/img/posts/escolher-melhor-cartao-credito.svg',
+    'pix-taxas-cartao' => '/assets/img/posts/pix-taxas-cartao.svg',
+    'saude-mental-financeira' => '/assets/img/posts/saude-mental-financeira.svg',
+    'ia-investimentos' => '/assets/img/posts/ia-investimentos.svg',
+    'cashback-imposto-renda' => '/assets/img/posts/cashback-imposto-renda.svg',
+    'financiamento-ou-consorcio' => '/assets/img/posts/financiamento-ou-consorcio.svg',
+    'educacao-financeira-nas-ferias' => '/assets/img/posts/educacao-financeira-nas-ferias.svg',
+    'dividas-caixa-serasa' => '/assets/img/posts/dividas-caixa-serasa.svg',
+    'recuperar-score-credito' => '/assets/img/posts/recuperar-score-credito.svg',
+    'orcamento-de-sobrevivencia' => '/assets/img/posts/orcamento-de-sobrevivencia.svg',
+    'negociar-dividas-bancos' => '/assets/img/posts/negociar-dividas-bancos.svg',
+];
+
 // Converte os artigos resumidos para o mesmo formato dos artigos completos
 foreach ($posts_resumo as $p) {
     $posts[] = [
@@ -253,13 +302,13 @@ foreach ($posts_resumo as $p) {
         'date' => $p[3],
         'read_time' => $p[4],
         'excerpt' => $p[5],
-        'image' => '/assets/img/post-default.jpg',
+        'image' => $posts_resumo_images[$p[0]] ?? '/assets/img/post-default.jpg',
         'full' => false,
         'content' => '<p>' . $p[5] . '</p><p>Estamos atualizando este artigo com o conteúdo completo. Enquanto isso, confira nossos <a href="/calculadoras.php">simuladores gratuitos</a> ou veja outros <a href="/financas-pessoais.php">artigos relacionados</a>.</p>',
         'tags' => '',
     ];
 }
-unset($posts_resumo, $p);
+unset($posts_resumo, $posts_resumo_images, $p);
 
 // Ordena por data, mais recente primeiro
 usort($posts, function ($a, $b) {

@@ -4,14 +4,7 @@
     <div class="container footer-grid">
         <div class="footer-brand">
             <a href="/" class="logo">
-                <span class="logo-mark" aria-hidden="true">
-                    <svg viewBox="0 0 40 28" width="30" height="21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2 24C2 24 10 8 20 8C30 8 38 24 38 24" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
-                        <circle cx="4" cy="25" r="2.5" fill="currentColor"/>
-                        <circle cx="36" cy="25" r="2.5" fill="currentColor"/>
-                    </svg>
-                </span>
-                <span class="logo-text">Ponte<strong>Financeira</strong></span>
+                <img src="/assets/img/logo.png" alt="Ponte Financeira" class="logo-img logo-img-footer" width="56" height="47">
             </a>
             <p><?php echo SITE_TAGLINE; ?></p>
             <p class="footer-disclaimer">Portal de educação financeira independente.<br>Não realizamos empréstimos.</p>

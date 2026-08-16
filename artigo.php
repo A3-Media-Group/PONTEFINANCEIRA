@@ -9,6 +9,7 @@ if (!$post) {
     http_response_code(404);
     $page_title = 'Artigo não encontrado | ' . SITE_NAME;
     $page_description = 'O artigo que você procura não existe ou foi movido.';
+    $page_robots = 'noindex, follow';
     include __DIR__ . '/includes/header.php';
     echo '<section class="section"><div class="container" style="text-align:center">';
     echo '<h1>Artigo não encontrado</h1><p class="lede" style="margin:0 auto 24px">O conteúdo que você procura não existe ou foi movido.</p>';
@@ -20,25 +21,36 @@ if (!$post) {
 
 $page_title = $post['title'] . ' | ' . SITE_NAME;
 $page_description = $post['excerpt'];
-$page_url = SITE_URL . '/artigo.php?slug=' . $post['slug'];
+$page_url = SITE_URL . '/artigo/' . $post['slug'];
 $page_image = SITE_URL . $post['image'];
 $page_type = 'article';
 
 $schema_json = json_encode([
-    '@context' => 'https://schema.org',
-    '@type' => 'Article',
-    'headline' => $post['title'],
-    'description' => $post['excerpt'],
-    'datePublished' => $post['date'],
-    'dateModified' => $post['date'],
-    'image' => $page_image,
-    'author' => ['@type' => 'Organization', 'name' => SITE_NAME],
-    'publisher' => [
-        '@type' => 'Organization',
-        'name' => SITE_NAME,
-        'logo' => ['@type' => 'ImageObject', 'url' => SITE_URL . '/assets/img/logo.png'],
+    [
+        '@context' => 'https://schema.org',
+        '@type' => 'Article',
+        'headline' => $post['title'],
+        'description' => $post['excerpt'],
+        'datePublished' => $post['date'],
+        'dateModified' => $post['date'],
+        'image' => $page_image,
+        'author' => ['@type' => 'Organization', 'name' => SITE_NAME],
+        'publisher' => [
+            '@type' => 'Organization',
+            'name' => SITE_NAME,
+            'logo' => ['@type' => 'ImageObject', 'url' => SITE_URL . '/assets/img/logo.png'],
+        ],
+        'mainEntityOfPage' => ['@type' => 'WebPage', '@id' => $page_url],
     ],
-    'mainEntityOfPage' => ['@type' => 'WebPage', '@id' => $page_url],
+    [
+        '@context' => 'https://schema.org',
+        '@type' => 'BreadcrumbList',
+        'itemListElement' => [
+            ['@type' => 'ListItem', 'position' => 1, 'name' => 'Início', 'item' => SITE_URL . '/'],
+            ['@type' => 'ListItem', 'position' => 2, 'name' => 'Artigos', 'item' => SITE_URL . '/financas-pessoais.php'],
+            ['@type' => 'ListItem', 'position' => 3, 'name' => $post['title'], 'item' => $page_url],
+        ],
+    ],
 ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 
 include __DIR__ . '/includes/header.php';
@@ -103,7 +115,7 @@ $related = array_slice($related, 0, 3);
             <div class="section-head"><span class="eyebrow">Continue lendo</span><h2>Artigos relacionados</h2></div>
             <div class="post-grid">
                 <?php foreach ($related as $r): ?>
-                    <a class="post-card" href="/artigo.php?slug=<?php echo urlencode($r['slug']); ?>">
+                    <a class="post-card" href="/artigo/<?php echo urlencode($r['slug']); ?>">
                         <div class="thumb"><img src="<?php echo htmlspecialchars($r['image']); ?>" alt="<?php echo htmlspecialchars($r['title']); ?>" loading="lazy"></div>
                         <div class="post-card-body">
                             <div class="post-cats"><?php foreach ($r['category'] as $cat): ?><span class="post-cat"><?php echo htmlspecialchars($cat); ?></span><?php endforeach; ?></div>

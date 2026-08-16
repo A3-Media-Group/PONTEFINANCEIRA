@@ -4,6 +4,7 @@ http_response_code(404);
 $page_title = 'Página não encontrada | ' . SITE_NAME;
 $page_description = 'A página que você procura não existe ou foi movida.';
 $page_url = SITE_URL . '/404.php';
+$page_robots = 'noindex, follow';
 include __DIR__ . '/includes/header.php';
 ?>
 <section class="section" style="text-align:center;padding:120px 0">

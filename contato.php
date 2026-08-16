@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/includes/config.php';
 
-$page_title = 'Entre em Contato com a Ponte Financeira';
+$page_title = 'Contato | Ponte Financeira';
 $page_description = 'Utilize nossos canais oficiais para propor parcerias, sugerir pautas ou tirar dúvidas sobre nossos simuladores de dívidas e planilhas gratuitas.';
 $page_url = SITE_URL . '/contato.php';
 

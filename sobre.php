@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/includes/config.php';
 
-$page_title = 'Ponte Financeira: Nossa Missão em Educação Financeira';
+$page_title = 'Sobre Nós: Nossa Missão em Educação Financeira | Ponte Financeira';
 $page_description = 'Conheça a missão da Ponte Financeira: um portal independente de educação financeira dedicado a equilibrar o jogo entre você e seus credores.';
 $page_url = SITE_URL . '/sobre.php';
 

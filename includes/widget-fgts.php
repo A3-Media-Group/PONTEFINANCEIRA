@@ -68,7 +68,7 @@
       background: var(--verde-600);
       box-shadow: 0 0 0 4px rgba(18,144,90,0.25);
     }
-    .fgts-header h1{
+    .fgts-header h2{
       margin:0;
       font-size: clamp(20px, 4vw, 26px);
       font-weight: 700;
@@ -294,7 +294,7 @@
   <div class="fgts-card">
     <div class="fgts-header">
       <div class="fgts-eyebrow"><span class="fgts-dot"></span> Simulador trabalhista</div>
-      <h1>Calculadora de Rescisão do FGTS</h1>
+      <h2>Calculadora de Rescisão do FGTS</h2>
       <p>Descubra quanto do seu FGTS pode ser sacado na rescisão, com base no motivo do desligamento e nas regras vigentes da CLT.</p>
     </div>
 

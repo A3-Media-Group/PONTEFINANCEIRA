@@ -8,6 +8,13 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTP_HOST} ^pontefinanceira\.com\.br [NC]
 RewriteRule ^ https://www.pontefinanceira.com.br%{REQUEST_URI} [L,R=301]
 
+# Redireciona a URL antiga do artigo (?slug=) para a versão amigável
+RewriteCond %{THE_REQUEST} /artigo\.php\?slug=([^\s&]+) [NC]
+RewriteRule ^ /artigo/%1? [R=301,L]
+
+# URL amigável do artigo (/artigo/slug) aponta internamente para artigo.php
+RewriteRule ^artigo/([a-zA-Z0-9-]+)/?$ artigo.php?slug=$1 [L,QSA]
+
 # Página de erro 404 customizada
 ErrorDocument 404 /404.php
 
@@ -23,6 +30,7 @@ ErrorDocument 404 /404.php
     ExpiresByType image/jpeg "access plus 1 month"
     ExpiresByType image/png "access plus 1 month"
     ExpiresByType image/webp "access plus 1 month"
+    ExpiresByType image/svg+xml "access plus 1 month"
     ExpiresByType text/css "access plus 1 week"
     ExpiresByType application/javascript "access plus 1 week"
 </IfModule>

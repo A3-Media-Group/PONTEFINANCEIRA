@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Orçamento">
+<defs>
+<linearGradient id="g_nova_lei_vale_alimentacao_refeicao_2026" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#145C43"/>
+<stop offset="1" stop-color="#1E7F5C"/>
+</linearGradient>
+<linearGradient id="fade_g_nova_lei_vale_alimentacao_refeicao_2026" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#000000" stop-opacity="0"/>
+<stop offset="1" stop-color="#000000" stop-opacity=".5"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#g_nova_lei_vale_alimentacao_refeicao_2026)"/>
+<path d="M20 430 C 190 160, 610 160, 780 430" stroke="rgba(255,255,255,.14)" stroke-width="6" fill="none" stroke-linecap="round"/>
+<circle cx="690" cy="95" r="150" fill="rgba(255,255,255,.06)"/>
+<rect x="0" y="300" width="800" height="200" fill="url(#fade_g_nova_lei_vale_alimentacao_refeicao_2026)"/>
+<circle cx="400" cy="205" r="98" fill="rgba(255,255,255,.12)"/>
+<g transform="translate(337.6 142.6) scale(5.2)" stroke="#ffffff" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 12h16a8 8 0 0 1-16 0Z"/><path d="M8 12V9M12 12V6M16 12V9"/>
+</g>
+<text x="40" y="400" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#C9A227">OR&#199;AMENTO</text>
+<text x="40" y="444" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" fill="#ffffff">VALE-ALIMENTA&#199;&#195;O</text>
+<text x="760" y="472" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1" fill="rgba(255,255,255,.55)">PONTE FINANCEIRA</text>
+</svg>

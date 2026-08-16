@@ -8,10 +8,10 @@ $page_url = SITE_URL . '/arquivos-gratuitos.php';
 include __DIR__ . '/includes/header.php';
 
 $downloads = [
-    ['Planilha de Orçamento Pessoal', 'Organize receitas e despesas mensais em um único lugar.'],
-    ['Planilha de Priorização de Dívidas', 'Descubra qual dívida quitar primeiro para economizar mais em juros.'],
-    ['Planilha de Controle de Dividendos', 'Acompanhe os proventos recebidos por seus investimentos ao longo do ano.'],
-    ['Planilha de Carteira de Investimentos', 'Visualize a composição e o desempenho da sua carteira em um só painel.'],
+    ['Planilha de Orçamento Pessoal', 'Organize receitas e despesas mensais em um único lugar.', '/assets/downloads/planilha-orcamento-pessoal.xlsx'],
+    ['Planilha de Priorização de Dívidas', 'Descubra qual dívida quitar primeiro para economizar mais em juros.', null],
+    ['Planilha de Controle de Dividendos', 'Acompanhe os proventos recebidos por seus investimentos ao longo do ano.', null],
+    ['Planilha de Carteira de Investimentos', 'Visualize a composição e o desempenho da sua carteira em um só painel.', null],
 ];
 ?>
 
@@ -35,7 +35,11 @@ $downloads = [
                     <h3><?php echo htmlspecialchars($d[0]); ?></h3>
                     <p><?php echo htmlspecialchars($d[1]); ?></p>
                 </div>
+                <?php if (!empty($d[2])): ?>
+                <a href="<?php echo htmlspecialchars($d[2]); ?>" class="btn btn-ghost" style="margin-left:auto;flex-shrink:0" download>Baixar</a>
+                <?php else: ?>
                 <a href="#form-download" class="btn btn-ghost" style="margin-left:auto;flex-shrink:0">Baixar</a>
+                <?php endif; ?>
             </div>
             <?php endforeach; ?>
         </div>

@@ -25,7 +25,7 @@ Não é necessário banco de dados — o site é 100% arquivos PHP/HTML/CSS.
 /
 ├── index.php                 → Página inicial
 ├── financas-pessoais.php     → Listagem paginada de artigos (blog)
-├── artigo.php?slug=...       → Template único que renderiza QUALQUER post
+├── artigo.php                → Template único que renderiza QUALQUER post (URL amigável /artigo/slug)
 ├── calculadoras.php          → Página de simuladores/calculadoras
 ├── arquivos-gratuitos.php    → Downloads + FAQ
 ├── sobre.php                 → Sobre Nós
@@ -53,7 +53,7 @@ Não é necessário banco de dados — o site é 100% arquivos PHP/HTML/CSS.
   Online...") foram migrados **na íntegra**, com o corpo completo do artigo.
 - **Inventariei os outros 45 artigos** do blog (todas as 8 páginas de paginação) com título,
   categoria, data e resumo reais — eles já aparecem certinho na listagem `/financas-pessoais.php`
-  e têm página própria (`/artigo.php?slug=...`) funcionando, com SEO completo (title, meta
+  e têm página própria (`/artigo/slug-do-post`, URL amigável) funcionando, com SEO completo (title, meta
   description, Open Graph, dados estruturados Article). O que falta neles é o **corpo integral**
   do texto (ver "Próximos passos" abaixo).
 - **SEO técnico**: title e meta description únicos por página, canonical, Open Graph/Twitter

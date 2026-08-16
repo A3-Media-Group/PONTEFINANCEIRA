@@ -116,7 +116,7 @@ $latest_posts = array_slice($posts, 0, 3);
         </div>
         <div class="post-grid">
             <?php foreach ($latest_posts as $post): ?>
-                <a class="post-card" href="/artigo.php?slug=<?php echo urlencode($post['slug']); ?>">
+                <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
                     <div class="thumb"><img src="<?php echo htmlspecialchars($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy"></div>
                     <div class="post-card-body">
                         <div class="post-cats">

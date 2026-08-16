@@ -54,7 +54,7 @@
       margin-bottom: 14px;
     }
 
-    .sf-header h1 {
+    .sf-header h2 {
       font-size: clamp(26px, 4vw, 38px);
       font-weight: 800;
       color: var(--sf-navy);
@@ -343,7 +343,7 @@
 
     <div class="sf-header">
       <span class="sf-eyebrow">Simuladores Financeiros</span>
-      <h1>Calcule seu futuro financeiro</h1>
+      <h2>Calcule seu futuro financeiro</h2>
       <p>Ferramentas gratuitas para planejar investimentos, metas de economia e financiamentos com resultados instantâneos.</p>
     </div>
 
