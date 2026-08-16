@@ -445,11 +445,11 @@ $posts_resumo = [
 // Imagens de capa ilustradas (uma por artigo, tema relevante ao assunto)
 $posts_resumo_images = [
     'taxa-selic' => '/assets/img/post-taxa-selic.jpg',
-    'nova-lei-vale-alimentacao-refeicao-2026' => '/assets/img/posts/nova-lei-vale-alimentacao-refeicao-2026.svg',
-    'vale-refeicao' => '/assets/img/posts/vale-refeicao.svg',
-    'desenrola-brasil-2026' => '/assets/img/posts/desenrola-brasil-2026.svg',
-    'metodo-bola-de-neve' => '/assets/img/posts/metodo-bola-de-neve.svg',
-    'fundo-de-garantia' => '/assets/img/posts/fundo-de-garantia.svg',
+    'nova-lei-vale-alimentacao-refeicao-2026' => '/assets/img/post-nova-lei-vale-alimentacao-refeicao-2026.jpg',
+    'vale-refeicao' => '/assets/img/post-vale-refeicao.jpg',
+    'desenrola-brasil-2026' => '/assets/img/post-desenrola-brasil-2026.jpg',
+    'metodo-bola-de-neve' => '/assets/img/post-metodo-bola-de-neve.jpg',
+    'fundo-de-garantia' => '/assets/img/post-fundo-de-garantia.jpg',
     'estresse-financeiro' => '/assets/img/posts/estresse-financeiro.svg',
     'desenrola-20' => '/assets/img/posts/desenrola-20.svg',
     'melhores-cartoes-credito-2026' => '/assets/img/posts/melhores-cartoes-credito-2026.svg',
