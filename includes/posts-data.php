@@ -444,7 +444,7 @@ $posts_resumo = [
 
 // Imagens de capa ilustradas (uma por artigo, tema relevante ao assunto)
 $posts_resumo_images = [
-    'taxa-selic' => '/assets/img/posts/taxa-selic.svg',
+    'taxa-selic' => '/assets/img/post-taxa-selic.jpg',
     'nova-lei-vale-alimentacao-refeicao-2026' => '/assets/img/posts/nova-lei-vale-alimentacao-refeicao-2026.svg',
     'vale-refeicao' => '/assets/img/posts/vale-refeicao.svg',
     'desenrola-brasil-2026' => '/assets/img/posts/desenrola-brasil-2026.svg',
