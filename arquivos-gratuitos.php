@@ -4,6 +4,21 @@ require_once __DIR__ . '/includes/config.php';
 $page_title = 'Planilhas e Arquivos Gratuitos para Organizar suas Finanças | Ponte Financeira';
 $page_description = 'Baixe gratuitamente planilhas de orçamento pessoal, priorização de dívidas, controle de dividendos e carteira de investimentos.';
 $page_url = SITE_URL . '/arquivos-gratuitos.php';
+$breadcrumb_json = breadcrumb_schema([
+    ['Início', SITE_URL . '/'],
+    ['Arquivos Gratuitos', $page_url],
+]);
+$faq_json = json_encode([
+    '@context' => 'https://schema.org',
+    '@type' => 'FAQPage',
+    'mainEntity' => [
+        ['@type' => 'Question', 'name' => 'Como acessar os arquivos?', 'acceptedAnswer' => ['@type' => 'Answer', 'text' => 'Preencha o nome e e-mail no formulário para liberar o download.']],
+        ['@type' => 'Question', 'name' => 'Os arquivos são gratuitos?', 'acceptedAnswer' => ['@type' => 'Answer', 'text' => 'Sim, todos os arquivos disponíveis aqui podem ser baixados sem custo algum.']],
+        ['@type' => 'Question', 'name' => 'Posso compartilhar os arquivos com amigos?', 'acceptedAnswer' => ['@type' => 'Answer', 'text' => 'Claro! Fique à vontade para enviar os arquivos para quem quiser — o importante é que eles sejam úteis.']],
+        ['@type' => 'Question', 'name' => 'É seguro fornecer meus dados?', 'acceptedAnswer' => ['@type' => 'Answer', 'text' => 'Sim, seus dados são usados apenas para liberar o acesso e não serão compartilhados com terceiros.']],
+        ['@type' => 'Question', 'name' => 'O que fazer se não recebi o download?', 'acceptedAnswer' => ['@type' => 'Answer', 'text' => 'Verifique sua caixa de spam ou entre em contato pelo site para que possamos ajudar.']],
+    ],
+], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 
 include __DIR__ . '/includes/header.php';
 
@@ -62,7 +77,7 @@ $downloads = [
                     <p class="form-note">Seus dados são usados apenas para liberar o acesso e não serão compartilhados.</p>
                 </form>
             </div>
-            <img src="/assets/img/downloads.jpg" alt="Planilha de orçamento pessoal aberta em um laptop" loading="lazy" width="560" height="420">
+            <?php echo picture_tag('/assets/img/downloads.jpg', 'Ilustração representando planilhas e arquivos financeiros gratuitos para download', 560, 420); ?>
         </div>
 
         <div class="section-head" style="margin: 0 auto 32px; text-align:center; max-width:640px">

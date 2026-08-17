@@ -4,6 +4,11 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Calculadora de FGTS na Rescisão | Ponte Financeira';
 $page_description = 'Calcule o saldo do FGTS disponível na sua rescisão: multa de 40% (sem justa causa), 20% (comum acordo) e o que fica retido em cada tipo de desligamento.';
 $page_url = SITE_URL . '/calculadoras/fgts.php';
+$breadcrumb_json = breadcrumb_schema([
+    ['Início', SITE_URL . '/'],
+    ['Calculadoras', SITE_URL . '/calculadoras.php'],
+    ['FGTS', $page_url],
+]);
 
 include __DIR__ . '/../includes/header.php';
 ?>

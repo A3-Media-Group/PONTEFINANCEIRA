@@ -4,6 +4,11 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Calculadora de Horas Extras com DSR | Ponte Financeira';
 $page_description = 'Calcule quanto suas horas extras valem, já com o reflexo no Descanso Semanal Remunerado (DSR). Simulador gratuito e sem cadastro.';
 $page_url = SITE_URL . '/calculadoras/horas-extras.php';
+$breadcrumb_json = breadcrumb_schema([
+    ['Início', SITE_URL . '/'],
+    ['Calculadoras', SITE_URL . '/calculadoras.php'],
+    ['Horas Extras', $page_url],
+]);
 
 include __DIR__ . '/../includes/header.php';
 ?>

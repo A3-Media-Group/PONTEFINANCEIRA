@@ -4,6 +4,10 @@ require_once __DIR__ . '/includes/config.php';
 $page_title = 'Calculadoras Financeiras: FGTS, Rescisão e Hora Extra | Ponte Financeira';
 $page_description = 'Calcule FGTS, rescisão trabalhista, hora extra e simule sua liberdade financeira com as calculadoras gratuitas da Ponte Financeira.';
 $page_url = SITE_URL . '/calculadoras.php';
+$breadcrumb_json = breadcrumb_schema([
+    ['Início', SITE_URL . '/'],
+    ['Calculadoras', $page_url],
+]);
 
 include __DIR__ . '/includes/header.php';
 ?>

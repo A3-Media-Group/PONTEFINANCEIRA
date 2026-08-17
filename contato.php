@@ -4,6 +4,10 @@ require_once __DIR__ . '/includes/config.php';
 $page_title = 'Contato | Ponte Financeira';
 $page_description = 'Utilize nossos canais oficiais para propor parcerias, sugerir pautas ou tirar dúvidas sobre nossos simuladores de dívidas e planilhas gratuitas.';
 $page_url = SITE_URL . '/contato.php';
+$breadcrumb_json = breadcrumb_schema([
+    ['Início', SITE_URL . '/'],
+    ['Contato', $page_url],
+]);
 
 $sent = false;
 $error = '';
