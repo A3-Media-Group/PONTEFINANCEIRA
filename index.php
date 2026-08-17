@@ -1,6 +1,7 @@
 <?php
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/posts-data.php';
+require_once __DIR__ . '/includes/newsletter.php';
 
 $page_title = 'Organizar Finanças e Sair das Dívidas | Ponte Financeira';
 $page_description = SITE_DEFAULT_DESCRIPTION;
@@ -22,6 +23,15 @@ $schema_json = json_encode([
 include __DIR__ . '/includes/header.php';
 
 $latest_posts = array_slice($posts, 0, 3);
+// "Continue aprendendo": próximos artigos por recência, de categorias
+// diferentes dos "Artigos recentes" quando possível (evita repetir tema).
+// NOTA: sem dados de analytics (GA4) plugados ainda não dá pra montar um
+// "Mais lidos" real por pageviews — ver relatório final.
+$latest_slugs = array_column($latest_posts, 'slug');
+$continue_posts = array_values(array_filter($posts, function ($p) use ($latest_slugs) {
+    return !in_array($p['slug'], $latest_slugs, true);
+}));
+$continue_posts = array_slice($continue_posts, 0, 3);
 ?>
 
 <section class="hero">
@@ -59,7 +69,7 @@ $latest_posts = array_slice($posts, 0, 3);
     </div>
 </section>
 
-<section class="section" style="padding-top:24px">
+<section class="section" style="padding-top:56px">
     <div class="container">
         <div class="section-head">
             <span class="eyebrow">Como ajudamos</span>
@@ -91,7 +101,7 @@ $latest_posts = array_slice($posts, 0, 3);
     </div>
 </section>
 
-<section class="section" style="padding-top:0">
+<section class="section" style="padding-top:24px">
     <div class="container">
         <div class="feature">
             <div>
@@ -100,12 +110,12 @@ $latest_posts = array_slice($posts, 0, 3);
                 <p>Calcule o impacto real dos juros compostos antes de aceitar qualquer acordo. Nossa planilha de planejamento financeiro ajuda a visualizar o saldo devedor real e planejar parcelas que cabem no seu bolso.</p>
                 <a href="/simuladores-financeiros.php" class="btn btn-primary">Acessar Simuladores</a>
             </div>
-            <img src="/assets/img/simuladores.jpg" alt="Pessoa usando simulador financeiro em um laptop, planilha de orçamento na tela" loading="lazy" width="560" height="420">
+            <?php echo picture_tag('/assets/img/simuladores.jpg', 'Simuladores financeiros da Ponte Financeira: juros compostos, investimentos e planejamento', 560, 420); ?>
         </div>
     </div>
 </section>
 
-<section class="section" style="padding-top:0">
+<section class="section" style="padding-top:24px">
     <div class="container">
         <div class="section-head" style="display:flex;justify-content:space-between;align-items:flex-end;width:100%;max-width:100%">
             <div>
@@ -117,11 +127,9 @@ $latest_posts = array_slice($posts, 0, 3);
         <div class="post-grid">
             <?php foreach ($latest_posts as $post): ?>
                 <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
-                    <div class="thumb"><img src="<?php echo htmlspecialchars(asset_v($post['image'])); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy"></div>
+                    <div class="thumb"><?php echo picture_tag($post['image'], $post['title'], 640, 400); ?></div>
                     <div class="post-card-body">
-                        <div class="post-cats">
-                            <?php foreach ($post['category'] as $cat): ?><span class="post-cat"><?php echo htmlspecialchars($cat); ?></span><?php endforeach; ?>
-                        </div>
+                        <div class="post-cats"><?php echo category_pills($post['category']); ?></div>
                         <h3><?php echo htmlspecialchars($post['title']); ?></h3>
                         <p><?php echo htmlspecialchars($post['excerpt']); ?></p>
                         <div class="post-meta">
@@ -133,6 +141,40 @@ $latest_posts = array_slice($posts, 0, 3);
                 </a>
             <?php endforeach; ?>
         </div>
+    </div>
+</section>
+
+<?php if (!empty($continue_posts)): ?>
+<section class="section section-tinted" style="padding-top:56px">
+    <div class="container">
+        <div class="section-head">
+            <span class="eyebrow">Continue aprendendo</span>
+            <h2>Mais artigos para organizar sua vida financeira</h2>
+        </div>
+        <div class="post-grid">
+            <?php foreach ($continue_posts as $post): ?>
+                <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
+                    <div class="thumb"><?php echo picture_tag($post['image'], $post['title'], 640, 400); ?></div>
+                    <div class="post-card-body">
+                        <div class="post-cats"><?php echo category_pills($post['category']); ?></div>
+                        <h3><?php echo htmlspecialchars($post['title']); ?></h3>
+                        <p><?php echo htmlspecialchars($post['excerpt']); ?></p>
+                        <div class="post-meta">
+                            <span><?php echo date('d/m/Y', strtotime($post['date'])); ?></span>
+                            <span>&middot;</span>
+                            <span><?php echo htmlspecialchars($post['read_time']); ?> de leitura</span>
+                        </div>
+                    </div>
+                </a>
+            <?php endforeach; ?>
+        </div>
+    </div>
+</section>
+<?php endif; ?>
+
+<section class="section" style="padding-top:56px">
+    <div class="container">
+        <?php render_newsletter_block('home'); ?>
     </div>
 </section>
 
