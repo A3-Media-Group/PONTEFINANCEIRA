@@ -557,6 +557,194 @@ $posts = [
         'tags' => 'golpe do pix como recuperar dinheiro, med mecanismo especial de devolução, alerta de golpe pix banco central, pix mais seguro 2026',
     ],
 
+    [
+        'slug' => 'salario-minimo-2027',
+        'title' => 'Salário Mínimo 2027: Governo Projeta Valor de R$ 1.741',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-17',
+        'read_time' => '4 min',
+        'excerpt' => 'Governo revisou a projeção do salário mínimo 2027 para R$ 1.741. Entenda o cálculo, o que ainda pode mudar e o impacto em benefícios.',
+        'image' => '/assets/img/post-salario-minimo-2027.jpg',
+        'full' => true,
+        'content' => '
+<p>O salário mínimo 2027 teve sua projeção revisada pelo governo federal para R$ 1.741, valor R$ 24 acima da estimativa anterior de R$ 1.717, divulgada em abril. A mudança consta do projeto de Orçamento que precisa ser enviado ao Congresso até 31 de agosto de 2026, e já movimenta quem depende do piso nacional para planejar o próximo ano.</p>
+
+<h2>Por Que o Valor Mudou</h2>
+<p>Segundo o Infomoney, a revisão para cima decorre principalmente da expectativa de inflação mais alta até o fim de 2026. Como a política de valorização do salário mínimo considera a inflação acumulada até novembro somada ao crescimento do PIB de dois anos antes, qualquer variação nesses indicadores altera a projeção — e é exatamente isso que aconteceu entre abril e agosto.</p>
+<p>Se confirmado, o valor de R$ 1.741 representa um aumento de 7,4% frente aos atuais R$ 1.621 pagos em 2026.</p>
+
+<h2>O Valor Ainda Pode Mudar</h2>
+<p>É importante entender que R$ 1.741 é uma projeção, não um valor fechado. A cifra definitiva só é confirmada depois da divulgação do Índice Nacional de Preços ao Consumidor (INPC) de novembro de 2026, que entra na fórmula de cálculo do reajuste. Até lá, tanto o INPC quanto o crescimento do PIB usado na conta podem sofrer ajustes, elevando ou reduzindo ligeiramente o valor final.</p>
+<p>O novo salário mínimo, seja qual for o número final, começa a valer em 1º de janeiro de 2027.</p>
+
+<h2>Como Funciona a Fórmula de Reajuste</h2>
+<p>Desde a retomada da política de valorização do salário mínimo, o cálculo soma dois componentes:</p>
+<ul>
+    <li><strong>Reposição da inflação:</strong> medida pelo INPC acumulado entre dezembro e novembro do ano anterior, para não deixar o poder de compra corroer;</li>
+    <li><strong>Ganho real:</strong> equivalente à variação do PIB de dois anos antes, distribuindo parte do crescimento econômico para quem ganha o piso nacional.</li>
+</ul>
+<p>É essa combinação que explica por que o valor projetado muda ao longo do ano: cada nova leitura de inflação ou de atividade econômica reflete diretamente na conta.</p>
+
+<h2>O Que o Salário Mínimo Influencia</h2>
+<p>Uma alta no piso nacional não afeta só quem ganha exatamente um salário mínimo. O valor serve de referência para:</p>
+<ul>
+    <li>Aposentadorias e pensões do INSS pagas no piso;</li>
+    <li>Benefício de Prestação Continuada (BPC/LOAS);</li>
+    <li>Seguro-desemprego, cujo valor mínimo é sempre igual ao salário mínimo vigente;</li>
+    <li>Piso de contribuição do INSS para autônomos e MEIs;</li>
+    <li>Diversas categorias que usam o mínimo como referência em convenções coletivas.</li>
+</ul>
+<p>Ou seja, o impacto de um aumento de 7,4% se espalha por boa parte do orçamento público e por milhões de famílias que dependem de algum desses benefícios.</p>
+
+<h2>Como se Planejar Para o Novo Valor</h2>
+<p>Enquanto o número definitivo não sai, já dá para começar a organizar o orçamento considerando a faixa projetada. Quem vive próximo do salário mínimo costuma sentir mais o impacto da inflação no dia a dia — nosso guia sobre <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> traz estratégias práticas para equilibrar as contas mesmo com reajustes que demoram a chegar.</p>
+<p>Se você é aposentado, recebe BPC ou seguro-desemprego, vale simular como o novo piso pode afetar sua renda mensal e ajustar o planejamento com antecedência, em vez de esperar o valor sair definitivamente em dezembro.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. O valor de R$ 1.741 é uma projeção do governo e pode ser alterado até a confirmação oficial, prevista para depois da divulgação do INPC de novembro de 2026.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/politica/inflacao-maior-leva-governo-a-projetar-salario-minimo-de-r-1-741-em-2027/" target="_blank" rel="noopener">Inflação maior leva governo a projetar salário mínimo de R$ 1.741 em 2027</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/governo-trabalha-com-salario-minimo-de-r-1-717-em-2027-entenda/" target="_blank" rel="noopener">Governo trabalha com salário mínimo de R$ 1.717 em 2027; entenda</a> (projeção anterior, para comparação)</li>
+</ul>
+
+<p>Quer organizar seu orçamento considerando os próximos reajustes? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar suas contas com mais previsibilidade.</p>
+',
+        'tags' => 'salário mínimo 2027, novo salário mínimo valor, aumento salário mínimo 2027, quanto vai ser o salário mínimo em 2027',
+    ],
+
+    [
+        'slug' => 'calendario-bolsa-familia-agosto-2026',
+        'title' => 'Calendário Bolsa Família Agosto 2026: Veja as Datas por NIS',
+        'category' => ['Notícias'],
+        'date' => '2026-08-17',
+        'read_time' => '3 min',
+        'excerpt' => 'Confira o calendário completo do Bolsa Família em agosto de 2026 por final do NIS, valores do benefício e regras para não ficar bloqueado.',
+        'image' => '/assets/img/post-calendario-bolsa-familia-agosto-2026.jpg',
+        'full' => true,
+        'content' => '
+<p>O calendário do Bolsa Família em agosto de 2026 começa a ser pago no dia 18 e segue até o dia 31, sempre pelo número final do NIS (Número de Identificação Social) de cada beneficiário. Com milhões de famílias dependendo dessa renda mensal, saber exatamente o dia do próprio pagamento ajuda a organizar as contas do mês sem sustos.</p>
+
+<h2>Calendário Completo por Final do NIS</h2>
+<ul>
+    <li><strong>NIS final 1:</strong> 18 de agosto;</li>
+    <li><strong>NIS final 2:</strong> 19 de agosto;</li>
+    <li><strong>NIS final 3:</strong> 20 de agosto;</li>
+    <li><strong>NIS final 4:</strong> 21 de agosto;</li>
+    <li><strong>NIS final 5:</strong> 24 de agosto;</li>
+    <li><strong>NIS final 6:</strong> 25 de agosto;</li>
+    <li><strong>NIS final 7:</strong> 26 de agosto;</li>
+    <li><strong>NIS final 8:</strong> 27 de agosto;</li>
+    <li><strong>NIS final 9:</strong> 28 de agosto;</li>
+    <li><strong>NIS final 0:</strong> 31 de agosto.</li>
+</ul>
+<p>Não há antecipação nacional confirmada para agosto — o calendário oficial segue essas datas, salvo em municípios que decretem situação de emergência ou calamidade, onde o pagamento pode ser unificado no primeiro dia do ciclo.</p>
+
+<h2>Quanto Cada Família Recebe</h2>
+<p>O valor mínimo garantido é de R$ 600 por família. A esse piso, somam-se benefícios complementares, que podem elevar bastante o total recebido:</p>
+<ul>
+    <li><strong>Benefício Primeira Infância (BPI):</strong> R$ 150 extras por criança de até 6 anos;</li>
+    <li><strong>Benefício Variável Familiar (BVF):</strong> R$ 50 extras por gestante, nutriz ou criança e adolescente de 7 a 18 anos.</li>
+</ul>
+<p>Esses valores são cumulativos: uma família com mais de uma criança pequena, por exemplo, pode ultrapassar facilmente os R$ 800 mensais. Não houve reajuste no valor-base anunciado para agosto de 2026.</p>
+
+<h2>Como Consultar Se Já Caiu</h2>
+<p>A forma mais simples de verificar é pelo aplicativo Caixa Tem, usado tanto para consultar o saldo quanto para movimentar o dinheiro recebido. Também é possível conferir a situação do benefício pelo aplicativo Bolsa Família ou pelo número 121, canal oficial do Ministério do Desenvolvimento Social.</p>
+
+<h2>O Que Pode Bloquear o Pagamento</h2>
+<p>Para não correr o risco de ficar sem o benefício em algum mês, é preciso manter em dia as chamadas condicionalidades do programa:</p>
+<ul>
+    <li>Cadastro Único atualizado (idealmente a cada dois anos, ou sempre que houver mudança na composição familiar ou renda);</li>
+    <li>Frequência escolar mínima de crianças e adolescentes;</li>
+    <li>Calendário de vacinação em dia para crianças;</li>
+    <li>Acompanhamento pré-natal para gestantes.</li>
+</ul>
+<p>Cadastro desatualizado é a causa mais comum de bloqueio. Se isso acontecer, o caminho é procurar o CRAS (Centro de Referência de Assistência Social) do seu município para regularizar a situação e voltar a receber nos meses seguintes.</p>
+
+<h2>Como Fazer o Benefício Render Mais</h2>
+<p>Com um valor fixo mensal, pequenos ajustes no planejamento das compras e das contas recorrentes costumam ter mais impacto do que parece. Nosso guia sobre <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> traz uma estrutura simples para blindar o essencial do mês mesmo com renda apertada, e o artigo sobre <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> complementa com dicas práticas de curto prazo.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Datas e valores podem sofrer alterações — confirme sempre as informações pelo aplicativo Bolsa Família, Caixa Tem ou canais oficiais do governo.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/calendario-bolsa-familia-agosto-2026/" target="_blank" rel="noopener">Quando cai o pagamento do Bolsa Família em agosto? Veja calendário e valores</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/blog/calendario-bolsa-familia-agosto/" target="_blank" rel="noopener">Calendário Bolsa Família de agosto: veja as datas de pagamento pelo NIS</a></li>
+</ul>
+
+<p>Quer organizar melhor o orçamento do mês com o valor do benefício? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar gastos fixos e variáveis sem sustos.</p>
+',
+        'tags' => 'calendário bolsa família agosto 2026, bolsa família nis final, quando cai o bolsa família, valor bolsa família 2026',
+    ],
+
+    [
+        'slug' => 'como-aumentar-score-credito',
+        'title' => 'Como Aumentar o Score de Crédito: Guia Completo com os 6 Fatores da Serasa',
+        'category' => ['Score de Crédito', 'Educação'],
+        'date' => '2026-08-17',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda como aumentar o score de crédito na Serasa, os 6 fatores que definem sua pontuação de 0 a 1.000 e por que ele importa mais agora.',
+        'image' => '/assets/img/post-como-aumentar-score-credito.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber como aumentar o score de crédito virou ainda mais relevante depois que a Serasa divulgou, na segunda quinzena de agosto de 2026, que o Brasil fechou julho com 83,9 milhões de pessoas inadimplentes — recorde da série histórica. Com o crédito mais seletivo, ter uma pontuação alta passou a fazer diferença real na hora de conseguir um cartão, um financiamento ou até um aluguel.</p>
+
+<h2>O Que É o Score de Crédito</h2>
+<p>O score é uma pontuação de 0 a 1.000 que estima a probabilidade de uma pessoa pagar suas contas em dia nos próximos meses. Quanto maior o número, mais confiança as empresas têm para aprovar crédito com juros melhores. As faixas gerais são:</p>
+<ul>
+    <li><strong>0 a 500:</strong> risco mais alto de inadimplência;</li>
+    <li><strong>501 a 700:</strong> risco baixo, faixa considerada boa;</li>
+    <li><strong>701 a 1.000:</strong> risco muito baixo, faixa considerada excelente.</li>
+</ul>
+<p>Desde 2025, o Serasa Score é calculado em tempo real: a pontuação muda assim que uma nova informação chega — um pagamento em dia, uma parcela atrasada ou a quitação de uma dívida negativada, por exemplo.</p>
+
+<h2>Os 6 Fatores Que Definem Seu Score (e o Peso de Cada Um)</h2>
+<ol>
+    <li><strong>Pagamentos (29%):</strong> o fator de maior peso. Pagar contas, cartões e parcelas em dia é o que mais empurra o score para cima;</li>
+    <li><strong>Experiência (24%):</strong> há quanto tempo você tem relacionamento com o mercado de crédito e mantém um histórico consistente de pagamentos;</li>
+    <li><strong>Dívidas negativadas (21%):</strong> ter o nome sujo e o tempo desde que uma pendência foi quitada;</li>
+    <li><strong>Consultas ao CPF (12%):</strong> quantas vezes empresas consultaram seu CPF recentemente para conceder crédito;</li>
+    <li><strong>Dados cadastrais (8%):</strong> idade, participação em empresas e a precisão das suas informações pessoais;</li>
+    <li><strong>Contratos (6%):</strong> quantidade e duração de contratos ativos em seu nome.</li>
+</ol>
+
+<h2>Como Aumentar o Score na Prática</h2>
+<h3>1. Priorize pagar em dia (mesmo que seja pouco)</h3>
+<p>Como o fator de maior peso é a pontualidade, manter contas básicas como luz, água e telefone em dia — mesmo sem nenhum cartão de crédito — já contribui para o score através do Cadastro Positivo.</p>
+<h3>2. Quite dívidas negativadas o quanto antes</h3>
+<p>Quanto mais tempo uma dívida fica em aberto, mais ela pesa. Depois de quitada, o score tende a subir de forma gradual nos meses seguintes. Se você não sabe por onde começar, nosso guia sobre <a href="/artigo/nome-sujo-como-consultar-2026">como consultar e sair da inadimplência</a> traz o passo a passo completo.</p>
+<h3>3. Evite consultar crédito em excesso</h3>
+<p>Pedir aprovação de vários cartões ou empréstimos em um curto espaço de tempo gera múltiplas consultas ao CPF, o que pode derrubar o score temporariamente — mesmo que nenhum pedido seja negado.</p>
+<h3>4. Mantenha dados cadastrais atualizados</h3>
+<p>Endereço, telefone e informações de renda desatualizados podem reduzir a confiança das instituições. Manter o cadastro correto no Serasa e nos órgãos de proteção ao crédito ajuda a maximizar essa fatia da pontuação.</p>
+<h3>5. Tenha alguns contratos ativos, mas sem exagero</h3>
+<p>Um histórico com contratos ativos de longa duração (como uma conta bancária ou um cartão usado com moderação) mostra estabilidade — mas acumular muitos contratos ao mesmo tempo pode ter efeito contrário.</p>
+
+<h2>Como Consultar Seu Score Gratuitamente</h2>
+<p>A consulta é gratuita e não afeta a pontuação. Basta acessar o site ou aplicativo da Serasa, fazer login com o CPF e verificar o score na tela inicial da conta. O mesmo vale para outros birôs de crédito, como SPC Brasil.</p>
+
+<h2>Por Que Isso Importa Mais Agora</h2>
+<p>Com quase 84 milhões de brasileiros negativados, as instituições financeiras estão mais seletivas na hora de aprovar crédito e definir taxas de juros. Um score mais alto pode significar a diferença entre conseguir ou não um financiamento, ou pagar juros bem menores em um cartão ou empréstimo pessoal.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Os pesos dos fatores do score podem ser ajustados periodicamente pelos birôs de crédito — consulte sempre a Serasa ou o birô oficial para informações atualizadas sobre sua pontuação.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/score/" target="_blank" rel="noopener">Serasa Score: o que é, faixas e fatores de pontuação</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">Mapa da Inadimplência: 83,9 milhões de brasileiros negativados em julho de 2026</a></li>
+</ul>
+
+<p>Já sabe seu score e quer organizar as finanças para mantê-lo em alta? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de orçamento e planejamento financeiro.</p>
+',
+        'tags' => 'como aumentar o score de crédito, score de crédito serasa, score de 0 a 1000, consultar score grátis',
+    ],
+
 ];
 
 /**
