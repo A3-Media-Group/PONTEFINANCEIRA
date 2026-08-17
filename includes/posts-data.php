@@ -346,6 +346,217 @@ $posts = [
         ],
     ],
 
+    [
+        'slug' => 'consignado-clt-fgts-garantia',
+        'title' => 'Consignado CLT com Garantia do FGTS: Como Funciona e Vale a Pena em 2026?',
+        'category' => ['Notícias', 'Educação'],
+        'date' => '2026-08-17',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda como funciona o consignado CLT com garantia do FGTS, os juros de 1,99% ao mês e se vale a pena usar essa modalidade em 2026.',
+        'image' => '/assets/img/post-consignado-clt-fgts-garantia.jpg',
+        'full' => true,
+        'content' => '
+<p>O consignado CLT com garantia do FGTS passou a valer oficialmente em 2026, e a dúvida de milhões de trabalhadores formais é a mesma: como funciona e vale a pena comprometer parte do Fundo de Garantia para conseguir juros menores? A resposta depende de quanto você pretende usar e do que está disposto a arriscar em caso de demissão.</p>
+
+<h2>O Que É o Consignado CLT com Garantia do FGTS</h2>
+<p>Em 2026, o Comitê Gestor das operações de Crédito do Trabalhador regulamentou o uso de parte do saldo do FGTS, da multa rescisória e de verbas de rescisão como garantia adicional no consignado privado para trabalhadores com carteira assinada. Na prática, o trabalhador autoriza o banco a usar esses valores como colateral, o que reduz o risco da operação para a instituição financeira e, em troca, resulta em juros mais baixos para quem pega o empréstimo.</p>
+<p>A adesão é sempre voluntária: o trabalhador decide se quer oferecer a garantia e qual parcela do FGTS está disposto a comprometer, dentro dos limites definidos por lei.</p>
+
+<h2>Quanto do FGTS Pode Ser Usado Como Garantia</h2>
+<ul>
+    <li><strong>Até 10% do saldo do FGTS</strong> pode ser usado para quitar o saldo devedor em caso de demissão;</li>
+    <li><strong>Até 100% da multa rescisória</strong> (os 40% pagos pelo empregador em demissão sem justa causa) pode ser comprometida;</li>
+    <li><strong>Até 35% de outras verbas rescisórias</strong>, como saldo de salário, férias proporcionais e 13º proporcional, também podem entrar na garantia.</li>
+</ul>
+<p>Se o trabalhador for demitido sem justa causa antes de quitar o empréstimo, o banco pode usar esses valores para abater a dívida. Caso ainda sobre saldo devedor, ele é transferido para o próximo contrato de trabalho formal do trabalhador, com os ajustes previstos em lei.</p>
+
+<h2>Juros: Por Que Essa Modalidade É Mais Barata</h2>
+<p>A vantagem principal do consignado CLT com garantia do FGTS é o custo. Segundo dados do setor, a taxa de juros dessa modalidade é limitada a <strong>1,99% ao mês</strong> — bem abaixo do consignado CLT tradicional (sem a garantia adicional), que opera com média de 3,2% ao mês, e muito mais barata do que o rotativo do cartão de crédito, que pode ultrapassar 14% ao mês.</p>
+<p>Colocado lado a lado com outras formas de crédito, o consignado CLT com garantia do FGTS tende a ser a opção mais barata disponível hoje para o trabalhador formal que precisa de crédito rápido — mas isso não significa que deva ser usado sem planejamento.</p>
+
+<h2>O Crescimento do Consignado CLT em Números</h2>
+<p>Desde a criação da plataforma nacional do Crédito do Trabalhador, pela Lei 15.179/2025, o volume de operações de consignado CLT saltou de R$ 41 bilhões para mais de R$ 110 bilhões emprestados, com o volume mensal passando de R$ 1,5 bilhão para quase R$ 11 bilhões, segundo dados do Ministério do Trabalho e Emprego.</p>
+<p>Ao mesmo tempo, o valor médio por contrato caiu 73%, de R$ 8.600 para cerca de R$ 2.300 — sinal de que a modalidade passou a atender também quem precisa de valores menores, não só grandes tomadores. Por outro lado, a inadimplência da linha subiu de 4,9% para 6,6% entre novembro de 2025 e março de 2026, segundo o Banco Central, um alerta de que parte dos trabalhadores está comprometendo mais renda do que consegue pagar.</p>
+
+<h2>Vale a Pena Usar o FGTS Como Garantia?</h2>
+<h3>Pontos a favor</h3>
+<ul>
+    <li>Juros significativamente menores que outras linhas de crédito para pessoa física;</li>
+    <li>Parcelas descontadas direto na folha, o que reduz o risco de esquecimento e atraso;</li>
+    <li>Acesso mais fácil para quem tem score de crédito baixo, já que a garantia reduz o risco para o banco.</li>
+</ul>
+<h3>Pontos de atenção</h3>
+<ul>
+    <li>Em caso de demissão, parte do dinheiro que seria seu (FGTS e verbas rescisórias) vai direto para o banco;</li>
+    <li>Comprometer uma fatia grande da multa rescisória reduz o colchão financeiro justamente no momento em que você mais precisa dele — ao ficar desempregado;</li>
+    <li>Dívida remanescente pode seguir você para o próximo emprego formal.</li>
+</ul>
+<p>Antes de contratar, vale simular o impacto no seu orçamento mensal. Nossa <a href="/calculadoras.php">calculadora de FGTS</a> ajuda a entender quanto você tem disponível e como cada cenário de uso afeta seu saldo.</p>
+
+<h2>Como Contratar o Consignado CLT com Garantia do FGTS</h2>
+<p>A contratação é feita diretamente com bancos e financeiras autorizadas, através da plataforma de Crédito do Trabalhador ou dos aplicativos das próprias instituições. O trabalhador escolhe se quer oferecer a garantia do FGTS, define o valor da parcela e recebe o crédito, com desconto automático na folha de pagamento.</p>
+<p>Antes de assinar, compare sempre o Custo Efetivo Total (CET) entre diferentes instituições — a taxa de juros anunciada nem sempre reflete o custo real da operação, que inclui tarifas e outros encargos.</p>
+
+<h2>Cuidados Antes de Contratar</h2>
+<ul>
+    <li>Simule o valor da parcela considerando sua renda líquida, não a bruta;</li>
+    <li>Evite comprometer o máximo permitido de garantia logo na primeira operação;</li>
+    <li>Se já tem outras dívidas em aberto, avalie primeiro se renegociá-las não é mais vantajoso — veja nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a>;</li>
+    <li>Lembre-se de que o FGTS também é sua <a href="/artigo/fundo-de-garantia">reserva de proteção em caso de desemprego</a> — usá-lo como garantia reduz essa proteção.</li>
+</ul>
+
+<h2>Conclusão</h2>
+<p>O consignado CLT com garantia do FGTS chega como o crédito mais barato disponível hoje para o trabalhador formal, mas o custo menor tem uma contrapartida real: parte do seu colchão de segurança em caso de demissão passa a ser destinada ao banco. Vale a pena para quem precisa de crédito e vai usar com moderação — não para quem já está no limite do orçamento.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições, taxas e percentuais de garantia podem variar entre instituições financeiras — confirme sempre as condições diretamente com o banco antes de contratar.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/credito/blog/qual-a-garantia-do-fgts-no-consignado-privado/" target="_blank" rel="noopener">Como funciona a garantia do FGTS no consignado privado</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/brasil/apos-um-ano-credito-consignado-clt-tem-queda-de-73-no-valor-tomado-por-trabalhador/" target="_blank" rel="noopener">Após um ano, crédito consignado CLT tem queda de 73% no valor tomado por trabalhador</a></li>
+</ul>
+
+<p>Quer simular quanto do seu FGTS está disponível antes de decidir? Acesse nossa <a href="/calculadoras.php">calculadora de FGTS gratuita</a> e planeje com números reais.</p>
+',
+        'tags' => 'consignado clt com garantia do fgts, juros consignado clt, crédito do trabalhador fgts, vale a pena consignado clt, empréstimo consignado 2026',
+    ],
+
+    [
+        'slug' => 'restituicao-imposto-renda-2026-quarto-lote',
+        'title' => 'Restituição do Imposto de Renda 2026: Quando Cai o 4º Lote e Como Consultar',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-17',
+        'read_time' => '4 min',
+        'excerpt' => 'Veja quando cai o 4º e último lote da restituição do Imposto de Renda 2026, quem tem prioridade e como consultar pelo CPF.',
+        'image' => '/assets/img/post-restituicao-imposto-renda-2026-quarto-lote.jpg',
+        'full' => true,
+        'content' => '
+<p>A restituição do Imposto de Renda 2026 chega ao seu lote final no dia 31 de agosto, e quem ainda não recebeu quer saber exatamente quando cai o dinheiro e se está na lista. Diferente de anos anteriores, a Receita Federal reduziu o calendário para apenas quatro lotes — um a menos do que em 2025 — o que muda a expectativa de quem entregou a declaração fora do prazo original.</p>
+
+<h2>Calendário Completo dos 4 Lotes de 2026</h2>
+<ul>
+    <li><strong>1º lote:</strong> 29 de maio de 2026;</li>
+    <li><strong>2º lote:</strong> 30 de junho de 2026;</li>
+    <li><strong>3º lote:</strong> 31 de julho de 2026;</li>
+    <li><strong>4º lote (final):</strong> 31 de agosto de 2026.</li>
+</ul>
+<p>Em 2026 o pagamento acontece em quatro lotes, e não em cinco como no ano anterior — a Receita Federal justificou a mudança pela digitalização e agilidade dos processos de conferência das declarações.</p>
+
+<h2>Quem Recebe no 4º Lote</h2>
+<p>O último lote contempla principalmente contribuintes que entregaram a declaração fora do prazo original ou que caíram na malha fina e conseguiram regularizar a situação enviando uma declaração retificadora. Segundo a Receita Federal, quem regularizou a pendência até o dia 10 de agosto entra automaticamente nesse lote final.</p>
+<p>A consulta pública para saber se você está incluído no 4º lote fica disponível a partir do dia 24 de agosto, pelo site ou aplicativo Meu Imposto de Renda.</p>
+
+<h2>Ordem de Prioridade no Pagamento</h2>
+<p>Independentemente do lote, a Receita Federal segue uma ordem de prioridade fixa para liberar os valores:</p>
+<ol>
+    <li>Contribuintes com mais de 80 anos;</li>
+    <li>Contribuintes com 60 anos ou mais, pessoas com deficiência ou doenças graves;</li>
+    <li>Professores que têm o magistério como principal fonte de renda;</li>
+    <li>Quem usou declaração pré-preenchida e optou por receber via Pix;</li>
+    <li>Demais contribuintes, por ordem de entrega da declaração.</li>
+</ol>
+
+<h2>Como Consultar Sua Restituição</h2>
+<p>A consulta é gratuita e pode ser feita de duas formas:</p>
+<ul>
+    <li>Pelo site oficial da Receita Federal, na seção de consulta à restituição;</li>
+    <li>Pelo aplicativo "Meu Imposto de Renda", disponível para Android e iOS.</li>
+</ul>
+<p>Em ambos os casos, basta informar o CPF e alguns dados da declaração para saber se você está incluído no lote e qual o valor a receber.</p>
+
+<h2>Regras Sobre Pix e Conta Bancária</h2>
+<p>A Receita Federal só deposita o valor em uma chave Pix do tipo CPF pertencente ao próprio titular da declaração — não é permitido receber em conta de terceiros. Contas conjuntas são aceitas, desde que cada titular informe sua própria chave Pix CPF para recebimento.</p>
+<p>Se o valor não puder ser depositado por algum motivo, como conta encerrada ou dados desatualizados, ele fica disponível para resgate por até um ano no Banco do Brasil.</p>
+
+<h2>Caiu na Malha Fina? O Que Fazer</h2>
+<p>Se sua declaração ficou retida, o primeiro passo é entender qual inconsistência foi apontada pela Receita — geralmente informações que não batem com o que empregadores, bancos ou planos de saúde informaram. Depois de identificar o problema, envie uma declaração retificadora com a correção e aguarde a análise para entrar em um dos próximos lotes.</p>
+
+<h2>O Que Fazer com o Dinheiro da Restituição</h2>
+<p>Antes de gastar a restituição, vale considerar destinar parte dela para quitar dívidas com juros altos ou começar (ou reforçar) sua reserva de emergência. Se você ainda não sabe por onde começar, nosso guia sobre <a href="/artigo/como-comecar-a-investir">como começar a investir</a> explica o passo a passo, e o artigo sobre <a href="/artigo/tesouro-selic-ou-poupanca-2026">Tesouro Selic ou poupança</a> ajuda a decidir onde deixar o dinheiro parado até definir um destino melhor.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Prazos e valores podem sofrer alterações — confirme sempre as informações diretamente no site ou aplicativo oficial da Receita Federal.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/guias/restituicao-imposto-de-renda/" target="_blank" rel="noopener">Restituição do Imposto de Renda 2026: como consultar e quando receber</a></li>
+    <li>Receita Federal do Brasil — calendário oficial de lotes de restituição do IRPF 2026</li>
+</ul>
+
+<p>Quer planejar o melhor destino para a sua restituição? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos e investimentos</a> e compare os cenários antes de decidir.</p>
+',
+        'tags' => 'restituição do imposto de renda 2026, quarto lote imposto de renda 2026, consultar restituição imposto de renda, prioridade restituição imposto de renda',
+    ],
+
+    [
+        'slug' => 'golpe-pix-como-recuperar-dinheiro-2026',
+        'title' => 'Golpe do Pix: Como Recuperar o Dinheiro com o MED em 2026',
+        'category' => ['Notícias'],
+        'date' => '2026-08-17',
+        'read_time' => '5 min',
+        'excerpt' => 'Saiba como funciona o MED do Banco Central para golpe do Pix, como recuperar o dinheiro e as novidades de segurança anunciadas em 2026.',
+        'image' => '/assets/img/post-golpe-pix-como-recuperar-dinheiro-2026.jpg',
+        'full' => true,
+        'content' => '
+<p>Quem cai em um golpe do Pix e quer saber como recuperar o dinheiro tem hoje um caminho mais claro do que há poucos anos: o Mecanismo Especial de Devolução, o MED, tornou-se obrigatório em todas as instituições que operam o Pix. O tema voltou à pauta em agosto de 2026, quando o Banco Central divulgou o Relatório de Gestão do Pix 2023-2025 — documento que marca os cinco anos do sistema e aponta os próximos passos contra fraudes.</p>
+
+<h2>Pix Completa 5 Anos e Bate Recorde</h2>
+<p>Segundo o relatório do Banco Central, divulgado em 10 de agosto de 2026, o Pix registrou quase 80 bilhões de transações em 2025 e movimentou mais de R$ 35 trilhões no ano, com 148 milhões de pessoas físicas e 12,8 milhões de empresas tendo usado a ferramenta pelo menos uma vez. O volume consolidou o Pix como uma das principais infraestruturas digitais do país — e também como um alvo constante de golpistas.</p>
+
+<h2>O Que É o MED (Mecanismo Especial de Devolução) 2.0</h2>
+<p>Desde 2 de fevereiro de 2026, todas as instituições financeiras e de pagamento que oferecem Pix são obrigadas a adotar o MED 2.0, versão atualizada da ferramenta de contestação e bloqueio de transações suspeitas.</p>
+<h3>Bloqueio em Cascata</h3>
+<p>A principal mudança em relação à versão anterior é o chamado bloqueio em cascata: antes, o sistema conseguia bloquear apenas a primeira conta que recebeu o dinheiro do golpe. Agora, o MED 2.0 é obrigado a rastrear o caminho do valor mesmo quando ele já foi repassado para várias contas sucessivas, dificultando a pulverização rápida do dinheiro pelos golpistas.</p>
+<h3>Prazo de Devolução</h3>
+<p>O novo mecanismo prevê um prazo de até 7 dias para a conclusão do processo de devolução, trazendo mais previsibilidade para quem contesta uma transação — antes, o processo podia se arrastar por mais tempo sem prazo definido.</p>
+
+<h2>Como Recuperar o Dinheiro Passo a Passo</h2>
+<ol>
+    <li>Abra o aplicativo do seu banco e localize a transação suspeita no extrato do Pix;</li>
+    <li>Selecione a opção "contestar" ou "reportar fraude" diretamente na transação;</li>
+    <li>O pedido é processado automaticamente pelo sistema do MED, sem necessidade de atendimento humano na etapa inicial;</li>
+    <li>Acompanhe o status pelo próprio aplicativo até a conclusão da análise.</li>
+</ol>
+<p>Você tem até 80 dias contados a partir da data do Pix para registrar o pedido de devolução. Quanto mais rápido agir, maior a chance de o dinheiro ainda estar disponível na conta do golpista antes de ser transferido ou sacado.</p>
+
+<h2>O Novo Alerta de Golpe em Desenvolvimento</h2>
+<p>O relatório do Banco Central também revelou que a autoridade monetária está discutindo com o mercado a padronização do chamado "alerta de golpe" — funcionalidade que já existe em algumas instituições, mas de forma isolada, e que avisa o usuário no momento de fazer um Pix quando a transação apresenta sinais de fraude. A ideia é tornar essa padronização obrigatória, com critérios mínimos definidos pelo Banco Central para todas as instituições emitirem o mesmo tipo de alerta.</p>
+
+<h2>Principais Golpes de Pix em 2026</h2>
+<ul>
+    <li><strong>Deepfakes de voz e vídeo:</strong> criminosos usam inteligência artificial para simular a voz ou o rosto de familiares pedindo dinheiro urgente;</li>
+    <li><strong>Golpe do Pix agendado:</strong> o golpista cancela o agendamento ou não mantém saldo suficiente para a ordem ser executada, mas engana a vítima fazendo-a acreditar que o pagamento foi concluído;</li>
+    <li><strong>Fake news sobre taxação:</strong> mensagens falsas alegando cobrança de imposto sobre transferências via Pix, usadas para induzir a vítima a fornecer dados ou fazer pagamentos indevidos;</li>
+    <li><strong>Golpe do falso gerente:</strong> criminosos usam dados reais do cliente, obtidos em vazamentos, para parecerem legítimos ao telefone ou WhatsApp.</li>
+</ul>
+
+<h2>Como Se Proteger</h2>
+<ul>
+    <li>Desconfie de qualquer pedido de dinheiro urgente, mesmo vindo de contatos conhecidos — confirme por outro canal antes de transferir;</li>
+    <li>Nunca compartilhe códigos de aplicativo, senha ou dados do cartão por telefone, mesmo que a pessoa diga ser do seu banco;</li>
+    <li>Ative os alertas de segurança disponíveis no aplicativo do seu banco;</li>
+    <li>Em caso de golpe, conteste a transação imediatamente pelo aplicativo — não espere.</li>
+</ul>
+<p>Os mesmos cuidados valem para compras online, onde a inteligência artificial também vem sendo usada para identificar fraudes antes que o consumidor perceba o problema — veja mais no nosso artigo sobre <a href="/artigo/seguranca-compras-online">segurança nas compras online</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Prazos e regras de devolução podem variar conforme a análise de cada caso — em caso de golpe, contate seu banco e registre boletim de ocorrência o quanto antes.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil (BCB) — Relatório de Gestão do Pix 2023-2025, divulgado em 10 de agosto de 2026</li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/med-2-0-passa-a-ser-obrigatorio-em-todas-as-plataformas-que-oferecem-pix/" target="_blank" rel="noopener">MED 2.0 passa a ser obrigatório em todas as plataformas que oferecem Pix</a></li>
+</ul>
+
+<p>Quer organizar melhor suas finanças e reduzir a exposição a imprevistos? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar seu orçamento com mais segurança.</p>
+',
+        'tags' => 'golpe do pix como recuperar dinheiro, med mecanismo especial de devolução, alerta de golpe pix banco central, pix mais seguro 2026',
+    ],
+
 ];
 
 /**
