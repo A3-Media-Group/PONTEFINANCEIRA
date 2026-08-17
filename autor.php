@@ -81,21 +81,7 @@ include __DIR__ . '/includes/header.php';
     <div class="container">
         <div class="section-head"><span class="eyebrow">Artigos</span><h2>Publicados por <?php echo htmlspecialchars($author['name']); ?></h2></div>
         <div class="post-grid">
-            <?php foreach ($author_posts as $post): ?>
-                <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
-                    <div class="thumb"><?php echo picture_tag($post['image'], $post['title'], 640, 400); ?></div>
-                    <div class="post-card-body">
-                        <div class="post-cats"><?php echo category_pills($post['category']); ?></div>
-                        <h3><?php echo htmlspecialchars($post['title']); ?></h3>
-                        <p><?php echo htmlspecialchars($post['excerpt']); ?></p>
-                        <div class="post-meta">
-                            <span><?php echo date('d/m/Y', strtotime($post['date'])); ?></span>
-                            <span>&middot;</span>
-                            <span><?php echo htmlspecialchars($post['read_time']); ?> de leitura</span>
-                        </div>
-                    </div>
-                </a>
-            <?php endforeach; ?>
+            <?php foreach ($author_posts as $post): echo post_card_html($post); endforeach; ?>
         </div>
     </div>
 </section>

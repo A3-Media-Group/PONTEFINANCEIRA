@@ -219,6 +219,35 @@ function category_pills($categories, $max = 2)
     return $html;
 }
 
+/**
+ * Card de artigo (thumb + pills + título + resumo + meta), usado em toda
+ * listagem (home, /financas-pessoais.php, categoria, tag, autor, relacionados).
+ *
+ * IMPORTANTE: o card NÃO é um único <a> envolvendo tudo — os pills de
+ * categoria (category_pills) já são links, e HTML não permite <a> dentro
+ * de <a> (o navegador "conserta" isso quebrando a árvore do DOM, jogando
+ * o título/resumo pra fora do card visualmente). Por isso a estrutura é
+ * uma <div> com dois links independentes (imagem e título) + os pills
+ * como <a> separados, com um "stretched link" via CSS para a área em
+ * volta do título continuar clicável.
+ */
+function post_card_html($post)
+{
+    $href = '/artigo/' . urlencode($post['slug']);
+    $href_esc = htmlspecialchars($href, ENT_QUOTES);
+    $html = '<div class="post-card">';
+    $html .= '<a class="post-card-thumb-link" href="' . $href_esc . '" tabindex="-1" aria-hidden="true">';
+    $html .= '<div class="thumb">' . picture_tag($post['image'], $post['title'], 640, 400) . '</div>';
+    $html .= '</a>';
+    $html .= '<div class="post-card-body">';
+    $html .= '<div class="post-cats">' . category_pills($post['category']) . '</div>';
+    $html .= '<h3><a class="post-card-title-link" href="' . $href_esc . '">' . htmlspecialchars($post['title']) . '</a></h3>';
+    $html .= '<p>' . htmlspecialchars($post['excerpt']) . '</p>';
+    $html .= '<div class="post-meta"><span>' . date('d/m/Y', strtotime($post['date'])) . '</span><span>&middot;</span><span>' . htmlspecialchars($post['read_time']) . ' de leitura</span></div>';
+    $html .= '</div></div>';
+    return $html;
+}
+
 // Menu principal (usado no header e no footer)
 $GLOBALS['main_menu'] = [
     'Início'      => '/',

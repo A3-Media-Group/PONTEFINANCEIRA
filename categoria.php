@@ -59,21 +59,7 @@ include __DIR__ . '/includes/header.php';
     <div class="container">
         <p style="margin-bottom:20px;color:var(--text-muted)"><?php echo $total; ?> artigo(s) em <?php echo htmlspecialchars($cat_name); ?></p>
         <div class="post-grid">
-            <?php foreach ($page_posts as $post): ?>
-                <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
-                    <div class="thumb"><?php echo picture_tag($post['image'], $post['title'], 640, 400); ?></div>
-                    <div class="post-card-body">
-                        <div class="post-cats"><?php echo category_pills($post['category']); ?></div>
-                        <h3><?php echo htmlspecialchars($post['title']); ?></h3>
-                        <p><?php echo htmlspecialchars($post['excerpt']); ?></p>
-                        <div class="post-meta">
-                            <span><?php echo date('d/m/Y', strtotime($post['date'])); ?></span>
-                            <span>&middot;</span>
-                            <span><?php echo htmlspecialchars($post['read_time']); ?> de leitura</span>
-                        </div>
-                    </div>
-                </a>
-            <?php endforeach; ?>
+            <?php foreach ($page_posts as $post): echo post_card_html($post); endforeach; ?>
         </div>
 
         <?php if ($total_pages > 1): ?>

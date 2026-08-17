@@ -161,17 +161,7 @@ $has_disclaimer = strpos($post['content'], 'class="callout"') !== false;
         <div class="container">
             <div class="section-head"><span class="eyebrow">Continue lendo</span><h2>Artigos relacionados</h2></div>
             <div class="post-grid">
-                <?php foreach ($related as $r): ?>
-                    <a class="post-card" href="/artigo/<?php echo urlencode($r['slug']); ?>">
-                        <div class="thumb"><?php echo picture_tag($r['image'], $r['title'], 640, 400); ?></div>
-                        <div class="post-card-body">
-                            <div class="post-cats"><?php echo category_pills($r['category']); ?></div>
-                            <h3><?php echo htmlspecialchars($r['title']); ?></h3>
-                            <p><?php echo htmlspecialchars($r['excerpt']); ?></p>
-                            <div class="post-meta"><span><?php echo date('d/m/Y', strtotime($r['date'])); ?></span><span>&middot;</span><span><?php echo htmlspecialchars($r['read_time']); ?></span></div>
-                        </div>
-                    </a>
-                <?php endforeach; ?>
+                <?php foreach ($related as $r): echo post_card_html($r); endforeach; ?>
             </div>
         </div>
     </section>
