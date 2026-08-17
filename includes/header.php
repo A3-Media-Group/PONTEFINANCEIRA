@@ -17,6 +17,8 @@ if (!isset($page_image))        $page_image = SITE_DEFAULT_IMAGE;
 if (!isset($page_type))         $page_type = 'website';
 if (!isset($page_robots))       $page_robots = 'index, follow';
 if (!isset($body_class))        $body_class = '';
+if (!isset($page_prev))         $page_prev = null; // URL da página anterior (paginação)
+if (!isset($page_next))         $page_next = null; // URL da próxima página (paginação)
 ?><!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -25,6 +27,8 @@ if (!isset($body_class))        $body_class = '';
 <title><?php echo htmlspecialchars($page_title); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
 <link rel="canonical" href="<?php echo htmlspecialchars($page_url); ?>">
+<?php if ($page_prev): ?><link rel="prev" href="<?php echo htmlspecialchars($page_prev); ?>"><?php endif; ?>
+<?php if ($page_next): ?><link rel="next" href="<?php echo htmlspecialchars($page_next); ?>"><?php endif; ?>
 <meta name="robots" content="<?php echo htmlspecialchars($page_robots); ?>">
 <meta name="theme-color" content="#0E2438">
 
@@ -60,16 +64,29 @@ if (!isset($body_class))        $body_class = '';
 
 <!-- Organization schema (todas as páginas) -->
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "<?php echo SITE_NAME; ?>",
-  "url": "<?php echo SITE_URL; ?>",
-  "logo": "<?php echo SITE_URL; ?>/assets/img/logo.png",
-  "email": "<?php echo SITE_EMAIL; ?>",
-  "description": "<?php echo SITE_DEFAULT_DESCRIPTION; ?>"
-}
+<?php
+$organization_schema = [
+    '@context' => 'https://schema.org',
+    '@type' => 'Organization',
+    'name' => SITE_NAME,
+    'url' => SITE_URL,
+    'logo' => SITE_URL . '/assets/img/logo.png',
+    'email' => SITE_EMAIL,
+    'description' => SITE_DEFAULT_DESCRIPTION,
+];
+$social_links = array_values(array_filter($GLOBALS['social_links'] ?? []));
+if ($social_links) $organization_schema['sameAs'] = $social_links;
+echo json_encode($organization_schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+?>
 </script>
+
+<?php if (!empty($breadcrumb_json)): ?>
+<script type="application/ld+json"><?php echo $breadcrumb_json; ?></script>
+<?php endif; ?>
+
+<?php if (!empty($faq_json)): ?>
+<script type="application/ld+json"><?php echo $faq_json; ?></script>
+<?php endif; ?>
 </head>
 <body class="<?php echo htmlspecialchars($body_class); ?>">
 

@@ -15,6 +15,11 @@ RewriteRule ^ /artigo/%1? [R=301,L]
 # URL amigável do artigo (/artigo/slug) aponta internamente para artigo.php
 RewriteRule ^artigo/([a-zA-Z0-9-]+)/?$ artigo.php?slug=$1 [L,QSA]
 
+# Páginas de categoria, tag e autor
+RewriteRule ^categoria/([a-zA-Z0-9-]+)/?$ categoria.php?slug=$1 [L,QSA]
+RewriteRule ^tag/([a-zA-Z0-9-]+)/?$ tag.php?slug=$1 [L,QSA]
+RewriteRule ^autor/([a-zA-Z0-9-]+)/?$ autor.php?slug=$1 [L,QSA]
+
 # Tipos MIME corretos para downloads (servidor não tinha esses mapeados)
 <IfModule mod_mime.c>
     AddType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet .xlsx

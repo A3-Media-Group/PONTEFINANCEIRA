@@ -1,0 +1,6 @@
+# Dados gerados em runtime (ex: e-mails da newsletter) — nunca commitar PII
+/data/
+
+# Cache de imagens WebP geradas sob demanda pelo servidor
+assets/img/*.webp
+assets/img/posts/*.webp
