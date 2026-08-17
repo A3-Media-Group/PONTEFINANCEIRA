@@ -33,6 +33,12 @@ $page_url = SITE_URL . '/financas-pessoais.php' . build_query_suffix($busca, $pa
 if ($busca !== '') {
     $page_robots = 'noindex, follow';
 }
+if ($page_num > 1) $page_prev = SITE_URL . pagina_url($page_num - 1, $busca);
+if ($page_num < $total_pages) $page_next = SITE_URL . pagina_url($page_num + 1, $busca);
+$breadcrumb_json = breadcrumb_schema([
+    ['Início', SITE_URL . '/'],
+    ['Artigos', SITE_URL . '/financas-pessoais.php'],
+]);
 
 include __DIR__ . '/includes/header.php';
 
@@ -77,11 +83,9 @@ function pagina_url($n, $busca = '')
         <div class="post-grid">
             <?php foreach ($page_posts as $post): ?>
                 <a class="post-card" href="/artigo/<?php echo urlencode($post['slug']); ?>">
-                    <div class="thumb"><img src="<?php echo htmlspecialchars(asset_v($post['image'])); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy"></div>
+                    <div class="thumb"><?php echo picture_tag($post['image'], $post['title'], 640, 400); ?></div>
                     <div class="post-card-body">
-                        <div class="post-cats">
-                            <?php foreach ($post['category'] as $cat): ?><span class="post-cat"><?php echo htmlspecialchars($cat); ?></span><?php endforeach; ?>
-                        </div>
+                        <div class="post-cats"><?php echo category_pills($post['category']); ?></div>
                         <h3><?php echo htmlspecialchars($post['title']); ?></h3>
                         <p><?php echo htmlspecialchars($post['excerpt']); ?></p>
                         <div class="post-meta">
