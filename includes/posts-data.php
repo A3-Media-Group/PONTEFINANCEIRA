@@ -198,6 +198,10 @@ $posts = [
 <p>Quer simular quanto seu dinheiro pode render com a Selic atual? Acesse nosso <a href="/simuladores-financeiros.php">simulador de juros compostos e investimentos</a> e compare cenários gratuitamente.</p>
 ',
         'tags' => 'poupança ou tesouro selic, rendimento da poupança 2026, tesouro selic como funciona, selic 14% investimentos, reserva de emergência',
+        'faq' => [
+            ['Vale a pena trocar a poupança pelo Tesouro Selic?', 'Para quem já tem reserva de emergência guardada na poupança, migrar para o Tesouro Selic costuma valer a pena no cenário atual, especialmente para valores que ficarão parados por mais de alguns meses, já que a rentabilidade líquida tende a ser superior no título público.'],
+            ['O CDB também vale a pena comparar com a poupança e o Tesouro Selic?', 'Sim. CDBs com liquidez diária também acompanham a Selic e, em alguns casos, oferecem mais de 100% do CDI. Vale comparar a rentabilidade líquida (já descontado o IR) e verificar a cobertura do Fundo Garantidor de Créditos (FGC).'],
+        ],
     ],
 
     [
@@ -336,6 +340,10 @@ $posts = [
 <p>Quer organizar suas dívidas e planejar a quitação? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de rescisão, FGTS e orçamento para dar o próximo passo.</p>
 ',
         'tags' => 'como saber se meu nome está sujo, consultar nome sujo grátis, inadimplência no brasil 2026, negociar dívidas atrasadas, score de crédito',
+        'faq' => [
+            ['Consultar o CPF pelo Serasa ou SPC deixa meu nome mais sujo?', 'Não. A consulta é apenas informativa e não gera nenhum registro de dívida nem altera o score.'],
+            ['Depois de pagar, o nome sai da lista de negativados na hora?', 'Normalmente a baixa é feita em até cinco dias úteis após o pagamento ser confirmado ao credor, mas o prazo pode variar conforme a instituição.'],
+        ],
     ],
 
 ];
