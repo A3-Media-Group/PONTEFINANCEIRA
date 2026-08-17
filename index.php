@@ -56,9 +56,9 @@ $continue_posts = array_slice($continue_posts, 0, 3);
                 <path d="M20 260 C 120 60, 360 60, 460 260" stroke="url(#arcGrad)" stroke-width="4" fill="none" stroke-linecap="round"/>
                 <path d="M20 260 C 120 130, 360 130, 460 260" stroke="rgba(255,255,255,.25)" stroke-width="2" fill="none" stroke-linecap="round"/>
                 <circle cx="20" cy="260" r="9" fill="#0E2438" stroke="#7FD8AE" stroke-width="3"/>
-                <text x="0" y="290" fill="#C6D2DC" font-size="15" font-family="Inter, sans-serif">Dívida</text>
+                <text x="20" y="290" text-anchor="start" fill="#C6D2DC" font-size="15" font-family="Inter, sans-serif">Dívida</text>
                 <circle cx="460" cy="260" r="9" fill="#0E2438" stroke="#C9A227" stroke-width="3"/>
-                <text x="418" y="290" fill="#C6D2DC" font-size="15" font-family="Inter, sans-serif">Liberdade</text>
+                <text x="460" y="290" text-anchor="end" fill="#C6D2DC" font-size="15" font-family="Inter, sans-serif">Liberdade</text>
             </svg>
         </div>
     </div>
