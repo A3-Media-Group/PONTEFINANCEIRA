@@ -1,6 +1,6 @@
 ---
-description: Pesquisa pautas atuais, gera 3 artigos com fontes confiáveis, imagem via Gemini, e publica
-allowed-tools: WebSearch, WebFetch, Read, Edit, Write, Bash(git *)
+description: Pesquisa pautas atuais, gera 3 artigos com fontes confiáveis, imagem via Pollinations.ai, e publica
+allowed-tools: WebSearch, WebFetch, Read, Edit, Write, Bash(git *), Bash(curl *)
 ---
 
 Gere 3 novos artigos completos para o blog da Ponte Financeira, seguindo este processo:
@@ -32,45 +32,42 @@ no Google sobre isso) e 2-3 palavras-chave secundárias relacionadas.
 - Termine com uma seção "## Fontes" citando de onde veio a informação (nome da fonte 
   + link), e um CTA linkando para /calculadoras.php ou /simuladores-financeiros.php
 
-## 4. IMAGEM DE CAPA (moderna, sem texto/logo, obrigatório)
-Gere via API do Gemini (Imagen), usando a variável GEMINI_API_KEY.
+## 4. IMAGEM DE CAPA (via Pollinations.ai, sem API key, fotografia editorial realista)
+Gere a imagem fazendo uma requisição HTTP GET para:
+https://image.pollinations.ai/prompt/{PROMPT_CODIFICADO_EM_URL}?width=1200&height=675&nologo=true&model=flux
 
-NUNCA inclua texto, palavras, números legíveis ou logotipos na imagem — a arte deve 
-comunicar o tema só pela composição visual. O objetivo é uma peça editorial moderna 
-e marcante, não uma foto-estoque genérica.
+Onde {PROMPT_CODIFICADO_EM_URL} é o prompt abaixo, com espaços/acentos codificados 
+corretamente para URL (URL-encode). Não precisa de nenhuma chave de API nem variável 
+de ambiente — é uma chamada HTTP simples.
 
-Antes de montar o prompt, pense num CONCEITO VISUAL ÚNICO para o tema específico do 
-artigo — não use os clichês batidos (aperto de mão, calculadora numa mesa branca, 
-pilha de moedas genérica, gráfico de linha solto no vazio). Busque uma metáfora visual 
-mais inteligente e específica pro assunto exato. Exemplos de raciocínio (adapte, não copie):
-- Artigo sobre reserva de emergência → um guarda-chuva de estrutura dourada abrindo 
-  sobre uma cidade miniatura à noite
-- Artigo sobre dívidas/renegociação → correntes de metal se transformando em uma ponte 
-  de luz
-- Artigo sobre Selic/juros → engrenagens de relógio entrelaçadas com feixes de luz verde
-- Artigo sobre investimentos → sementes de luz dourada brotando de um solo geométrico escuro
+DIRETRIZ: a imagem deve parecer fotografia editorial de revista de negócios premium 
+(Forbes, Bloomberg Businessweek, Exame) — elegante, séria, realista. NUNCA cartoon, 
+flat design fofo ou clip art. NUNCA texto, números ou logotipos.
 
-Monte o prompt final seguindo esta estrutura:
+Leia o artigo e identifique uma cena concreta e específica do tema (evite abstração; 
+evite clichês como aperto de mão genérico, calculadora numa mesa branca vazia, 
+cofrinho de porquinho).
 
-"Ilustração editorial digital premium, [conceito visual único pensado para este tema 
-específico, descrito em detalhe: objeto principal, ação, ambiente], estilo de arte 
-conceitual moderna com elementos 3D sutis e iluminação cinematográfica, paleta de cores 
-dominada por azul petróleo escuro (#0E2438) e verde esmeralda (#1E7F5C), com acentos 
-pontuais em dourado (#C9A227), contraste de luz forte criando profundidade e drama 
-visual, composição assimétrica com espaço negativo generoso em um dos lados para 
-sobreposição futura de texto, textura sutil de grão fino, acabamento estilo capa de 
-revista econômica premium (referência: The Economist, Bloomberg Businessweek, Fast 
-Company), altíssima resolução e nitidez, proporção 16:9, sem texto, sem números, 
-sem logotipos, sem marcas d'água"
+Monte o prompt neste formato:
 
-Regras obrigatórias:
-- Sempre um conceito visual específico e não-genérico, pensado pro tema exato do artigo
-- Sempre as 3 cores da marca (azul petróleo, verde esmeralda, dourado como acento)
-- Sempre luz dramática/cinematográfica e boa profundidade — nunca imagem "chapada" e 
-  sem contraste
-- Sempre espaço negativo em algum canto (útil se um dia quisermos sobrepor título por 
-  cima via CSS, mesmo que hoje não sobreponhamos)
-- Proibir explicitamente texto e logos no prompt, mesmo que o modelo às vezes erre
+"professional editorial photography for business magazine cover, [cena real e 
+específica em inglês, com objeto/ambiente/ângulo concretos], shot on 50mm lens, 
+shallow depth of field, dramatic natural side lighting, subtle film grain, color 
+palette dominated by deep petrol blue (#0E2438) and emerald green (#1E7F5C) with 
+small golden accents (#C9A227), asymmetric composition, rule of thirds, generous 
+negative space on one side, sophisticated serious atmosphere, hyper-realistic, 
+sharp focus, high resolution, no text, no numbers, no logos, no watermark, no cartoon"
+
+(Escreva o prompt em inglês — modelos de geração de imagem geralmente entendem 
+melhor e dão resultado mais preciso em inglês, mesmo que o artigo seja em português)
+
+Baixe a imagem retornada (curl ou equivalente) e salve em /assets/img/post-[slug].jpg.
+
+Se a imagem vier com aparência cartoon/infantil ou genérica demais, ajuste o prompt 
+(adicione mais detalhes concretos da cena) e tente novamente (máximo 2 tentativas).
+
+Se a requisição falhar ou der timeout (pode acontecer, é um serviço gratuito com 
+limite de uso), aguarde 15 segundos e tente novamente antes de desistir.
 
 ## 5. METADADOS SEO
 - excerpt (meta description): até 160 caracteres, contendo a palavra-chave principal
