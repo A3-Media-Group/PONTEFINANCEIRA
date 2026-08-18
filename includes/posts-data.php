@@ -745,6 +745,165 @@ $posts = [
         'tags' => 'como aumentar o score de crédito, score de crédito serasa, score de 0 a 1000, consultar score grátis',
     ],
 
+    [
+        'slug' => 'novo-limite-mei-2026',
+        'title' => 'Novo Limite do MEI: Proposta de R$ 110 Mil Pode Ser Votada Após o Recesso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-18',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda a proposta que eleva o novo limite do MEI de R$ 81 mil para R$ 110 mil em 2026 e R$ 140 mil em 2027, e por que a votação foi adiada.',
+        'image' => '/assets/img/post-novo-limite-mei-2026.jpg',
+        'full' => true,
+        'content' => '
+<p>O novo limite do MEI voltou a ser discutido no Congresso, mas quem espera o aumento do teto de faturamento ainda precisa ter paciência. Segundo o InfoMoney, a Câmara dos Deputados deve adiar a votação do projeto que amplia o limite do Microempreendedor Individual para depois do recesso parlamentar, que se encerra em agosto de 2026.</p>
+
+<h2>O Que Muda Se o Projeto For Aprovado</h2>
+<p>Pela proposta em tramitação, o teto anual de faturamento do MEI subiria dos atuais R$ 81 mil para:</p>
+<ul>
+    <li><strong>R$ 110 mil</strong> ainda em 2026, se aprovado a tempo;</li>
+    <li><strong>R$ 140 mil</strong> a partir de 2027.</li>
+</ul>
+<p>Além do valor de faturamento, o texto também prevê permitir que o MEI contrate até dois funcionários — hoje o limite é de apenas um empregado.</p>
+
+<h2>Por Que a Votação Foi Adiada</h2>
+<p>O principal impasse não está no limite do MEI em si, mas nas faixas de alíquota do Simples Nacional como um todo. Deputados querem aproveitar o projeto para revisar as faixas do Simples e tornar a correção do teto de faturamento automática pela inflação — o que o Ministério da Fazenda resiste em aceitar sem cálculos mais detalhados sobre o impacto fiscal.</p>
+<p>Segundo estimativas da Fazenda, o aumento do teto do MEI sozinho teria impacto fiscal de R$ 8,1 bilhões até 2029. Incluir a correção automática das faixas do Simples elevaria esse custo para a casa dos R$ 50 bilhões anuais, segundo a equipe econômica — por isso o governo pediu mais tempo até agosto para apresentar números mais precisos antes de qualquer votação.</p>
+
+<h2>Outras Mudanças em Discussão</h2>
+<p>Além do valor do teto, parlamentares também avaliam incluir no texto:</p>
+<ul>
+    <li>Criação de novas alíquotas de contribuição para o MEI, além dos atuais 5% que garantem cobertura previdenciária;</li>
+    <li>Redução do prazo de exclusão de MEIs inadimplentes do regime, hoje fixado em 12 meses.</li>
+</ul>
+<p>Nenhuma dessas mudanças está definida — todas dependem do acordo entre Congresso e governo que ainda está sendo costurado.</p>
+
+<h2>O Limite Continua em R$ 81 Mil Por Enquanto</h2>
+<p>Até a aprovação definitiva do projeto, sanção presidencial e publicação no Diário Oficial, o teto de faturamento do MEI segue em R$ 81 mil ao ano. Quem ultrapassar esse valor no ano-calendário precisa migrar para microempresa (ME) e reavaliar o enquadramento tributário — algo que pode pegar de surpresa quem não acompanha o próprio faturamento mês a mês.</p>
+
+<h2>Como Se Preparar Enquanto o Projeto Não Sai</h2>
+<p>Se o seu negócio está próximo do limite atual, vale simular os dois cenários: seguir como MEI (mais simples, porém limitado) ou migrar voluntariamente para ME assim que fizer sentido para o seu faturamento. Organizar o fluxo de caixa mensal ajuda a identificar esse momento com antecedência — nosso guia sobre <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> traz uma lógica de controle de gastos que também funciona para separar despesas pessoais das do negócio.</p>
+<p>Independentemente do que for aprovado, manter as contas organizadas — e uma reserva separada para impostos e imprevistos — continua sendo o passo mais importante para qualquer microempreendedor.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. O projeto de aumento do limite do MEI ainda não foi votado nem sancionado — os valores podem mudar até a aprovação final. Consulte sempre um contador para decisões sobre enquadramento tributário do seu negócio.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/politica/camara-deve-adiar-votacao-de-projeto-que-eleva-teto-do-mei-para-depois-do-recesso/" target="_blank" rel="noopener">Câmara deve adiar votação de projeto que eleva teto do MEI para depois do recesso</a></li>
+</ul>
+
+<p>Quer organizar o fluxo de caixa do seu negócio antes da mudança valer? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar gastos e reservas com mais previsibilidade.</p>
+',
+        'tags' => 'novo limite do mei, limite de faturamento mei 2026, mei pode contratar 2 funcionários, quando muda o limite do mei',
+    ],
+
+    [
+        'slug' => 'seguro-carro-mais-barato-motorista-menor-risco',
+        'title' => 'Seguro de Carro Mais Barato: Como Motoristas de Menor Risco Podem Pagar Até R$ 900 a Menos',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-18',
+        'read_time' => '4 min',
+        'excerpt' => 'Novo modelo de precificação pode deixar o seguro de carro mais barato em até R$ 900 para motoristas classificados como menor risco. Entenda como funciona.',
+        'image' => '/assets/img/post-seguro-carro-mais-barato-motorista-menor-risco.jpg',
+        'full' => true,
+        'content' => '
+<p>Um seguro de carro mais barato pode estar mais perto da realidade para uma parte dos motoristas brasileiros. Segundo o InfoMoney, um novo modelo de precificação criado pela Trillia — linha de negócios de dados e inteligência artificial da B3 — em parceria com duas das cinco maiores seguradoras de automóveis do país já mostra economia de até R$ 912 para o grupo classificado como menor risco.</p>
+
+<h2>O Que Muda na Precificação do Seguro</h2>
+<p>Até agora, a maioria das seguradoras calcula o valor do seguro com base principalmente na probabilidade de o motorista se envolver em algum sinistro — acidente, roubo ou furto. O novo modelo vai além: ele analisa a sinistralidade detalhada de cada perfil, ou seja, a relação real entre o valor pago em prêmios e o valor efetivamente gasto em indenizações para aquele grupo específico de segurados.</p>
+<p>A análise foi construída a partir de dados de mais de 5 milhões de segurados, cruzando informações como:</p>
+<ul>
+    <li>Localização e padrão de vida da região onde o carro fica guardado;</li>
+    <li>Histórico de roubos e furtos na área;</li>
+    <li>Faixa de renda e patrimônio declarado;</li>
+    <li>Comportamento de sinistros do próprio perfil ao longo do tempo.</li>
+</ul>
+
+<h2>Quanto Dá Para Economizar</h2>
+<p>Segundo os dados divulgados, um seguro que hoje custa R$ 2.850 poderia cair para R$ 1.938 — uma economia de R$ 912 — para motoristas enquadrados em grupos com sinistralidade 33,8% abaixo da média geral da carteira das seguradoras participantes.</p>
+<p>Na prática, isso significa que dois motoristas com o mesmo carro, na mesma cidade, podem passar a pagar valores bem diferentes pelo seguro dependendo do perfil de risco calculado pelo novo modelo — mesmo sem nunca terem registrado um sinistro.</p>
+
+<h2>Quem Já Pode Usar Esse Modelo</h2>
+<p>Por enquanto, o novo sistema de precificação está em parceria com duas das cinco maiores seguradoras de automóveis do Brasil. A expectativa é que, com resultados positivos, mais seguradoras adotem modelos semelhantes de precificação baseada em dados nos próximos meses — mas cada empresa decide individualmente como e quando aplicar a mudança em suas apólices.</p>
+
+<h2>Como Saber se Você Está no Grupo de Menor Risco</h2>
+<p>Não existe uma forma direta de "consultar" seu enquadramento antes de cotar o seguro, já que o cálculo é feito internamente por cada seguradora no momento da cotação ou renovação. Ainda assim, alguns fatores tendem a jogar a favor do motorista:</p>
+<ul>
+    <li>Manter o carro em uma garagem fechada durante a noite;</li>
+    <li>Morar em regiões com histórico mais baixo de furtos e roubos de veículos;</li>
+    <li>Não ter sinistros registrados nos últimos anos;</li>
+    <li>Manter um perfil de uso do veículo mais previsível (baixa quilometragem, por exemplo).</li>
+</ul>
+<p>Vale sempre cotar o seguro em mais de uma seguradora na hora da renovação — a diferença de preço entre empresas, mesmo para o mesmo perfil, pode ser significativa.</p>
+
+<h2>Vale a Pena Trocar de Seguradora Para Economizar?</h2>
+<p>Antes de trocar de seguradora só em busca de um valor menor, compare também a cobertura oferecida, o valor da franquia e os serviços inclusos (carro reserva, assistência 24h, guincho). Um seguro mais barato que cobre menos pode sair mais caro no fim das contas se você precisar acionar a apólice.</p>
+<p>Se o seguro do carro pesa no orçamento mensal, vale revisar o planejamento financeiro como um todo — nosso guia sobre <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> ajuda a organizar gastos fixos como esse dentro do que cabe no seu mês.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A adoção do novo modelo de precificação depende de cada seguradora — consulte diretamente sua seguradora ou corretora para saber se e quando a mudança será aplicada à sua apólice.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/seguro-de-carro-pode-ficar-r-900-mais-barato-para-motorista-de-menor-risco/" target="_blank" rel="noopener">Seguro de carro pode ficar R$ 900 mais barato para motorista de menor risco</a></li>
+</ul>
+
+<p>Quer organizar o orçamento para caber seguro, IPVA e outras despesas do carro sem sustos? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'seguro de carro mais barato, desconto seguro auto motorista de menor risco, como reduzir o valor do seguro do carro, sinistralidade seguro auto',
+    ],
+
+    [
+        'slug' => 'financiamento-imobiliario-2026-novo-modelo',
+        'title' => 'Financiamento Imobiliário 2026: Banco Central Testa Novo Modelo e Muda Taxas',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-18',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda o novo modelo de financiamento imobiliário testado pelo Banco Central em 2026 e como ele muda as taxas de juros conforme o valor do imóvel.',
+        'image' => '/assets/img/post-financiamento-imobiliario-2026-novo-modelo.jpg',
+        'full' => true,
+        'content' => '
+<p>Quem pensa em financiamento imobiliário em 2026 precisa entender uma mudança estrutural que o Banco Central já começou a testar: um novo modelo de funding para o crédito habitacional, criado para reduzir a dependência da poupança — fonte que vem perdendo força para bancar novos financiamentos.</p>
+
+<h2>Por Que o Modelo Antigo Estava Sob Pressão</h2>
+<p>Historicamente, boa parte do financiamento imobiliário no Brasil, dentro do Sistema Financeiro da Habitação (SFH), depende dos recursos captados na poupança. O problema é que, com juros altos, a poupança perde atratividade frente a outros investimentos, reduzindo o volume disponível para os bancos financiarem novos imóveis.</p>
+<p>Para resolver esse gargalo, o Banco Central passou a testar, desde outubro de 2025, um modelo em que novas operações são financiadas prioritariamente com recursos captados diretamente no mercado, deixando a poupança em um papel complementar.</p>
+
+<h2>Os Primeiros Resultados, Segundo o Banco Central</h2>
+<p>Depois de nove meses de testes, o BC já identifica resultados: a queda nas concessões de crédito imobiliário, que vinha sendo um problema, parou. Houve inclusive aumento nas operações de até R$ 1 milhão e nas operações entre R$ 1 milhão e R$ 2,2 milhões.</p>
+
+<h2>A Mudança Que Mais Importa: Taxas Diferentes por Faixa de Valor</h2>
+<p>A principal diferença prática do novo modelo aparece nos imóveis de maior valor. Antes, financiamentos acima de R$ 2,2 milhões costumavam ter as taxas mais baixas do mercado. Com o novo funding, essas operações agora apresentam taxas até 75 pontos percentuais superiores às praticadas em imóveis de até R$ 1 milhão.</p>
+<p>Já para quem financia imóveis de até R$ 1 milhão — a maior parte dos compradores — as taxas seguem estáveis, sem o mesmo impacto observado nas faixas mais altas.</p>
+
+<h2>O Que Isso Significa Para Quem Vai Financiar um Imóvel</h2>
+<ul>
+    <li><strong>Imóveis até R$ 1 milhão:</strong> pouco ou nenhum impacto imediato nas condições de financiamento;</li>
+    <li><strong>Imóveis entre R$ 1 milhão e R$ 2,2 milhões:</strong> maior volume de crédito disponível, segundo os dados do BC;</li>
+    <li><strong>Imóveis acima de R$ 2,2 milhões:</strong> juros significativamente mais altos do que no modelo anterior — vale simular com atenção antes de fechar negócio.</li>
+</ul>
+
+<h2>Financiamento ou Consórcio: A Dúvida Continua Valendo</h2>
+<p>Com taxas de financiamento em transformação, muita gente volta a se perguntar se não vale mais a pena um consórcio para fugir dos juros do financiamento tradicional. Nosso guia sobre <a href="/artigo/financiamento-ou-consorcio">financiamento ou consórcio: qual escolher</a> compara as duas modalidades considerando taxa de administração, CET e prazo — vale a leitura antes de decidir, especialmente se seu imóvel está na faixa de valor mais afetada pela mudança.</p>
+<p>Antes de assinar qualquer contrato, simule diferentes cenários de prazo e taxa para entender o impacto real no valor total pago ao longo dos anos — pequenas diferenças de taxa fazem enorme diferença em financiamentos de 20 ou 30 anos.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Taxas e condições de financiamento variam entre instituições financeiras e podem mudar conforme o modelo do Banco Central avança — consulte sempre mais de um banco antes de decidir.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/bc-ve-primeiros-resultados-de-novo-modelo-para-financiar-credito-imobiliario/" target="_blank" rel="noopener">BC vê primeiros resultados de novo modelo para financiar crédito imobiliário</a></li>
+    <li>Banco Central do Brasil (BC) — declarações de Gilneu Vieira, diretor de Regulação</li>
+</ul>
+
+<p>Quer simular diferentes cenários de financiamento antes de decidir? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> e compare o custo total em cada prazo.</p>
+',
+        'tags' => 'financiamento imobiliário 2026, taxa de juros financiamento imobiliário, novo modelo de crédito imobiliário banco central, financiar imóvel acima de 1 milhão',
+    ],
+
 ];
 
 /**
