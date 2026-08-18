@@ -904,6 +904,162 @@ $posts = [
         'tags' => 'financiamento imobiliário 2026, taxa de juros financiamento imobiliário, novo modelo de crédito imobiliário banco central, financiar imóvel acima de 1 milhão',
     ],
 
+    [
+        'slug' => 'iptu-tamanho-imovel-stf-inconstitucional',
+        'title' => 'IPTU por Tamanho do Imóvel é Inconstitucional, Decide STF; Veja se Você Pode Ter Restituição',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-18',
+        'read_time' => '4 min',
+        'excerpt' => 'STF decide que cobrar IPTU progressivo por tamanho do imóvel é inconstitucional. Entenda a decisão e quem pode pedir restituição de valores pagos a mais.',
+        'image' => '/assets/img/post-iptu-tamanho-imovel-stf-inconstitucional.jpg',
+        'full' => true,
+        'content' => '
+<p>O IPTU por tamanho do imóvel acaba de ser declarado inconstitucional pelo Supremo Tribunal Federal, em decisão unânime que pode abrir caminho para restituições em diversas cidades do país. Quem paga uma alíquota mais alta só porque o imóvel tem uma área construída maior pode ter direito a reaver parte do valor pago nos últimos anos.</p>
+
+<h2>O Que o STF Decidiu</h2>
+<p>Segundo o InfoMoney, o Supremo confirmou a invalidação de uma lei do município de Chapecó (SC), que cobrava uma alíquota de 1% de IPTU para imóveis com mais de 400 metros quadrados de área construída — um percentual mais alto do que o aplicado aos demais imóveis do município.</p>
+<p>O relator do caso, ministro Dias Toffoli, foi direto ao justificar o voto: a Constituição só permite que o IPTU seja progressivo com base em três critérios — o valor do imóvel, sua localização e seu uso. Segundo o ministro, "a área do imóvel não se confunde com o tempo ou com o valor do imóvel, únicos critérios que podem ser utilizados" para justificar alíquotas diferentes.</p>
+
+<h2>Quais Cidades São Afetadas</h2>
+<p>A decisão julgou diretamente a lei de Chapecó, mas tem efeito vinculante — ou seja, vale para todas as prefeituras do Brasil que adotam critério semelhante, cobrando alíquotas de IPTU maiores apenas pelo tamanho ou metragem do imóvel, sem relação com o valor venal, a localização ou o uso do bem.</p>
+<p>Se a sua cidade usa a metragem do imóvel como critério para definir uma alíquota mais alta de IPTU, a legislação municipal provavelmente precisará ser revista.</p>
+
+<h2>Você Pode Ter Direito a Restituição?</h2>
+<p>Segundo a decisão, proprietários que pagaram alíquotas de IPTU mais altas com base apenas no tamanho do imóvel — e não no valor venal, localização ou uso — têm direito a reembolso dos valores pagos indevidamente. Na prática, o caminho costuma envolver:</p>
+<ul>
+    <li>Verificar a lei municipal do IPTU da sua cidade e o critério usado para calcular sua alíquota;</li>
+    <li>Reunir os carnês ou comprovantes de pagamento do IPTU dos últimos anos;</li>
+    <li>Procurar a prefeitura ou um advogado tributarista para avaliar se o seu caso se enquadra na decisão e qual o prazo para reaver os valores (a prescrição tributária costuma ser de 5 anos).</li>
+</ul>
+<p>Vale lembrar que cada prefeitura pode reagir de forma diferente — algumas podem processar restituições administrativamente, enquanto outras podem exigir ação judicial individual ou coletiva.</p>
+
+<h2>O Que Muda Para as Prefeituras Daqui Para Frente</h2>
+<p>Os municípios que usavam a metragem como critério de progressividade precisam reformular suas leis de IPTU, adotando exclusivamente valor do imóvel, localização e uso como base para eventuais alíquotas diferenciadas. Isso pode significar uma reorganização da arrecadação municipal em várias cidades, já que o critério de área era usado como um proxy simples para tributar imóveis maiores — geralmente associados a quem tem mais patrimônio.</p>
+
+<h2>Como Isso se Encaixa no Seu Planejamento Financeiro</h2>
+<p>Se você já paga um IPTU alto e ainda está no processo de financiar ou quitar um imóvel, vale acompanhar de perto se sua prefeitura se enquadra nessa decisão — uma eventual restituição pode ajudar a reforçar a reserva de emergência ou até antecipar parcelas do financiamento. Se você está em fase de comprar um imóvel agora, também vale considerar o IPTU projetado dentro do seu <a href="/artigo/financiamento-imobiliario-2026-novo-modelo">planejamento de financiamento imobiliário</a>, já que ele impacta o custo mensal total de manter o imóvel, além da parcela do financiamento em si.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. O procedimento para solicitar restituição de IPTU varia conforme o município — consulte a prefeitura da sua cidade ou um advogado tributarista para avaliar seu caso específico.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/stf-proibe-prefeituras-de-cobrarem-aliquotas-maiores-de-iptu-por-tamanho-do-imovel/" target="_blank" rel="noopener">STF proíbe prefeituras de cobrarem alíquotas maiores de IPTU por tamanho do imóvel</a></li>
+</ul>
+
+<p>Quer organizar o orçamento considerando IPTU, financiamento e demais custos do seu imóvel? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'iptu por tamanho do imóvel, restituição de iptu pago a mais, stf decisão iptu 2026, alíquota de iptu por metro quadrado',
+    ],
+
+    [
+        'slug' => 'como-negociar-mensalidade-escolar-2027',
+        'title' => 'Mensalidade Escolar Pode Subir Até 11% em 2027: Como Negociar Desconto',
+        'category' => ['Orçamento', 'Notícias'],
+        'date' => '2026-08-18',
+        'read_time' => '4 min',
+        'excerpt' => 'Pesquisa aponta reajuste de até 11% na mensalidade escolar em 2027. Veja como negociar desconto com a escola antes da rematrícula.',
+        'image' => '/assets/img/post-como-negociar-mensalidade-escolar-2027.jpg',
+        'full' => true,
+        'content' => '
+
+<p>Saber como negociar mensalidade escolar virou tarefa urgente para milhões de famílias: uma pesquisa recente mostra que 9 em cada 10 escolas particulares do país vão reajustar as mensalidades em 2027, e boa parte desse aumento fica entre 7% e 11%. Com o orçamento familiar já apertado, entender como negociar antes da rematrícula pode fazer diferença real no ano que vem.</p>
+
+<h2>Quanto as Escolas Vão Reajustar em 2027</h2>
+<p>O levantamento foi feito pela Meira Fernandes Contabilidade e Gestão, que assessora cerca de 1.500 escolas particulares pelo país, e mostra a seguinte distribuição de reajustes previstos:</p>
+<ul>
+    <li><strong>44,2%</strong> das escolas vão reajustar entre 9% e 11%;</li>
+    <li><strong>36,46%</strong> vão reajustar entre 7% e 9%;</li>
+    <li><strong>11,60%</strong> vão reajustar entre 1% e 7%;</li>
+    <li><strong>7,18%</strong> vão reajustar acima de 12%;</li>
+    <li><strong>0,5%</strong> não vão reajustar a mensalidade.</li>
+</ul>
+<p>Ou seja, a grande maioria das famílias com filhos na rede particular vai sentir um aumento de dois dígitos percentuais no próximo ano — bem acima da inflação projetada para o período.</p>
+
+<h2>8 Dicas Para Negociar a Mensalidade Escolar</h2>
+<h3>1. Aproveite o desconto por múltiplos filhos</h3>
+<p>Famílias com mais de um filho na mesma escola costumam ter direito a bolsas ou descontos progressivos, geralmente entre 5% e 15% sobre a mensalidade dos irmãos.</p>
+<h3>2. Mostre seu histórico de pagamento em dia</h3>
+<p>Se você paga em dia há anos, use isso como argumento na negociação — escolas preferem manter famílias adimplentes a arriscar inadimplência com um aumento muito agressivo.</p>
+<h3>3. Prefira conversa presencial à distância</h3>
+<p>Uma reunião presencial com a coordenação ou direção tende a gerar mais abertura para negociação do que um e-mail ou mensagem — o contato direto humaniza o pedido.</p>
+<h3>4. Elogie a escola antes de pedir o desconto</h3>
+<p>Reconhecer pontos positivos da instituição antes de trazer a preocupação financeira ajuda a manter o tom colaborativo da conversa, em vez de confronto.</p>
+<h3>5. Negocie por semestre, não só pelo ano todo</h3>
+<p>Se um desconto anual parecer difícil de aprovar, proponha um acordo temporário por semestre — algumas escolas têm mais flexibilidade para ajustes de curto prazo.</p>
+<h3>6. Escolha o momento certo: período de rematrícula</h3>
+<p>É na época de rematrícula que as escolas têm mais interesse em reter famílias — use essa janela para abrir a negociação, evitando deixar para a última hora.</p>
+<h3>7. Pesquise os preços da concorrência</h3>
+<p>Conhecer valores de escolas concorrentes na sua região dá embasamento real para justificar um pedido de desconto ou congelamento de reajuste.</p>
+<h3>8. Ofereça pagamento à vista da anuidade</h3>
+<p>Quitar o ano letivo à vista costuma ser o argumento mais forte: escolas tendem a oferecer os maiores descontos para quem antecipa o pagamento da anuidade.</p>
+
+<h2>Se a Negociação Não Funcionar</h2>
+<p>Caso a escola não abra espaço para desconto, vale rever o orçamento familiar como um todo antes de decidir trocar de instituição no meio do processo. Nosso guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> ajuda a reorganizar prioridades quando um gasto fixo importante sobe acima do esperado, e o conteúdo sobre <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> traz ajustes práticos para absorver o aumento sem comprometer outras contas.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Percentuais de reajuste variam por escola e região — confirme sempre o valor definitivo diretamente com a instituição do seu filho.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/mensalidade-escolar-pode-subir-entre-7-e-11-diz-pesquisa-veja-dicas-para-negociar/" target="_blank" rel="noopener">Mensalidade escolar pode subir entre 7% e 11%, diz pesquisa. Veja dicas para negociar</a></li>
+</ul>
+
+<p>Quer organizar o orçamento familiar antes do reajuste chegar? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar gastos fixos e variáveis do ano que vem.</p>
+',
+        'tags' => 'como negociar mensalidade escolar, reajuste mensalidade escolar 2027, desconto mensalidade escolar, aumento mensalidade escola particular',
+    ],
+
+    [
+        'slug' => 'fim-isencao-lci-lca-tributacao',
+        'title' => 'Fim da Isenção de LCI e LCA: O Que Muda Para Quem Investe',
+        'category' => ['Finanças', 'Notícias'],
+        'date' => '2026-08-18',
+        'read_time' => '4 min',
+        'excerpt' => 'Governo estuda o fim da isenção de LCI e LCA. Entenda a proposta, o que dizem os bancos e o impacto para quem investe nesses papéis.',
+        'image' => '/assets/img/post-fim-isencao-lci-lca-tributacao.jpg',
+        'full' => true,
+        'content' => '
+<p>O fim da isenção de LCI e LCA voltou a ser discutido pelo governo federal, e a notícia já preocupa quem investe nesses papéis de renda fixa justamente pela ausência de Imposto de Renda. Segundo o InfoMoney, o ministro da Fazenda, Dario Durigan, sinalizou que a medida pode ser revisitada em um eventual segundo mandato, para corrigir o que classifica como "distorções do mercado".</p>
+
+<h2>O Que São LCI e LCA</h2>
+<p>LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio) são títulos de renda fixa emitidos por bancos para captar recursos destinados, respectivamente, ao financiamento imobiliário e ao agronegócio. Hoje, o principal atrativo desses papéis para o investidor pessoa física é a isenção total de Imposto de Renda sobre os rendimentos — diferente de CDBs e Tesouro Direto, que seguem a tabela regressiva do IR.</p>
+
+<h2>A Proposta do Governo</h2>
+<p>O artigo do InfoMoney não especifica uma alíquota exata de tributação proposta, mas confirma que a ideia central é acabar com a isenção fiscal desses títulos. A justificativa da equipe econômica é que a isenção hoje beneficia desproporcionalmente investidores de maior renda, que concentram parte relevante das aplicações em LCI e LCA para reduzir a carga tributária sobre os ganhos.</p>
+<p>Segundo o levantamento, as LCIs representam hoje cerca de 20% do funding do setor de crédito imobiliário no Brasil — um volume relevante que ajuda a explicar a reação dos bancos à proposta.</p>
+
+<h2>O Que os Bancos Estão Dizendo</h2>
+<p>Executivos de grandes bancos já se posicionaram publicamente contra a mudança:</p>
+<ul>
+    <li><strong>Romero Albuquerque (Bradesco):</strong> "Com a tributação, é inevitável que tenhamos um incremento do custo do crédito imobiliário";</li>
+    <li><strong>Paulo Duailibi (Santander):</strong> "É fundamental manter a isenção. Este é o meu maior ponto de preocupação".</li>
+</ul>
+<p>O argumento dos bancos é que, se as LCIs deixarem de ser isentas, os investidores vão exigir uma remuneração maior para compensar o imposto — encarecendo o custo de captação dos bancos e, no fim da cadeia, repassando esse custo extra para quem financia um imóvel.</p>
+
+<h2>A Proposta Ainda Não Saiu do Papel</h2>
+<p>É importante deixar claro: por enquanto, a mudança é apenas uma sinalização do governo, condicionada a cenários políticos futuros — inclusive à reeleição do presidente. Não há projeto de lei formal em tramitação nem data definida para qualquer mudança na tributação de LCI e LCA. A isenção continua valendo normalmente para quem já tem ou pretende investir nesses papéis hoje.</p>
+
+<h2>O Que Fazer Enquanto a Discussão Não Avança</h2>
+<p>Para quem já investe ou pensa em investir em LCI e LCA, a recomendação de especialistas costuma ser aproveitar a isenção atual enquanto ela existir, sem tomar decisões precipitadas baseadas em uma proposta que ainda não virou lei. Vale continuar comparando a rentabilidade líquida desses papéis com outras opções de renda fixa — nosso guia sobre <a href="/artigo/tesouro-selic-ou-poupanca-2026">Tesouro Selic ou poupança</a> ajuda a entender a lógica de comparar rendimento líquido considerando impostos, o mesmo raciocínio que vale para LCI, LCA e CDB.</p>
+<p>Quem ainda não começou a investir e quer entender melhor como esses produtos se encaixam numa carteira também pode conferir nosso guia completo sobre <a href="/artigo/como-comecar-a-investir">como começar a investir</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. A proposta de tributação de LCI e LCA ainda está em discussão e pode não se concretizar — acompanhe fontes oficiais antes de tomar decisões financeiras baseadas nela.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/na-mira-do-governo-fim-da-isencao-de-lci-travaria-credito-imobiliario-dizem-bancos/" target="_blank" rel="noopener">Na mira do governo, fim da isenção de LCI travaria crédito imobiliário, dizem bancos</a></li>
+</ul>
+
+<p>Quer comparar o rendimento líquido de diferentes investimentos de renda fixa? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos e investimentos</a> gratuito.</p>
+',
+        'tags' => 'fim da isenção de lci, lci vai pagar imposto de renda, tributação lci lca 2027, vale a pena investir em lci 2026',
+    ],
+
 ];
 
 /**
