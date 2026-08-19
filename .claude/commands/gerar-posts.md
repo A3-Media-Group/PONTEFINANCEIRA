@@ -5,37 +5,16 @@ allowed-tools: WebSearch, WebFetch, Read, Edit, Write, Bash(git *), Bash(curl *)
 
 Gere 3 novos artigos completos para o blog da Ponte Financeira, seguindo este processo:
 
-## 1. PESQUISA DE PAUTAS (obrigatório usar WebSearch, priorizar alto potencial de tráfego)
+## 1. PESQUISA DE PAUTAS (obrigatório usar WebSearch)
 Pesquise notícias e temas de finanças pessoais, economia brasileira, crédito e 
 investimentos dos ÚLTIMOS 7 DIAS. Use fontes confiáveis apenas:
 - Banco Central do Brasil (bcb.gov.br)
 - CVM (gov.br/cvm)
 - B3 (b3.com.br)
 - InfoMoney, Valor Econômico, G1 Economia, Estadão Economia, Serasa
-
-Ao escolher os 3 temas finais, priorize os que tiverem MAIOR CHANCE DE SEREM 
-BUSCADOS/LIDOS no Brasil, seguindo estes critérios nesta ordem de importância:
-
-1. VOLUME DE BUSCA PROVÁVEL: prefira temas que uma pessoa comum pesquisaria no Google 
-   com frequência — dúvidas práticas e recorrentes (ex: "como calcular rescisão", 
-   "como sair do nome sujo", "quanto rende a poupança") têm mais buscas constantes do 
-   que notícias muito específicas de nicho.
-2. ATUALIDADE + RELEVÂNCIA NACIONAL: dentro do que está sendo notícia agora, priorize 
-   o que afeta o maior número de brasileiros (mudança de regra que vale pra todo mundo 
-   > evento que afeta só um setor específico).
-3. INTENÇÃO DE BUSCA CLARA: prefira temas onde dá pra identificar uma pergunta óbvia 
-   que a pessoa está tentando responder (isso facilita escrever pro que ela realmente 
-   busca, e ajuda o Google a entender do que se trata o artigo).
-4. BAIXA CONCORRÊNCIA RELATIVA: quando dois temas parecerem igualmente bons, prefira 
-   o que for mais específico/menos óbvio que todo mundo já escreveu sobre (ângulo 
-   único) em vez do tema mais genérico e batido.
-
-Ao decidir os 3 temas finais, na sua resposta ao usuário, justifique brevemente por 
-que cada tema foi escolhido em termos de potencial de alcance (ex: "escolhido por ser 
-uma dúvida recorrente e sazonal, com alta probabilidade de busca no período").
-
-Escolha 3 temas que ainda não foram cobertos em includes/posts-data.php (leia o 
-arquivo primeiro para não duplicar assunto).
+Descarte qualquer informação de fonte não confiável ou que não consiga verificar 
+em pelo menos uma dessas fontes. Escolha 3 temas que ainda não foram cobertos em 
+includes/posts-data.php (leia o arquivo primeiro para não duplicar assunto).
 
 ## 2. PESQUISA DE PALAVRA-CHAVE
 Para cada tema, defina uma palavra-chave principal (o que uma pessoa real buscaria 
