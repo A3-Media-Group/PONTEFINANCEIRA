@@ -34,9 +34,39 @@
             <span>&copy; <?php echo date('Y'); ?> Ponte Financeira — Educação financeira independente e sem jargões.</span>
             <span class="footer-motto">ESTRATÉGIA · CLAREZA · LIBERDADE</span>
         </div>
+        <div class="container footer-legal-links">
+            <a href="/politica-privacidade.php">Política de Privacidade</a>
+            <span>&middot;</span>
+            <a href="/termos-de-uso.php">Termos de Uso</a>
+        </div>
     </div>
 </footer>
 
+<div id="cookieBanner" class="cookie-banner" hidden>
+    <div class="cookie-banner-inner">
+        <p>Usamos cookies para melhorar sua experiência e exibir anúncios. Ao continuar navegando, você concorda com nossa <a href="/politica-privacidade.php">Política de Privacidade</a>.</p>
+        <button type="button" id="cookieBannerAccept" class="btn btn-primary">Entendi</button>
+    </div>
+</div>
+
 <script src="/assets/js/main.js"></script>
+<script>
+(function () {
+    var STORAGE_KEY = 'pf_cookie_consent';
+    try {
+        if (localStorage.getItem(STORAGE_KEY) === 'accepted') return;
+    } catch (e) {
+        return; // localStorage indisponível (ex.: modo privado restrito) — não exibe o banner
+    }
+    var banner = document.getElementById('cookieBanner');
+    var acceptBtn = document.getElementById('cookieBannerAccept');
+    if (!banner || !acceptBtn) return;
+    banner.hidden = false;
+    acceptBtn.addEventListener('click', function () {
+        try { localStorage.setItem(STORAGE_KEY, 'accepted'); } catch (e) {}
+        banner.hidden = true;
+    });
+})();
+</script>
 </body>
 </html>

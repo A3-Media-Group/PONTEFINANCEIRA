@@ -263,6 +263,24 @@ a.post-cat:hover { background: var(--green); color: #fff; }
 .footer-bottom { border-top: 1px solid #223A52; padding: 20px 0; }
 .footer-bottom-inner { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-size: .8rem; color: #7D8FA0; }
 .footer-motto { letter-spacing: .12em; }
+.footer-legal-links { display: flex; gap: 10px; align-items: center; font-size: .78rem; color: #7D8FA0; padding-top: 10px; }
+.footer-legal-links a { color: #9FB0BE; }
+.footer-legal-links a:hover { color: #fff; }
+
+/* ---------- Banner de cookies ---------- */
+.cookie-banner {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 200;
+    background: var(--ink); color: #E7ECEF;
+    border-top: 1px solid #223A52;
+    box-shadow: 0 -12px 30px -14px rgba(14, 36, 56, 0.35);
+}
+.cookie-banner-inner {
+    max-width: 1180px; margin: 0 auto; padding: 16px 24px;
+    display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;
+}
+.cookie-banner-inner p { margin: 0; font-size: .88rem; color: #C6D2DC; max-width: 70ch; }
+.cookie-banner-inner a { color: #fff; text-decoration: underline; }
+.cookie-banner-inner .btn { flex-shrink: 0; }
 
 /* ---------- Responsivo ---------- */
 @media (max-width: 900px) {
@@ -290,6 +308,7 @@ a.post-cat:hover { background: var(--green); color: #fff; }
     .download-grid { grid-template-columns: 1fr; }
     .footer-grid { grid-template-columns: 1fr; }
     .footer-bottom-inner { flex-direction: column; }
+    .cookie-banner-inner { flex-direction: column; align-items: stretch; text-align: center; }
 }
 
 @media (prefers-reduced-motion: reduce) {

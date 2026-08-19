@@ -28,6 +28,8 @@ function static_lastmod($file)
     <url><loc><?php echo SITE_URL; ?>/arquivos-gratuitos.php</loc><lastmod><?php echo static_lastmod('arquivos-gratuitos.php'); ?></lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
     <url><loc><?php echo SITE_URL; ?>/sobre.php</loc><lastmod><?php echo static_lastmod('sobre.php'); ?></lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
     <url><loc><?php echo SITE_URL; ?>/contato.php</loc><lastmod><?php echo static_lastmod('contato.php'); ?></lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+    <url><loc><?php echo SITE_URL; ?>/politica-privacidade.php</loc><lastmod><?php echo static_lastmod('politica-privacidade.php'); ?></lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+    <url><loc><?php echo SITE_URL; ?>/termos-de-uso.php</loc><lastmod><?php echo static_lastmod('termos-de-uso.php'); ?></lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
     <?php foreach ($posts as $post): ?>
     <url>
         <loc><?php echo SITE_URL; ?>/artigo/<?php echo urlencode($post['slug']); ?></loc>
