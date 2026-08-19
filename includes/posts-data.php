@@ -1584,6 +1584,218 @@ $posts = [
         'tags' => 'método bola de neve dívidas, como quitar dívidas, método avalanche vs bola de neve, estratégia para sair das dívidas',
     ],
 
+    [
+        'slug' => 'financiamento-ou-consorcio',
+        'title' => 'Financiamento ou Consórcio: Qual Escolher?',
+        'category' => ['Educação'],
+        'date' => '2026-07-14',
+        'read_time' => '7 min',
+        'excerpt' => 'Financiamento ou consórcio: entenda a diferença entre taxa de administração e juros, o CET de cada modalidade e qual escolher para carro ou imóvel.',
+        'image' => '/assets/img/post-financiamento-ou-consorcio.jpg',
+        'full' => true,
+        'content' => '
+<p>A dúvida entre financiamento ou consórcio aparece sempre que alguém decide comprar um carro ou um imóvel sem ter o valor total disponível. As duas modalidades resolvem o mesmo problema — acesso ao bem sem pagar tudo à vista —, mas funcionam de formas bem diferentes, com custos e prazos que merecem comparação cuidadosa antes de decidir.</p>
+
+<h2>Como Funciona o Financiamento</h2>
+<p>No financiamento, uma instituição financeira empresta o valor do bem e você paga de volta em parcelas, com juros incidindo sobre o saldo devedor. A grande vantagem é o acesso imediato ao bem — você recebe o carro ou o imóvel assim que o contrato é aprovado, sem precisar esperar.</p>
+
+<h2>Como Funciona o Consórcio</h2>
+<p>No consórcio, um grupo de pessoas se reúne para comprar cotas mensais, formando um fundo comum. Todo mês, um ou mais participantes são contemplados — por sorteio ou lance — e recebem uma carta de crédito para comprar o bem. Não há juros no consórcio, mas também não há garantia de quando você será contemplado, a menos que dê um lance para antecipar.</p>
+
+<h2>Taxa de Administração x Juros: A Diferença Que Confunde</h2>
+<p>Esse é o ponto que mais gera dúvida entre os dois modelos:</p>
+<ul>
+    <li><strong>Financiamento:</strong> cobra juros sobre o saldo devedor, calculados mês a mês. Quanto maior a taxa e o prazo, maior o valor total pago;</li>
+    <li><strong>Consórcio:</strong> não cobra juros, mas cobra uma taxa de administração (geralmente entre 10% e 25% do valor do bem, diluída ao longo do prazo do grupo), além de um fundo de reserva em alguns casos.</li>
+</ul>
+<p>Como as duas modalidades usam lógicas de cobrança diferentes, comparar "taxa de juros do financiamento" com "taxa de administração do consórcio" diretamente pode levar a uma conclusão errada.</p>
+
+<h2>CET: A Métrica Que Realmente Importa</h2>
+<p>Para comparar as duas opções de forma justa, o ideal é sempre pedir o Custo Efetivo Total (CET) de cada proposta — ele soma todos os custos envolvidos (juros ou taxa de administração, tarifas, seguros obrigatórios) em um único percentual anual, permitindo uma comparação direta entre financiamento e consórcio, e até entre diferentes instituições financeiras e administradoras.</p>
+
+<h2>Vantagens e Desvantagens de Cada Modalidade</h2>
+<h3>Financiamento</h3>
+<ul>
+    <li><strong>Vantagem:</strong> acesso imediato ao bem;</li>
+    <li><strong>Desvantagem:</strong> juros costumam tornar o custo total bem mais alto que o valor do bem, especialmente em prazos longos.</li>
+</ul>
+<h3>Consórcio</h3>
+<ul>
+    <li><strong>Vantagem:</strong> sem juros, o que reduz o custo total na maioria dos casos;</li>
+    <li><strong>Desvantagem:</strong> não há garantia de quando você será contemplado, a menos que ofereça um lance — o que exige disponibilidade de capital extra.</li>
+</ul>
+
+<h2>Quando o Financiamento Faz Mais Sentido</h2>
+<p>Vale mais a pena quando você precisa do bem com urgência — por exemplo, um carro para trabalhar ou um imóvel que você já encontrou e não quer perder. A previsibilidade de ter o bem imediatamente compensa o custo mais alto dos juros nesses casos.</p>
+
+<h2>Quando o Consórcio Faz Mais Sentido</h2>
+<p>É mais indicado para quem tem flexibilidade de tempo e planeja a compra com antecedência — por exemplo, alguém pensando em trocar de carro ou comprar um imóvel dentro de dois ou três anos, sem pressa. Como não há juros, o custo total tende a ser menor, desde que você consiga esperar a contemplação (ou tenha reserva para dar um lance).</p>
+
+<h2>Antes de Decidir</h2>
+<p>Peça simulações completas das duas opções, sempre com o CET explícito, e projete o valor total pago ao final do prazo em cada cenário. Se a compra envolve um imóvel, também vale considerar como as condições de crédito imobiliário têm mudado — nosso guia sobre o <a href="/artigo/financiamento-imobiliario-2026-novo-modelo">novo modelo de financiamento imobiliário do Banco Central</a> explica como as taxas variam conforme a faixa de valor do imóvel.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Taxas de juros, taxas de administração e condições variam entre instituições — compare sempre propostas reais e atualizadas antes de decidir.</p>
+</div>
+
+<p>Quer simular o custo total de cada opção no seu caso? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'financiamento ou consórcio, taxa de administração consórcio, cet financiamento, consórcio de carro ou imóvel',
+    ],
+
+    [
+        'slug' => 'taxa-selic',
+        'title' => 'Taxa Selic: O Que É e Como Ela Afeta Sua Vida Financeira',
+        'category' => ['Finanças', 'Educação'],
+        'date' => '2026-08-03',
+        'read_time' => '6 min',
+        'excerpt' => 'Entenda o que é a taxa Selic, como o Copom define seu valor e como ela impacta poupança, financiamentos, cartão de crédito e investimentos.',
+        'image' => '/assets/img/post-taxa-selic.jpg',
+        'full' => true,
+        'content' => '
+<p>A taxa Selic é a taxa básica de juros da economia brasileira e influencia, direta ou indiretamente, praticamente todas as decisões financeiras do país — da poupança ao financiamento de um imóvel. Entender como ela funciona ajuda a interpretar por que o crédito fica mais caro ou mais barato ao longo do tempo, e por que alguns investimentos rendem mais em determinados momentos.</p>
+
+<h2>O Que É a Taxa Selic</h2>
+<p>Selic é a sigla para Sistema Especial de Liquidação e Custódia, mas o termo também nomeia a taxa básica de juros usada como referência para todas as demais taxas de juros do país. Ela representa o custo do dinheiro nas operações entre instituições financeiras e serve de piso para praticamente todo o crédito concedido no Brasil.</p>
+
+<h2>Como o Copom Define a Taxa</h2>
+<p>A Selic é definida pelo Comitê de Política Monetária (Copom), do Banco Central, em reuniões que acontecem a cada 45 dias, aproximadamente oito vezes por ano. O Copom avalia principalmente o comportamento da inflação frente à meta estabelecida pelo Conselho Monetário Nacional, além do nível de atividade econômica, para decidir se sobe, mantém ou reduz a taxa.</p>
+<p>Em termos gerais: quando a inflação está alta ou ameaça subir, o Copom tende a elevar a Selic, encarecendo o crédito e desestimulando o consumo para conter os preços. Quando a inflação está sob controle e a economia precisa de estímulo, o Copom tende a reduzir a taxa.</p>
+
+<h2>Como a Selic Afeta Seus Investimentos</h2>
+<p>A Selic é a principal referência para a rentabilidade de investimentos de renda fixa:</p>
+<ul>
+    <li><strong>Tesouro Selic:</strong> acompanha diretamente a taxa básica, sem teto — quanto maior a Selic, maior a rentabilidade bruta do título;</li>
+    <li><strong>CDBs, LCIs e LCAs:</strong> costumam ser referenciados como um percentual do CDI, que acompanha de perto a Selic;</li>
+    <li><strong>Poupança:</strong> tem uma regra própria — quando a Selic está acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais a Taxa Referencial, independentemente de quanto a Selic sobe além desse patamar.</li>
+</ul>
+<p>Isso explica por que, em cenários de Selic alta, o Tesouro Selic e os CDBs costumam superar a rentabilidade da poupança de forma significativa — veja mais no nosso guia sobre <a href="/artigo/tesouro-selic-ou-poupanca-2026">Tesouro Selic ou poupança: qual rende mais</a>.</p>
+
+<h2>Como a Selic Afeta Financiamentos e Empréstimos</h2>
+<p>Como a Selic é o piso do custo do crédito no país, financiamentos imobiliários, de veículos e empréstimos pessoais tendem a ficar mais caros quando ela sobe, e mais baratos quando ela cai. Isso acontece porque os bancos captam recursos a taxas próximas da Selic e repassam esse custo, acrescido de spread e risco, para quem contrata o crédito.</p>
+
+<h2>Como a Selic Afeta o Cartão de Crédito e o Cheque Especial</h2>
+<p>Linhas de crédito sem garantia, como o rotativo do cartão e o cheque especial, também sofrem influência da Selic, mas de forma menos direta — o spread bancário nessas modalidades costuma ser tão alto que a variação da Selic representa uma fração pequena do custo total. Ainda assim, um cenário de Selic alta reforça o alerta: essas são, historicamente, as formas mais caras de crédito disponíveis no mercado.</p>
+
+<h2>Selic Alta x Selic Baixa: O Que Muda no Seu Bolso</h2>
+<table>
+<tr><th></th><th>Selic Alta</th><th>Selic Baixa</th></tr>
+<tr><td>Investimentos de renda fixa</td><td>Rendem mais</td><td>Rendem menos</td></tr>
+<tr><td>Financiamentos e empréstimos</td><td>Ficam mais caros</td><td>Ficam mais baratos</td></tr>
+<tr><td>Consumo e crédito</td><td>Tendem a desacelerar</td><td>Tendem a se aquecer</td></tr>
+</table>
+
+<h2>Como Acompanhar a Selic Atual</h2>
+<p>O valor da Selic muda ao longo do ano conforme as decisões do Copom, por isso vale sempre conferir a taxa vigente diretamente no site do Banco Central do Brasil antes de tomar decisões de investimento ou crédito baseadas nela.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A taxa Selic muda ao longo do tempo conforme decisões do Copom — consulte sempre o valor atualizado no site do Banco Central antes de tomar decisões financeiras.</p>
+</div>
+
+<p>Quer simular quanto seus investimentos podem render com a Selic atual? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'taxa selic o que é, como a selic afeta investimentos, copom taxa de juros, selic alta ou baixa',
+    ],
+
+    [
+        'slug' => 'recursos-esquecidos-banco-central',
+        'title' => 'Dinheiro Esquecido no Banco: Como Consultar e Resgatar Valores a Receber',
+        'category' => ['Finanças'],
+        'date' => '2026-07-21',
+        'read_time' => '4 min',
+        'excerpt' => 'Saiba como consultar gratuitamente se você tem dinheiro esquecido em bancos pelo sistema Valores a Receber do Banco Central, e como solicitar o resgate.',
+        'image' => '/assets/img/post-recursos-esquecidos-banco-central.jpg',
+        'full' => true,
+        'content' => '
+<p>Muita gente não sabe, mas pode haver dinheiro esquecido em bancos e financeiras no seu nome — e a consulta para descobrir isso é simples, oficial e totalmente gratuita. O sistema é mantido pelo próprio Banco Central do Brasil e já devolveu bilhões de reais a pessoas físicas e jurídicas que nem sabiam ter esses valores parados.</p>
+
+<h2>O Que É o Sistema de Valores a Receber (SVR)</h2>
+<p>O SVR é a plataforma oficial do Banco Central que centraliza informações sobre valores esquecidos em instituições financeiras — contas encerradas com saldo residual, tarifas cobradas indevidamente e já ressarcidas, rendimentos não resgatados, entre outras situações. A consulta é feita diretamente pelo CPF ou CNPJ.</p>
+
+<h2>De Onde Vêm Esses Valores Esquecidos</h2>
+<ul>
+    <li>Contas correntes ou poupança encerradas sem o saque do saldo remanescente;</li>
+    <li>Tarifas bancárias cobradas indevidamente, já devolvidas pela instituição mas não resgatadas pelo cliente;</li>
+    <li>Consórcios cancelados com saldo a devolver;</li>
+    <li>Restituições e ressarcimentos diversos determinados por decisões regulatórias ou judiciais.</li>
+</ul>
+
+<h2>Como Consultar Gratuitamente</h2>
+<p>A consulta é feita pelo site oficial do Banco Central, na seção "Valores a Receber". Basta informar CPF ou CNPJ e alguns dados de identificação para saber se há algum valor disponível no seu nome. O serviço é <strong>100% gratuito</strong> — desconfie de qualquer site ou pessoa que cobre para fazer essa consulta por você.</p>
+
+<h2>Como Solicitar o Resgate</h2>
+<p>Se a consulta encontrar algum valor disponível, o próprio sistema indica os passos para solicitar o resgate, que geralmente envolve entrar em contato diretamente com a instituição financeira responsável pelo valor, apresentando os documentos de identificação solicitados. O prazo e o processo podem variar conforme a instituição e a origem do valor.</p>
+
+<h2>Cuidado com Golpes</h2>
+<p>Como o tema envolve "dinheiro esquecido", é comum surgirem golpes explorando a curiosidade das pessoas. Alguns cuidados importantes:</p>
+<ul>
+    <li>Acesse a consulta apenas pelo site oficial do Banco Central — nunca por links recebidos em mensagens de WhatsApp, SMS ou redes sociais;</li>
+    <li>Desconfie de qualquer cobrança para "liberar" ou "acelerar" o resgate — o processo oficial não tem custo;</li>
+    <li>Nunca informe senhas, dados de cartão ou faça qualquer pagamento para receber um valor que é seu por direito.</li>
+</ul>
+
+<h2>O Que Fazer com o Dinheiro Encontrado</h2>
+<p>Se você encontrar algum valor esquecido, vale considerar usá-lo para reforçar sua reserva de emergência ou quitar alguma dívida pendente antes de gastar. Se você ainda não tem uma reserva estruturada, nosso guia sobre <a href="/artigo/como-comecar-a-investir">como começar a investir</a> explica o passo a passo para transformar esse dinheiro extra em um primeiro passo mais sólido.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A consulta e o resgate de valores esquecidos são gratuitos e feitos exclusivamente pelo site oficial do Banco Central — desconfie de qualquer cobrança relacionada a esse serviço.</p>
+</div>
+
+<p>Quer organizar o que fazer com um dinheiro extra encontrado? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar o melhor destino para esse valor.</p>
+',
+        'tags' => 'dinheiro esquecido no banco, valores a receber banco central, consultar recursos esquecidos, resgate de dinheiro esquecido',
+    ],
+
+    [
+        'slug' => 'orcamento-de-sobrevivencia',
+        'title' => 'Orçamento de Sobrevivência: Como Organizar Gastos Sob Pressão',
+        'category' => ['Orçamento'],
+        'date' => '2026-07-12',
+        'read_time' => '5 min',
+        'excerpt' => 'Veja como montar um orçamento de sobrevivência para blindar o essencial em meses de aperto financeiro, sem deixar de pagar o que realmente importa.',
+        'image' => '/assets/img/post-orcamento-de-sobrevivencia.jpg',
+        'full' => true,
+        'content' => '
+<p>Um orçamento de sobrevivência é uma estrutura temporária de gastos usada quando a renda cai, uma emergência surge ou as dívidas pressionam o mês a ponto de qualquer erro no planejamento comprometer o essencial. Diferente de um orçamento tradicional, o foco aqui não é economizar para um objetivo futuro — é blindar o básico enquanto a situação se estabiliza.</p>
+
+<h2>O Que É um Orçamento de Sobrevivência</h2>
+<p>É uma versão enxuta do orçamento mensal, que corta tudo que não é estritamente necessário para manter moradia, alimentação, saúde e as contas que, se não pagas, geram consequências graves e imediatas (como corte de luz ou despejo). A ideia é reduzir o risco de uma crise financeira piorar, ganhando tempo para reorganizar a situação.</p>
+
+<h2>Passo 1: Liste Apenas o Essencial</h2>
+<p>Separe os gastos em uma lista curta e objetiva, considerando apenas:</p>
+<ul>
+    <li>Moradia (aluguel ou financiamento, condomínio, contas de luz e água);</li>
+    <li>Alimentação básica;</li>
+    <li>Transporte necessário para trabalho;</li>
+    <li>Saúde (medicamentos contínuos, plano de saúde se não puder ser cancelado sem risco);</li>
+    <li>Dívidas com risco real de consequência grave (como financiamento de imóvel, para evitar perda do bem).</li>
+</ul>
+<p>Tudo que não está nessa lista entra na categoria de corte temporário.</p>
+
+<h2>Passo 2: Corte Temporariamente o Que Não É Essencial</h2>
+<p>Assinaturas de streaming, planos de academia, delivery, compras não urgentes de vestuário — tudo isso pausa durante o período de sobrevivência. Não é definitivo, mas precisa ser tratado como não negociável enquanto a situação não se estabiliza.</p>
+
+<h2>Passo 3: Priorize Dívidas com Risco Real, Não as Mais Barulhentas</h2>
+<p>Quando o dinheiro não dá para tudo, priorize o que tem consequência mais grave em caso de não pagamento — moradia e contas essenciais primeiro. Dívidas de cartão de crédito, embora estressantes, geralmente têm mais espaço para negociação de prazo do que uma conta de luz ou o aluguel.</p>
+
+<h2>Passo 4: Busque Renda Extra Rápida, Mesmo Que Pequena</h2>
+<p>Vender itens que não usa mais, oferecer serviços pontuais ou freelas de curto prazo podem ajudar a fechar a conta do mês sem recorrer a mais dívida. Mesmo um valor pequeno de renda extra reduz a pressão sobre o orçamento apertado.</p>
+
+<h2>Passo 5: Negocie Antes de Atrasar, Não Depois</h2>
+<p>Se perceber que não vai conseguir pagar alguma conta, entre em contato com o credor antes do vencimento, não depois. Muitas empresas e bancos têm mais flexibilidade para negociar prazo quando o cliente avisa com antecedência, em vez de simplesmente atrasar. Nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> ajuda nessa conversa.</p>
+
+<h2>Quando Voltar ao Orçamento Normal</h2>
+<p>O orçamento de sobrevivência não deve durar para sempre — é uma medida de contenção enquanto a situação de aperto (perda de renda, emergência, excesso de dívidas) está sendo resolvida. Assim que a estabilidade voltar, o ideal é migrar gradualmente para um orçamento mais equilibrado, que inclua espaço para reserva de emergência e algum lazer. Nosso guia sobre <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> ajuda nessa transição para uma rotina financeira mais sustentável.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Cada situação financeira é única — os passos aqui são um ponto de partida para organizar o essencial, não uma solução definitiva para problemas financeiros estruturais.</p>
+</div>
+
+<p>Quer organizar seu orçamento essencial com mais clareza? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'orçamento de sobrevivência, como cortar gastos em crise financeira, priorizar contas essenciais, orçamento apertado',
+    ],
+
 ];
 
 /**
@@ -1596,8 +1808,6 @@ $posts = [
  * integral de qualquer um deles, veja o README.md > "Próximos passos".
  */
 $posts_resumo = [
-    ['taxa-selic', 'Taxa Selic: Expectativa de Corte e Política Monetária', ['Finanças','Notícias'], '2026-08-03', '5 min',
-        'A taxa Selic, fixada em 12,75%, é vital para a política monetária brasileira. Analistas preveem um possível corte na Selic em reuniões futuras do Copom, visando estimular o crescimento econômico em meio a desafios.'],
     ['nova-lei-vale-alimentacao-refeicao-2026', 'Nova Lei do Vale-Alimentação e Refeição em 2026: O Que Muda?', ['Orçamento','Notícias'], '2026-07-29', '1 min',
         'Entenda as novas regras do vale-alimentação (VA) e refeição (VR) em 2026. Saiba como funciona a interoperabilidade e os limites de taxas para os comércios.'],
     ['vale-refeicao', 'Vale-Refeição Acabando Antes do Dia 15? Entenda a Crise do Benefício em 2026', ['Notícias'], '2026-07-29', '1 min',
@@ -1646,8 +1856,6 @@ $posts_resumo = [
         'A recente implementação da tarifa de 25% nos Estados Unidos gera discussões entre investidores e analistas sobre os efeitos de longo prazo no mercado financeiro.'],
     ['fundos-imobiliarios-crescimento', 'Fundos Imobiliários: Crescimento em Junho', ['Finanças'], '2026-07-21', '2 min',
         'O mercado de fundos imobiliários (FIIs) demonstrou resiliência, com 41 mil novos investidores, totalizando 3,25 milhões de cotistas na B3.'],
-    ['recursos-esquecidos-banco-central', 'Consultar Recursos Esquecidos - Banco Central', ['Finanças'], '2026-07-21', '1 min',
-        'O sistema do Banco Central permite consultar gratuitamente se há recursos esquecidos em instituições financeiras. Descubra como solicitar o resgate desses valores.'],
     ['distribuicao-fgts-2026', 'Distribuição FGTS: R$ 13,2 Bilhões para 2026', ['Finanças'], '2026-07-21', '5 min',
         'O governo confirmou a distribuição do lucro do FGTS no valor de R$ 13,2 bilhões para os trabalhadores em 2026. Veja pontos cruciais para planejar o uso desse dinheiro.'],
     ['educacao-financeira-lei-aprovada', 'Educação Financeira: Projeto de Lei 2.979/2023 Aprovado', ['Educação'], '2026-07-20', '3 min',
@@ -1664,21 +1872,16 @@ $posts_resumo = [
         'Descubra como a inteligência artificial está revolucionando o aprendizado e oferecendo suporte essencial para investimentos financeiros.'],
     ['cashback-imposto-renda', 'Receita Federal e o Pagamento do Cashback do Imposto de Renda: O Que Você Precisa Saber', ['Notícias'], '2026-07-17', '8 min',
         'Entenda como funciona o cashback do Imposto de Renda pago pela Receita Federal e o que isso significa para o seu planejamento financeiro.'],
-    ['financiamento-ou-consorcio', 'Financiamento ou Consórcio: Qual Escolher?', ['Educação'], '2026-07-14', '8 min',
-        'Descubra se o financiamento ou o consórcio é a melhor opção para adquirir seu carro ou imóvel, entendendo a diferença entre taxa de administração e CET.'],
     ['educacao-financeira-nas-ferias', 'Como Ensinar Educação Financeira nas Férias: 5 Atividades para Salvar Seu Filho das Dívidas', ['Educação'], '2026-07-14', '10 min',
         'Para ensinar educação financeira nas férias, utilize jogos de tabuleiro, um sistema de recompensas por tarefas extras e envolva as crianças nas compras — o foco é associar esforço, escolha e recompensa de forma lúdica.'],
     ['dividas-caixa-serasa', 'Dívidas da Caixa no Serasa: Como Conseguir 90% de Desconto Passo a Passo', ['Renegociação'], '2026-07-13', '2 min',
         'A Caixa liberou descontos de até 90% em dívidas atrasadas pelo Serasa Limpa Nome. Veja o passo a passo para consultar seu CPF, simular o acordo e limpar seu nome.'],
     ['recuperar-score-credito', 'O Caminho Exato para Recuperar Seu Score de Crédito', ['Score de Crédito'], '2026-07-12', '2 min',
         'Descubra como o Cadastro Positivo e o pagamento estratégico de pendências podem acelerar a reconstrução da sua reputação financeira.'],
-    ['orcamento-de-sobrevivencia', 'Orçamento de Sobrevivência: Como Organizar Gastos Sob Pressão', ['Orçamento'], '2026-07-12', '2 min',
-        'Aprenda a montar uma estrutura de custos focada em blindar o seu sustento enquanto planeja o pagamento das suas dívidas.'],
 ];
 
 // Imagens de capa ilustradas (uma por artigo, tema relevante ao assunto)
 $posts_resumo_images = [
-    'taxa-selic' => '/assets/img/post-taxa-selic.jpg',
     'nova-lei-vale-alimentacao-refeicao-2026' => '/assets/img/post-nova-lei-vale-alimentacao-refeicao-2026.jpg',
     'vale-refeicao' => '/assets/img/post-vale-refeicao.jpg',
     'desenrola-brasil-2026' => '/assets/img/post-desenrola-brasil-2026.jpg',
@@ -1703,7 +1906,6 @@ $posts_resumo_images = [
     'cartao-credito-gestao-despesas' => '/assets/img/post-cartao-credito-gestao-despesas.jpg',
     'tarifa-25-eua' => '/assets/img/post-tarifa-25-eua.jpg',
     'fundos-imobiliarios-crescimento' => '/assets/img/post-fundos-imobiliarios-crescimento.jpg',
-    'recursos-esquecidos-banco-central' => '/assets/img/post-recursos-esquecidos-banco-central.jpg',
     'distribuicao-fgts-2026' => '/assets/img/post-distribuicao-fgts-2026.jpg',
     'educacao-financeira-lei-aprovada' => '/assets/img/post-educacao-financeira-lei-aprovada.jpg',
     'desenrola-brasil' => '/assets/img/post-desenrola-brasil.jpg',
@@ -1712,11 +1914,9 @@ $posts_resumo_images = [
     'saude-mental-financeira' => '/assets/img/post-saude-mental-financeira.jpg',
     'ia-investimentos' => '/assets/img/post-ia-investimentos.jpg',
     'cashback-imposto-renda' => '/assets/img/post-cashback-imposto-renda.jpg',
-    'financiamento-ou-consorcio' => '/assets/img/post-financiamento-ou-consorcio.jpg',
     'educacao-financeira-nas-ferias' => '/assets/img/post-educacao-financeira-nas-ferias.jpg',
     'dividas-caixa-serasa' => '/assets/img/post-dividas-caixa-serasa.jpg',
     'recuperar-score-credito' => '/assets/img/post-recuperar-score-credito.jpg',
-    'orcamento-de-sobrevivencia' => '/assets/img/post-orcamento-de-sobrevivencia.jpg',
 ];
 
 // Converte os artigos resumidos para o mesmo formato dos artigos completos
