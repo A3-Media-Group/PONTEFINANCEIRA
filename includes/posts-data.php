@@ -1232,6 +1232,199 @@ $posts = [
         'tags' => 'taxa de juros do crédito para pequenas empresas, inadimplência pmes 2026, cet custo efetivo total empresa, gestão financeira para microempreendedor',
     ],
 
+    [
+        'slug' => 'rescisao-contrato-de-trabalho',
+        'title' => 'Rescisão Contrato de Trabalho: Seus Direitos',
+        'category' => ['Educação'],
+        'date' => '2026-07-23',
+        'read_time' => '6 min',
+        'excerpt' => 'Entenda seus direitos na rescisão de contrato de trabalho: o que você recebe em cada tipo de desligamento e como calcular o valor exato.',
+        'image' => '/assets/img/post-rescisao-contrato-de-trabalho.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber calcular a rescisão de contrato de trabalho é essencial no momento de deixar um emprego — seja por demissão, pedido próprio ou acordo com a empresa. Cada tipo de desligamento muda completamente o que você tem direito a receber, e entender essas diferenças evita tanto prejuízo financeiro quanto expectativas erradas.</p>
+
+<h2>Os Tipos de Rescisão de Contrato de Trabalho</h2>
+<p>A CLT prevê diferentes formas de encerrar um contrato de trabalho, e cada uma delas define quais verbas são pagas:</p>
+<ul>
+    <li><strong>Demissão sem justa causa:</strong> a empresa decide encerrar o contrato sem que o funcionário tenha cometido falta grave — é a forma que garante o pacote mais completo de direitos;</li>
+    <li><strong>Demissão com justa causa:</strong> ocorre quando o trabalhador comete uma falta grave prevista em lei (como insubordinação ou ato de improbidade) — reduz drasticamente as verbas recebidas;</li>
+    <li><strong>Pedido de demissão:</strong> quando o próprio trabalhador decide sair da empresa;</li>
+    <li><strong>Acordo mútuo (distrato):</strong> modalidade criada pela reforma trabalhista de 2017, em que empresa e funcionário concordam em encerrar o contrato de forma consensual;</li>
+    <li><strong>Término de contrato por prazo determinado:</strong> quando o contrato tem data de fim definida desde o início.</li>
+</ul>
+
+<h2>O Que Você Recebe em Cada Tipo de Rescisão</h2>
+<h3>Demissão Sem Justa Causa</h3>
+<p>É o cenário com mais direitos garantidos:</p>
+<ul>
+    <li>Saldo de salário (dias trabalhados no mês da demissão);</li>
+    <li>Aviso prévio (trabalhado ou indenizado);</li>
+    <li>13º salário proporcional;</li>
+    <li>Férias vencidas (se houver) acrescidas de 1/3 constitucional;</li>
+    <li>Férias proporcionais acrescidas de 1/3;</li>
+    <li>Multa de 40% sobre o saldo do FGTS;</li>
+    <li>Liberação do saque do FGTS;</li>
+    <li>Direito ao seguro-desemprego, se atendidos os requisitos.</li>
+</ul>
+<h3>Pedido de Demissão</h3>
+<p>Quem pede demissão tem direito a saldo de salário, 13º proporcional e férias (vencidas e proporcionais, com 1/3). Não há multa de 40% do FGTS, o saque do fundo fica bloqueado e não há direito a seguro-desemprego.</p>
+<h3>Acordo Mútuo (Distrato)</h3>
+<p>Nessa modalidade, o trabalhador recebe metade do aviso prévio indenizado (se não for trabalhado), 20% de multa sobre o FGTS (em vez de 40%) e pode sacar até 80% do saldo do FGTS — mas não tem direito a seguro-desemprego.</p>
+<h3>Demissão Com Justa Causa</h3>
+<p>O pacote mais reduzido: apenas saldo de salário e férias vencidas com 1/3 (se houver). Não há 13º proporcional, aviso prévio, multa do FGTS, nem acesso ao saque do fundo ou seguro-desemprego.</p>
+
+<h2>Como é Calculado o Aviso Prévio</h2>
+<p>Desde a Lei 12.506/2011, o aviso prévio é proporcional ao tempo de casa: começa em 30 dias e soma 3 dias adicionais para cada ano completo trabalhado na mesma empresa, até o limite de 90 dias no total. Ele pode ser trabalhado (o funcionário continua na empresa durante o período, com jornada reduzida) ou indenizado (a empresa paga o valor correspondente sem exigir o cumprimento).</p>
+
+<h2>Prazo Para Receber a Rescisão</h2>
+<p>Desde a reforma trabalhista, o prazo para pagamento de todas as verbas rescisórias é de até <strong>10 dias corridos</strong> contados a partir do término do contrato — independentemente de o aviso prévio ter sido trabalhado ou indenizado. Atrasar esse pagamento gera multa em favor do trabalhador, equivalente a um salário.</p>
+
+<h2>Documentos Que Você Deve Receber</h2>
+<ul>
+    <li><strong>TRCT</strong> (Termo de Rescisão do Contrato de Trabalho), com o detalhamento de todas as verbas pagas;</li>
+    <li><strong>Guias para saque do FGTS</strong>, quando aplicável;</li>
+    <li><strong>Chave de conectividade social</strong> ou código para liberação do FGTS pelo aplicativo;</li>
+    <li><strong>Guias do seguro-desemprego</strong>, nos casos de demissão sem justa causa que atendam aos requisitos do benefício.</li>
+</ul>
+
+<h2>Erros Comuns na Hora de Conferir a Rescisão</h2>
+<ul>
+    <li>Não conferir se o cálculo do aviso prévio considerou corretamente os anos completos trabalhados;</li>
+    <li>Esquecer de verificar se há férias vencidas (não gozadas) além das proporcionais;</li>
+    <li>Não confirmar se a multa do FGTS foi calculada sobre o saldo total do fundo (incluindo rendimentos), e não apenas sobre os depósitos;</li>
+    <li>Assinar o termo de rescisão sem antes simular o valor esperado.</li>
+</ul>
+
+<h2>Simule Sua Rescisão Antes de Assinar</h2>
+<p>Antes de assinar qualquer documento de desligamento, vale simular o valor esperado para conferir se bate com o que a empresa está oferecendo. Nossa <a href="/calculadoras/rescisao.php">calculadora de rescisão trabalhista</a> considera o tipo de desligamento, tempo de casa e salário para estimar o valor total a receber. Se o desligamento envolve também o saque do FGTS, o conteúdo sobre <a href="/artigo/fgts-calculadora">como funciona o FGTS</a> complementa o cálculo com os detalhes do fundo de garantia.</p>
+<p>Se a rescisão aconteceu porque a empresa entrou em recuperação judicial ou processo de falência, as regras mudam — nesse caso, vale conferir nosso guia sobre <a href="/artigo/direitos-trabalhistas-empresa-recuperacao-judicial">direitos trabalhistas em empresas com recuperação judicial</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não substitui orientação jurídica. Cada caso pode ter particularidades (acordos coletivos, cláusulas contratuais específicas) — em caso de dúvida, consulte o sindicato da sua categoria ou um advogado trabalhista.</p>
+</div>
+
+<p>Quer saber exatamente quanto você tem a receber? Use nossa <a href="/calculadoras/rescisao.php">calculadora de rescisão gratuita</a> e simule seu caso em poucos minutos.</p>
+',
+        'tags' => 'rescisão contrato de trabalho, cálculo rescisão trabalhista, aviso prévio proporcional, direitos demissão sem justa causa, calculadora de rescisão',
+    ],
+
+    [
+        'slug' => 'fgts-calculadora',
+        'title' => 'Tudo o Que Você Precisa Saber Sobre FGTS e uma Super Calculadora Para Gerenciar Seu Fundo de Garantia',
+        'category' => ['Educação'],
+        'date' => '2026-07-23',
+        'read_time' => '6 min',
+        'excerpt' => 'Entenda o que é o FGTS, quando você pode sacar, como consultar o saldo e use nossa calculadora gratuita para simular valores.',
+        'image' => '/assets/img/post-fgts-calculadora.jpg',
+        'full' => true,
+        'content' => '
+<p>Entender o FGTS é fundamental para qualquer trabalhador com carteira assinada no Brasil — afinal, esse fundo pode ser uma das maiores reservas financeiras disponíveis ao longo da vida profissional. Criado em 1966, o Fundo de Garantia do Tempo de Serviço funciona como uma poupança forçada, mantida pelo empregador, que só pode ser sacada em situações específicas previstas em lei.</p>
+
+<h2>O Que É o FGTS</h2>
+<p>O FGTS é composto por depósitos mensais feitos pela empresa em uma conta vinculada ao trabalhador, aberta na Caixa Econômica Federal. Diferente do salário, esse valor não é descontado do trabalhador — é um custo adicional pago integralmente pelo empregador.</p>
+
+<h2>Como Funciona o Depósito Mensal</h2>
+<p>Todo mês, a empresa deposita o equivalente a <strong>8% do salário bruto</strong> do funcionário na conta do FGTS. Esse valor rende, atualmente, Taxa Referencial (TR) mais 3% ao ano — uma rentabilidade historicamente considerada baixa se comparada a outros investimentos, mas que funciona como uma proteção obrigatória e de baixo risco.</p>
+
+<h2>Quando Você Pode Sacar o FGTS</h2>
+<p>O saque não é livre a qualquer momento — a lei prevê situações específicas:</p>
+<ul>
+    <li><strong>Demissão sem justa causa:</strong> libera o saque total do saldo, além da multa de 40% paga pelo empregador;</li>
+    <li><strong>Acordo mútuo (distrato):</strong> libera até 80% do saldo, com multa de 20%;</li>
+    <li><strong>Aposentadoria:</strong> libera o saque total do saldo;</li>
+    <li><strong>Compra da casa própria:</strong> pode ser usado como parte do pagamento ou amortização de financiamento imobiliário dentro do Sistema Financeiro de Habitação;</li>
+    <li><strong>Doenças graves:</strong> como câncer e HIV/AIDS, tanto para o titular quanto para dependentes;</li>
+    <li><strong>Falecimento do trabalhador:</strong> os dependentes têm direito ao saque do saldo;</li>
+    <li><strong>Saque-aniversário:</strong> modalidade opcional que libera uma parcela do saldo todo ano, no mês de aniversário do titular.</li>
+</ul>
+
+<h2>Saque-Aniversário x Saque-Rescisão</h2>
+<p>Ao aderir ao FGTS, o trabalhador escolhe entre duas modalidades:</p>
+<ul>
+    <li><strong>Saque-rescisão (padrão):</strong> o saldo só pode ser sacado integralmente nas situações previstas em lei, como demissão sem justa causa;</li>
+    <li><strong>Saque-aniversário:</strong> libera uma porcentagem do saldo todo ano, no mês de aniversário, mas em troca o trabalhador abre mão do saque do saldo total em caso de demissão sem justa causa — recebendo apenas a multa de 40%.</li>
+</ul>
+<p>A escolha entre as duas modalidades deve considerar o quanto você valoriza ter acesso a uma parte do dinheiro todo ano versus manter o FGTS como reserva de segurança em caso de desemprego.</p>
+
+<h2>Como Consultar o Saldo do FGTS</h2>
+<p>A forma mais simples é pelo aplicativo <strong>FGTS</strong>, disponível para Android e iOS, ou pelo Internet Banking da Caixa. Também é possível consultar pelo extrato disponibilizado nos caixas eletrônicos da Caixa Econômica Federal ou em lotéricas.</p>
+
+<h2>Multa Rescisória: Entenda a Diferença Entre 40% e 20%</h2>
+<p>A multa rescisória é calculada sobre o saldo total do FGTS (incluindo os rendimentos), não apenas sobre o valor depositado. Em uma demissão sem justa causa, a multa é de 40% desse saldo, paga pelo empregador diretamente na conta do trabalhador. No acordo mútuo (distrato), a multa cai para 20%, refletindo a natureza consensual do desligamento.</p>
+
+<h2>Simule Seu FGTS na Prática</h2>
+<p>Para entender quanto você já acumulou ou quanto pode receber em diferentes cenários de desligamento, use nossa <a href="/calculadoras/fgts.php">calculadora de FGTS</a> gratuita. Ela ajuda a projetar o saldo considerando tempo de contribuição e salário, facilitando o planejamento antes de tomar decisões importantes, como aderir ao saque-aniversário ou usar o fundo como garantia em um <a href="/artigo/consignado-clt-fgts-garantia">consignado com garantia do FGTS</a>.</p>
+<p>Se você está se planejando para uma possível demissão, também vale simular o valor total da rescisão — nosso guia sobre <a href="/artigo/rescisao-contrato-de-trabalho">rescisão de contrato de trabalho</a> explica o que mais você tem direito a receber além do FGTS.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Regras de saque, alíquotas e prazos podem sofrer alterações — confirme sempre as informações atualizadas diretamente no aplicativo FGTS ou nos canais oficiais da Caixa Econômica Federal.</p>
+</div>
+
+<p>Quer saber exatamente quanto você tem disponível no FGTS? Use nossa <a href="/calculadoras/fgts.php">calculadora gratuita</a> e simule seu saldo agora.</p>
+',
+        'tags' => 'fgts o que é, calculadora fgts, saque aniversário fgts, quando posso sacar o fgts, multa rescisória fgts',
+    ],
+
+    [
+        'slug' => 'escolher-melhor-cartao-credito',
+        'title' => 'Como Escolher o Melhor Cartão de Crédito para Você',
+        'category' => ['Cartão de Crédito'],
+        'date' => '2026-07-18',
+        'read_time' => '7 min',
+        'excerpt' => 'Veja como escolher o melhor cartão de crédito considerando anuidade, CET, programa de pontos e benefícios — sem cair em armadilhas.',
+        'image' => '/assets/img/post-escolher-melhor-cartao-credito.jpg',
+        'full' => true,
+        'content' => '
+<p>Escolher o melhor cartão de crédito não é sobre encontrar "o melhor do mercado" — é sobre encontrar o cartão certo para o seu perfil de gastos. Um cartão cheio de benefícios de viagem não faz sentido para quem não viaja, assim como um cartão premium com anuidade alta pode não valer a pena para quem gasta pouco por mês.</p>
+
+<h2>Defina Seu Perfil de Uso Antes de Comparar Cartões</h2>
+<p>Antes de olhar qualquer oferta, responda: quanto você gasta no cartão por mês? Você costuma pagar a fatura integral ou parcelar? Viaja com frequência? Prefere acumular pontos, milhas ou receber cashback direto? As respostas já eliminam boa parte das opções do mercado.</p>
+
+<h2>Anuidade: Vale a Pena Pagar?</h2>
+<p>Cartões sem anuidade são a opção mais segura para quem está começando ou usa o cartão para valores baixos. Já cartões com anuidade costumam compensar apenas quando os benefícios (pontos, milhas, salas VIP, seguros) superam claramente o custo anual — o que só acontece com um volume de gastos relativamente alto e um uso consistente dos benefícios oferecidos.</p>
+<p>Desde 2026, bancos e financeiras são obrigados a avisar com pelo menos um mês de antecedência antes de começar a cobrar anuidade em um cartão que era isento — vale ficar atento a essas notificações.</p>
+
+<h2>CET é Mais Importante Que a Taxa de Juros Anunciada</h2>
+<p>Ao comparar cartões — principalmente linhas com parcelamento de fatura ou crédito consignado no cartão —, olhe sempre o Custo Efetivo Total (CET), não apenas a taxa de juros nominal. O CET inclui tarifas, seguros embutidos e outros encargos, mostrando o custo real da operação.</p>
+<p>Vale lembrar que, desde 2026, o rotativo do cartão de crédito tem um teto legal: os juros e encargos não podem fazer a dívida ultrapassar o dobro do valor original. Ainda assim, cair no rotativo continua sendo uma das formas mais caras de crédito disponíveis — o ideal é sempre pagar a fatura integral.</p>
+
+<h2>Programas de Pontos, Milhas e Cashback</h2>
+<p>Cada modalidade de recompensa serve a um perfil diferente:</p>
+<ul>
+    <li><strong>Cashback:</strong> mais simples e direto — uma porcentagem do valor gasto volta como dinheiro, sem necessidade de entender regras de conversão;</li>
+    <li><strong>Pontos:</strong> costumam ter mais flexibilidade (trocar por produtos, milhas ou até dinheiro), mas o valor de cada ponto varia muito entre programas;</li>
+    <li><strong>Milhas:</strong> fazem mais sentido para quem viaja com frequência e sabe transferir pontos para programas aéreos de forma vantajosa — para uso ocasional, o cashback ou pontos genéricos costumam compensar mais.</li>
+</ul>
+
+<h2>Benefícios Que Fazem Diferença de Verdade</h2>
+<p>Além do programa de recompensas, vale considerar benefícios como seguro de viagem, seguro de proteção de compra, acesso a salas VIP em aeroportos e assistência 24 horas. Mas só valorize esses diferenciais se você realmente for usá-los — um benefício que nunca é acionado não compensa uma anuidade mais alta.</p>
+
+<h2>Cartão Para Quem Está Começando ou Tem Score Baixo</h2>
+<p>Quem não tem histórico de crédito ou está reconstruindo o score após ficar com o nome sujo costuma ter acesso limitado a cartões tradicionais. Alternativas comuns nesse cenário incluem cartões pré-pagos, cartões com garantia (limite vinculado a um depósito) e cartões de instituições digitais com aprovação menos rígida — o importante é usar o cartão com moderação e pagar em dia para construir histórico.</p>
+
+<h2>Cuidados com o Rotativo e o Parcelamento da Fatura</h2>
+<p>Antes de escolher um cartão pelas vantagens, avalie também o que acontece se você atrasar ou parcelar a fatura. Compare o CET do parcelamento entre diferentes emissores — a diferença pode ser grande mesmo com o teto legal em vigor. Se você já está com dificuldade de pagar a fatura em dia, vale rever nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos</a> antes que a situação se agrave.</p>
+
+<h2>Checklist Final Antes de Escolher</h2>
+<ul>
+    <li>O cartão tem anuidade? Ela é compensada pelos benefícios que você realmente vai usar?</li>
+    <li>O programa de recompensas combina com seu perfil de gastos (cashback, pontos ou milhas)?</li>
+    <li>Qual o CET em caso de atraso ou parcelamento da fatura?</li>
+    <li>O limite oferecido é compatível com sua renda, sem incentivar gastos além do orçamento?</li>
+    <li>A instituição é regulamentada e confiável?</li>
+</ul>
+<p>Se você está comparando o cartão com outras formas de pagamento parcelado, como o Pix Parcelado, vale conferir nosso guia sobre <a href="/artigo/pix-parcelado-como-funciona">como funciona o Pix parcelado</a> antes de decidir qual opção sai mais barata para o seu caso.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Taxas, anuidades e benefícios variam entre instituições e podem mudar a qualquer momento — confirme sempre as condições atualizadas diretamente com o banco ou financeira antes de contratar um cartão.</p>
+</div>
+
+<p>Quer comparar o custo de diferentes formas de parcelamento antes de decidir? Use nosso <a href="/simuladores-financeiros.php">simulador de juros e parcelas</a> gratuito.</p>
+',
+        'tags' => 'melhor cartão de crédito, como escolher cartão de crédito, cet cartão de crédito, cartão sem anuidade, programa de pontos cartão',
+    ],
+
 ];
 
 /**
@@ -1274,10 +1467,6 @@ $posts_resumo = [
         'A vida de um motorista de aplicativo é repleta de desafios financeiros, especialmente em relação ao acesso a crédito justo. Veja como as mudanças no cenário podem facilitar a comprovação de renda e a obtenção de empréstimos.'],
     ['perigo-cartao-credito-banco-central', 'O Perigo Invisível do Cartão de Crédito: Por Que as Dívidas sem Garantia Assustam o Banco Central', ['Notícias'], '2026-07-24', '5 min',
         'Durante a Expert XP 2026, o presidente do Banco Central, Gabriel Galípolo, destacou o crescente problema de crédito no Brasil, especialmente nas operações sem garantia.'],
-    ['rescisao-contrato-de-trabalho', 'Rescisão Contrato de Trabalho: Seus Direitos', ['Educação'], '2026-07-23', '2 min',
-        'Entenda seus direitos na rescisão de contrato de trabalho sem justa causa. Utilize nossa calculadora de rescisão para descobrir o valor que você tem a receber ao ser desligado do emprego.'],
-    ['fgts-calculadora', 'Tudo o Que Você Precisa Saber Sobre FGTS e uma Super Calculadora Para Gerenciar Seu Fundo de Garantia', ['Educação'], '2026-07-23', '5 min',
-        'Descubra tudo sobre o FGTS e como nossa calculadora pode ajudar você a gerenciar seu Fundo de Garantia do Tempo de Serviço de forma fácil e precisa.'],
     ['novas-tarifas-casa-branca', 'Novas Tarifas da Casa Branca e Seu Impacto Comercial', ['Notícias'], '2026-07-23', '8 min',
         'Recentemente, a Casa Branca anunciou novas tarifas que podem impactar significativamente as relações comerciais internacionais, em um contexto de proteção às indústrias locais.'],
     ['programa-brasil-soberano-3', 'Programa Brasil Soberano 3: Desenvolvimento Sustentável', ['Notícias'], '2026-07-23', '8 min',
@@ -1312,8 +1501,6 @@ $posts_resumo = [
         'Aprenda estratégias eficazes para fazer o seu dinheiro durar até o final do mês, especialmente se sua renda é baseada em um salário mínimo.'],
     ['desafio-financeiro-maternidade', 'Desafio Financeiro na Maternidade: Como se Preparar', ['Educação'], '2026-07-18', '5 min',
         'Dicas financeiras para mães enfrentando o desafio financeiro da maternidade: como se preparar para a chegada do bebê e gerenciar as finanças com eficácia.'],
-    ['escolher-melhor-cartao-credito', 'Como Escolher o Melhor Cartão de Crédito para Você', ['Cartão de Crédito'], '2026-07-18', '8 min',
-        'Aprenda a analisar e escolher o melhor cartão de crédito para suas necessidades, comparando opções e encontrando o cartão ideal para o seu estilo de vida.'],
     ['pix-taxas-cartao', 'Impacto da Criação do Pix nas Taxas de Cartão', ['Cartão de Crédito'], '2026-07-18', '2 min',
         'Entenda como a criação do Pix está transformando o cenário financeiro e impactando as taxas do cartão de crédito, com suas vantagens e desvantagens.'],
     ['saude-mental-financeira', 'Saúde Mental e Saúde Financeira: A Conexão Importante', ['Finanças'], '2026-07-17', '5 min',
@@ -1353,8 +1540,6 @@ $posts_resumo_images = [
     'tarifas-de-comercio' => '/assets/img/post-tarifas-de-comercio.jpg',
     'motorista-de-aplicativo' => '/assets/img/post-motorista-de-aplicativo.jpg',
     'perigo-cartao-credito-banco-central' => '/assets/img/post-perigo-cartao-credito-banco-central.jpg',
-    'rescisao-contrato-de-trabalho' => '/assets/img/post-rescisao-contrato-de-trabalho.jpg',
-    'fgts-calculadora' => '/assets/img/post-fgts-calculadora.jpg',
     'novas-tarifas-casa-branca' => '/assets/img/post-novas-tarifas-casa-branca.jpg',
     'programa-brasil-soberano-3' => '/assets/img/post-programa-brasil-soberano-3.jpg',
     'entenda-o-tarifaco' => '/assets/img/post-entenda-o-tarifaco.jpg',
@@ -1372,7 +1557,6 @@ $posts_resumo_images = [
     'desenrola-brasil' => '/assets/img/post-desenrola-brasil.jpg',
     'dinheiro-durar-ate-fim-do-mes' => '/assets/img/post-dinheiro-durar-ate-fim-do-mes.jpg',
     'desafio-financeiro-maternidade' => '/assets/img/post-desafio-financeiro-maternidade.jpg',
-    'escolher-melhor-cartao-credito' => '/assets/img/post-escolher-melhor-cartao-credito.jpg',
     'pix-taxas-cartao' => '/assets/img/post-pix-taxas-cartao.jpg',
     'saude-mental-financeira' => '/assets/img/post-saude-mental-financeira.jpg',
     'ia-investimentos' => '/assets/img/post-ia-investimentos.jpg',
