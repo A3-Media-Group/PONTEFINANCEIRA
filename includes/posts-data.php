@@ -1060,6 +1060,178 @@ $posts = [
         'tags' => 'fim da isenção de lci, lci vai pagar imposto de renda, tributação lci lca 2027, vale a pena investir em lci 2026',
     ],
 
+    [
+        'slug' => 'mulheres-previdencia-privada-menos-investem',
+        'title' => 'Mulheres na Previdência Privada: Por Que Elas Investem 30% Menos e Como Mudar Isso',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Pesquisa da Susep mostra que mulheres aportam 30% menos na previdência privada que homens. Entenda os motivos e como começar a investir na aposentadoria.',
+        'image' => '/assets/img/post-mulheres-previdencia-privada-menos-investem.jpg',
+        'full' => true,
+        'content' => '
+<p>Mulheres na previdência privada ainda são minoria em participação e aportam significativamente menos que os homens, segundo a 1ª Pesquisa FeMa Meter, divulgada pela Superintendência de Seguros Privados (Susep) em agosto de 2026. O levantamento expõe uma lacuna que vai muito além da conhecida diferença salarial entre os gêneros — e que pode custar caro lá na frente, na hora da aposentadoria.</p>
+
+<h2>Os Números da Desigualdade</h2>
+<p>Segundo a pesquisa, a previdência privada aberta é justamente onde as mulheres têm maior participação relativa entre os produtos analisados: 44,9% dos participantes são mulheres. Ainda assim, o valor médio de aporte é bem menor:</p>
+<ul>
+    <li><strong>Homens:</strong> R$ 17.218 em média;</li>
+    <li><strong>Mulheres:</strong> R$ 13.187 em média — cerca de 30% a menos.</li>
+</ul>
+<p>Em seguros climáticos e rurais, a participação feminina cai para apenas 13,4%, a menor entre todas as categorias analisadas pela pesquisa.</p>
+
+<h2>Por Que Isso Acontece</h2>
+<p>O levantamento da Susep aponta cinco fatores principais por trás dessa diferença:</p>
+<ul>
+    <li><strong>Desigualdade salarial:</strong> a renda média das mulheres segue inferior à dos homens no mercado de trabalho brasileiro, reduzindo a capacidade de poupança;</li>
+    <li><strong>Carga de cuidado familiar:</strong> mulheres ainda assumem, em média, mais responsabilidades domésticas e de cuidado, o que pressiona o orçamento e reduz o espaço para investir a longo prazo;</li>
+    <li><strong>Comunicação inadequada do setor:</strong> historicamente, seguradoras e gestoras de previdência não desenvolveram comunicação voltada para as necessidades específicas do público feminino;</li>
+    <li><strong>Produtos genéricos:</strong> faltam soluções pensadas para momentos específicos da vida das mulheres, como maternidade e maior expectativa de longevidade;</li>
+    <li><strong>Falta de dados desagregados por gênero:</strong> sem esses dados, fica mais difícil para o setor desenhar produtos e preços mais adequados a cada perfil.</li>
+</ul>
+
+<h2>Por Que a Longevidade Torna Isso Ainda Mais Relevante</h2>
+<p>Mulheres vivem em média mais que homens no Brasil — o que significa que precisam de mais anos de renda garantida na aposentadoria, exatamente o público que hoje acumula menos patrimônio previdenciário. Essa combinação (mais tempo de vida, menos dinheiro guardado) é o principal motivo pelo qual especialistas recomendam que mulheres comecem a poupar para a aposentadoria o quanto antes, mesmo com valores pequenos.</p>
+
+<h2>Como Começar a Investir na Previdência (Mesmo com Pouco)</h2>
+<p>A boa notícia é que não é preciso esperar ganhar mais para começar. Alguns passos práticos ajudam a reduzir essa distância ao longo do tempo:</p>
+<ul>
+    <li><strong>Comece com aportes pequenos e regulares:</strong> a consistência importa mais do que o valor inicial — aportar pouco todo mês tende a render mais, no longo prazo, do que esperar ter uma quantia maior para começar;</li>
+    <li><strong>Compare PGBL e VGBL:</strong> a escolha entre os dois planos de previdência privada depende do seu modelo de declaração de Imposto de Renda — vale simular qual se encaixa melhor no seu caso antes de contratar;</li>
+    <li><strong>Negocie o salário e busque equiparação:</strong> reduzir a raiz do problema (a diferença de renda) também é parte da solução de longo prazo;</li>
+    <li><strong>Considere outras formas de investir para a aposentadoria:</strong> Tesouro Direto e fundos de investimento também são caminhos possíveis para quem quer construir uma reserva de longo prazo fora da previdência privada tradicional.</li>
+</ul>
+<p>Se você ainda não começou a investir de forma alguma, nosso guia sobre <a href="/artigo/como-comecar-a-investir">como começar a investir do zero</a> traz o passo a passo — desde organizar as finanças até entender os primeiros tipos de investimento disponíveis.</p>
+
+<h2>O Papel do Setor Financeiro Daqui Para Frente</h2>
+<p>A própria pesquisa recomenda que seguradoras e gestoras de previdência ajustem produtos considerando riscos específicos das mulheres, melhorem a comunicação direcionada a esse público e aumentem a participação feminina na criação e distribuição desses produtos. Enquanto essas mudanças estruturais não avançam, a saída individual segue sendo começar a investir o quanto antes, mesmo que aos poucos.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Antes de contratar qualquer plano de previdência privada, avalie taxas, prazos e seu perfil de investidor, e se necessário busque orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/mulheres-sao-minoria-entre-consumidores-de-seguros-e-aportam-menos-na-previdencia/" target="_blank" rel="noopener">Mulheres são minoria entre consumidores de seguros e aportam menos na previdência</a></li>
+    <li>Susep — 1ª Pesquisa FeMa Meter (2026)</li>
+</ul>
+
+<p>Quer simular quanto seus aportes mensais podem render até a aposentadoria? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'mulheres na previdência privada, diferença salarial mulheres aposentadoria, seguro para mulheres desconto, como começar a investir na previdência privada',
+    ],
+
+    [
+        'slug' => 'direitos-trabalhistas-empresa-recuperacao-judicial',
+        'title' => 'Empresa em Recuperação Judicial: O Que Acontece com Seus Direitos Trabalhistas',
+        'category' => ['Notícias', 'Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda o que muda nos direitos trabalhistas quando a empresa entra em recuperação judicial, quais verbas ficam protegidas e o que fazer se você for demitido.',
+        'image' => '/assets/img/post-direitos-trabalhistas-empresa-recuperacao-judicial.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber o que acontece com os direitos trabalhistas quando a empresa entra em recuperação judicial é essencial para qualquer trabalhador — não só para quem está diretamente envolvido em um caso como o das Casas Bahia, que voltou ao noticiário em agosto de 2026. Diferente de uma demissão comum, receber tudo o que é devido pode não acontecer de forma integral nem imediata.</p>
+
+<h2>Por Que os Demitidos Podem Receber Menos</h2>
+<p>Quando uma empresa entra com pedido de recuperação judicial, boa parte das verbas rescisórias deixa de ser paga integralmente e à vista. Segundo o InfoMoney, valores como férias vencidas com terço constitucional, 13º salário proporcional, multa de 40% do FGTS e aviso prévio indenizado passam a integrar o plano de recuperação judicial da empresa — sujeitos a deságio (desconto) e parcelamento de até três anos.</p>
+<p>Como explica o advogado trabalhista Jamil Rangel: "O trabalhador não vai poder executar o seu crédito. Ele vai habilitar esse crédito para receber, posteriormente, numa fila."</p>
+
+<h2>Quais Verbas Ficam Protegidas</h2>
+<p>Nem tudo entra nessa fila de credores. Alguns créditos recebem proteção especial e prioridade de pagamento:</p>
+<ul>
+    <li><strong>Créditos de natureza estritamente salarial:</strong> salários já vencidos e não pagos têm prioridade sobre outros credores;</li>
+    <li><strong>FGTS até cinco salários mínimos:</strong> essa parcela específica do FGTS também recebe proteção especial dentro do processo.</li>
+</ul>
+<p>Já férias vencidas, 13º proporcional, multa de 40% do FGTS e aviso prévio indenizado não têm essa mesma prioridade — entram no plano de recuperação judicial como qualquer outro credor.</p>
+
+<h2>Se Você For Demitido Depois do Pedido de Recuperação</h2>
+<p>Há uma diferença importante de timing: trabalhadores demitidos <strong>depois</strong> do pedido de recuperação judicial ter sido protocolado têm direito ao pagamento integral das verbas rescisórias em até dez dias — sem entrar na fila de credores da recuperação. A regra mais restritiva vale principalmente para quem já tinha valores em aberto no momento do pedido.</p>
+
+<h2>O Que Fazer Se Você Foi Demitido Nessa Situação</h2>
+<ul>
+    <li><strong>Solicite o seguro-desemprego:</strong> esse benefício é pago diretamente pelo governo, não pela empresa em recuperação, e não é afetado pelo processo;</li>
+    <li><strong>Acompanhe a atuação do sindicato:</strong> em processos de recuperação judicial, o sindicato da categoria costuma negociar coletivamente em nome dos trabalhadores, o que pode melhorar as condições de pagamento;</li>
+    <li><strong>Fique atento ao prazo de parcelamento:</strong> se o pagamento for negociado para um prazo superior a um ano, a lei não permite desconto (deságio) sobre o valor devido;</li>
+    <li><strong>Habilite seu crédito no processo:</strong> é necessário formalizar a habilitação do crédito trabalhista dentro da recuperação judicial para entrar na fila de recebimento — geralmente com apoio do sindicato ou de um advogado.</li>
+</ul>
+
+<h2>Como se Planejar Financeiramente Nesse Cenário</h2>
+<p>Como parte do dinheiro pode demorar a cair — ou vir parcelado e com desconto —, vale montar um planejamento financeiro mais conservador enquanto o processo não se resolve. Nosso guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> ajuda a organizar as contas essenciais nesse período de transição, e se você tem outras dívidas em aberto, o conteúdo sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos</a> traz um caminho para não deixar essas pendências crescerem enquanto a recuperação da empresa não é concluída.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Cada processo de recuperação judicial tem particularidades próprias — procure orientação de um advogado trabalhista ou do sindicato da sua categoria para avaliar o seu caso específico.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/demitidos-da-casas-bahia-podem-receber-menos-do-que-tem-direito-entenda/" target="_blank" rel="noopener">Demitidos da Casas Bahia podem receber menos do que têm direito; entenda</a></li>
+</ul>
+
+<p>Quer calcular o que você tem direito a receber numa rescisão? Use nossa <a href="/calculadoras.php">calculadora de rescisão trabalhista</a> gratuita.</p>
+',
+        'tags' => 'direitos trabalhistas recuperação judicial, demitido empresa recuperação judicial direitos, fgts recuperação judicial, seguro desemprego demissão recuperação judicial',
+    ],
+
+    [
+        'slug' => 'taxa-juros-credito-pequenas-empresas',
+        'title' => 'Taxa de Juros do Crédito para Pequenas Empresas: 63% dos Donos Não Sabem Quanto Pagam',
+        'category' => ['Finanças', 'Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Estudo mostra que 63% dos empresários não sabem a taxa de juros que pagam no crédito. Veja como calcular o CET e evitar a inadimplência nas pequenas empresas.',
+        'image' => '/assets/img/post-taxa-juros-credito-pequenas-empresas.jpg',
+        'full' => true,
+        'content' => '
+<p>A taxa de juros do crédito para pequenas empresas é, segundo um novo estudo, algo que a maioria dos donos de negócio simplesmente não sabe informar. Um levantamento da Safegold, divulgado pelo InfoMoney em agosto de 2026, mostra que mais de 63% dos empresários desconhecem a taxa efetiva de juros que pagam aos bancos — um problema que ajuda a explicar por que a inadimplência das micro, pequenas e médias empresas (MPMEs) bateu recorde neste ano.</p>
+
+<h2>O Tamanho do Problema em Números</h2>
+<p>Segundo o estudo "Crédito estressado: quem compra, quem vende e quem deve", as MPMEs concentram uma fatia desproporcional da inadimplência do país:</p>
+<ul>
+    <li>MPMEs respondem por <strong>R$ 75,6 bilhões</strong> dos R$ 85,1 bilhões em crédito empresarial em atraso — quase 89% do total;</li>
+    <li>A taxa de inadimplência das MPMEs está em <strong>5,71%</strong>, contra apenas <strong>0,66%</strong> das grandes empresas;</li>
+    <li>Essa diferença de 5,05 pontos percentuais é uma das maiores já registradas pelo Banco Central desde agosto de 2017.</li>
+</ul>
+
+<h2>Por Que os Pequenos Negócios Devem Mais</h2>
+<p>O estudo aponta várias causas para esse cenário, além dos juros altos do país (com a Selic em 14% ao ano):</p>
+<ul>
+    <li><strong>Mudança contábil regulatória:</strong> a Resolução CMN nº 4.966, que alterou o critério de "perda incorrida" para "perda esperada" no balanço dos bancos, é responsável por cerca de 70% do aumento registrado na inadimplência — ou seja, parte do salto é um efeito estatístico, não necessariamente um agravamento real da situação das empresas;</li>
+    <li><strong>Falta de profissionalização:</strong> muitos pequenos negócios ainda não têm uma gestão financeira estruturada;</li>
+    <li><strong>Precificação incorreta de produtos e serviços:</strong> sem saber o custo real do crédito, fica difícil precificar corretamente o que a empresa vende;</li>
+    <li><strong>Desvio de finalidade do crédito:</strong> usar capital de giro para investimentos de longo prazo (como imobilizado) é um erro comum que compromete o caixa do dia a dia.</li>
+</ul>
+
+<h2>O Dado Mais Preocupante: Falta de Clareza Financeira</h2>
+<p>Além dos 63% que não sabem a taxa de juros que pagam, o estudo mostra que 75% dos empresários não têm clareza sobre os próprios números financeiros. Isso cria um ciclo difícil de romper: sem entender o próprio fluxo de caixa, o empresário toma decisões de crédito no escuro — e sem saber o custo real do dinheiro emprestado, é praticamente impossível saber se o negócio está sendo rentável de verdade.</p>
+
+<h2>Como Descobrir a Taxa Real do Seu Crédito</h2>
+<p>O primeiro passo para sair dessa estatística é entender o Custo Efetivo Total (CET) de qualquer operação de crédito contratada:</p>
+<ul>
+    <li>Peça ao banco ou financeira o CET completo da operação, não apenas a taxa de juros nominal — o CET inclui tarifas, seguros e outros encargos embutidos;</li>
+    <li>Compare o CET entre diferentes instituições antes de fechar qualquer contrato, incluindo linhas específicas para pequenas empresas;</li>
+    <li>Anote todas as operações de crédito ativas da empresa (empréstimos, financiamentos, cartão) e calcule o custo total mensal que elas representam no caixa.</li>
+</ul>
+
+<h2>Gestão Financeira: O Caminho Para Sair do Ciclo</h2>
+<p>Segundo o estudo, ter uma gestão financeira transparente se tornou praticamente obrigatório para conseguir crédito hoje, já que os bancos vêm rejeitando análises baseadas apenas em balanços contábeis tradicionais — querem ver números reais e atualizados do negócio. Separar as finanças pessoais das da empresa, acompanhar o fluxo de caixa semanalmente e reservar parte do faturamento para imprevistos são passos básicos, mas que fazem diferença real na hora de negociar crédito com juros menores.</p>
+<p>Se você é MEI ou está perto do limite de faturamento da categoria, vale também acompanhar as discussões sobre o <a href="/artigo/novo-limite-mei-2026">novo limite do MEI</a>, já que o enquadramento tributário do seu negócio impacta diretamente o acesso a linhas de crédito e as condições oferecidas pelos bancos.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições de crédito variam entre instituições financeiras — consulte sempre mais de um banco e, se necessário, um contador antes de contratar crédito para o seu negócio.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/inadimplencia-mpmes-credito-em-atraso-brasil/" target="_blank" rel="noopener">Nova regra do Banco Central "infla" calotes e asfixia crédito a PMEs, mostra estudo</a></li>
+    <li>Safegold — estudo "Crédito estressado: quem compra, quem vende e quem deve" (2026)</li>
+</ul>
+
+<p>Quer organizar o fluxo de caixa do seu negócio e planejar o próximo crédito com mais segurança? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'taxa de juros do crédito para pequenas empresas, inadimplência pmes 2026, cet custo efetivo total empresa, gestão financeira para microempreendedor',
+    ],
+
 ];
 
 /**
