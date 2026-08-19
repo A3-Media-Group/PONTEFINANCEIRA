@@ -1425,6 +1425,165 @@ $posts = [
         'tags' => 'melhor cartão de crédito, como escolher cartão de crédito, cet cartão de crédito, cartão sem anuidade, programa de pontos cartão',
     ],
 
+    [
+        'slug' => 'dinheiro-durar-ate-fim-do-mes',
+        'title' => 'Como Fazer o Dinheiro Durar Até o Final do Mês',
+        'category' => ['Educação'],
+        'date' => '2026-07-20',
+        'read_time' => '5 min',
+        'excerpt' => 'Veja como fazer o dinheiro durar até o final do mês com passos práticos: mapear gastos, cortar vazamentos invisíveis e criar uma reserva mínima.',
+        'image' => '/assets/img/post-dinheiro-durar-ate-fim-do-mes.jpg',
+        'full' => true,
+        'content' => '
+<p>Fazer o dinheiro durar até o final do mês é uma das preocupações mais comuns entre os brasileiros, especialmente para quem vive de salário fixo. A boa notícia é que, na maioria dos casos, o problema não é só quanto você ganha, mas como o dinheiro é organizado ao longo do mês.</p>
+
+<h2>Por Que o Dinheiro Acaba Antes do Fim do Mês</h2>
+<p>Antes de qualquer solução, vale entender as causas mais comuns:</p>
+<ul>
+    <li>Não saber exatamente quanto entra e quanto sai por mês;</li>
+    <li>Gastos pequenos e recorrentes que passam despercebidos (assinaturas, apps de entrega, cafés);</li>
+    <li>Ausência de qualquer reserva para imprevistos, o que empurra qualquer emergência para o cartão de crédito;</li>
+    <li>Compras por impulso, sem relação com um planejamento prévio.</li>
+</ul>
+
+<h2>Passo 1: Saiba Exatamente Para Onde Vai Seu Dinheiro</h2>
+<p>Durante pelo menos uma semana, anote absolutamente tudo o que você gasta — do aluguel ao cafezinho. Esse mapeamento simples costuma revelar padrões de gasto que passam despercebidos no dia a dia e que, somados, fazem falta real no fim do mês.</p>
+
+<h2>Passo 2: Separe Gastos Fixos de Variáveis</h2>
+<p>Gastos fixos (aluguel, contas de consumo, mensalidades) são mais previsíveis e difíceis de cortar de imediato. Já os gastos variáveis (lazer, alimentação fora de casa, compras não essenciais) são onde normalmente existe mais espaço para ajuste rápido quando o orçamento aperta.</p>
+
+<h2>Passo 3: Use uma Regra Simples de Divisão do Orçamento</h2>
+<p>Uma referência prática (não uma regra rígida) é dividir a renda em três grandes blocos: uma parte para gastos essenciais, uma parte para desejos e lazer, e uma parte para reserva ou quitação de dívidas. Ajuste as proporções à sua realidade — o importante é ter um limite consciente para cada bloco, em vez de gastar sem parâmetro nenhum.</p>
+
+<h2>Passo 4: Corte os Vazamentos Invisíveis</h2>
+<p>Assinaturas de streaming que você não usa mais, aplicativos com cobrança recorrente esquecida, e pequenas compras diárias que parecem inofensivas isoladamente costumam somar um valor relevante ao longo do mês. Revisar o extrato bancário linha por linha, pelo menos uma vez por mês, ajuda a identificar esses vazamentos.</p>
+
+<h2>Passo 5: Crie uma Reserva, Mesmo Que Pequena</h2>
+<p>Não é preciso esperar sobrar muito dinheiro para começar a guardar algo. Separar um valor fixo, mesmo pequeno, logo que o salário cai, ajuda a criar o hábito e evita que qualquer imprevisto pequeno vire uma dívida no cartão de crédito.</p>
+
+<h2>O Que Fazer Quando o Dinheiro Já Acabou</h2>
+<ul>
+    <li>Evite recorrer ao cartão de crédito ou ao cheque especial como primeira solução — são as formas de crédito mais caras disponíveis;</li>
+    <li>Priorize negociar prazos com credores diretos (como aluguel ou contas de consumo) antes de contrair uma nova dívida;</li>
+    <li>Reveja o orçamento do mês seguinte considerando o que causou o aperto, para não repetir o mesmo padrão.</li>
+</ul>
+<p>Se a situação já envolve dívidas em atraso, vale conferir nosso guia sobre <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a>, que ajuda a estruturar os gastos essenciais enquanto você organiza o pagamento de pendências.</p>
+
+<h2>Ferramentas Que Ajudam no Controle Mensal</h2>
+<p>Uma planilha simples de orçamento costuma ser mais eficaz do que aplicativos complexos, principalmente no início — o importante é criar o hábito de registrar e revisar os gastos regularmente. Baixe nossa <a href="/arquivos-gratuitos.php">planilha de orçamento gratuita</a> para começar a organizar suas contas ainda este mês.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Cada situação financeira é única — os passos aqui são um ponto de partida, não uma fórmula garantida para todos os casos.</p>
+</div>
+
+<p>Quer simular diferentes cenários de orçamento? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar seus gastos com mais previsibilidade.</p>
+',
+        'tags' => 'como fazer o dinheiro durar até o fim do mês, controle de gastos mensais, planilha de orçamento, dicas para economizar dinheiro',
+    ],
+
+    [
+        'slug' => 'negociar-dividas-bancos',
+        'title' => 'Como Negociar Dívidas com Bancos Sem Aceitar a Primeira Proposta',
+        'category' => ['Renegociação'],
+        'date' => '2026-07-12',
+        'read_time' => '5 min',
+        'excerpt' => 'Aprenda a negociar dívidas com bancos sem aceitar a primeira proposta: como funcionam as assessorias de cobrança e estratégias para contrapropor.',
+        'image' => '/assets/img/post-negociar-dividas-bancos.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber negociar dívidas com bancos sem aceitar a primeira proposta pode significar economizar milhares de reais no acordo final. A primeira oferta de uma assessoria de cobrança quase nunca é a melhor que o credor está disposto a fazer — ela costuma ser um ponto de partida, testando se o devedor vai aceitar sem questionar.</p>
+
+<h2>Por Que a Primeira Proposta Quase Nunca é a Melhor</h2>
+<p>Assessorias de cobrança trabalham, em geral, com uma margem de negociação bem maior do que a oferta inicial sugere. O objetivo da primeira proposta costuma ser recuperar o valor com o menor desconto possível — por isso, aceitar de imediato, sem contrapropor, tende a deixar dinheiro na mesa.</p>
+
+<h2>Antes de Negociar: Organize Suas Informações</h2>
+<p>Chegar preparado muda o resultado da conversa. Antes de ligar ou responder a uma cobrança:</p>
+<ul>
+    <li>Liste todas as suas dívidas, valores originais e valores atualizados;</li>
+    <li>Calcule quanto cabe no seu orçamento mensal para o pagamento, sem comprometer despesas essenciais;</li>
+    <li>Defina um valor máximo de entrada e um valor máximo de parcela que você está disposto a pagar — e não ultrapasse esse limite na negociação.</li>
+</ul>
+
+<h2>Como Funcionam as Assessorias de Cobrança</h2>
+<p>Bancos costumam terceirizar a cobrança de dívidas em atraso para assessorias especializadas, que trabalham com comissão sobre o valor recuperado. Isso significa que, para elas, fechar um acordo — mesmo com desconto — costuma ser mais vantajoso do que não fechar nada. Esse é o principal argumento a favor de quem negocia com calma e não aceita a primeira oferta.</p>
+
+<h2>Estratégias Para Contrapropor</h2>
+<ul>
+    <li><strong>Sempre pergunte se há desconto para pagamento à vista</strong> — costuma ser o maior desconto disponível;</li>
+    <li><strong>Ofereça um valor abaixo do que você pode pagar</strong>, deixando margem para a negociação chegar a um meio-termo justo;</li>
+    <li><strong>Peça a proposta por escrito</strong> antes de aceitar qualquer acordo verbal, para evitar surpresas nas condições;</li>
+    <li><strong>Não tenha pressa de aceitar na primeira ligação</strong> — pedir um tempo para avaliar costuma abrir espaço para propostas melhores nas ligações seguintes;</li>
+    <li><strong>Pesquise descontos em mutirões de negociação</strong>, que costumam oferecer condições mais agressivas do que o atendimento individual.</li>
+</ul>
+
+<h2>Erros Comuns na Negociação</h2>
+<ul>
+    <li>Aceitar parcelas que não cabem no orçamento só para "resolver logo" a pendência;</li>
+    <li>Não confirmar se o acordo gera baixa imediata no nome (Serasa/SPC) após o pagamento;</li>
+    <li>Negociar sem antes verificar se a dívida realmente está correta e dentro do prazo de prescrição.</li>
+</ul>
+
+<h2>Programas Oficiais Que Podem Ajudar</h2>
+<p>Além da negociação direta com o banco, vale ficar de olho em programas e mutirões oficiais de renegociação, como o Desenrola Brasil e as campanhas do Serasa Limpa Nome, que costumam trazer descontos maiores em períodos específicos do ano. Se sua dívida já está com o nome negativado, nosso guia sobre <a href="/artigo/nome-sujo-como-consultar-2026">como consultar e sair da inadimplência</a> traz o passo a passo completo.</p>
+
+<h2>Depois de Fechar o Acordo</h2>
+<p>Depois de negociar, priorize o pagamento das dívidas mais caras primeiro — nosso guia sobre o <a href="/artigo/metodo-bola-de-neve">Método Bola de Neve para quitar dívidas</a> explica uma forma prática de organizar essa ordem quando você tem mais de uma pendência em aberto. E fique atento ao prazo de baixa do nome nos birôs de crédito após o pagamento, geralmente de até cinco dias úteis.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições de negociação variam por instituição e por dívida — avalie sempre sua capacidade real de pagamento antes de fechar qualquer acordo.</p>
+</div>
+
+<p>Quer simular quanto cabe no seu orçamento antes de negociar? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'como negociar dívida com banco, negociação de dívidas bancárias, assessoria de cobrança, desconto para pagamento à vista',
+    ],
+
+    [
+        'slug' => 'metodo-bola-de-neve',
+        'title' => 'O Método Bola de Neve para Quitar Dívidas',
+        'category' => ['Educação'],
+        'date' => '2026-07-28',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda como funciona o Método Bola de Neve para quitar dívidas, por que ele funciona psicologicamente e quando vale mais a pena que o Método Avalanche.',
+        'image' => '/assets/img/post-metodo-bola-de-neve.jpg',
+        'full' => true,
+        'content' => '
+<p>O Método Bola de Neve para quitar dívidas é uma das estratégias mais populares para quem está lutando contra várias pendências ao mesmo tempo. Diferente de fórmulas matemáticas complexas, ele aposta em algo mais simples: a psicologia humana e o efeito motivacional de ver resultados rápidos.</p>
+
+<h2>O Que É o Método Bola de Neve</h2>
+<p>A lógica é direta: em vez de focar na dívida com os juros mais altos, você organiza todas as suas dívidas da menor para a maior (em valor total) e concentra os pagamentos extras na menor delas primeiro, pagando apenas o mínimo nas demais. Ao quitar a menor dívida, o valor que era destinado a ela passa a ser somado ao pagamento da próxima — como uma bola de neve que cresce ao rolar montanha abaixo.</p>
+
+<h2>Passo a Passo do Método</h2>
+<ol>
+    <li>Liste todas as suas dívidas, do menor para o maior valor total (não pelo juro, pelo saldo devedor);</li>
+    <li>Continue pagando o valor mínimo de todas as dívidas, exceto a menor;</li>
+    <li>Direcione todo o dinheiro extra disponível no orçamento para quitar a menor dívida o mais rápido possível;</li>
+    <li>Ao quitar a menor dívida, some o valor que estava sendo pago nela ao pagamento mínimo da próxima da lista;</li>
+    <li>Repita o processo até quitar todas as dívidas.</li>
+</ol>
+
+<h2>Por Que Esse Método Funciona Psicologicamente</h2>
+<p>Diferente de uma abordagem puramente matemática, o Método Bola de Neve prioriza a sensação de progresso. Quitar uma dívida inteira — mesmo que pequena — gera uma vitória concreta e visível, o que ajuda a manter a motivação em um processo que, para muitas famílias, pode levar meses ou anos. Estudos de finanças comportamentais mostram que esse tipo de reforço positivo aumenta a chance de a pessoa continuar seguindo o plano até o fim, em vez de desistir no meio do caminho.</p>
+
+<h2>Método Bola de Neve x Método Avalanche</h2>
+<p>Existe uma alternativa conhecida como Método Avalanche, que segue a lógica matematicamente mais eficiente: priorizar a dívida com a <strong>maior taxa de juros</strong>, independentemente do valor total. Isso reduz o total de juros pagos ao longo do processo, mas pode levar mais tempo até a primeira dívida ser totalmente quitada — o que, para algumas pessoas, reduz a motivação de continuar.</p>
+<p>Na prática, a escolha entre os dois métodos depende do seu perfil: se você precisa de vitórias rápidas para manter o foco, a Bola de Neve tende a funcionar melhor. Se você tem disciplina para seguir um plano de longo prazo mesmo sem resultados imediatos, o Avalanche economiza mais dinheiro em juros no total.</p>
+
+<h2>Exemplo Prático</h2>
+<p>Imagine três dívidas: uma de R$ 800 no cartão de crédito, uma de R$ 2.500 em um empréstimo pessoal e uma de R$ 6.000 financiando um eletrodoméstico. Pelo Método Bola de Neve, todo o esforço extra do orçamento vai primeiro para quitar os R$ 800 do cartão. Assim que essa dívida some, o valor que era pago nela passa a reforçar o pagamento do empréstimo de R$ 2.500 — e assim sucessivamente, até a última dívida ser quitada com um valor mensal bem maior do que o inicial.</p>
+
+<h2>Antes de Começar: Organize o Que Você Deve</h2>
+<p>Para aplicar o método, o primeiro passo é mapear exatamente quanto você deve, para quem e com quais condições. Se você ainda não sabe se tem pendências em aberto, comece consultando seu CPF gratuitamente — nosso guia sobre <a href="/artigo/nome-sujo-como-consultar-2026">como saber se seu nome está sujo</a> explica onde e como fazer essa checagem. E antes de aceitar qualquer proposta de pagamento, vale ler nossas dicas sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> — reduzir o valor da dívida antes de aplicar o método acelera ainda mais o processo.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. O método mais adequado depende do seu perfil financeiro e emocional — não existe uma fórmula única que funcione igualmente bem para todos.</p>
+</div>
+
+<p>Quer organizar suas dívidas antes de aplicar o método? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> para planejar sua quitação com números reais.</p>
+',
+        'tags' => 'método bola de neve dívidas, como quitar dívidas, método avalanche vs bola de neve, estratégia para sair das dívidas',
+    ],
+
 ];
 
 /**
@@ -1445,8 +1604,6 @@ $posts_resumo = [
         'Um levantamento recente realizado pela Pluxee (antiga Sodexo) revelou um dado preocupante para o bolso dos trabalhadores brasileiros em 2026: o saldo do vale-refeição dura, em média, apenas 9 dias úteis.'],
     ['desenrola-brasil-2026', 'Desenrola Brasil 2026 Prorrogado: O Que Muda e Como Aproveitar o Novo Prazo', ['Notícias'], '2026-07-29', '2 min',
         'Detalhamos tudo o que você precisa saber sobre a extensão do Desenrola Brasil 2026, os resultados do programa até agora e como você pode se planejar para renegociar suas pendências financeiras de vez.'],
-    ['metodo-bola-de-neve', 'O Método Bola de Neve para Quitar Dívidas', ['Educação'], '2026-07-28', '3 min',
-        'Se você está lutando contra múltiplas dívidas, a resposta para o sucesso financeiro pode não estar em planilhas complexas ou na matemática pura, mas sim na psicologia humana: o Método Bola de Neve.'],
     ['fundo-de-garantia', 'Fundo de Garantia: Proteção ao Trabalhador Brasileiro', ['Notícias'], '2026-07-28', '5 min',
         'O Fundo de Garantia do Tempo de Serviço (FGTS) é uma reserva financeira essencial para a proteção do trabalhador brasileiro, criada em 1966. Ele oferece segurança social em casos como dispensa sem justa causa, compra da casa própria e emergências.'],
     ['estresse-financeiro', 'Dinheiro Lidera Preocupações no Brasil: Como Quebrar o Ciclo do Estresse Financeiro', ['Score de Crédito','Finanças'], '2026-07-27', '2 min',
@@ -1497,8 +1654,6 @@ $posts_resumo = [
         'O Senado Federal aprovou o projeto de lei nº 2.979/2023, tornando a educação financeira obrigatória nos currículos do ensino fundamental e médio.'],
     ['desenrola-brasil', 'Desenrola Brasil: Renegocie Dívidas e Limpe Seu Nome', ['Score de Crédito'], '2026-07-20', '5 min',
         'Descubra como o programa Desenrola Brasil pode ajudar você a renegociar suas dívidas com descontos imperdíveis e limpar seu nome.'],
-    ['dinheiro-durar-ate-fim-do-mes', 'Como Fazer o Dinheiro Durar Até o Final do Mês', ['Educação'], '2026-07-20', '4 min',
-        'Aprenda estratégias eficazes para fazer o seu dinheiro durar até o final do mês, especialmente se sua renda é baseada em um salário mínimo.'],
     ['desafio-financeiro-maternidade', 'Desafio Financeiro na Maternidade: Como se Preparar', ['Educação'], '2026-07-18', '5 min',
         'Dicas financeiras para mães enfrentando o desafio financeiro da maternidade: como se preparar para a chegada do bebê e gerenciar as finanças com eficácia.'],
     ['pix-taxas-cartao', 'Impacto da Criação do Pix nas Taxas de Cartão', ['Cartão de Crédito'], '2026-07-18', '2 min',
@@ -1519,8 +1674,6 @@ $posts_resumo = [
         'Descubra como o Cadastro Positivo e o pagamento estratégico de pendências podem acelerar a reconstrução da sua reputação financeira.'],
     ['orcamento-de-sobrevivencia', 'Orçamento de Sobrevivência: Como Organizar Gastos Sob Pressão', ['Orçamento'], '2026-07-12', '2 min',
         'Aprenda a montar uma estrutura de custos focada em blindar o seu sustento enquanto planeja o pagamento das suas dívidas.'],
-    ['negociar-dividas-bancos', 'Como Negociar Dívidas com Bancos Sem Aceitar a Primeira Proposta', ['Renegociação'], '2026-07-12', '2 min',
-        'Entenda os bastidores das assessorias de cobrança e aprenda a contrapropor valores que realmente cabem no seu orçamento mensal.'],
 ];
 
 // Imagens de capa ilustradas (uma por artigo, tema relevante ao assunto)
@@ -1529,7 +1682,6 @@ $posts_resumo_images = [
     'nova-lei-vale-alimentacao-refeicao-2026' => '/assets/img/post-nova-lei-vale-alimentacao-refeicao-2026.jpg',
     'vale-refeicao' => '/assets/img/post-vale-refeicao.jpg',
     'desenrola-brasil-2026' => '/assets/img/post-desenrola-brasil-2026.jpg',
-    'metodo-bola-de-neve' => '/assets/img/post-metodo-bola-de-neve.jpg',
     'fundo-de-garantia' => '/assets/img/post-fundo-de-garantia.jpg',
     'estresse-financeiro' => '/assets/img/post-estresse-financeiro.jpg',
     'desenrola-20' => '/assets/img/post-desenrola-20.jpg',
@@ -1555,7 +1707,6 @@ $posts_resumo_images = [
     'distribuicao-fgts-2026' => '/assets/img/post-distribuicao-fgts-2026.jpg',
     'educacao-financeira-lei-aprovada' => '/assets/img/post-educacao-financeira-lei-aprovada.jpg',
     'desenrola-brasil' => '/assets/img/post-desenrola-brasil.jpg',
-    'dinheiro-durar-ate-fim-do-mes' => '/assets/img/post-dinheiro-durar-ate-fim-do-mes.jpg',
     'desafio-financeiro-maternidade' => '/assets/img/post-desafio-financeiro-maternidade.jpg',
     'pix-taxas-cartao' => '/assets/img/post-pix-taxas-cartao.jpg',
     'saude-mental-financeira' => '/assets/img/post-saude-mental-financeira.jpg',
@@ -1566,7 +1717,6 @@ $posts_resumo_images = [
     'dividas-caixa-serasa' => '/assets/img/post-dividas-caixa-serasa.jpg',
     'recuperar-score-credito' => '/assets/img/post-recuperar-score-credito.jpg',
     'orcamento-de-sobrevivencia' => '/assets/img/post-orcamento-de-sobrevivencia.jpg',
-    'negociar-dividas-bancos' => '/assets/img/post-negociar-dividas-bancos.jpg',
 ];
 
 // Converte os artigos resumidos para o mesmo formato dos artigos completos
