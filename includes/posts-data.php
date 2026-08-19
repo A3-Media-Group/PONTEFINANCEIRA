@@ -2808,52 +2808,15 @@ $posts = [
  * =========================================================
  * DEMAIS ARTIGOS DO SITE ORIGINAL (resumo migrado)
  * =========================================================
- * Estes 45 artigos foram inventariados a partir do site atual
- * (título, categoria, data e resumo reais). O corpo abaixo foi
- * escrito a partir desse resumo original. Para trazer o texto
- * integral de qualquer um deles, veja o README.md > "Próximos passos".
+ * Os artigos de baixo valor editorial (notícias macro/internacionais
+ * datadas e conteúdo redundante) foram removidos do site em 2026-08-19.
+ * Este array fica disponível para futuros posts resumidos, se necessário.
  */
 $posts_resumo = [
-    ['desenrola-brasil-2026', 'Desenrola Brasil 2026 Prorrogado: O Que Muda e Como Aproveitar o Novo Prazo', ['Notícias'], '2026-07-29', '2 min',
-        'Detalhamos tudo o que você precisa saber sobre a extensão do Desenrola Brasil 2026, os resultados do programa até agora e como você pode se planejar para renegociar suas pendências financeiras de vez.'],
-    ['desenrola-20', 'Ainda Dá Tempo de Sair do Vermelho: Prazo para Aderir ao Desenrola 2.0 Termina em 3 de Agosto', ['Renegociação'], '2026-07-27', '3 min',
-        'O prazo do Novo Desenrola 2.0 acaba no dia 3 de agosto. Saiba quem tem direito, como usar o seu FGTS para quitar débitos e o passo a passo para limpar o nome com até 90% de desconto.'],
-    ['tarifas-de-comercio', 'Tarifas de Comércio e Política Econômica nos EUA', ['Notícias'], '2026-07-24', '9 min',
-        'Nos últimos anos, as tarifas de comércio se tornaram um foco central na política econômica dos Estados Unidos. Entenda os impactos da imposição de tarifas elevadas sobre o cenário econômico global.'],
-    ['novas-tarifas-casa-branca', 'Novas Tarifas da Casa Branca e Seu Impacto Comercial', ['Notícias'], '2026-07-23', '8 min',
-        'Recentemente, a Casa Branca anunciou novas tarifas que podem impactar significativamente as relações comerciais internacionais, em um contexto de proteção às indústrias locais.'],
-    ['programa-brasil-soberano-3', 'Programa Brasil Soberano 3: Desenvolvimento Sustentável', ['Notícias'], '2026-07-23', '8 min',
-        'O Programa Brasil Soberano 3 é uma iniciativa do governo que visa enfrentar desafios econômicos, promovendo o desenvolvimento sustentável com um fundo de R$ 135 bilhões.'],
-    ['entenda-o-tarifaco', 'Entenda o Tarifaço e Suas Consequências', ['Notícias'], '2026-07-23', '5 min',
-        'O tarifaço, que se refere ao aumento das tarifas de importação e taxas, impacta diretamente o comércio exterior e a competitividade das empresas brasileiras.'],
-    ['preco-do-petroleo', 'Flutuações do Preço do Petróleo: Alta Recente', ['Notícias'], '2026-07-23', '5 min',
-        'O preço do petróleo tem flutuado significativamente, alcançando US$ 94 por barril, refletindo a forte demanda em economias em desenvolvimento.'],
-    ['instabilidade-mercado-financeiro', 'Instabilidade do Mercado Financeiro e Desafios', ['Notícias'], '2026-07-23', '2 min',
-        'A instabilidade do mercado financeiro gera desafios significativos para a precificação de emissões bancárias. Entenda como fatores econômicos e políticos impactam a confiança dos investidores.'],
-    ['situacao-financeira-amapa', 'Situação Financeira do Amapá: Desafios e Fragilidades', ['Notícias'], '2026-07-22', '5 min',
-        'A situação financeira do Amapá vem se deteriorando, com a reavaliação da nota de crédito revelando fragilidade financeira e elevando custos de financiamentos.'],
-    ['estoques-petroleo-eua', 'Importância dos Estoques de Petróleo nos EUA', ['Notícias'], '2026-07-22', '2 min',
-        'Os estoques de petróleo nos Estados Unidos desempenham um papel crucial na formação dos preços do petróleo globalmente, refletindo as dinâmicas de oferta e demanda.'],
-    ['tarifa-25-eua', 'Impacto da Tarifa de 25% nos EUA: Análise e Previsões', ['Finanças'], '2026-07-22', '2 min',
-        'A recente implementação da tarifa de 25% nos Estados Unidos gera discussões entre investidores e analistas sobre os efeitos de longo prazo no mercado financeiro.'],
-    ['recuperar-score-credito', 'O Caminho Exato para Recuperar Seu Score de Crédito', ['Score de Crédito'], '2026-07-12', '2 min',
-        'Descubra como o Cadastro Positivo e o pagamento estratégico de pendências podem acelerar a reconstrução da sua reputação financeira.'],
 ];
 
 // Imagens de capa ilustradas (uma por artigo, tema relevante ao assunto)
 $posts_resumo_images = [
-    'desenrola-brasil-2026' => '/assets/img/post-desenrola-brasil-2026.jpg',
-    'desenrola-20' => '/assets/img/post-desenrola-20.jpg',
-    'tarifas-de-comercio' => '/assets/img/post-tarifas-de-comercio.jpg',
-    'novas-tarifas-casa-branca' => '/assets/img/post-novas-tarifas-casa-branca.jpg',
-    'programa-brasil-soberano-3' => '/assets/img/post-programa-brasil-soberano-3.jpg',
-    'entenda-o-tarifaco' => '/assets/img/post-entenda-o-tarifaco.jpg',
-    'preco-do-petroleo' => '/assets/img/post-preco-do-petroleo.jpg',
-    'instabilidade-mercado-financeiro' => '/assets/img/post-instabilidade-mercado-financeiro.jpg',
-    'situacao-financeira-amapa' => '/assets/img/post-situacao-financeira-amapa.jpg',
-    'estoques-petroleo-eua' => '/assets/img/post-estoques-petroleo-eua.jpg',
-    'tarifa-25-eua' => '/assets/img/post-tarifa-25-eua.jpg',
-    'recuperar-score-credito' => '/assets/img/post-recuperar-score-credito.jpg',
 ];
 
 // Converte os artigos resumidos para o mesmo formato dos artigos completos
