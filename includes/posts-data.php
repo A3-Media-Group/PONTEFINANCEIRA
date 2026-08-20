@@ -3269,6 +3269,154 @@ $posts = [
         'tags' => 'tesouro ipca+ vale a pena, tesouro ipca+ o que é, juro real tesouro ipca, tesouro ipca+ ou prefixado',
     ],
 
+    [
+        'slug' => 'comercio-agentico-ia-fazendo-compras',
+        'title' => 'Comércio Agêntico: O Que É Quando a IA Faz Compras no Seu Lugar',
+        'category' => ['Notícias', 'Educação'],
+        'date' => '2026-08-20',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é comércio agêntico, como a inteligência artificial já faz compras em nome do consumidor, e os cuidados necessários com esse modelo.',
+        'image' => '/assets/img/post-comercio-agentico-ia-fazendo-compras.jpg',
+        'full' => true,
+        'content' => '
+<p>O comércio agêntico está sendo apontado como a nova grande transformação no varejo depois do Pix — desta vez, não mudando como você paga, mas quem decide o que comprar. Nesse modelo, agentes de inteligência artificial pesquisam, comparam e até finalizam compras em nome do consumidor, seguindo critérios definidos previamente por ele.</p>
+
+<h2>O Que É Comércio Agêntico</h2>
+<p>Comércio agêntico é o nome dado ao modelo em que ferramentas de inteligência artificial realizam tarefas de compra de ponta a ponta: recebem uma instrução do usuário (por exemplo, "encontre o voo mais barato para determinado destino" ou "compre o produto X pelo menor preço com entrega em até dois dias"), navegam por diferentes opções, comparam preços, prazos e características, e podem até efetivar a transação — tudo sem que a pessoa precise abrir cada site individualmente.</p>
+
+<h2>Como Isso Muda a Relação Entre Empresas e Consumidores</h2>
+<p>Segundo Juan Pablo D'Antiochia, executivo da Global Payments, essa mudança altera profundamente a lógica do comércio: "o comércio não venderá mais para uma pessoa, mas sim para uma IA" que aquela pessoa utiliza. Isso significa que empresas precisarão se organizar para serem encontradas e compreendidas pelas máquinas, não apenas pelos olhos humanos — o que já está levando negócios a reorganizar catálogos e estratégias de descrição de produtos pensando em como a IA interpreta essas informações.</p>
+
+<h2>O Fim da Fidelidade "Por Hábito"</h2>
+<p>Um dos efeitos mais discutidos desse modelo é o risco de reduzir a fidelidade emocional do consumidor a marcas específicas. Mesmo um cliente fiel de décadas a determinada loja pode ser direcionado pela sua própria IA para outra marca, caso ela atenda melhor aos critérios programados — preço mais baixo, entrega mais rápida ou uma característica técnica específica. A decisão deixa de ser guiada por afinidade e passa a ser guiada por parâmetros objetivos definidos com antecedência.</p>
+
+<h2>Cuidados Que o Consumidor Precisa Ter</h2>
+<ul>
+    <li><strong>Defina critérios com cuidado antes de delegar a decisão:</strong> se a instrução dada à IA for vaga, o resultado da compra pode não refletir exatamente o que você queria;</li>
+    <li><strong>Revise antes de autorizar pagamentos automáticos:</strong> mesmo em ferramentas avançadas, vale manter uma etapa de confirmação humana antes de qualquer transação financeira ser concluída;</li>
+    <li><strong>Desconfie de ferramentas não oficiais</strong> que prometem "comprar por você" sem transparência sobre como acessam seus dados de pagamento;</li>
+    <li><strong>Lembre-se dos seus direitos como consumidor:</strong> mesmo em uma compra intermediada por IA, o direito de arrependimento e as demais proteções do Código de Defesa do Consumidor continuam valendo — veja mais no nosso guia sobre <a href="/artigo/direito-de-arrependimento-como-funciona">direito de arrependimento</a>.</li>
+</ul>
+
+<h2>Riscos de Segurança a Considerar</h2>
+<p>Delegar decisões de compra a um agente de IA também amplia a superfície de risco: se as credenciais de pagamento usadas pela ferramenta forem comprometidas, o prejuízo pode ser maior do que em uma compra manual isolada. Os mesmos cuidados básicos de segurança digital continuam essenciais nesse novo cenário — veja nosso guia completo sobre <a href="/artigo/seguranca-compras-online">segurança nas compras online</a>.</p>
+
+<h2>Vale a Pena Usar Esse Tipo de Ferramenta Hoje?</h2>
+<p>O comércio agêntico ainda está em fase inicial de adoção no Brasil, e a maioria dos consumidores ainda não delega decisões de compra completas a agentes de IA. Para quem quiser experimentar, a recomendação é começar com compras de baixo valor e critérios bem definidos, acompanhando de perto o processo até ganhar confiança na ferramenta escolhida.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Ferramentas de comércio agêntico ainda estão em evolução — avalie sempre a segurança e a reputação de qualquer serviço antes de conceder acesso a dados de pagamento.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/depois-do-pix-o-comercio-agentico-e-a-nova-revolucao-para-consumidores-e-empresas/" target="_blank" rel="noopener">Depois do Pix, o comércio agêntico é a nova revolução para consumidores e empresas</a></li>
+</ul>
+
+<p>Quer organizar seu orçamento antes de testar novas formas de comprar? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'comércio agêntico, ia fazendo compras online, assistente de ia para comprar, cuidados com compras feitas por ia',
+    ],
+
+    [
+        'slug' => 'desenrola-adimplentes-como-funciona',
+        'title' => 'Desenrola Adimplentes: Como Renegociar Empréstimo com Juros de 1,99%',
+        'category' => ['Renegociação', 'Notícias'],
+        'date' => '2026-08-20',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda como funciona o Desenrola Adimplentes, programa que permite trocar empréstimo pessoal por um novo contrato com juros de até 1,99% ao mês.',
+        'image' => '/assets/img/post-desenrola-adimplentes-como-funciona.jpg',
+        'full' => true,
+        'content' => '
+<p>O Desenrola Adimplentes é uma modalidade menos conhecida do programa de renegociação do governo federal, voltada especificamente para quem está pagando um empréstimo pessoal em dia (ou com atraso pequeno), mas sofrendo com juros altos demais para o orçamento. Diferente do Desenrola tradicional, focado em quem já está negativado, esse programa mira justamente evitar que o trabalhador chegue à inadimplência.</p>
+
+<h2>Quem Tem Direito ao Desenrola Adimplentes</h2>
+<p>O programa é voltado para trabalhadores informais com empréstimos pessoais que estejam:</p>
+<ul>
+    <li>Em dia com os pagamentos, ou</li>
+    <li>Com atraso de no máximo 90 dias, desde que já tenham pago ao menos quatro parcelas do contrato original.</li>
+</ul>
+<p>O limite de dívida elegível é de até R$ 15 mil em empréstimos sem garantia.</p>
+
+<h2>Como Funciona a Troca do Contrato</h2>
+<p>Na prática, o programa substitui o contrato de empréstimo original por uma nova operação de crédito, com taxa de juros máxima de <strong>1,99% ao mês</strong> — bem abaixo da média cobrada em empréstimos pessoais sem garantia no mercado. A nova parcela pode ser reduzida para até 90% do valor da parcela original, e o prazo de quitação equivale ao período que ainda restava no contrato antigo, com possibilidade de extensão entre 1 e 6 meses, dependendo do tempo remanescente.</p>
+
+<h2>É Possível Pedir um Valor Extra?</h2>
+<p>Sim. O trabalhador pode solicitar um crédito adicional de até 50% do saldo devedor original, desde que a nova parcela continue dentro do limite de 90% do valor da prestação anterior. Isso permite não apenas trocar a dívida por condições melhores, mas também obter um fôlego extra de crédito com juros mais baixos que os praticados no mercado tradicional.</p>
+
+<h2>Qual a Garantia da Operação</h2>
+<p>As novas operações contam com garantia do Fundo Garantidor de Operações, o que reduz o risco para as instituições financeiras participantes e ajuda a viabilizar a taxa de juros mais baixa oferecida no programa.</p>
+
+<h2>Por Que Esse Tipo de Programa Existe</h2>
+<p>Segundo dados da Serasa, o Brasil chegou a ter mais de 82,8 milhões de pessoas com o nome negativado em 2026. Especialistas apontam que, sem uma redução estrutural dos juros básicos da economia, programas de renegociação como o Desenrola ajudam no alívio pontual, mas não resolvem a raiz do problema — daí o esforço em criar uma modalidade voltada para quem ainda está pagando em dia, evitando que engrosse as estatísticas de inadimplência no futuro.</p>
+
+<h2>Como Aderir ao Programa</h2>
+<p>A adesão é feita diretamente com as instituições financeiras participantes do programa, que avaliam o enquadramento do trabalhador nos critérios estabelecidos. Vale consultar o próprio banco ou financeira responsável pelo empréstimo atual para verificar se ela participa do Desenrola Adimplentes e simular as novas condições antes de fechar a troca de contrato.</p>
+<p>Se você já está com outras dívidas em atraso, vale também considerar como o programa se compara a outras formas de renegociação — nosso guia sobre <a href="/artigo/desenrola-brasil">o que foi o Desenrola Brasil</a> explica o funcionamento da modalidade voltada para quem já está negativado, e o conteúdo sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> traz estratégias que funcionam independentemente de programas especiais.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições, prazos e disponibilidade do Desenrola Adimplentes podem variar entre instituições financeiras participantes — confirme sempre diretamente com o seu banco.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/politica/governo-lanca-desenrola-adimplentes-para-renegociar-dividas-com-juros-menores/" target="_blank" rel="noopener">Governo lança Desenrola Adimplentes com taxa de juros máxima de 1,99% ao mês</a></li>
+</ul>
+
+<p>Quer simular se vale a pena trocar seu empréstimo atual por uma condição melhor? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'desenrola adimplentes como funciona, renegociar empréstimo pessoal juros baixos, trocar contrato de empréstimo, desenrola para quem paga em dia',
+    ],
+
+    [
+        'slug' => 'score-credito-caiu-sudeste-2026',
+        'title' => 'Por Que Seu Score de Crédito Caiu? Entenda a Queda Registrada no Sudeste',
+        'category' => ['Score de Crédito', 'Notícias'],
+        'date' => '2026-08-20',
+        'read_time' => '4 min',
+        'excerpt' => 'Score de crédito no Sudeste caiu em 2026 em meio a juros e inadimplência altos. Entenda os dados por estado e o que fazer para recuperar sua pontuação.',
+        'image' => '/assets/img/post-score-credito-caiu-sudeste-2026.jpg',
+        'full' => true,
+        'content' => '
+<p>Se você notou seu score de crédito caindo mesmo pagando as contas em dia, não está sozinho: dados da Serasa mostram que a pontuação média de crédito no Sudeste recuou em 2026, em meio ao combo de juros altos e custo de vida elevado que vem pressionando o orçamento das famílias da região.</p>
+
+<h2>Os Números da Queda</h2>
+<p>Segundo levantamento divulgado em agosto de 2026, o score médio de crédito no Sudeste caiu de 554 para 548 pontos entre abril de 2025 e abril de 2026 — uma queda que afetou todos os estados da região, não apenas os grandes centros urbanos.</p>
+
+<h2>O Espírito Santo Como Retrato da Desigualdade Etária</h2>
+<p>Entre os estados analisados, o Espírito Santo apresenta a maior disparidade entre faixas etárias: pessoas acima de 65 anos têm pontuação média de 628 pontos, enquanto jovens de 18 a 25 anos ficam em apenas 466 pontos — uma diferença que escancara a vulnerabilidade financeira de quem está começando a vida adulta e o histórico de crédito, geralmente mais curto e mais sujeito a oscilações.</p>
+
+<h2>Por Que o Score Está Caindo</h2>
+<p>Segundo Wesley Brandão, gerente de Score da Serasa, a retração é explicada principalmente por juros elevados e alto custo de vida, combinados com dificuldade de manter pagamentos em dia e uma deficiência geral de educação financeira entre os consumidores. Esse cenário se conecta a um dado nacional preocupante: o Brasil já soma mais de 83 milhões de consumidores negativados, o que pressiona a composição do score médio do país como um todo.</p>
+
+<h2>Por Que os Mais Jovens São os Mais Afetados</h2>
+<p>Pessoas mais jovens costumam ter histórico de crédito mais curto — menos tempo de relacionamento com o mercado financeiro, menos contas pagas ao longo dos anos e, muitas vezes, renda inicial mais baixa e instável. Como o histórico consistente de pagamentos é o fator de maior peso no cálculo do score, é natural que esse grupo tenha, em média, pontuações mais baixas até consolidar um histórico mais longo.</p>
+
+<h2>O Que Fazer Para Recuperar ou Manter o Score</h2>
+<ul>
+    <li><strong>Pague contas em dia</strong>, mesmo as recorrentes como luz e água, que também entram no Cadastro Positivo;</li>
+    <li><strong>Negocie dívidas em atraso o quanto antes</strong>, evitando que o tempo de negativação se estenda ainda mais;</li>
+    <li><strong>Mantenha seus dados cadastrais atualizados</strong> junto aos birôs de crédito;</li>
+    <li><strong>Use crédito de forma responsável</strong>, evitando múltiplas consultas ao CPF em curto espaço de tempo;</li>
+    <li><strong>Monitore seu score periodicamente</strong> — a consulta é gratuita e não afeta a pontuação.</li>
+</ul>
+<p>Para entender em detalhe os 6 fatores que compõem o cálculo do score e como trabalhar cada um deles, veja nosso guia completo sobre <a href="/artigo/como-aumentar-score-credito">como aumentar o score de crédito</a>. E se você ainda não sabe se tem alguma pendência em aberto pesando na sua pontuação, comece consultando gratuitamente — veja como no nosso guia sobre <a href="/artigo/nome-sujo-como-consultar-2026">como saber se seu nome está sujo</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Dados de score variam por região e por perfil individual — consulte sempre sua pontuação atualizada diretamente no birô de crédito.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/score-de-credito-no-sudeste-cai-em-meio-a-juro-e-inadimplencia-altos/" target="_blank" rel="noopener">Score de crédito no Sudeste cai em meio a juro e inadimplência altos</a></li>
+    <li>Serasa — dados de Score por região, 2026</li>
+</ul>
+
+<p>Quer organizar suas finanças para manter um bom histórico de crédito? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'por que meu score caiu, score de crédito no sudeste, score jovem menor que idoso, queda do score de crédito 2026',
+    ],
+
 ];
 
 /**
