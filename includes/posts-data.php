@@ -3417,6 +3417,165 @@ $posts = [
         'tags' => 'por que meu score caiu, score de crédito no sudeste, score jovem menor que idoso, queda do score de crédito 2026',
     ],
 
+    [
+        'slug' => 'renda-de-app-financiamento-caixa',
+        'title' => 'Caixa Aceita Renda de App como Formal para Financiamento; Veja Como Comprovar',
+        'category' => ['Notícias', 'Score de Crédito'],
+        'date' => '2026-08-20',
+        'read_time' => '4 min',
+        'excerpt' => 'Caixa passa a considerar renda de motorista e entregador de aplicativo como formal para financiamento imobiliário. Veja os documentos exigidos.',
+        'image' => '/assets/img/post-renda-de-app-financiamento-caixa.jpg',
+        'full' => true,
+        'content' => '
+<p>A renda de aplicativo passou a ser aceita como comprovação formal de renda pela Caixa Econômica Federal, uma mudança que pode facilitar o acesso ao financiamento imobiliário para motoristas de mobilidade e entregadores. A novidade responde a uma lacuna antiga: trabalhadores de plataformas como Uber, 99 e iFood historicamente enfrentavam dificuldade para comprovar capacidade de pagamento nos modelos tradicionais de análise de crédito.</p>
+
+<h2>Quais Plataformas Têm a Renda Reconhecida</h2>
+<p>Segundo o InfoMoney, profissionais que atuam em plataformas de mobilidade (como Uber e 99) e de delivery (como iFood) passam a ter sua renda classificada como formal pela Caixa para fins de análise de crédito.</p>
+
+<h2>Quais Financiamentos São Afetados</h2>
+<ul>
+    <li>Produtos financeiros gerais oferecidos pelo banco;</li>
+    <li>Financiamento habitacional tradicional;</li>
+    <li>Programa Minha Casa, Minha Vida — com ressalvas quanto aos critérios de renda atualmente vigentes no programa.</li>
+</ul>
+
+<h2>Quais Documentos São Exigidos</h2>
+<p>Para comprovar a renda através de uma plataforma de aplicativo, o solicitante precisa apresentar:</p>
+<ul>
+    <li><strong>Extratos de quatro meses consecutivos</strong>, sem interrupção no período;</li>
+    <li><strong>Todos os extratos de uma única plataforma</strong> — não é possível somar renda de diferentes aplicativos no mesmo processo;</li>
+    <li><strong>Documento atualizado</strong>, emitido no máximo dois meses antes da avaliação de crédito;</li>
+    <li><strong>Resumo fiscal mensal gerado diretamente pela plataforma</strong> — não é a declaração de Imposto de Renda, mas um documento específico emitido pelo próprio aplicativo.</li>
+</ul>
+
+<h2>Por Que Essa Mudança é Relevante</h2>
+<p>Segundo dados do IBGE citados na reportagem, o número de trabalhadores por aplicativo cresceu 25,4% entre 2022 e 2024 — um contingente cada vez maior de trabalhadores que, até agora, ficava fora dos critérios tradicionais de comprovação de renda para financiamentos de longo prazo, como o imobiliário.</p>
+
+<h2>Como se Preparar Para Solicitar o Financiamento</h2>
+<ul>
+    <li>Mantenha o histórico de recebimentos organizado e sem grandes interrupções ao longo dos meses;</li>
+    <li>Concentre a atividade principal em uma única plataforma, se possível, para facilitar a comprovação consolidada;</li>
+    <li>Gere o resumo fiscal mensal diretamente no aplicativo assim que ele estiver disponível, evitando depender de solicitações de última hora;</li>
+    <li>Simule o financiamento com antecedência para entender o valor de parcela compatível com a renda variável típica desse tipo de trabalho.</li>
+</ul>
+<p>Se você já busca crédito como trabalhador de aplicativo em outras modalidades, além do financiamento imobiliário, vale conferir nosso guia sobre <a href="/artigo/motorista-de-aplicativo">crédito para motorista de aplicativo</a>, que traz outras formas de comprovar renda como autônomo.</p>
+
+<h2>Vale a Pena Financiar ou Considerar o Consórcio?</h2>
+<p>Com a renda de app agora reconhecida como formal, vale também considerar se o financiamento tradicional é realmente a melhor opção para o seu caso, ou se um consórcio pode ser mais vantajoso dependendo da urgência da compra — veja a comparação completa no nosso guia sobre <a href="/artigo/financiamento-ou-consorcio">financiamento ou consórcio: qual escolher</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Critérios de comprovação de renda e condições de financiamento podem variar — confirme sempre as regras atualizadas diretamente com a Caixa Econômica Federal.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/caixa-passa-a-considerar-renda-de-apps-como-formal-para-financiamento/" target="_blank" rel="noopener">Caixa passa a considerar renda de apps como formal para financiamento</a></li>
+</ul>
+
+<p>Quer simular as condições do seu financiamento antes de solicitar? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'renda de aplicativo para financiamento, financiamento para motorista de aplicativo caixa, minha casa minha vida motorista de app, comprovar renda uber ifood',
+    ],
+
+    [
+        'slug' => 'simples-nacional-prazo-adesao-setembro',
+        'title' => 'Simples Nacional: Prazo de Adesão Muda Para Setembro em 2026',
+        'category' => ['Notícias', 'Educação'],
+        'date' => '2026-08-20',
+        'read_time' => '4 min',
+        'excerpt' => 'O prazo para solicitar adesão ao Simples Nacional muda de janeiro para setembro em 2026. Veja o novo cronograma e quem precisa ficar atento.',
+        'image' => '/assets/img/post-simples-nacional-prazo-adesao-setembro.jpg',
+        'full' => true,
+        'content' => '
+<p>O prazo de adesão ao Simples Nacional mudou de forma significativa para quem pretende ingressar no regime a partir de 2027. Diferente do calendário tradicional, em que o pedido era feito em janeiro, o processo passa a ocorrer em setembro, alinhado às mudanças trazidas pela reforma tributária.</p>
+
+<h2>O Que Muda no Calendário</h2>
+<p>Segundo o InfoMoney, o novo período de opção pelo Simples Nacional vai de <strong>1º a 30 de setembro de 2026</strong>, com a adesão passando a valer a partir de <strong>1º de janeiro de 2027</strong>. É uma mudança estrutural no calendário fiscal que empresas de pequeno e médio porte precisam conhecer com antecedência.</p>
+
+<h2>Uma Escolha Adicional Nesse Mesmo Período</h2>
+<p>Além de optar pelo ingresso no regime, empresas precisam definir, dentro da mesma janela de setembro, se vão pagar o IBS e a CBS — os novos tributos da reforma tributária — dentro do boleto único do Simples Nacional ou pelo regime regular de apuração. Essa decisão tem impacto direto na forma como a empresa vai lidar com os novos tributos ao longo de 2027.</p>
+
+<h2>Quem é Afetado pela Mudança</h2>
+<p>A alteração vale para empresas com faturamento anual de até R$ 4,8 milhões que desejam ingressar no Simples Nacional. O Microempreendedor Individual (MEI) segue com suas regras específicas inalteradas — a mudança de calendário é voltada para microempresas (ME) e empresas de pequeno porte (EPP).</p>
+
+<h2>Situações Especiais: Empresas Abertas no Fim do Ano</h2>
+<p>Empresas abertas entre outubro e dezembro de 2026 contam com uma regra de "validade dupla" na opção pelo Simples: a adesão feita nesse período vale tanto para o restante de 2026 quanto para todo o ano de 2027, sem necessidade de um novo pedido.</p>
+
+<h2>O Que Fazer se Você Já Está no Simples Nacional</h2>
+<p>Empresas que já são optantes do regime também precisam ficar atentas: em setembro, é necessário acessar o Portal do Simples Nacional para verificar se a empresa mantém a condição de optante, confirmando a ausência de débitos que possam gerar exclusão do regime no ano seguinte.</p>
+
+<h2>Como se Preparar Com Antecedência</h2>
+<ul>
+    <li>Marque o período de 1º a 30 de setembro de 2026 no seu calendário caso pretenda aderir ao Simples pela primeira vez;</li>
+    <li>Organize a documentação fiscal da empresa antes do início do prazo, para evitar imprevistos de última hora;</li>
+    <li>Avalie com um contador qual a melhor forma de recolher IBS e CBS no seu caso — dentro do Simples ou pelo regime regular;</li>
+    <li>Se a empresa já é optante, confirme a regularidade fiscal assim que o portal abrir o período de verificação.</li>
+</ul>
+<p>Entender os novos tributos da reforma também ajuda nessa decisão — veja nosso guia sobre <a href="/artigo/ibs-e-cbs-o-que-muda">IBS e CBS: o que muda na nota fiscal e no seu bolso</a>. E se sua empresa está avaliando o enquadramento tributário mais adequado, vale acompanhar também as discussões sobre o <a href="/artigo/novo-limite-mei-2026">novo limite do MEI</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Regras de adesão ao Simples Nacional podem sofrer ajustes regulatórios — consulte sempre um contador e o Portal do Simples Nacional para informações atualizadas.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/simples-nacional-prazo-para-solicitar-adesao-muda-e-comeca-em-setembro/" target="_blank" rel="noopener">Simples Nacional: prazo para solicitar adesão muda e começa em setembro</a></li>
+</ul>
+
+<p>Quer organizar o fluxo de caixa do seu negócio antes da mudança valer? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'simples nacional prazo de adesão 2026, como aderir ao simples nacional, ibs cbs simples nacional boleto único, quando abrir empresa simples nacional 2027',
+    ],
+
+    [
+        'slug' => 'seguro-carro-eletrico-cuidados',
+        'title' => 'Seguro de Carro Elétrico: 7 Cuidados Antes de Contratar',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-20',
+        'read_time' => '5 min',
+        'excerpt' => 'Veja 7 cuidados antes de contratar seguro de carro elétrico: cobertura de bateria, franquia, oficinas credenciadas e por que o seguro pode custar mais.',
+        'image' => '/assets/img/post-seguro-carro-eletrico-cuidados.jpg',
+        'full' => true,
+        'content' => '
+<p>Contratar seguro de carro elétrico exige atenção a detalhes que não costumam pesar tanto na hora de segurar um carro a combustão — a começar pela bateria, um dos componentes mais caros do veículo. Com a eletrificação da frota brasileira crescendo rápido, entender esses cuidados evita surpresas na hora de precisar acionar a apólice.</p>
+
+<h2>O Avanço dos Carros Elétricos no Brasil</h2>
+<p>Segundo o InfoMoney, em julho de 2026 os veículos eletrificados já representavam 21% das vendas de veículos leves no país — um crescimento expressivo que vem acompanhado de mudanças também no mercado de seguros. As cotações de seguro para veículos eletrificados cresceram cerca de 90% nos últimos 12 meses, com os carros 100% elétricos registrando alta ainda maior, de aproximadamente 130% nas cotações.</p>
+
+<h2>Por Que o Seguro de Elétrico Pode Custar Mais</h2>
+<p>O seguro de um carro elétrico não é necessariamente mais caro que o de um modelo convencional de mesmo valor — mas quando há diferença, o motivo principal está nos componentes: baterias de alta tensão têm custo elevado e exigem mão de obra especializada para reparo. A isso soma-se a infraestrutura ainda limitada de oficinas credenciadas e a disponibilidade de peças, fatores que também influenciam a precificação. Hoje, o seguro de elétricos corresponde a cerca de 3,7% do valor do veículo, contra 3,4% em modelos a gasolina.</p>
+
+<h2>Os 7 Cuidados Antes de Contratar</h2>
+<ol>
+    <li><strong>Verifique se a bateria está coberta</strong> e em quais situações específicas a cobertura se aplica — esse é o componente mais caro do veículo e merece atenção redobrada na leitura do contrato;</li>
+    <li><strong>Entenda como funciona a indenização</strong> em casos de dano parcial na bateria versus perda total do veículo;</li>
+    <li><strong>Confirme se a assistência inclui guincho adequado</strong> para o peso e as características específicas de veículos elétricos;</li>
+    <li><strong>Valide quais oficinas especializadas</strong> fazem parte da rede credenciada da seguradora antes de fechar contrato;</li>
+    <li><strong>Averigue a disponibilidade de peças e mão de obra</strong> especializada na sua região — isso afeta diretamente o tempo de reparo em caso de sinistro;</li>
+    <li><strong>Identifique danos e situações excluídos</strong> da apólice, prestando atenção especial a cláusulas relacionadas a componentes elétricos;</li>
+    <li><strong>Conheça os valores das franquias</strong>, que podem variar significativamente dependendo do componente afetado.</li>
+</ol>
+
+<h2>A Infraestrutura de Recarga Também Importa</h2>
+<p>O Brasil já conta com 25.429 pontos de recarga, segundo dados citados na reportagem — número que segue crescendo, mas ainda concentrado principalmente em grandes centros urbanos. Antes de comprar um elétrico, vale considerar a disponibilidade de pontos de recarga na sua região, o que também impacta indiretamente a análise de risco feita pelas seguradoras.</p>
+
+<h2>Comparando Propostas de Seguro</h2>
+<p>Assim como em qualquer seguro de carro, vale cotar em mais de uma seguradora antes de decidir, prestando atenção especial aos sete pontos citados acima — não apenas ao valor final do prêmio. Se você está pesquisando formas de reduzir o custo do seguro do seu veículo, veja também nosso guia sobre <a href="/artigo/seguro-carro-mais-barato-motorista-menor-risco">como motoristas de menor risco podem pagar menos no seguro</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições de cobertura e valores de seguro variam entre seguradoras e modelos de veículo — consulte sempre mais de uma cotação antes de contratar.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/carro-eletrico-seguro-custa-mais-veja-7-cuidados-antes-de-contratar/" target="_blank" rel="noopener">Carro elétrico: seguro custa mais? Veja 7 cuidados antes de contratar</a></li>
+</ul>
+
+<p>Quer organizar o orçamento considerando seguro, financiamento e manutenção do seu veículo? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'seguro de carro elétrico, seguro carro elétrico custa mais, bateria carro elétrico seguro cobre, franquia seguro carro elétrico',
+    ],
+
 ];
 
 /**
