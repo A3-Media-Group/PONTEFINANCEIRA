@@ -2802,6 +2802,473 @@ $posts = [
         'tags' => 'negociar dívida caixa serasa, desconto dívida caixa econômica, serasa limpa nome caixa, como negociar empréstimo caixa',
     ],
 
+    [
+        'slug' => 'correcao-monetaria-o-que-e-como-calcular',
+        'title' => 'Correção Monetária: O Que É e Como Calcular',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda o que é correção monetária, os principais índices usados no Brasil (IPCA, INPC, IGP-M) e como calcular na prática com um exemplo.',
+        'image' => '/assets/img/post-correcao-monetaria-o-que-e-como-calcular.jpg',
+        'full' => true,
+        'content' => '
+<p>Entender o que é correção monetária ajuda a interpretar desde o reajuste do aluguel até o valor final de uma dívida judicial ou de um acordo trabalhista. Na prática, é o mecanismo que atualiza o valor de um crédito ou débito com base na inflação, para preservar o poder de compra do dinheiro ao longo do tempo.</p>
+
+<h2>O Que É Correção Monetária</h2>
+<p>Correção monetária é a atualização do valor nominal de uma quantia — seja uma dívida, um contrato ou um valor a receber — de acordo com a variação de um índice oficial de preços. Sem essa correção, R$ 1.000 hoje e R$ 1.000 daqui a dois anos teriam o mesmo valor nominal, mas poder de compra bem diferente, já que a inflação corrói o valor real do dinheiro parado.</p>
+
+<h2>Os Principais Índices Usados no Brasil</h2>
+<ul>
+    <li><strong>IPCA (Índice de Preços ao Consumidor Amplo):</strong> o índice oficial de inflação do país, usado como referência para a meta de inflação do Banco Central e em diversos contratos e títulos, como o Tesouro IPCA+;</li>
+    <li><strong>INPC (Índice Nacional de Preços ao Consumidor):</strong> focado no consumo de famílias com renda mais baixa, é o índice usado para reajustar benefícios previdenciários do INSS;</li>
+    <li><strong>IGP-M (Índice Geral de Preços do Mercado):</strong> tradicionalmente usado em contratos de aluguel e acordos comerciais, tem metodologia diferente do IPCA e pode apresentar variações mais bruscas;</li>
+    <li><strong>Selic:</strong> além de taxa de juros, também é usada como índice de correção em alguns tributos federais, como PIS, Cofins, IRPJ e CSLL.</li>
+</ul>
+
+<h2>Como Calcular a Correção Monetária na Prática</h2>
+<p>O cálculo básico segue três passos:</p>
+<ol>
+    <li>Defina o período e o valor original a ser corrigido;</li>
+    <li>Acumule os percentuais do índice escolhido ao longo desse período;</li>
+    <li>Multiplique o valor original pelo fator acumulado.</li>
+</ol>
+<p><strong>Exemplo prático:</strong> um valor de R$ 10.000, corrigido por um índice que acumulou 32% no período, resulta em R$ 10.000 × 1,32 = R$ 13.200.</p>
+
+<h2>Onde a Correção Monetária Aparece no Seu Dia a Dia</h2>
+<ul>
+    <li><strong>Contrato de aluguel:</strong> reajustes anuais costumam usar o IGP-M ou, mais recentemente, o IPCA como referência;</li>
+    <li><strong>Dívidas judiciais:</strong> valores a receber ou pagar em processos costumam ser corrigidos monetariamente até a data do pagamento efetivo;</li>
+    <li><strong>Acordos trabalhistas retroativos:</strong> valores de rescisão ou verbas em atraso reconhecidas judicialmente também sofrem correção;</li>
+    <li><strong>Restituição de tributos pagos indevidamente:</strong> quando a Receita Federal devolve um valor pago a mais, ele costuma vir corrigido monetariamente.</li>
+</ul>
+
+<h2>Correção Monetária x Juros: Não É a Mesma Coisa</h2>
+<p>É comum confundir os dois conceitos, mas eles têm funções diferentes: a correção monetária apenas repõe a perda de poder de compra causada pela inflação, enquanto os juros representam uma remuneração adicional pelo uso do dinheiro ao longo do tempo. Em muitos contratos e decisões judiciais, os dois são aplicados juntos — primeiro corrige-se o valor pela inflação, depois somam-se os juros sobre esse valor já corrigido.</p>
+
+<h2>Por Que Isso Importa Para Seus Investimentos</h2>
+<p>Entender correção monetária também ajuda a avaliar investimentos atrelados à inflação, como o Tesouro IPCA+, que paga uma taxa fixa de juro real mais a variação do próprio IPCA — veja mais no nosso guia sobre <a href="/artigo/tesouro-ipca-mais-vale-a-pena">Tesouro IPCA+: o que é e vale a pena investir</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Índices e regras de correção monetária podem variar conforme o tipo de contrato ou processo — consulte sempre a documentação específica do seu caso.</p>
+</div>
+
+<p>Quer simular o impacto da inflação sobre seus investimentos ao longo do tempo? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'correção monetária o que é, como calcular correção monetária, ipca igp-m inpc diferença, correção monetária de dívida',
+    ],
+
+    [
+        'slug' => 'serasa-score-nuscore-diferenca',
+        'title' => 'Serasa Score x NuScore: Por Que Sua Pontuação é Diferente em Cada App',
+        'category' => ['Score de Crédito', 'Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda a diferença entre Serasa Score e NuScore, por que sua pontuação de crédito varia entre bancos e apps, e qual delas realmente importa.',
+        'image' => '/assets/img/post-serasa-score-nuscore-diferenca.jpg',
+        'full' => true,
+        'content' => '
+<p>Se você já reparou que o Serasa Score e o NuScore mostram números diferentes para o mesmo CPF, não se preocupe — isso não significa erro em nenhum dos dois modelos. Cada birô ou instituição financeira calcula sua própria pontuação de crédito, usando bases de dados, pesos e critérios próprios, o que naturalmente gera resultados distintos para a mesma pessoa.</p>
+
+<h2>O Que É o Serasa Score</h2>
+<p>O Serasa Score é uma pontuação de mercado, de 0 a 1.000, que estima a probabilidade de uma pessoa pagar suas contas em dia nos próximos 12 meses. Ele é calculado com base em informações amplas de mercado — histórico de pagamentos, dívidas negativadas, consultas ao CPF por diferentes empresas e relacionamento geral com o mercado financeiro. Por ser um birô de crédito independente, o Serasa Score é consultado por diversas empresas e instituições na hora de decidir aprovar ou não um crédito.</p>
+
+<h2>O Que É o NuScore</h2>
+<p>O NuScore é a pontuação de crédito proprietária do Nubank, criada especificamente para avaliar clientes da instituição. Diferente do Serasa Score, que tem visão ampla de mercado, o NuScore dá peso significativo ao comportamento do cliente dentro do próprio ecossistema do banco — como ele usa a conta, o cartão e outros produtos do Nubank.</p>
+
+<h2>Por Que as Pontuações São Diferentes</h2>
+<ul>
+    <li><strong>Bases de dados diferentes:</strong> o Serasa Score usa informações de mercado amplo; o NuScore prioriza dados internos do relacionamento com o banco;</li>
+    <li><strong>Pesos diferentes para os mesmos fatores:</strong> pontualidade de pagamento, tempo de relacionamento e volume de dívidas podem ter pesos distintos em cada modelo;</li>
+    <li><strong>Objetivos diferentes:</strong> o Serasa Score busca prever risco de crédito de forma geral; scores proprietários de bancos, como o NuScore, muitas vezes também consideram engajamento e uso de produtos específicos da instituição.</li>
+</ul>
+
+<h2>Qual Score Realmente Importa?</h2>
+<p>Depende do contexto. Se você está solicitando crédito em uma instituição diferente do Nubank, o Serasa Score (ou o score específico daquele birô) costuma ter mais peso na decisão. Já dentro do próprio Nubank, o NuScore pode influenciar diretamente limites e condições oferecidas pelo banco. Na prática, manter um bom histórico de pagamentos e uso responsável de crédito tende a melhorar ambas as pontuações ao mesmo tempo, já que os fatores fundamentais (pagar em dia, evitar dívidas em atraso) pesam positivamente em qualquer modelo.</p>
+
+<h2>Como Melhorar Suas Pontuações de Forma Geral</h2>
+<p>Independentemente de qual score você está de olho, os fundamentos são parecidos: pagar contas em dia, evitar múltiplas consultas de crédito em curto espaço de tempo e manter dados cadastrais atualizados. Nosso guia completo sobre <a href="/artigo/como-aumentar-score-credito">como aumentar o score de crédito</a> detalha os 6 fatores que a Serasa usa no cálculo e como trabalhar cada um deles.</p>
+
+<h2>Consultar os Dois Scores é Gratuito</h2>
+<p>Tanto o Serasa Score quanto scores proprietários de bancos, como o NuScore, podem ser consultados gratuitamente pelos respectivos aplicativos, sem qualquer custo e sem impacto na pontuação. Vale acompanhar os dois periodicamente, especialmente se você usa crédito em diferentes instituições.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Metodologias de cálculo de score podem ser ajustadas pelas instituições — consulte sempre o birô ou banco específico para informações atualizadas sobre sua pontuação.</p>
+</div>
+
+<p>Quer organizar suas finanças para manter um bom histórico de crédito? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'serasa score e nuscore diferença, por que meu score muda em cada app, nuscore o que é, score de crédito varia entre bancos',
+    ],
+
+    [
+        'slug' => 'existe-cartao-credito-sem-limite',
+        'title' => 'Existe Cartão de Crédito Sem Limite? A Verdade Por Trás do Mito',
+        'category' => ['Cartão de Crédito'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Descubra se existe cartão de crédito sem limite de verdade, como funcionam os cartões que parecem "ilimitados" e as alternativas disponíveis no mercado.',
+        'image' => '/assets/img/post-existe-cartao-credito-sem-limite.jpg',
+        'full' => true,
+        'content' => '
+<p>A ideia de um cartão de crédito sem limite desperta curiosidade — afinal, cartões premium como Black e Infinite costumam ser associados a "gastos ilimitados" no imaginário popular. Mas a resposta direta é: cartão de crédito completamente sem limite, no sentido literal, não existe no mercado brasileiro.</p>
+
+<h2>Por Que um Cartão Totalmente Sem Limite Não Existe</h2>
+<p>Um cartão sem nenhuma restrição de gastos representaria um risco enorme de endividamento tanto para o banco quanto para o próprio usuário. Mesmo cartões das categorias mais altas (Black, Infinite, Ultra) têm um limite definido — só que, nesses casos, o limite costuma ser bem mais alto e pode ser ajustado com mais flexibilidade conforme o perfil financeiro do cliente.</p>
+
+<h2>Por Que Alguns Cartões Parecem "Sem Limite"</h2>
+<p>Alguns cartões premium, especialmente os de bandeiras internacionais mais altas, funcionam com um modelo diferente: em vez de um limite fixo mensal, o banco avalia a capacidade de pagamento do cliente a cada fatura, ajustando o valor disponível de forma dinâmica. Na prática, isso pode dar a sensação de "sem limite", mas o banco continua monitorando e controlando o risco de cada transação.</p>
+
+<h2>Alternativas Que Existem no Mercado</h2>
+<ul>
+    <li><strong>Cartão pré-pago:</strong> não tem limite pré-aprovado no sentido tradicional — o cliente recarrega o valor que deseja gastar antes de usar, o que na prática elimina o risco de dívida além do saldo disponível;</li>
+    <li><strong>Cartão com limite garantido:</strong> o próprio cliente define o limite ao fazer um depósito como garantia junto ao banco ou financeira, permitindo aprovação mesmo sem histórico extenso de crédito;</li>
+    <li><strong>Cartão consignado:</strong> o limite é vinculado a um desconto direto na folha de pagamento ou benefício do INSS, reduzindo o risco de inadimplência para a instituição.</li>
+</ul>
+
+<h2>Como os Bancos Definem o Limite de um Cartão</h2>
+<p>O limite de crédito costuma ser calculado considerando renda comprovada, histórico de crédito (score), relacionamento com o banco e, em alguns casos, patrimônio ou investimentos mantidos na instituição. Quanto mais sólido esse conjunto de informações, maior tende a ser o limite oferecido — mas sempre dentro de um valor definido, nunca "ilimitado" de fato.</p>
+
+<h2>Vale a Pena Buscar um Limite Muito Alto?</h2>
+<p>Um limite alto não é sinônimo de vantagem automática. O importante é que o limite disponível seja compatível com sua capacidade real de pagamento — usar todo o limite disponível de um cartão, mesmo que ele seja alto, pode levar ao mesmo problema de endividamento de um cartão com limite menor. Antes de buscar aumento de limite, vale entender os critérios que realmente importam na escolha de um cartão — veja nosso guia sobre <a href="/artigo/escolher-melhor-cartao-credito">como escolher o melhor cartão de crédito</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Critérios de definição de limite variam entre instituições — consulte diretamente seu banco para entender como seu limite específico é calculado.</p>
+</div>
+
+<p>Quer simular o impacto de diferentes limites e formas de parcelamento no seu orçamento? Use nosso <a href="/simuladores-financeiros.php">simulador de juros e parcelas</a> gratuito.</p>
+',
+        'tags' => 'existe cartão de crédito sem limite, cartão black tem limite, cartão de limite garantido, cartão pré-pago sem limite',
+    ],
+
+    [
+        'slug' => 'cartao-aproximacao-roubado-o-que-fazer',
+        'title' => 'Cartão por Aproximação Roubado: O Que Fazer Agora',
+        'category' => ['Notícias', 'Cartão de Crédito'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Veja o passo a passo do que fazer se seu cartão por aproximação for roubado: bloqueio, contestação de compras e como se proteger no futuro.',
+        'image' => '/assets/img/post-cartao-aproximacao-roubado-o-que-fazer.jpg',
+        'full' => true,
+        'content' => '
+<p>Ter o cartão por aproximação roubado é uma situação que exige ação rápida, já que essa tecnologia permite compras de valores baixos sem a necessidade de senha — o que facilita o uso indevido por quem encontra ou rouba o cartão físico. Saber exatamente os passos a seguir nos primeiros minutos faz diferença real no prejuízo final.</p>
+
+<h2>Por Que o Pagamento por Aproximação é um Alvo Fácil Para Golpistas</h2>
+<p>A tecnologia de aproximação (contactless) foi criada para agilizar compras de baixo valor, dispensando senha até um determinado limite por transação. Essa mesma praticidade se torna um risco quando o cartão físico é roubado: quem está de posse dele pode fazer múltiplas compras pequenas rapidamente, sem precisar da senha, antes que o titular perceba o problema.</p>
+
+<h2>O Que Fazer Imediatamente</h2>
+<ol>
+    <li><strong>Bloqueie o cartão pelo aplicativo do banco imediatamente</strong> — a maioria dos bancos permite bloqueio instantâneo direto pelo app, sem precisar ligar para a central;</li>
+    <li><strong>Ligue para a central do seu banco</strong> caso não consiga bloquear pelo aplicativo, para garantir o cancelamento mesmo sem acesso ao celular;</li>
+    <li><strong>Confira o extrato em busca de transações não reconhecidas</strong> — mesmo pequenas compras que você não fez precisam ser identificadas;</li>
+    <li><strong>Conteste as transações fraudulentas junto ao banco</strong> e solicite o estorno dos valores;</li>
+    <li><strong>Registre um boletim de ocorrência</strong> com os detalhes do roubo, documento importante tanto para a contestação quanto para eventuais desdobramentos posteriores.</li>
+</ol>
+
+<h2>Como Reduzir o Risco Antes de Qualquer Problema Acontecer</h2>
+<ul>
+    <li><strong>Ative notificações de compra no aplicativo do banco</strong> — assim você recebe um aviso a cada transação, o que ajuda a identificar rapidamente qualquer uso indevido;</li>
+    <li><strong>Defina um limite mais baixo para transações sem senha</strong>, quando o banco oferecer essa opção, reduzindo o valor máximo que pode ser gasto por aproximação sem confirmação adicional;</li>
+    <li><strong>Considere desativar o pagamento por aproximação</strong> temporariamente se for viajar ou estiver em uma situação de maior risco, reativando quando fizer sentido;</li>
+    <li><strong>Guarde o cartão em local seguro</strong>, especialmente em ambientes com grande circulação de pessoas.</li>
+</ul>
+
+<h2>Quem Paga a Conta das Compras Fraudulentas?</h2>
+<p>Ao contestar formalmente as transações não reconhecidas dentro do prazo estabelecido pelo banco, a responsabilidade pelo valor fraudulento costuma ser da instituição financeira, não do cliente — desde que o titular tenha agido de boa-fé e comunicado o problema assim que percebeu. Por isso, agir rapidamente e formalizar a contestação é essencial para não ficar no prejuízo.</p>
+
+<h2>Cuidados Que Vão Além do Cartão Físico</h2>
+<p>Fraudes com cartão não se limitam ao roubo físico — golpes digitais, como phishing e sites falsos, também expõem seus dados. Nosso guia sobre <a href="/artigo/seguranca-compras-online">segurança nas compras online</a> traz cuidados adicionais para proteger seus dados financeiros também no ambiente digital.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Prazos e procedimentos para contestação de fraude variam entre instituições financeiras — confirme sempre as regras específicas do seu banco.</p>
+</div>
+
+<p>Quer organizar suas finanças e reduzir a exposição a fraudes financeiras? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'cartão por aproximação roubado, o que fazer cartão roubado, desativar pagamento por aproximação, contestar compra não reconhecida',
+    ],
+
+    [
+        'slug' => 'dinheiro-do-casal-junto-ou-separado',
+        'title' => 'Dinheiro do Casal: Junto ou Separado? Veja os Prós e Contras',
+        'category' => ['Orçamento', 'Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '5 min',
+        'excerpt' => 'Dinheiro é o motivo de briga em mais da metade dos relacionamentos no Brasil. Veja se vale a pena juntar as finanças do casal ou manter tudo separado.',
+        'image' => '/assets/img/post-dinheiro-do-casal-junto-ou-separado.jpg',
+        'full' => true,
+        'content' => '
+<p>A dúvida sobre o dinheiro do casal — juntar tudo ou manter separado — é mais do que uma questão prática de organização financeira. Segundo pesquisa da Serasa Experian, o dinheiro é apontado como o principal motivo de brigas em 53% dos relacionamentos no Brasil, à frente até de discussões sobre família e tarefas domésticas.</p>
+
+<h2>Por Que o Dinheiro Gera Tanto Conflito no Relacionamento</h2>
+<p>Diferente de outras fontes de desentendimento, questões financeiras costumam envolver valores, hábitos e prioridades formadas muito antes do relacionamento começar — o que torna o alinhamento mais desafiador. Um parceiro mais poupador e outro mais gastador, por exemplo, podem discordar constantemente sobre decisões simples do dia a dia, mesmo com boas intenções dos dois lados.</p>
+
+<h2>Os Três Modelos Mais Comuns</h2>
+<h3>1. Dinheiro Totalmente Junto</h3>
+<p>Casais que optam por esse modelo costumam manter uma conta conjunta única, para onde vai toda a renda do casal. As despesas são pagas dessa conta, um valor é reservado para investimentos e o que sobra é dividido igualmente entre os dois. A vantagem é a transparência total; a desvantagem é a perda de autonomia individual sobre pequenas decisões de consumo.</p>
+<h3>2. Dinheiro Totalmente Separado</h3>
+<p>Cada parceiro mantém sua própria conta e administra sua renda de forma independente, dividindo despesas específicas (aluguel, contas) proporcionalmente ou de forma combinada. Esse modelo preserva mais independência e reduz atritos sobre gastos pessoais, mas pode dificultar o planejamento de objetivos financeiros conjuntos, como comprar um imóvel.</p>
+<h3>3. Modelo Híbrido</h3>
+<p>Uma combinação dos dois: uma conta conjunta para despesas essenciais e objetivos comuns, mantendo contas individuais para gastos pessoais. É o modelo que mais cresce entre casais, justamente por equilibrar transparência nas finanças compartilhadas com autonomia individual.</p>
+
+<h2>Como Decidir o Que Funciona Melhor Para Vocês</h2>
+<ul>
+    <li><strong>Conversem sobre expectativas antes de decidir</strong> — não existe modelo certo ou errado, apenas o que se encaixa melhor na dinâmica específica do casal;</li>
+    <li><strong>Definam juntos os objetivos financeiros comuns</strong>, como reserva de emergência ou compra de um imóvel, independentemente do modelo escolhido para o dia a dia;</li>
+    <li><strong>Revisem o acordo periodicamente</strong> — o modelo que funciona no início do relacionamento pode precisar de ajustes conforme a vida financeira do casal muda (filhos, mudança de renda, novos objetivos).</li>
+</ul>
+
+<h2>O Que Fazer Quando os Perfis Financeiros São Muito Diferentes</h2>
+<p>Quando um parceiro é mais conservador e o outro mais gastador, o modelo híbrido costuma reduzir o atrito: o essencial (contas fixas, objetivos comuns) fica protegido em uma estrutura combinada, enquanto cada um mantém liberdade sobre uma parte da própria renda, sem precisar justificar cada gasto pessoal ao outro.</p>
+
+<h2>Comunicação é Mais Importante que o Modelo Escolhido</h2>
+<p>Independentemente de juntar ou separar as finanças, pesquisas mostram que casais que fazem o controle mensal das finanças juntos — revisando gastos e planejando o mês a dois — têm menos conflitos relacionados a dinheiro. Se vocês ainda não têm esse hábito, começar com algo simples, como revisar o orçamento uma vez por mês, já reduz boa parte do atrito. Nosso guia sobre <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> traz uma estrutura que também funciona bem para organizar as finanças a dois em momentos de aperto.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Cada relacionamento tem uma dinâmica única — o modelo de organização financeira deve ser definido em conjunto, considerando as necessidades específicas do casal.</p>
+</div>
+
+<p>Quer organizar o orçamento do casal com mais clareza? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'dinheiro do casal junto ou separado, finanças de casal como organizar, conta conjunta vale a pena, dinheiro motivo de briga no relacionamento',
+    ],
+
+    [
+        'slug' => 'ferias-coletivas-e-individuais-diferencas',
+        'title' => 'Férias Coletivas e Individuais: Quais São as Diferenças',
+        'category' => ['Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda a diferença entre férias coletivas e individuais, quem decide cada uma, os prazos legais e como o pagamento funciona em cada modalidade.',
+        'image' => '/assets/img/post-ferias-coletivas-e-individuais-diferencas.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber a diferença entre férias coletivas e individuais ajuda o trabalhador a entender seus direitos em cada situação — especialmente porque uma é decidida pela empresa e a outra considera, ao menos em parte, a preferência do próprio empregado.</p>
+
+<h2>O Que São Férias Individuais</h2>
+<p>As férias individuais são um direito garantido pela CLT a todo trabalhador que completa 12 meses de contrato (o chamado período aquisitivo). Somam 30 dias de descanso remunerado por ano, que podem ser gozados de uma só vez ou divididos em até três períodos — desde que um deles não seja inferior a 14 dias corridos, e os demais não sejam inferiores a cinco dias cada.</p>
+
+<h2>O Que São Férias Coletivas</h2>
+<p>Já as férias coletivas são concedidas por decisão exclusiva do empregador a todos os funcionários de uma empresa, ou de determinados setores e estabelecimentos, simultaneamente — como acontece, por exemplo, em fábricas que fecham para manutenção em determinado período do ano. Diferente das individuais, podem ser fracionadas em até dois períodos anuais, desde que nenhum deles seja inferior a dez dias corridos.</p>
+
+<h2>Principais Diferenças Entre as Duas Modalidades</h2>
+<table>
+<tr><th></th><th>Férias Individuais</th><th>Férias Coletivas</th></tr>
+<tr><td>Quem decide</td><td>Considera a preferência do trabalhador</td><td>Decisão exclusiva do empregador</td></tr>
+<tr><td>Obrigatoriedade</td><td>Direito garantido anualmente</td><td>Não são obrigatórias</td></tr>
+<tr><td>Fracionamento</td><td>Até 3 períodos (mínimo de 14 e 5 dias)</td><td>Até 2 períodos (mínimo de 10 dias cada)</td></tr>
+<tr><td>Abrangência</td><td>Individual, conforme período aquisitivo</td><td>Todos os funcionários ou setor específico</td></tr>
+</table>
+
+<h2>Regras Para a Empresa Conceder Férias Coletivas</h2>
+<p>Quando decide por férias coletivas, a empresa precisa comunicar o órgão responsável (atualmente, através dos canais do Ministério do Trabalho e Emprego) com antecedência mínima de 15 dias, além de avisar os próprios funcionários e o sindicato da categoria dentro desse mesmo prazo.</p>
+
+<h2>Como Funciona o Pagamento em Cada Caso</h2>
+<p>O pagamento das férias coletivas segue a mesma lógica das individuais: o trabalhador recebe o salário correspondente ao período de descanso, acrescido do terço constitucional (1/3 a mais sobre o valor das férias), pago até dois dias antes do início do período de descanso.</p>
+
+<h2>O Que Fazer Se Você Discordar da Época das Férias Coletivas</h2>
+<p>Diferente das férias individuais, em que o trabalhador pode negociar o período com a empresa, nas férias coletivas a decisão de quando ocorrem é do empregador — o funcionário não tem margem de negociação sobre a data, apenas o direito de ser informado com antecedência e de receber corretamente pelo período.</p>
+<p>Se você está se organizando financeiramente para um período de férias coletivas ou individuais, vale planejar com antecedência os gastos desse período — nosso guia sobre <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> ajuda a equilibrar o orçamento mesmo com despesas extras de viagem ou lazer.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Regras específicas podem variar conforme acordo ou convenção coletiva da categoria — consulte o RH da sua empresa ou o sindicato para informações específicas do seu contrato.</p>
+</div>
+
+<p>Quer calcular o valor exato das suas férias? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'férias coletivas e individuais diferenças, férias coletivas direitos do trabalhador, quantos dias tem férias coletivas, pagamento férias coletivas',
+    ],
+
+    [
+        'slug' => 'ibs-e-cbs-o-que-muda',
+        'title' => 'IBS e CBS: O Que Muda na Nota Fiscal e no Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-19',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que são o IBS e a CBS, os novos tributos da reforma tributária, como eles aparecem na nota fiscal e o impacto esperado nos preços.',
+        'image' => '/assets/img/post-ibs-e-cbs-o-que-muda.jpg',
+        'full' => true,
+        'content' => '
+<p>IBS e CBS já começaram a aparecer nas notas fiscais brasileiras, e entender o que essas siglas significam ajuda a acompanhar uma das maiores mudanças tributárias das últimas décadas no país. Os dois tributos fazem parte da reforma tributária que substitui um sistema considerado complexo por um modelo mais simples, nos moldes do Imposto sobre Valor Agregado (IVA) usado em diversos países.</p>
+
+<h2>O Que São IBS e CBS</h2>
+<p>A reforma tributária criou dois novos tributos que, juntos, formam o chamado "IVA dual" brasileiro:</p>
+<ul>
+    <li><strong>CBS (Contribuição sobre Bens e Serviços):</strong> tributo federal que substitui PIS, Cofins e, futuramente, parte do IPI;</li>
+    <li><strong>IBS (Imposto sobre Bens e Serviços):</strong> tributo estadual e municipal que substitui o ICMS (dos estados) e o ISS (dos municípios).</li>
+</ul>
+<p>Ambos seguem uma lógica não cumulativa, com direito a crédito ao longo da cadeia produtiva — o objetivo é eliminar o efeito de "imposto sobre imposto" que existia no sistema anterior.</p>
+
+<h2>O Que Muda na Nota Fiscal</h2>
+<p>Empresas de todos os portes e setores passam a exibir IBS e CBS de forma destacada nos documentos fiscais, com campos específicos para cada tributo. Para prestadores de serviço, a nota fiscal eletrônica de serviço (NFS-e) ganhou layout padronizado em todo o país, com códigos fiscais específicos para identificar como cada operação é tributada pelos novos impostos.</p>
+
+<h2>Cronograma de Implementação</h2>
+<p>A transição para o novo sistema é gradual, ocorrendo entre 2026 e 2033. A fase inicial de testes em 2026 usa alíquotas simbólicas (CBS de 0,9% e IBS de 0,1%), com aumento progressivo até as alíquotas plenas, estimadas entre 26,5% e 28% somando os dois tributos ao final da transição.</p>
+
+<h2>O Que Isso Significa Para os Preços</h2>
+<p>A reforma representa uma mudança conceitual na forma de calcular tributos sobre consumo: em vez do imposto "por dentro" do preço, o modelo adota o princípio de transparência, com cobrança no destino da operação — o que deve tornar mais claro, ao longo do tempo, quanto de imposto está embutido em cada compra.</p>
+<p>Um ponto importante para o consumidor final: o relator da reforma zerou a alíquota de IBS e CBS para os itens da cesta básica nacional, o que significa que esses produtos ficarão isentos dos novos tributos — a lista definitiva de itens ainda depende de regulamentação por lei complementar.</p>
+
+<h2>O Que Isso Significa Para Pequenos Empresários e MEIs</h2>
+<p>Empresas de todos os portes precisam se adaptar aos novos campos fiscais e entender como a transição afeta a precificação de produtos e serviços. Para quem já lida com o dia a dia de gestão financeira de um pequeno negócio, entender esses novos tributos passa a ser tão importante quanto acompanhar mudanças no limite do MEI — veja mais no nosso guia sobre o <a href="/artigo/novo-limite-mei-2026">novo limite do MEI</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A implementação da reforma tributária está em andamento e detalhes podem ser ajustados por regulamentação complementar — consulte sempre um contador para o enquadramento específico do seu negócio.</p>
+</div>
+
+<p>Quer organizar o fluxo de caixa do seu negócio durante essa transição tributária? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'ibs e cbs o que é, reforma tributária o que muda no preço, ibs cbs nota fiscal, cesta básica isenta reforma tributária',
+    ],
+
+    [
+        'slug' => 'direito-de-arrependimento-como-funciona',
+        'title' => 'Direito de Arrependimento: Como Funciona e Como Usar',
+        'category' => ['Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda como funciona o direito de arrependimento em compras online: prazo de 7 dias, quando se aplica e o passo a passo para cancelar uma compra.',
+        'image' => '/assets/img/post-direito-de-arrependimento-como-funciona.jpg',
+        'full' => true,
+        'content' => '
+<p>O direito de arrependimento é uma das proteções mais importantes — e menos conhecidas — do consumidor brasileiro. Ele garante que compras feitas fora de uma loja física, como pela internet, telefone ou aplicativo, possam ser canceladas dentro de um prazo específico, mesmo sem qualquer defeito no produto ou serviço.</p>
+
+<h2>O Que É o Direito de Arrependimento</h2>
+<p>Previsto no Código de Defesa do Consumidor (CDC), o direito de arrependimento permite que o consumidor desista de uma compra feita à distância dentro de um prazo determinado, recebendo o reembolso integral, sem multas ou taxas — mesmo que o produto não tenha nenhum problema. A lógica por trás dessa proteção é simples: quem compra sem ver o produto pessoalmente ou sem ter contato direto com o vendedor tem menos informação no momento da decisão, e a lei busca equilibrar essa desvantagem.</p>
+
+<h2>Qual o Prazo Para Exercer o Direito</h2>
+<p>O prazo legal é de <strong>7 dias corridos</strong> (não dias úteis) a partir do recebimento do produto ou da assinatura do contrato, no caso de serviços. Como a contagem é em dias corridos, finais de semana e feriados entram na conta, sem qualquer prorrogação automática.</p>
+
+<h2>Em Quais Compras o Direito se Aplica</h2>
+<p>O direito de arrependimento vale para compras realizadas fora do estabelecimento comercial físico:</p>
+<ul>
+    <li>Compras pela internet, em sites e marketplaces;</li>
+    <li>Compras por telefone;</li>
+    <li>Compras através de aplicativos.</li>
+</ul>
+<p>Em lojas físicas, a troca por simples arrependimento (sem defeito no produto) depende exclusivamente da política interna de cada loja — não é uma obrigação legal, diferente das compras à distância.</p>
+
+<h2>Exceções ao Direito de Arrependimento</h2>
+<ul>
+    <li>Produtos personalizados ou feitos sob medida para o cliente;</li>
+    <li>Itens perecíveis;</li>
+    <li>Conteúdos digitais já consumidos imediatamente após a compra (como um filme assistido ou um e-book já baixado e aberto);</li>
+    <li>Compras presenciais sem qualquer defeito no produto.</li>
+</ul>
+
+<h2>Como Exercer o Direito de Arrependimento na Prática</h2>
+<ol>
+    <li>Entre em contato com a empresa dentro do prazo de 7 dias, pelo SAC, e-mail ou chat oficial;</li>
+    <li>Informe de forma clara e objetiva que deseja cancelar a compra com base no direito de arrependimento;</li>
+    <li>Guarde o número de protocolo e todos os comprovantes da solicitação;</li>
+    <li>Siga as orientações da empresa para devolução do produto, se aplicável;</li>
+    <li>Aguarde o reembolso integral do valor pago, incluindo frete, sem cobrança de multas ou taxas.</li>
+</ol>
+
+<h2>O Que Fazer Se a Empresa Não Cumprir o Reembolso</h2>
+<p>Se a empresa se recusar a cumprir o direito de arrependimento ou demorar excessivamente para devolver o valor, o consumidor pode registrar reclamação nos órgãos de defesa do consumidor (como o Procon) ou em plataformas de resolução de conflitos entre consumidores e empresas. Guardar todos os comprovantes da solicitação desde o início é essencial para fortalecer o caso nesse cenário.</p>
+<p>Esse tipo de proteção se soma a outros cuidados importantes ao comprar online — veja mais no nosso guia sobre <a href="/artigo/seguranca-compras-online">segurança nas compras online</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições específicas de devolução podem variar conforme a política de cada empresa, respeitando sempre o mínimo garantido pelo Código de Defesa do Consumidor.</p>
+</div>
+
+<p>Quer organizar seu orçamento antes de fazer novas compras online? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'direito de arrependimento como funciona, posso devolver compra online, prazo para cancelar compra pela internet, direito de arrependimento cdc',
+    ],
+
+    [
+        'slug' => 'juros-rotativo-cartao-teto-100',
+        'title' => 'Juros do Rotativo do Cartão: Como Funciona o Teto de 100%',
+        'category' => ['Cartão de Crédito'],
+        'date' => '2026-08-19',
+        'read_time' => '4 min',
+        'excerpt' => 'Entenda como funciona o teto de 100% dos juros do rotativo do cartão de crédito, os 30 dias de prazo e como sair dessa dívida cara.',
+        'image' => '/assets/img/post-juros-rotativo-cartao-teto-100.jpg',
+        'full' => true,
+        'content' => '
+<p>O juros do rotativo do cartão de crédito continua sendo uma das formas mais caras de crédito disponíveis no Brasil, mesmo depois da criação de um teto legal para limitar o crescimento dessas dívidas. Entender como esse limite funciona ajuda a dimensionar o real impacto de cair no rotativo — e por que sair dele o quanto antes continua sendo a melhor estratégia.</p>
+
+<h2>O Que É o Rotativo do Cartão de Crédito</h2>
+<p>O rotativo é ativado automaticamente sempre que o consumidor paga apenas parte da fatura do cartão até a data de vencimento — seja o valor mínimo ou qualquer quantia menor que o total devido. A partir daí, o saldo remanescente passa a ser cobrado com juros, que estão historicamente entre os mais altos do mercado de crédito brasileiro.</p>
+
+<h2>Como Funciona o Teto de 100%</h2>
+<p>Desde 2024, uma lei limita o total de juros e encargos do crédito rotativo a 100% do valor original da dívida. Na prática, isso significa que uma dívida de R$ 500 no rotativo não pode ultrapassar R$ 1.000 no total, somando o valor original mais todos os juros e encargos acumulados — independentemente de quanto tempo o consumidor levar para quitar.</p>
+<p>Antes dessa regra, era possível que a dívida crescesse indefinidamente, ultrapassando várias vezes o valor original conforme o tempo passava sem pagamento. O teto trouxe um limite claro, mas isso não torna o rotativo uma opção barata — apenas evita que a dívida cresça ao infinito.</p>
+
+<h2>O Limite de 30 Dias no Rotativo</h2>
+<p>Outra regra importante: o consumidor só pode permanecer no crédito rotativo por até 30 dias consecutivos. Depois desse período, o banco é obrigado a oferecer ao cliente outras modalidades de crédito com juros menores — como um parcelamento do saldo devedor — para que a dívida não continue se acumulando na modalidade mais cara.</p>
+
+<h2>Por Que Mesmo Com o Teto o Rotativo Ainda é Caro</h2>
+<p>Mesmo limitado a dobrar o valor original, os juros mensais do rotativo continuam entre os mais altos do mercado — muito acima de outras linhas de crédito, como empréstimo pessoal ou consignado. Ou seja, o teto protege contra um crescimento descontrolado da dívida, mas não torna o rotativo uma opção vantajosa: ele deve ser evitado como estratégia recorrente de pagamento.</p>
+
+<h2>Como Sair do Rotativo</h2>
+<ul>
+    <li><strong>Priorize pagar a fatura integral no próximo vencimento</strong>, mesmo que isso exija reduzir outros gastos naquele mês;</li>
+    <li><strong>Aceite a oferta de parcelamento com juros menores</strong> quando o banco disponibilizar, em vez de permanecer no rotativo além dos 30 dias;</li>
+    <li><strong>Considere linhas de crédito mais baratas</strong>, como empréstimo consignado, para quitar o saldo do rotativo e trocar por uma dívida com juros significativamente menores;</li>
+    <li><strong>Negocie diretamente com o banco</strong> se o valor já estiver difícil de pagar — muitas instituições oferecem condições especiais para quem busca sair do rotativo antes que a dívida cresça ainda mais.</li>
+</ul>
+<p>Se você já está enfrentando dificuldade para sair dessa dívida, nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> traz estratégias práticas para conseguir condições melhores.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Taxas de juros do rotativo variam entre instituições, respeitando sempre o teto legal — evite usar essa modalidade como parte recorrente do seu planejamento financeiro.</p>
+</div>
+
+<p>Quer organizar suas dívidas e sair do rotativo o quanto antes? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'juros rotativo cartão de crédito, teto do rotativo cartão de crédito, quanto tempo posso ficar no rotativo, como sair do rotativo do cartão',
+    ],
+
+    [
+        'slug' => 'tesouro-ipca-mais-vale-a-pena',
+        'title' => 'Tesouro IPCA+: O Que É e Vale a Pena Investir',
+        'category' => ['Finanças', 'Educação'],
+        'date' => '2026-08-19',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é o Tesouro IPCA+, como funciona a proteção contra a inflação, o juro real atual e quando vale a pena investir nesse título.',
+        'image' => '/assets/img/post-tesouro-ipca-mais-vale-a-pena.jpg',
+        'full' => true,
+        'content' => '
+<p>O Tesouro IPCA+ é um dos títulos públicos mais recomendados por analistas para quem quer proteger o poder de compra do dinheiro no longo prazo. Diferente do Tesouro Selic, que acompanha a taxa básica de juros, esse título combina uma taxa fixa com a variação da inflação — uma estrutura que garante ganho real, acima do aumento dos preços, até o vencimento.</p>
+
+<h2>O Que É o Tesouro IPCA+</h2>
+<p>O Tesouro IPCA+ é um título de renda fixa emitido pelo governo federal que paga ao investidor uma taxa de juro real (fixa) somada à variação do IPCA, o índice oficial de inflação do país. Isso significa que, independentemente de a inflação subir ou cair ao longo do tempo, o investidor tem garantido um ganho acima da inflação equivalente à taxa fixa contratada no momento da compra.</p>
+
+<h2>Como Funciona a Proteção Contra a Inflação</h2>
+<p>Imagine um Tesouro IPCA+ com taxa de 7% ao ano. Se a inflação medida pelo IPCA for de 4% em determinado ano, o rendimento total do título naquele período será de aproximadamente 11% (a soma da taxa fixa com a inflação do período) — garantindo que o dinheiro investido não apenas acompanhe a alta dos preços, mas também renda acima dela.</p>
+
+<h2>O Juro Real Atual</h2>
+<p>Segundo dados recentes do mercado, o Tesouro IPCA+ tem entregado rentabilidade real entre 7% e 7,68% ao ano — um patamar historicamente considerado elevado. A série histórica mostra que juro real acima de 7,5% no Tesouro IPCA+ é relativamente raro, o que leva analistas a considerar o momento atual como favorável para quem busca travar uma taxa alta por um período mais longo.</p>
+
+<h2>Tesouro IPCA+ x Tesouro Selic x Tesouro Prefixado</h2>
+<table>
+<tr><th>Título</th><th>Como Rende</th><th>Melhor Para</th></tr>
+<tr><td>Tesouro Selic</td><td>Acompanha a Selic diretamente</td><td>Reserva de emergência, liquidez</td></tr>
+<tr><td>Tesouro IPCA+</td><td>Taxa fixa + variação da inflação</td><td>Objetivos de longo prazo, proteção contra inflação</td></tr>
+<tr><td>Tesouro Prefixado</td><td>Taxa fixa definida na compra</td><td>Quem aposta em queda de juros e inflação controlada</td></tr>
+</table>
+<p>Se você ainda está decidindo entre Tesouro Selic e outras opções para a reserva de emergência, vale conferir nosso guia sobre <a href="/artigo/tesouro-selic-ou-poupanca-2026">Tesouro Selic ou poupança: qual rende mais</a> antes de partir para investimentos de prazo mais longo como o IPCA+.</p>
+
+<h2>Cuidados Antes de Investir</h2>
+<ul>
+    <li><strong>Marcação a mercado:</strong> se você vender o título antes do vencimento, o preço pode oscilar (para cima ou para baixo) conforme as expectativas de juros do mercado mudam — o ganho garantido pela taxa contratada só vale se você levar o título até o vencimento;</li>
+    <li><strong>Prazo compatível com o objetivo:</strong> mais importante do que buscar a maior taxa disponível é escolher um vencimento alinhado ao prazo do seu objetivo financeiro;</li>
+    <li><strong>Tributação regressiva:</strong> os títulos do Tesouro seguem a tabela regressiva de Imposto de Renda — manter o investimento por pelo menos dois anos reduz a alíquota final cobrada sobre o rendimento.</li>
+</ul>
+
+<h2>Vale a Pena Investir Agora?</h2>
+<p>Com o juro real atual em patamar historicamente elevado, especialistas apontam que manter títulos do Tesouro IPCA+ na carteira continua sendo uma forma sólida de garantir ganho real e proteger o poder de compra no longo prazo — especialmente para objetivos como aposentadoria, que se beneficiam de taxas travadas por períodos mais longos.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Rentabilidades passadas não garantem resultados futuros — avalie seu perfil de investidor antes de aplicar recursos.</p>
+</div>
+
+<p>Quer simular quanto seu investimento pode render até o vencimento? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'tesouro ipca+ vale a pena, tesouro ipca+ o que é, juro real tesouro ipca, tesouro ipca+ ou prefixado',
+    ],
+
 ];
 
 /**
