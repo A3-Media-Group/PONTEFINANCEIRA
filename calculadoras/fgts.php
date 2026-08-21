@@ -15,8 +15,8 @@ include __DIR__ . '/../includes/header.php';
 
 <section class="page-header" style="padding-bottom:40px">
     <div class="container">
-        <p class="breadcrumbs" style="color:#C6D2DC">
-            <a href="/" style="color:#C6D2DC">Início</a><span>/</span><a href="/calculadoras.php" style="color:#C6D2DC">Calculadoras</a><span>/</span>FGTS
+        <p class="breadcrumbs" style="color:#A9A499">
+            <a href="/" style="color:#A9A499">Início</a><span>/</span><a href="/calculadoras.php" style="color:#A9A499">Calculadoras</a><span>/</span>FGTS
         </p>
         <span class="eyebrow">Simulador gratuito</span>
         <h1>Calculadora de FGTS na Rescisão</h1>

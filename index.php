@@ -42,31 +42,24 @@ $continue_posts = array_slice($continue_posts, 0, 3);
             <p class="lede">Aprenda a negociar com bancos de igual para igual. Sem promessas milagrosas — apenas cálculos exatos e planejamento pé no chão para limpar seu nome.</p>
             <div class="hero-actions">
                 <a href="/simuladores-financeiros.php" class="btn btn-primary">Simular Dívida Grátis</a>
-                <a href="/financas-pessoais.php" class="btn btn-ghost" style="color:#fff;border-color:rgba(255,255,255,.35)">Ver Artigos</a>
+                <a href="/financas-pessoais.php" class="btn btn-light">Ver Artigos</a>
             </div>
         </div>
         <div class="bridge-graphic" aria-hidden="true">
             <svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
-                <defs>
-                    <linearGradient id="arcGrad" x1="0" y1="0" x2="1" y2="0">
-                        <stop offset="0" stop-color="#C9A227"/>
-                        <stop offset="1" stop-color="#7FD8AE"/>
-                    </linearGradient>
-                </defs>
-                <path d="M20 260 C 120 60, 360 60, 460 260" stroke="url(#arcGrad)" stroke-width="4" fill="none" stroke-linecap="round"/>
-                <path d="M20 260 C 120 130, 360 130, 460 260" stroke="rgba(255,255,255,.25)" stroke-width="2" fill="none" stroke-linecap="round"/>
-                <circle cx="20" cy="260" r="9" fill="#0E2438" stroke="#7FD8AE" stroke-width="3"/>
-                <text x="20" y="290" text-anchor="start" fill="#C6D2DC" font-size="15" font-family="Inter, sans-serif">Dívida</text>
-                <circle cx="460" cy="260" r="9" fill="#0E2438" stroke="#C9A227" stroke-width="3"/>
-                <text x="460" y="290" text-anchor="end" fill="#C6D2DC" font-size="15" font-family="Inter, sans-serif">Liberdade</text>
+                <!-- Traço técnico único (acento da marca), sem gradiente -->
+                <path d="M20 260 C 120 60, 360 60, 460 260" stroke="#8A6D3B" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+                <!-- Linha de referência secundária, monocromática (marfim translúcido) -->
+                <path d="M20 260 C 120 112, 360 112, 460 260" stroke="rgba(245,241,234,.16)" stroke-width="1" fill="none" stroke-linecap="round"/>
+                <!-- Marcadores de extremidade estilo desenho técnico, sem preenchimento colorido -->
+                <line x1="20" y1="250" x2="20" y2="270" stroke="rgba(245,241,234,.4)" stroke-width="1"/>
+                <line x1="460" y1="250" x2="460" y2="270" stroke="rgba(245,241,234,.4)" stroke-width="1"/>
+                <text x="20" y="292" text-anchor="start" fill="rgba(245,241,234,.55)" font-size="11" letter-spacing="2" font-family="Inter, sans-serif">DÍVIDA</text>
+                <text x="460" y="292" text-anchor="end" fill="rgba(245,241,234,.55)" font-size="11" letter-spacing="2" font-family="Inter, sans-serif">LIBERDADE</text>
             </svg>
         </div>
     </div>
-    <div class="bridge-divider">
-        <svg viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 60 L0 30 Q600 -10 1200 30 L1200 60 Z" fill="#F6F7F4"/>
-        </svg>
-    </div>
+    <div class="bridge-divider" aria-hidden="true"></div>
 </section>
 
 <section class="section" style="padding-top:56px">

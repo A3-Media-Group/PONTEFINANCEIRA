@@ -11,7 +11,7 @@ function render_newsletter_block($source, $variant = 'box')
     ?>
     <div class="<?php echo $class; ?>">
         <div class="newsletter-copy">
-            <span class="eyebrow" style="color:#C9E7DA">Planilha grátis</span>
+            <span class="eyebrow" style="color:#C9B27E">Planilha grátis</span>
             <h3>Leve a planilha de orçamento pessoal de graça</h3>
             <p>Deixe seu e-mail e receba a planilha gratuita, além de novos artigos e simuladores direto na sua caixa de entrada — sem spam.</p>
         </div>

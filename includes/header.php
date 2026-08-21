@@ -30,7 +30,7 @@ if (!isset($page_next))         $page_next = null; // URL da próxima página (p
 <?php if ($page_prev): ?><link rel="prev" href="<?php echo htmlspecialchars($page_prev); ?>"><?php endif; ?>
 <?php if ($page_next): ?><link rel="next" href="<?php echo htmlspecialchars($page_next); ?>"><?php endif; ?>
 <meta name="robots" content="<?php echo htmlspecialchars($page_robots); ?>">
-<meta name="theme-color" content="#0E2438">
+<meta name="theme-color" content="#0B1520">
 
 <!-- Open Graph -->
 <meta property="og:type" content="<?php echo htmlspecialchars($page_type); ?>">
@@ -53,7 +53,7 @@ if (!isset($page_next))         $page_next = null; // URL da próxima página (p
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,800;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <?php $css_v = @filemtime(__DIR__ . '/../assets/css/style.css') ?: '1'; ?>
 <link rel="stylesheet" href="/assets/css/style.css?v=<?php echo $css_v; ?>">
