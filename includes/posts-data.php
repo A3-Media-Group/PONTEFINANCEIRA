@@ -3751,6 +3751,298 @@ $posts = [
         'tags' => 'quanto ganha um entregador do mercado livre, como ser entregador mercado livre, mei para entregador, envios extra mercado livre',
     ],
 
+    [
+        'slug' => 'dolar-alta-agosto-2026-impacto-bolso',
+        'title' => 'Dólar em Alta: o Que a Disparada da Moeda em Agosto de 2026 Muda no Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '4 min',
+        'excerpt' => 'O dólar bateu o maior valor desde março de 2026, puxado pelas sinalizações do Fed. Veja por que a moeda subiu e o que isso muda no seu bolso.',
+        'image' => '/assets/img/post-dolar-alta-agosto-2026-impacto-bolso.jpg',
+        'full' => true,
+        'content' => '
+<p>O dólar em alta voltou a chamar atenção nesta semana: a moeda americana encadeou a maior sequência de valorização de 2026 e fechou perto de R$ 5,22, o maior valor desde o fim de março. Para quem paga por produtos importados, viaja para fora ou tem dívidas atreladas à moeda americana, entender por que isso está acontecendo — e o que fazer a respeito — faz diferença direta no orçamento do mês.</p>
+
+<h2>Por Que o Dólar Subiu Tanto</h2>
+<p>Segundo o Federal Reserve (Fed), o banco central dos Estados Unidos, o Comitê Federal de Mercado Aberto (FOMC) decidiu manter a taxa básica de juros americana entre 3,50% e 3,75% em sua reunião de 29 de julho — a quinta manutenção seguida. Mas o comunicado do Fed deixou a porta aberta para uma alta ainda em 2026, e parte do mercado já precifica esse movimento para a próxima reunião, em setembro.</p>
+<p>Essa sinalização é o que empurra o dólar para cima em relação ao real. Quando os juros nos Estados Unidos sobem — ou ameaçam subir — investidores estrangeiros encontram um motivo a mais para tirar dinheiro de países emergentes, como o Brasil, e aplicar em ativos americanos, considerados mais seguros e agora também mais rentáveis. Com menos dólares entrando no país, a moeda americana fica mais cara por aqui.</p>
+<p>Apesar da alta recente, o dólar ainda acumula queda ao longo de 2026 quando comparado ao início do ano — o mercado brasileiro vinha se beneficiando do diferencial de juros favorável ao Brasil, o que atraía capital estrangeiro e segurava a cotação da moeda americana. É esse cenário que agora começa a mudar: quanto menor a distância entre os juros brasileiros e os americanos, menos atrativo fica manter dinheiro aplicado no Brasil, e mais dólares tendem a sair do país.</p>
+
+<h2>O Que Isso Muda no Seu Bolso</h2>
+<p>A alta do dólar não fica restrita ao mercado financeiro — ela chega ao consumidor final por caminhos bem concretos:</p>
+<ul>
+    <li><strong>Produtos importados e eletrônicos</strong> ficam mais caros, já que grande parte é precificada em dólar ou depende de insumos importados;</li>
+    <li><strong>Viagens internacionais</strong> custam mais: passagens, hospedagem e gastos com cartão internacional sobem junto com a cotação;</li>
+    <li><strong>Combustíveis</strong> podem sentir o efeito, já que parte do preço da gasolina segue a cotação do petróleo em dólar;</li>
+    <li><strong>Dívidas atreladas ao dólar</strong> — como financiamentos de equipamentos importados ou compras internacionais parceladas no cartão — ficam mais pesadas a cada real necessário para pagar a mesma fatura;</li>
+    <li><strong>Inflação em geral</strong> pode sentir pressão indireta, já que empresas que importam insumos tendem a repassar o custo mais alto para o preço final.</li>
+</ul>
+
+<h2>Vale a Pena Comprar Dólar Agora?</h2>
+<p>Tentar "acertar o timing" do câmbio é um dos erros mais comuns entre investidores iniciantes. O dólar é uma das moedas mais voláteis para prever no curto prazo, porque depende de fatores como decisões de juros nos EUA, fluxo de capital estrangeiro e o cenário político e fiscal brasileiro — variáveis que mudam de uma semana para outra.</p>
+<p>Para quem sabe que vai precisar de dólares em breve, seja para uma viagem ou um pagamento internacional, o mais seguro costuma ser comprar aos poucos, em vez de trocar tudo de uma vez — essa estratégia, conhecida como custo médio, reduz o risco de comprar justamente no pico da cotação. Já para quem pensa em dólar como investimento de longo prazo, vale lembrar que essa exposição deve ser uma fatia pequena da carteira, e não substituir a reserva de emergência em reais.</p>
+
+<h3>E Se Eu Já Tenho Gastos ou Dívidas em Dólar?</h3>
+<p>Quem já assumiu compromissos em dólar — assinaturas internacionais, compras parceladas em site estrangeiro, insumos importados para o negócio — sente o efeito da alta assim que a fatura chega. Nesses casos, o ideal é mapear exatamente quanto desse compromisso ainda falta pagar e, se possível, negociar a quitação antecipada antes de novas altas, evitando pagar juros e câmbio ao mesmo tempo. Para compras parceladas no cartão em moeda estrangeira, vale lembrar que cada parcela é convertida pela cotação do dia da fatura, não do dia da compra — o que significa que o valor final em reais pode variar mês a mês, mesmo com a parcela "fixa" em dólar.</p>
+
+<h2>Como se Proteger da Volatilidade Cambial</h2>
+<ol>
+    <li>Evite contrair dívidas em dólar sem necessidade real (viagem, importação de insumos para o negócio);</li>
+    <li>Se for viajar, cote e compre a moeda em parcelas ao longo de algumas semanas, não de uma vez só;</li>
+    <li>Priorize manter sua reserva de emergência em reais, em aplicações de liquidez diária;</li>
+    <li>Acompanhe a <a href="/artigo/taxa-selic">taxa Selic</a> no Brasil — o diferencial entre os juros brasileiros e americanos é um dos fatores que mais influencia o câmbio;</li>
+    <li>Se for investidor, avalie a exposição ao dólar dentro do contexto da carteira toda, sem tentar prever picos e vales.</li>
+</ol>
+<p>Quem já tem uma reserva bem estruturada sente menos o impacto dessas oscilações no dia a dia. Veja como funciona o <a href="/artigo/tesouro-selic-ou-poupanca-2026">Tesouro Selic comparado à poupança</a> para guardar dinheiro com liquidez e sem depender do câmbio.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Cotações de câmbio mudam constantemente — consulte sempre fontes atualizadas antes de tomar decisões financeiras.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Federal Reserve — <a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm" target="_blank" rel="noopener">Federal Reserve issues FOMC statement (29 de julho de 2026)</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-14082026/" target="_blank" rel="noopener">Dólar tem maior sequência de altas de 2026 e vai a R$ 5,22, maior valor desde março</a></li>
+</ul>
+
+<p>Quer simular o impacto de juros e planejar melhor seu orçamento mesmo com o câmbio variando? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'dólar em alta 2026, cotação do dólar hoje, dólar e juros americanos, impacto do dólar no bolso',
+    ],
+
+    [
+        'slug' => 'inadimplencia-empresas-recorde-mei-negativado',
+        'title' => 'Inadimplência das Empresas Bate Recorde: o Que Fazer se Seu MEI Está Negativado',
+        'category' => ['Notícias', 'Renegociação'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'A inadimplência das empresas bateu recorde em 2026, com 9,1 milhões de CNPJs negativados. Veja o que fazer se o seu MEI está com o nome sujo.',
+        'image' => '/assets/img/post-inadimplencia-empresas-recorde-mei-negativado.jpg',
+        'full' => true,
+        'content' => '
+<p>A inadimplência das empresas no Brasil bateu recorde em junho de 2026: pela primeira vez na série histórica, mais de 9,1 milhões de CNPJs estavam negativados, segundo levantamento da Serasa Experian. Para quem tem um MEI (Microempreendedor Individual) e está sentindo o aperto no caixa, entender o cenário — e principalmente os próximos passos práticos — é o primeiro passo para não deixar a situação piorar.</p>
+
+<h2>O Tamanho do Recorde de Inadimplência</h2>
+<p>De acordo com a Serasa Experian, o volume de dívidas em atraso entre empresas chegou a R$ 232,9 bilhões em junho, um crescimento de 16,67% em relação ao mesmo mês de 2025 — o maior patamar desde o início da série histórica, em 2016. Em apenas um mês, o número de CNPJs negativados cresceu 1,1%, e o volume de dívidas avançou 1,3%.</p>
+<p>Cada empresa inadimplente acumula, em média, 7,3 contas em atraso, com uma dívida média de R$ 25.508,96 por CNPJ. E o dado mais importante para quem tem um pequeno negócio: 8,7 milhões dos CNPJs negativados — cerca de 95% do total — são micro e pequenas empresas, exatamente o grupo onde se encaixa a maioria dos MEIs. O setor de Serviços concentra 55,7% das empresas negativadas, seguido por Comércio (32,2%) e Indústria (8%).</p>
+
+<h2>Por Que o MEI é o Mais Vulnerável Nesse Cenário</h2>
+<p>Segundo a economista-chefe da Serasa Experian, Camila Abdelmalack, a alta taxa de juros — atualmente em 14% ao ano — está entre os principais fatores por trás do avanço da inadimplência empresarial, ao encarecer o crédito e pressionar o caixa das empresas menores. No caso do MEI, esse aperto costuma vir acompanhado de outros fatores específicos:</p>
+<ul>
+    <li>Mistura entre finanças pessoais e do negócio, dificultando enxergar de onde vem o problema;</li>
+    <li>Dependência de uma única fonte de receita, sem colchão para meses mais fracos;</li>
+    <li>Crédito para capital de giro mais caro, já que pequenos negócios costumam pagar juros mais altos que grandes empresas;</li>
+    <li>Menor margem de negociação com fornecedores em comparação com empresas maiores.</li>
+</ul>
+
+<h2>O Que Fazer se Seu CNPJ Está Negativado</h2>
+<ol>
+    <li><strong>Confirme a negativação:</strong> consulte o CNPJ diretamente nos canais da Serasa ou do SPC Brasil para saber exatamente quais dívidas estão registradas e os valores atualizados;</li>
+    <li><strong>Separe as dívidas por credor e urgência:</strong> liste cada pendência com valor, juros e prazo, priorizando as que têm maior risco de gerar protesto ou ação judicial;</li>
+    <li><strong>Negocie diretamente e cedo:</strong> quanto antes a negociação começa, menor tende a ser o desconto necessário para o credor aceitar — dívidas muito antigas costumam ter condições piores;</li>
+    <li><strong>Busque plataformas de renegociação:</strong> Serasa Limpa Nome e SPC Brasil também atendem CNPJ, com descontos que podem ser negociados diretamente pelo site ou aplicativo;</li>
+    <li><strong>Fique em dia com o DAS:</strong> atrasos recorrentes no DAS podem levar à exclusão do Simples Nacional, o que encarece ainda mais a tributação do negócio.</li>
+</ol>
+<p>Se a dívida envolve um banco específico, vale entender como funciona a negociação — nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> vale tanto para pessoa física quanto para CNPJ. E quem já negociou e quer entender o próximo passo pode ler sobre como <a href="/artigo/como-aumentar-score-credito">recuperar o score de crédito</a> depois de quitar as pendências.</p>
+
+<h2>MEI Pode Usar Programas Tipo Desenrola?</h2>
+<p>Programas de renegociação em massa, como o Desenrola Brasil, historicamente focaram em dívidas de pessoa física, mas isso não significa que o MEI fique sem alternativas: como o CNPJ do MEI está atrelado ao CPF do titular, muitas dívidas contraídas em nome da pessoa física — como um empréstimo pessoal usado para capital de giro — podem entrar nesse tipo de programa. Já dívidas registradas diretamente no CNPJ, como financiamentos de equipamentos ou linhas de crédito empresarial, seguem as regras específicas de negociação de cada banco ou fornecedor, geralmente fora dos programas voltados à pessoa física. Antes de negociar, vale checar em nome de quem cada dívida foi efetivamente contraída — a resposta muda totalmente a estratégia de negociação.</p>
+
+<h2>Como Evitar a Reincidência</h2>
+<p>Sair do vermelho uma vez não garante que o problema não volte. Manter uma conta separada para o negócio, guardar uma reserva mínima para cobrir dois ou três meses de despesas fixas e acompanhar de perto o fluxo de caixa — mesmo que de forma simples, numa planilha — são hábitos que fazem diferença real para quem depende do MEI como fonte de renda. Quem está pensando em ajustar o enquadramento tributário do negócio também pode conferir as mudanças recentes no <a href="/artigo/novo-limite-mei-2026">limite de faturamento do MEI</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Números e regras podem mudar — consulte sempre um contador ou os canais oficiais da Receita Federal, Serasa e SPC Brasil antes de tomar decisões sobre o seu negócio.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa Experian — <a href="https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/recorde-inadimplencia-das-empresas-superou-9-milhoes-de-reais-em-junho-e-dividas-chegaram-a-232-bilhoes-de-reais-revela-serasa-experian/" target="_blank" rel="noopener">Recorde: inadimplência das empresas superou 9,1 milhões em junho e dívidas chegaram a R$ 232,9 bilhões</a></li>
+</ul>
+
+<p>Precisa organizar as contas do seu negócio ou da sua casa? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a> para planejar os próximos passos.</p>
+',
+        'tags' => 'inadimplência das empresas, mei negativado, cnpj negativado o que fazer, dívida mei serasa',
+    ],
+
+    [
+        'slug' => 'reserva-de-emergencia-quanto-guardar',
+        'title' => 'Reserva de Emergência: Quanto Guardar e Onde Investir em 2026',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Descubra quanto guardar de reserva de emergência, quantos meses de gastos você precisa e onde investir esse dinheiro sem perder liquidez.',
+        'image' => '/assets/img/post-reserva-de-emergencia-quanto-guardar.jpg',
+        'full' => true,
+        'content' => '
+<p>Reserva de emergência é o primeiro passo de qualquer plano financeiro sólido, mas a dúvida de quanto guardar e onde deixar esse dinheiro trava boa parte de quem está começando. Antes de pensar em investir na bolsa ou em fundos imobiliários, é essa reserva que garante que um imprevisto — perda de renda, conserto urgente do carro, uma conta médica — não vire uma nova dívida.</p>
+
+<h2>Quanto Guardar de Reserva de Emergência</h2>
+<p>A régua clássica é guardar entre 3 e 6 meses de despesas essenciais — aluguel, contas fixas, alimentação, transporte — para quem tem renda estável, como um contrato CLT. Mas esse número não é fixo para todo mundo:</p>
+<ul>
+    <li><strong>Renda fixa e estável (CLT, servidor público):</strong> de 3 a 6 meses de despesas essenciais costuma ser suficiente;</li>
+    <li><strong>Renda variável ou autônoma (MEI, freelancer, comissionado):</strong> o ideal é mirar entre 6 e 12 meses, já que a instabilidade da renda pede um colchão maior;</li>
+    <li><strong>Quem sustenta a casa sozinho ou tem dependentes:</strong> vale considerar o teto dessa faixa, ou até um pouco além, dependendo do risco envolvido.</li>
+</ul>
+<p>Na prática: se as despesas essenciais somam R$ 3.000 por mês, uma pessoa CLT pode mirar entre R$ 9.000 e R$ 18.000 de reserva, enquanto um autônomo com a mesma despesa mensal deveria mirar entre R$ 18.000 e R$ 36.000.</p>
+
+<h2>Onde Investir a Reserva de Emergência</h2>
+<p>O dinheiro da reserva tem uma função diferente do resto da carteira: ele precisa estar disponível a qualquer momento, sem risco de perda e, de preferência, rendendo mais que a poupança. Isso exclui investimentos como ações, fundos imobiliários ou criptomoedas — que têm oscilação de preço e podem forçar você a vender no momento errado, com prejuízo.</p>
+<p>As opções mais adequadas para reserva de emergência são:</p>
+<ul>
+    <li><strong>Tesouro Selic:</strong> título público com liquidez diária e baixo risco, indicado como porta de entrada para reservas de emergência;</li>
+    <li><strong>CDB com liquidez diária:</strong> de bancos com boa reputação, rendendo perto de 100% do CDI, com resgate rápido e sem perda de rendimento;</li>
+    <li><strong>Fundos DI de taxa de administração baixa:</strong> uma alternativa prática, mas vale comparar a taxa cobrada, já que ela pode corroer boa parte do rendimento.</li>
+</ul>
+<p>Para entender melhor a diferença entre guardar na poupança ou em opções mais rentáveis, veja nosso comparativo entre <a href="/artigo/tesouro-selic-ou-poupanca-2026">Tesouro Selic e poupança</a> e o guia sobre como funciona a <a href="/artigo/taxa-selic">taxa Selic</a> na prática.</p>
+
+<h2>Passo a Passo Para Construir a Reserva do Zero</h2>
+<ol>
+    <li>Calcule suas despesas essenciais mensais (o que você não consegue deixar de pagar);</li>
+    <li>Multiplique pelo número de meses adequado ao seu perfil de renda;</li>
+    <li>Defina um valor mensal realista para guardar, mesmo que pequeno no início;</li>
+    <li>Automatize a transferência para uma conta separada logo após receber o salário;</li>
+    <li>Só use esse dinheiro em emergências reais — não para trocar de celular ou aproveitar uma promoção.</li>
+</ol>
+<p>Um exemplo prático: quem consegue guardar R$ 300 por mês leva cerca de 30 meses (dois anos e meio) para juntar R$ 9.000 — o piso da faixa recomendada para uma renda essencial de R$ 3.000 com contrato CLT. Pode parecer devagar, mas o valor já rende enquanto é formado: aplicando esse dinheiro no Tesouro Selic ou num CDB de liquidez diária desde o primeiro depósito, parte do caminho é percorrida pelos próprios juros, não só pelo que você guarda todo mês.</p>
+
+<h2>Erros Comuns na Hora de Montar a Reserva</h2>
+<p>Alguns hábitos atrapalham quem está tentando se organizar:</p>
+<ul>
+    <li>Deixar todo o dinheiro parado na poupança, que rende bem menos que o Tesouro Selic ou um bom CDB;</li>
+    <li>Pular a reserva para investir direto em renda variável, tentando ganhar mais rápido;</li>
+    <li>Usar o limite do cartão de crédito como se fosse reserva de emergência — uma armadilha que pode levar direto ao <a href="/artigo/juros-rotativo-cartao-teto-100">rotativo do cartão</a>, com juros muito altos;</li>
+    <li>Não repor a reserva depois de usá-la em uma emergência real.</li>
+</ul>
+<p>Montar essa reserva exige disciplina, mas é o que separa um imprevisto de uma crise financeira. Se você já está com dívidas acumuladas e precisa organizar as contas antes de guardar dinheiro, comece pelo nosso guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a>.</p>
+
+<h3>Como Saber se Sua Reserva Já é Suficiente</h3>
+<p>Para saber se a reserva atual está no tamanho certo, some tudo o que está guardado em aplicações de liquidez diária — Tesouro Selic, CDB, fundo DI — e divida pelo total de despesas essenciais do mês. O resultado mostra quantos meses de fôlego você tem hoje. Se o número já bate com a faixa recomendada para o seu perfil de renda, o próximo passo é parar de aportar ali e direcionar o dinheiro extra para outros objetivos, como aposentadoria ou investimentos de longo prazo. Se ainda está abaixo, vale manter o foco em completar a reserva antes de assumir qualquer risco maior com o dinheiro.</p>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/controleinflacao/taxaselic" target="_blank" rel="noopener">Taxa Selic</a></li>
+    <li>CVM — <a href="https://www.gov.br/investidor/pt-br" target="_blank" rel="noopener">Portal do Investidor</a></li>
+</ul>
+
+<p>Quer simular quanto sua reserva pode render em diferentes aplicações? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'reserva de emergência quanto guardar, onde investir reserva de emergência, quantos meses de reserva de emergência, reserva de emergência 2026',
+    ],
+
+    [
+        'slug' => 'o-que-e-cdi-como-funciona',
+        'title' => 'O Que é CDI e Como Ele Afeta Seus Investimentos',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é CDI, como essa taxa se relaciona com a Selic e por que ela aparece em quase todo investimento de renda fixa no Brasil.',
+        'image' => '/assets/img/post-o-que-e-cdi-como-funciona.jpg',
+        'full' => true,
+        'content' => '
+<p>O que é CDI é uma das primeiras perguntas de quem começa a investir em renda fixa, já que a sigla aparece em quase todo produto bancário — CDB, LCI, LCA, fundos DI. Entender essa taxa é essencial para comparar investimentos e saber se um rendimento de "100% do CDI" é bom ou não para o seu bolso.</p>
+
+<h2>O Que é o CDI na Prática</h2>
+<p>CDI é a sigla para Certificado de Depósito Interbancário, um título emitido diariamente por bancos para emprestar dinheiro entre si, por prazos curtíssimos — geralmente de um dia. Bancos precisam fechar o dia com o caixa equilibrado dentro das regras do Banco Central, e usam esses certificados para cobrir sobras ou faltas de recursos entre eles. A taxa DI, divulgada pela B3, é a média dos juros praticados nessas operações, e é ela que o mercado chama popularmente de "CDI".</p>
+
+<h2>CDI x Selic: Qual a Diferença</h2>
+<p>É comum confundir CDI com <a href="/artigo/taxa-selic">taxa Selic</a>, já que as duas andam praticamente juntas. Mas são coisas diferentes: a Selic é a taxa básica de juros da economia, definida pelo Copom (Comitê de Política Monetária do Banco Central) a cada 45 dias, e serve de referência para toda a economia. Já o CDI é uma taxa de mercado, resultado das negociações reais entre bancos — mas como essas negociações são fortemente influenciadas pela Selic, o CDI costuma ficar bem próximo dela, geralmente um pouco abaixo.</p>
+<p>Na prática, quando o noticiário fala que a Selic está em 14% ao ano, o CDI tende a girar perto de 13,65% ao ano — a diferença é pequena, mas existe.</p>
+
+<h2>Por Que os Investimentos Usam "% do CDI"</h2>
+<p>Bancos e corretoras costumam anunciar a rentabilidade de CDBs e fundos como um percentual do CDI, porque essa taxa funciona como referência de mercado para renda fixa. Alguns exemplos práticos:</p>
+<ul>
+    <li><strong>CDB a 90% do CDI:</strong> rende 90% do que rende o CDI no período — abaixo da média, geralmente oferecido por bancos maiores com liquidez diária;</li>
+    <li><strong>CDB a 100% do CDI:</strong> acompanha exatamente a taxa DI, um patamar considerado justo para CDBs com boa liquidez;</li>
+    <li><strong>CDB a 120% do CDI:</strong> rende acima da média, normalmente em bancos menores ou com prazos de resgate mais longos, como forma de compensar o investidor pelo risco e pela menor liquidez.</li>
+</ul>
+<p>Quanto maior o percentual do CDI oferecido, maior tende a ser o risco do banco emissor ou o prazo de carência — vale sempre checar se o produto tem garantia do FGC (Fundo Garantidor de Créditos) antes de investir.</p>
+
+<h3>Exemplo Prático de Cálculo</h3>
+<p>Com o CDI em torno de 13,65% ao ano, um CDB de R$ 5.000 a 100% do CDI renderia aproximadamente R$ 682 em 12 meses, antes do desconto do Imposto de Renda sobre o rendimento. O mesmo valor num CDB a 90% do CDI renderia cerca de R$ 614 no período, enquanto um CDB mais arrojado a 120% do CDI chegaria perto de R$ 819. A diferença de poucos pontos percentuais parece pequena mês a mês, mas se acumula de forma relevante ao longo de vários anos — por isso vale sempre comparar o percentual do CDI antes de escolher onde deixar o dinheiro.</p>
+
+<h2>Onde o CDI Aparece</h2>
+<p>Além dos CDBs, o CDI serve de referência para:</p>
+<ul>
+    <li>LCI e LCA (Letras de Crédito Imobiliário e do Agronegócio) — veja como ficou a tributação desses produtos após o <a href="/artigo/fim-isencao-lci-lca-tributacao">fim da isenção de LCI e LCA</a>;</li>
+    <li>Fundos DI e fundos de renda fixa referenciados;</li>
+    <li>Fundos multimercado, que costumam usar o CDI como meta mínima de rentabilidade (benchmark);</li>
+    <li>Operações de crédito entre instituições financeiras, o que indiretamente influencia o custo do crédito para o consumidor final.</li>
+</ul>
+
+<h2>CDI Alto é Bom ou Ruim?</h2>
+<p>Depende do lado em que você está. Para quem investe, um CDI alto é uma boa notícia: a renda fixa rende mais, com baixo risco. Mas o mesmo CDI alto significa juros mais caros para quem toma crédito — financiamentos, cartão de crédito e empréstimos ficam mais pesados. É por isso que, em períodos de Selic e CDI elevados, negociar dívidas ganha ainda mais importância: veja como <a href="/artigo/negociar-dividas-bancos">negociar dívidas com bancos sem aceitar a primeira proposta</a>.</p>
+
+<h3>Vale a Pena Buscar Rentabilidade Acima do CDI?</h3>
+<p>Bater o CDI de forma consistente não é trivial, principalmente com juros altos como os atuais — quanto maior a taxa livre de risco, mais difícil fica para outros investimentos, como ações ou fundos imobiliários, compensarem o risco extra que carregam. Por isso, especialistas costumam recomendar usar o CDI como referência mínima: antes de aceitar qualquer investimento com mais risco, vale perguntar se o retorno esperado realmente compensa ficar exposto a oscilações que a renda fixa simplesmente não tem. Para quem já domina o básico da renda fixa, o próximo passo natural costuma ser entender opções indexadas à inflação, como o <a href="/artigo/tesouro-ipca-mais-vale-a-pena">Tesouro IPCA+</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Rentabilidades passadas não garantem resultados futuros — avalie sempre o seu perfil de risco antes de investir.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>B3 — <a href="https://www.b3.com.br/pt_br/market-data-e-indices/indices/renda-fixa/taxa-di" target="_blank" rel="noopener">Taxa DI</a></li>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/controleinflacao/taxaselic" target="_blank" rel="noopener">Taxa Selic</a></li>
+</ul>
+
+<p>Quer comparar quanto seus investimentos podem render em diferentes cenários de CDI? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'o que é cdi, cdi hoje, cdi x selic, 100% do cdi o que significa',
+    ],
+
+    [
+        'slug' => 'brasileiros-negativados-como-sair-ciclo-inadimplencia',
+        'title' => '81,7 Milhões de Brasileiros Negativados: Como Sair do Ciclo da Inadimplência',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Levantamento da Serasa mostra que 81,7 milhões de brasileiros estão negativados, e 42% já enfrentam dívidas há 10 anos. Veja como quebrar esse ciclo.',
+        'image' => '/assets/img/post-brasileiros-negativados-como-sair-ciclo-inadimplencia.jpg',
+        'full' => true,
+        'content' => '
+<p>Como sair da inadimplência é uma dúvida que atinge diretamente 81,7 milhões de brasileiros — o número de pessoas negativadas registrado pela Serasa, segundo levantamento que marca 10 anos do Mapa da Inadimplência. Mais grave ainda: 42% desses inadimplentes já enfrentam restrições no nome há uma década inteira, presos num ciclo que se repete sem conseguir se resolver de vez.</p>
+
+<h2>O Retrato da Inadimplência no Brasil em 2026</h2>
+<p>Segundo a Serasa, o número de brasileiros inadimplentes cresceu 38,1% nos últimos 10 anos. Hoje já são 332 milhões de dívidas em atraso registradas — 43% a mais do que em 2016 — e a dívida média por consumidor chegou a R$ 6.598,13, um aumento de 12,2% mesmo já descontada a inflação. O perfil de quem está negativado também mudou: mulheres já representam 50,5% dos inadimplentes, e a participação de pessoas acima de 60 anos cresceu 7 pontos percentuais na última década.</p>
+<p>Segundo Aline Vieira, especialista da Serasa, "o período foi marcado por juros elevados e pressão inflacionária, que impactaram diretamente o orçamento das famílias. Ao mesmo tempo, houve ampliação do acesso ao crédito, muitas vezes sem o devido planejamento."</p>
+
+<h2>Por Que o Ciclo da Inadimplência se Repete</h2>
+<p>O dado mais preocupante do levantamento não é o número total de negativados, mas o fato de que 42% deles carregam essa restrição há 10 anos. Isso mostra um padrão comum: a pessoa negocia uma dívida, consegue limpar o nome, mas volta a contrair crédito sem ajustar os hábitos que levaram ao problema — e acaba negativada de novo em pouco tempo. Sem um orçamento estruturado depois da negociação, é fácil cair na mesma armadilha.</p>
+
+<h2>Um Perfil que Está Mudando</h2>
+<p>O levantamento da Serasa também mostra que o perfil de quem enfrenta dívidas no Brasil não é mais o mesmo de uma década atrás. Mulheres, que antes representavam uma fatia menor dos negativados, hoje já são maioria, com 50,5% do total — reflexo de mudanças no mercado de trabalho e na forma como a renda familiar é organizada. Já entre pessoas acima de 60 anos, a participação cresceu 7 pontos percentuais em dez anos, um sinal de que dívidas na aposentadoria — muitas vezes contraídas para ajudar filhos e netos ou cobrir gastos com saúde — também vêm se tornando mais comuns. Entender esse retrato ajuda a mostrar que a inadimplência não tem um único perfil: pode acontecer com qualquer pessoa, em qualquer fase da vida, especialmente quando a renda não acompanha o custo de vida.</p>
+
+<h2>Como Quebrar o Ciclo Passo a Passo</h2>
+<ol>
+    <li><strong>Liste todas as dívidas:</strong> credor, valor atualizado, taxa de juros e situação (negociável, protestada, em cobrança);</li>
+    <li><strong>Priorize por estratégia:</strong> quite primeiro as dívidas com juros mais altos para economizar mais no total, ou use o <a href="/artigo/metodo-bola-de-neve">método bola de neve</a>, quitando primeiro as menores para ganhar motivação com vitórias rápidas;</li>
+    <li><strong>Negocie diretamente com os credores</strong> ou use plataformas como o <a href="/artigo/nome-sujo-como-consultar-2026">Serasa Limpa Nome</a>, que costuma oferecer descontos maiores em datas específicas de feirões;</li>
+    <li><strong>Evite contrair novo crédito</strong> até quitar o que já está em atraso — cada nova dívida no meio da negociação dificulta o equilíbrio das contas;</li>
+    <li><strong>Monte um orçamento pós-negociação</strong> com uma reserva mínima, mesmo pequena, para não recorrer ao crédito na primeira dificuldade.</li>
+</ol>
+<p>Se a dívida for com um banco específico, como a Caixa, o processo de negociação pode ter particularidades — veja nosso guia sobre <a href="/artigo/dividas-caixa-serasa">como negociar dívidas com a Caixa no Serasa com desconto</a>.</p>
+
+<h2>Recuperando o Score Depois de Negociar</h2>
+<p>Quitar a dívida é só metade do caminho — o score de crédito leva um tempo para refletir a mudança, e entender como ele funciona ajuda a acelerar essa recuperação. Vale ler nosso guia sobre <a href="/artigo/como-aumentar-score-credito">como aumentar o score de crédito</a> com os fatores usados pela Serasa, e entender por que <a href="/artigo/serasa-score-nuscore-diferenca">a pontuação pode variar entre diferentes apps</a> mesmo depois de limpar o nome.</p>
+
+<h2>O Primeiro Passo é o Mais Difícil</h2>
+<p>Sair do ciclo da inadimplência não depende de sorte ou de uma renda muito maior — depende de organizar as dívidas, negociar com prioridade nas que pesam mais e, principalmente, montar um orçamento que sustente essa conquista depois da negociação. Quem está no meio de uma dificuldade financeira mais séria pode começar pelo nosso guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a>, com passos práticos para organizar os gastos sob pressão. Os 81,7 milhões de brasileiros negativados não formam um grupo à parte — muitos deles já saíram dessa lista uma vez e voltaram, o que reforça que negociar sem mudar o plano financeiro por trás da dívida tende a resolver o problema só temporariamente.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Condições de negociação e descontos variam por credor e por período — consulte sempre os canais oficiais da Serasa, do SPC Brasil ou do seu credor antes de fechar um acordo.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">42% dos brasileiros inadimplentes em 2026 já enfrentaram restrições há 10 anos</a></li>
+</ul>
+
+<p>Pronto para organizar suas dívidas de vez? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> e comece o planejamento hoje mesmo.</p>
+',
+        'tags' => 'como sair da inadimplência, nome negativado o que fazer, ciclo de dívidas, quantos brasileiros estão negativados',
+    ],
+
 ];
 
 /**
