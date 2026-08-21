@@ -4,6 +4,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Calculadora de Rescisão Trabalhista (CLT) | Ponte Financeira';
 $page_description = 'Simule os valores da sua rescisão de contrato de trabalho conforme a CLT: saldo de salário, férias, 13º, aviso prévio e mais. Grátis e sem cadastro.';
 $page_url = SITE_URL . '/calculadoras/rescisao.php';
+$page_image = SITE_URL . '/assets/img/og-calc-rescisao.jpg';
 $breadcrumb_json = breadcrumb_schema([
     ['Início', SITE_URL . '/'],
     ['Calculadoras', SITE_URL . '/calculadoras.php'],

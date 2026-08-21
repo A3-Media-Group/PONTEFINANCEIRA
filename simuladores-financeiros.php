@@ -4,6 +4,7 @@ require_once __DIR__ . '/includes/config.php';
 $page_title = 'Simuladores Financeiros: Juros, Poupança e Financiamento | Ponte Financeira';
 $page_description = 'Calcule seu futuro financeiro: simulador de juros compostos, meta de poupança, investimentos e financiamento (Tabela Price). Grátis e sem cadastro.';
 $page_url = SITE_URL . '/simuladores-financeiros.php';
+$page_image = SITE_URL . '/assets/img/og-simuladores.jpg';
 $breadcrumb_json = breadcrumb_schema([
     ['Início', SITE_URL . '/'],
     ['Simuladores Financeiros', $page_url],
