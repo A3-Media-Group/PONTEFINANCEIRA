@@ -78,6 +78,14 @@ limite de uso), aguarde 15 segundos e tente novamente antes de desistir.
 ## 6. PUBLICAÇÃO
 Adicione cada artigo como novo item no array $posts em includes/posts-data.php 
 ('full' => true, todos os campos preenchidos). Não apague nem altere posts existentes.
+
+Antes de fazer commit, rode `php -l` em todos os arquivos .php alterados (pelo menos
+includes/posts-data.php). Se houver erro de sintaxe, corrija antes de continuar — preste
+atenção especial a apóstrofos não escapados dentro de strings de aspas simples (ex: nomes
+próprios como "D'Antiochia" precisam virar "D\'Antiochia"). Nunca faça push com erro de
+sintaxe conhecido. Há também um hook de pre-commit instalado (scripts/check-syntax.sh)
+que bloqueia automaticamente commits com erro de sintaxe PHP.
+
 Rode git add, git commit (mensagem listando os 3 títulos) e git push.
 
 ## 7. RESUMO FINAL

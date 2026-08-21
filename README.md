@@ -96,3 +96,39 @@ continuar operando com você — sem precisar mexer no builder da Hostinger de n
 - O formulário de contato usa `mail()` do PHP. Se preferir um serviço mais confiável
   (SMTP autenticado, evita cair em spam), me avise que eu adapto para SMTP da própria
   Hostinger ou um serviço como Resend/Brevo.
+
+## 6. Proteção automática contra erros de sintaxe PHP
+
+Um apóstrofo não escapado dentro de uma string PHP (ex: um nome próprio como
+`D'Antiochia` citado num artigo) já quebrou a sintaxe de `includes/posts-data.php` e
+derrubaria o site inteiro se fosse parar em produção sem checagem. Para isso não
+acontecer de novo, o projeto tem um hook de **pre-commit** que roda `php -l` (lint de
+sintaxe) em todo arquivo `.php` staged e **bloqueia o commit** se algum tiver erro.
+
+- O script fica versionado em `scripts/check-syntax.sh` (esse vai para o repositório).
+- O hook em si (`.git/hooks/pre-commit`) **não é versionado pelo Git** — cada clone do
+  repositório precisa reinstalá-lo uma vez.
+
+**Como reinstalar o hook em um clone novo do projeto** (rode a partir da raiz do repo):
+
+```bash
+cp scripts/check-syntax.sh .git/hooks/pre-commit
+chmod +x .git/hooks/pre-commit
+```
+
+A partir daí, todo `git commit` roda a checagem automaticamente. Se algum `.php`
+staged tiver erro de sintaxe, o commit é bloqueado e o script mostra o arquivo e a
+linha exatos do problema — corrija e tente o commit de novo.
+
+Você também pode rodar a checagem manualmente a qualquer momento, sem depender do
+hook:
+
+```bash
+bash scripts/check-syntax.sh
+```
+
+Se o PHP não estiver instalado na máquina, instale via winget:
+
+```powershell
+winget install PHP.PHP.8.4
+```

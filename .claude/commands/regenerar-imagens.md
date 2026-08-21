@@ -28,6 +28,12 @@ seguindo este processo:
    separado (mensagem tipo "Regenera imagens de capa: lote 1/10") e push — assim, 
    se algo travar no meio, o progresso já feito não se perde.
 
+   Antes de cada commit, rode `php -l includes/posts-data.php` (esse arquivo é o único 
+   .php normalmente alterado nesse fluxo, mas rode em qualquer outro .php tocado 
+   também). Se houver erro de sintaxe, corrija antes de continuar. Nunca faça push com 
+   erro de sintaxe conhecido. Há também um hook de pre-commit instalado 
+   (scripts/check-syntax.sh) que bloqueia automaticamente commits com erro de sintaxe PHP.
+
 7. Ao final de tudo, me dê um resumo: quantas imagens foram geradas com sucesso, 
    quantas falharam (se alguma) e o motivo, e confirme que todos os commits foram 
    enviados ao GitHub.
