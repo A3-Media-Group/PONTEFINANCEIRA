@@ -4043,6 +4043,327 @@ $posts = [
         'tags' => 'como sair da inadimplência, nome negativado o que fazer, ciclo de dívidas, quantos brasileiros estão negativados',
     ],
 
+    [
+        'slug' => 'emprestimo-pessoal-juros-abusivos-senacon-investiga',
+        'title' => 'Empréstimo Pessoal com Juros de Até 957% ao Ano: Senacon Investiga Financeiras',
+        'category' => ['Notícias', 'Renegociação'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Senacon abriu processo contra financeiras que cobram até 957% ao ano em crédito pessoal. Veja como identificar juros abusivos antes de contratar.',
+        'image' => '/assets/img/post-emprestimo-pessoal-juros-abusivos-senacon-investiga.jpg',
+        'full' => true,
+        'content' => '
+<p>Empréstimo pessoal com juros abusivos voltou ao centro do debate depois que a Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça e Segurança Pública, abriu processos administrativos contra três financeiras — Valor, Cobuccio (Ágil) e Crefisa — para apurar se as taxas cobradas em operações de crédito pessoal não consignado configuram prática abusiva contra o consumidor.</p>
+
+<h2>As Taxas Identificadas Pela Senacon</h2>
+<p>A investigação nasceu de um levantamento baseado em dados do Banco Central, que identificou instituições cobrando mais de 20% ao mês nessa modalidade de crédito. Os números mais altos encontrados foram:</p>
+<ul>
+    <li><strong>Valor:</strong> 21,72% ao mês, o equivalente a 957,70% ao ano;</li>
+    <li><strong>Cobuccio (Ágil):</strong> 21,71% ao mês, ou 956,59% ao ano;</li>
+    <li><strong>Crefisa:</strong> 20,86% ao mês, ou 871,43% ao ano.</li>
+</ul>
+<p>Para efeito de comparação: um empréstimo de R$ 1.000 nessas condições, se não pago, praticamente decuplicaria de valor em pouco mais de um ano — mesmo sem nenhum atraso adicional além dos juros contratuais.</p>
+
+<h2>O Que a Senacon Está Apurando</h2>
+<p>O processo busca verificar se as instituições cumprem os deveres previstos na Lei do Superendividamento (Lei nº 14.181/2021), que exige das financeiras a concessão responsável de crédito, a prevenção ao superendividamento, transparência nas condições oferecidas e informação adequada ao consumidor antes da contratação. Se confirmadas as irregularidades, as empresas podem responder a sanções administrativas.</p>
+
+<h2>Como Identificar Juros Abusivos Antes de Contratar</h2>
+<p>Nem toda taxa alta é ilegal — o crédito pessoal sem garantia tende a ser mais caro mesmo em condições normais, por causa do risco maior de inadimplência. Mas alguns sinais ajudam a identificar quando a oferta está fora do razoável:</p>
+<ul>
+    <li>A taxa mensal informada no contrato passa de 15% a 20% ao mês, mesmo antes de qualquer conversão para o valor anual;</li>
+    <li>O contrato não deixa claro, de forma simples, o Custo Efetivo Total (CET) da operação;</li>
+    <li>A oferta chega por WhatsApp, SMS ou redes sociais, sem análise de crédito prévia — um sinal comum de operação irregular;</li>
+    <li>Há pressão para assinar rapidamente, sem tempo para comparar com outras opções.</li>
+</ul>
+<p>Antes de contratar qualquer crédito pessoal, vale comparar o Custo Efetivo Total entre diferentes instituições — o Banco Central disponibiliza um <a href="https://www.bcb.gov.br/estabilidadefinanceira/txjurosconsumidor" target="_blank" rel="noopener">ranking de taxas de juros por instituição financeira</a> que ajuda a visualizar se a proposta recebida está dentro da média do mercado.</p>
+
+<h2>Por Que Esse Tipo de Crédito é Tão Caro</h2>
+<p>O crédito pessoal não consignado é, por natureza, uma das modalidades mais caras do mercado — o banco ou financeira não tem nenhuma garantia de recebimento além da promessa de pagamento do cliente, o que eleva o risco embutido na taxa. É bem diferente do crédito consignado, descontado direto da folha de pagamento ou do benefício, que costuma ter juros muito menores justamente porque o risco de calote é praticamente eliminado — veja como funciona o <a href="/artigo/consignado-clt-fgts-garantia">consignado com garantia do FGTS</a> como alternativa mais barata para quem tem carteira assinada.</p>
+<p>O problema começa quando a taxa deixa de refletir apenas o risco do produto e passa a explorar a urgência do consumidor — muitas vezes alguém que já está endividado, com o nome sujo, e sem outras opções de crédito disponíveis no mercado formal. É exatamente esse público mais vulnerável que a Lei do Superendividamento busca proteger, ao exigir que a instituição avalie a real capacidade de pagamento antes de conceder o crédito.</p>
+
+<h2>Já Contratei um Crédito Assim: o Que Fazer?</h2>
+<p>Quem já assumiu um empréstimo com taxas nesse patamar e está com dificuldade para pagar tem caminhos possíveis antes de deixar a dívida virar uma bola de neve. Vale registrar uma reclamação formal no <a href="https://www.consumidor.gov.br" target="_blank" rel="noopener">Consumidor.gov.br</a> ou diretamente no Procon, e buscar a renegociação diretamente com a financeira — nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> traz estratégias que também se aplicam a financeiras. Para quem já está com o nome negativado por causa dessas dívidas, vale entender também como <a href="/artigo/como-aumentar-score-credito">recuperar o score de crédito</a> depois de resolver a pendência.</p>
+<p>A Lei do Superendividamento também prevê a possibilidade de um processo de repactuação de dívidas em conjunto com todos os credores, garantindo ao devedor a preservação de um mínimo existencial — ou seja, o acordo não pode comprometer o valor necessário para as despesas básicas da família. Esse processo costuma ser conduzido com apoio dos Procons ou da Defensoria Pública, sem custo para o consumidor. Vale lembrar que buscar ajuda cedo, antes de acumular atrasos em várias frentes ao mesmo tempo, costuma resultar em condições de negociação bem mais favoráveis do que esperar a dívida virar um processo de cobrança judicial.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A investigação da Senacon está em curso e pode resultar ou não em sanções às empresas citadas — acompanhe os canais oficiais para atualizações.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Ministério da Justiça e Segurança Pública (Senacon) — <a href="https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-processos-para-apurar-possivel-descumprimento-de-regras-de-concessao-de-credito-pela-crefisa-agil-e-valor" target="_blank" rel="noopener">Senacon instaura processos para apurar possível descumprimento de regras de concessão de crédito pela Crefisa, Ágil e Valor</a></li>
+</ul>
+
+<p>Antes de contratar qualquer crédito, simule o custo real da operação com nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'empréstimo pessoal juros abusivos, crefisa juros altos, senacon crédito pessoal, como identificar juros abusivos',
+    ],
+
+    [
+        'slug' => 'credito-consumidor-piora-inadimplencia-recorde-2026',
+        'title' => 'Crédito ao Consumidor Piora no Brasil: Bancos Não Veem Fim Para a Inadimplência Recorde',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'A inadimplência no crédito ao consumidor bateu recorde de 5,6% e deve seguir alta, segundo bancos. Entenda os motivos e como se proteger.',
+        'image' => '/assets/img/post-credito-consumidor-piora-inadimplencia-recorde-2026.jpg',
+        'full' => true,
+        'content' => '
+<p>O crédito ao consumidor piora no Brasil segundo o balanço do segundo trimestre de 2026 divulgado pelos maiores bancos do país: a taxa de inadimplência bateu recorde de 5,6% em maio e se manteve nesse patamar em junho, segundo dados do Banco Central — um nível mais alto até do que o registrado durante a recessão de 2015-2016 e durante a pandemia.</p>
+
+<h2>O Que os Bancos Estão Dizendo</h2>
+<p>Executivos dos maiores bancos brasileiros deram o tom nos resultados do trimestre. Carlos Muñiz, do Santander, afirmou que "pessoalmente, não está otimista" quanto à recuperação das margens, projetando melhora apenas "no início de 2027, e não no final deste ano". Milton Maluhy, do Itaú, chamou atenção para o excesso de crédito disponível ao consumidor, destacando que "os brasileiros agora têm cerca de seis cartões de crédito por pessoa" em média. Já Marcelo Noronha, do Bradesco, confirmou que o banco está desacelerando produtos de maior risco, operando "com uma tolerância ao risco muito moderada".</p>
+
+<h2>Por Que a Inadimplência Está Tão Alta</h2>
+<p>Segundo o levantamento, o endividamento já consome cerca de um terço da renda mensal do brasileiro médio. Entre os fatores apontados estão:</p>
+<ul>
+    <li>Juros historicamente altos há mais de quatro anos seguidos, encarecendo qualquer tipo de crédito;</li>
+    <li>Excesso de liquidez no sistema financeiro, que facilitou a oferta de crédito além da capacidade real de pagamento de muitos consumidores;</li>
+    <li>Alavancagem excessiva, principalmente entre a população de baixa renda, mais exposta a produtos de crédito caros como cartão e crédito pessoal;</li>
+    <li>Baixa efetividade dos programas de renegociação — no caso do Itaú, o programa de renegociação de dívidas reduziu a inadimplência em apenas 2 pontos-base, um efeito considerado pequeno diante do tamanho do problema.</li>
+</ul>
+
+<h2>Um Recorde Que Preocupa o Mercado</h2>
+<p>O que chama atenção dos próprios bancos não é só o número absoluto de 5,6%, mas o contexto em que ele aparece: diferente de 2015-2016 ou da pandemia, quando a inadimplência disparou junto com uma crise econômica clara e um choque abrupto de renda, o patamar atual foi atingido em um cenário de atividade econômica relativamente estável. Isso sugere que o problema é mais estrutural do que conjuntural — está mais ligado ao volume de crédito disponível e ao comportamento de consumo do que a um evento externo pontual, o que torna a reversão mais lenta e incerta, como reconheceram os próprios executivos.</p>
+
+<h3>Sinais de Que Você Pode Estar no Grupo de Risco</h3>
+<p>Alguns sinais ajudam a identificar se o seu perfil de endividamento está próximo do que os bancos consideram preocupante:</p>
+<ul>
+    <li>As parcelas de dívidas (cartão, empréstimos, financiamentos) somam mais de um terço da sua renda líquida mensal;</li>
+    <li>Você usa o limite do cartão de crédito com frequência para cobrir despesas do dia a dia, não só emergências;</li>
+    <li>Você tem mais de três cartões de crédito ativos e não sabe de cabeça o limite total somado entre eles;</li>
+    <li>Você já pagou apenas o valor mínimo da fatura em mais de um mês nos últimos seis meses.</li>
+</ul>
+<p>Se dois ou mais desses sinais fazem parte da sua rotina, vale reorganizar o orçamento antes que a situação se aproxime da média nacional que tanto preocupa o mercado. Quanto mais cedo o ajuste começa, menor a chance de a dívida virar uma bola de neve difícil de controlar.</p>
+
+<h2>O Que Isso Significa Para Quem Já Está Endividado</h2>
+<p>Com os bancos operando com "tolerância ao risco mais moderada", como descreveu o Bradesco, a tendência é que o crédito fique mais seletivo e mais caro para quem já tem histórico de atraso — tornando ainda mais importante agir antes que a dívida cresça. Alguns passos práticos:</p>
+<ol>
+    <li>Revise quantos cartões de crédito você mantém ativos — a média de seis cartões por pessoa citada pelo Itaú é um convite ao endividamento silencioso, já que cada limite disponível é uma tentação a mais;</li>
+    <li>Priorize quitar dívidas com juros mais altos primeiro, como o rotativo do cartão — veja como funciona o <a href="/artigo/juros-rotativo-cartao-teto-100">teto de 100% do rotativo do cartão</a>;</li>
+    <li>Negocie antes de atrasar, não depois — bancos com apetite de risco mais baixo tendem a oferecer condições piores para quem já está em atraso;</li>
+    <li>Monte um orçamento realista considerando que renda comprometida acima de um terço com dívidas já está no patamar de risco identificado pelos próprios bancos.</li>
+</ol>
+<p>Quem já está nessa situação pode começar pelo nosso guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a>, com passos práticos para reorganizar as contas sob pressão, e entender como <a href="/artigo/negociar-dividas-bancos">negociar dívidas com bancos sem aceitar a primeira proposta</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e reflete dados divulgados publicamente pelos bancos e pelo Banco Central até a data de publicação. Números de inadimplência podem mudar nos próximos balanços trimestrais.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/mercados/executivos-de-bancoes-brasileiros-nao-veem-fim-para-inadimplencia-recorde-em-2026/" target="_blank" rel="noopener">Executivos de bancões brasileiros não veem fim para inadimplência recorde em 2026</a></li>
+</ul>
+
+<p>Quer saber exatamente quanto sua dívida está custando e como organizá-la? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'inadimplência crédito ao consumidor 2026, bancos inadimplência recorde, crédito ao consumidor piora, quantos cartões de crédito ter',
+    ],
+
+    [
+        'slug' => 'como-calcular-juros-compostos',
+        'title' => 'Como Calcular Juros Compostos: Fórmula e Exemplos Práticos',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Aprenda a fórmula dos juros compostos, veja exemplos práticos de cálculo e entenda por que eles fazem tanta diferença nos seus investimentos e dívidas.',
+        'image' => '/assets/img/post-como-calcular-juros-compostos.jpg',
+        'full' => true,
+        'content' => '
+<p>Como calcular juros compostos é uma das habilidades financeiras mais úteis do dia a dia — ela explica tanto por que um investimento cresce mais rápido com o tempo quanto por que uma dívida no rotativo do cartão pode sair de controle em poucos meses. Entender a fórmula, na prática, é entender o motor por trás de quase toda decisão financeira de longo prazo.</p>
+
+<h2>A Fórmula dos Juros Compostos</h2>
+<p>A fórmula básica é:</p>
+<p><strong>M = C × (1 + i)^t</strong></p>
+<ul>
+    <li><strong>M</strong> é o montante final (valor total depois do período);</li>
+    <li><strong>C</strong> é o capital inicial (valor aplicado ou emprestado);</li>
+    <li><strong>i</strong> é a taxa de juros do período, em decimal (ex: 1% ao mês = 0,01);</li>
+    <li><strong>t</strong> é o número de períodos (meses, anos, conforme a taxa usada).</li>
+</ul>
+<p>A diferença para os juros simples é que, nos juros compostos, cada período passa a render juros sobre o valor já acumulado — incluindo os juros dos períodos anteriores. É o famoso "juros sobre juros", que cresce de forma exponencial, não linear.</p>
+
+<h2>Exemplo Prático: Investimento</h2>
+<p>Imagine um investimento de R$ 5.000 rendendo 1% ao mês:</p>
+<ul>
+    <li>Após 1 mês: R$ 5.050,00;</li>
+    <li>Após 12 meses: R$ 5.634,13;</li>
+    <li>Após 24 meses: R$ 6.348,68;</li>
+    <li>Após 60 meses (5 anos): R$ 9.083,48.</li>
+</ul>
+<p>Note que o valor não dobra em 60 meses só porque a taxa parece pequena — os juros sobre juros aceleram o crescimento com o tempo. Quanto mais tempo o dinheiro fica aplicado, maior o efeito da composição.</p>
+
+<h2>Exemplo Prático: Dívida no Rotativo do Cartão</h2>
+<p>O mesmo princípio funciona ao contrário quando a dívida é sua. Uma fatura de R$ 1.000 não paga, em um cartão com juros de 12% ao mês no rotativo:</p>
+<ul>
+    <li>Após 1 mês: R$ 1.120,00;</li>
+    <li>Após 3 meses: R$ 1.404,93;</li>
+    <li>Após 6 meses: R$ 1.973,82.</li>
+</ul>
+<p>Em apenas seis meses, a dívida quase dobra — e isso sem contar eventuais multas e outros encargos. É por isso que o <a href="/artigo/juros-rotativo-cartao-teto-100">rotativo do cartão</a> é considerado uma das dívidas mais perigosas de deixar em aberto.</p>
+
+<h2>A Regra dos 72: Um Atalho Para Calcular de Cabeça</h2>
+<p>Existe um truque simples para estimar, sem calculadora, em quanto tempo um valor dobra a uma taxa de juros compostos conhecida: divida 72 pela taxa de juros (em número inteiro, sem o sinal de %). O resultado é aproximadamente o número de períodos necessários para o valor dobrar.</p>
+<p>Por exemplo, a 1% ao mês, 72 ÷ 1 = 72 meses (6 anos) para dobrar o valor aplicado. Já numa dívida de cartão a 12% ao mês, 72 ÷ 12 = 6 meses — o mesmo prazo do exemplo acima, o que confirma a conta feita fórmula por fórmula. É uma forma rápida de ter uma noção de grandeza antes mesmo de abrir uma calculadora.</p>
+
+<h2>Juros Compostos x Juros Simples: Por Que a Diferença Cresce Com o Tempo</h2>
+<p>Nos juros simples, o rendimento de cada período é sempre calculado sobre o capital inicial, sem considerar os juros já acumulados — por isso o crescimento é linear, uma linha reta. Nos juros compostos, cada novo período soma juros sobre o valor total já rendido, criando uma curva que começa parecida com a linear, mas se acelera com o tempo. Quanto mais longo o prazo, maior a distância entre as duas — é por isso que investimentos de longuíssimo prazo, como previdência, se beneficiam tanto de começar cedo, mesmo com aportes pequenos.</p>
+
+<h2>O Efeito de Começar Cedo</h2>
+<p>Para ilustrar por que o tempo pesa tanto na fórmula, imagine dois investidores aplicando o mesmo valor único de R$ 10.000, a uma taxa de 10% ao ano, e os dois se aposentando aos 55 anos:</p>
+<ul>
+    <li><strong>Investidor A</strong> aplica aos 25 anos e deixa o dinheiro render por 30 anos: chega aos 55 anos com aproximadamente R$ 174.490;</li>
+    <li><strong>Investidor B</strong> aplica o mesmo valor aos 35 anos e deixa render por 20 anos: chega aos 55 anos com aproximadamente R$ 67.275.</li>
+</ul>
+<p>Os dois investiram exatamente o mesmo valor inicial — a única diferença foi esperar 10 anos a mais para começar. Mesmo assim, o Investidor A termina com mais do que o dobro do valor do Investidor B, só por causa do tempo extra de composição. É esse efeito que explica por que começar cedo costuma valer mais do que aportar valores maiores mais tarde.</p>
+
+<h2>Como Usar os Juros Compostos a Seu Favor</h2>
+<ol>
+    <li>Comece a investir cedo — o tempo é o fator que mais potencializa o efeito da composição;</li>
+    <li>Reinvista os rendimentos em vez de sacá-los, para que os juros também comecem a render juros;</li>
+    <li>Evite deixar dívidas caras em aberto, já que o mesmo efeito trabalha contra você nesse lado da equação;</li>
+    <li>Use uma calculadora ou planilha para simular diferentes cenários antes de decidir — fazer a conta de cabeça costuma subestimar o efeito acumulado.</li>
+</ol>
+<p>Para simular diferentes cenários de juros compostos com seus próprios números, use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>. E se quiser entender como essa taxa se relaciona com os investimentos de renda fixa mais comuns no Brasil, veja nosso guia sobre <a href="/artigo/o-que-e-cdi-como-funciona">o que é CDI</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Os exemplos usam taxas hipotéticas para fins didáticos.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/estabilidadefinanceira/txjurosconsumidor" target="_blank" rel="noopener">Taxas de juros e spread bancário</a></li>
+    <li>CVM — <a href="https://www.gov.br/investidor/pt-br" target="_blank" rel="noopener">Portal do Investidor</a></li>
+</ul>
+
+<p>Quer ver esse cálculo aplicado ao seu caso? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'como calcular juros compostos, fórmula juros compostos, juros compostos exemplo, juros simples x juros compostos',
+    ],
+
+    [
+        'slug' => 'cdb-lci-lca-diferenca-qual-escolher',
+        'title' => 'CDB, LCI ou LCA: Qual a Diferença e Qual Escolher',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda a diferença entre CDB, LCI e LCA, como funciona a tributação de cada um e qual escolher de acordo com o seu objetivo financeiro.',
+        'image' => '/assets/img/post-cdb-lci-lca-diferenca-qual-escolher.jpg',
+        'full' => true,
+        'content' => '
+<p>CDB, LCI ou LCA são três das opções mais populares de renda fixa no Brasil, mas a diferença entre elas confunde até quem já investe há algum tempo. Entender como cada uma funciona ajuda a escolher a melhor opção de acordo com o seu objetivo e o prazo que você pode deixar o dinheiro aplicado.</p>
+
+<h2>O Que é CDB</h2>
+<p>CDB é a sigla para Certificado de Depósito Bancário: ao investir, você empresta dinheiro para o banco emissor, que usa esse recurso para suas operações de crédito, e devolve o valor com juros no vencimento (ou antes, se o CDB tiver liquidez diária). A rentabilidade costuma ser atrelada a um percentual do <a href="/artigo/o-que-e-cdi-como-funciona">CDI</a>, e o produto tem incidência de Imposto de Renda sobre o rendimento, seguindo a tabela regressiva (de 22,5% a 15%, conforme o prazo).</p>
+
+<h3>Como Funciona a Tabela Regressiva do Imposto de Renda</h3>
+<p>Quanto mais tempo o dinheiro fica aplicado, menor a alíquota cobrada sobre o rendimento:</p>
+<ul>
+    <li>Até 180 dias: 22,5%;</li>
+    <li>De 181 a 360 dias: 20%;</li>
+    <li>De 361 a 720 dias: 17,5%;</li>
+    <li>Acima de 720 dias: 15%.</li>
+</ul>
+<p>Essa tabela vale para CDBs e, agora, também para LCIs e LCAs contratadas após a mudança na isenção. Por isso, resgates de curtíssimo prazo pagam mais imposto proporcionalmente — outro motivo para reservar essas aplicações a objetivos com prazo definido, e não misturá-las com o dinheiro de uso imediato.</p>
+
+<h2>O Que é LCI e LCA</h2>
+<p>LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio) funcionam de forma parecida ao CDB — também são títulos emitidos por bancos —, mas o dinheiro captado é direcionado obrigatoriamente para financiar os setores imobiliário ou do agronegócio, respectivamente. Historicamente, esses produtos eram isentos de Imposto de Renda para pessoa física, o que os tornava mais vantajosos mesmo com uma rentabilidade nominal um pouco menor que a de um CDB equivalente. Mas essa realidade mudou: veja o que aconteceu com o <a href="/artigo/fim-isencao-lci-lca-tributacao">fim da isenção de LCI e LCA</a> e como isso afeta o cálculo de qual opção compensa mais hoje.</p>
+
+<h2>Principais Diferenças Entre os Três</h2>
+<ul>
+    <li><strong>Emissor:</strong> os três são emitidos por bancos, mas CDB não tem restrição de destinação do recurso, enquanto LCI e LCA precisam financiar imóveis ou agronegócio;</li>
+    <li><strong>Tributação:</strong> CDB sempre teve Imposto de Renda regressivo; LCI e LCA, que eram isentas, agora também passaram a ter tributação, reduzindo parte da vantagem histórica;</li>
+    <li><strong>Valor mínimo de aplicação:</strong> LCI e LCA costumam exigir aportes iniciais mais altos que muitos CDBs disponíveis no mercado;</li>
+    <li><strong>Liquidez:</strong> CDBs com liquidez diária são mais comuns; LCI e LCA costumam ter prazos de carência mais longos, geralmente de 90 dias ou mais;</li>
+    <li><strong>Garantia do FGC:</strong> os três contam com a proteção do Fundo Garantidor de Créditos até o limite de R$ 250 mil por CPF e instituição, o que os torna investimentos de baixo risco.</li>
+</ul>
+
+<h3>Exemplo Prático de Comparação</h3>
+<p>Imagine R$ 10.000 aplicados por 24 meses (alíquota de 15% de IR) em duas opções: um CDB a 100% do CDI e uma LCA a 90% do CDI, hoje já tributada. Com o CDI em torno de 13,65% ao ano, o CDB renderia cerca de R$ 2.916 em juros no período, resultando em aproximadamente R$ 2.479 líquidos após o desconto do IR. A LCA a 90% do CDI renderia cerca de R$ 2.608 em juros, e após a mesma alíquota de 15%, ficaria em torno de R$ 2.217 líquidos — nesse cenário, o CDB a 100% do CDI leva vantagem, mesmo com os dois produtos tributados. A conta muda dependendo do percentual do CDI oferecido por cada um, por isso vale sempre simular os números reais antes de decidir, em vez de comparar apenas o rótulo do produto.</p>
+
+<h2>Qual Escolher de Acordo com o Objetivo</h2>
+<ul>
+    <li><strong>Para a reserva de emergência:</strong> prefira um CDB com liquidez diária e rentabilidade de pelo menos 100% do CDI — veja nosso guia sobre <a href="/artigo/reserva-de-emergencia-quanto-guardar">quanto guardar e onde investir a reserva de emergência</a>;</li>
+    <li><strong>Para objetivos de médio prazo, sem necessidade de resgate imediato:</strong> compare a rentabilidade líquida (já descontado o imposto, quando houver) entre um CDB de prazo parecido e uma LCI ou LCA — às vezes a diferença de tributação ainda compensa a LCI/LCA, dependendo do prazo;</li>
+    <li><strong>Para quem busca prazos mais longos e consegue deixar o dinheiro parado:</strong> LCI e LCA com boas taxas podem valer a pena, principalmente quando emitidas por bancos menores, que costumam pagar mais para atrair recursos.</li>
+</ul>
+<p>Na dúvida, o cálculo mais confiável é sempre comparar a rentabilidade líquida final de cada opção para o mesmo prazo — não basta olhar o percentual do CDI anunciado, é preciso considerar também o imposto e a liquidez de cada produto.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Regras de tributação podem mudar — consulte sempre as condições atualizadas antes de investir.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>CVM — <a href="https://www.gov.br/investidor/pt-br" target="_blank" rel="noopener">Portal do Investidor</a></li>
+    <li>B3 — <a href="https://www.b3.com.br/pt_br/market-data-e-indices/indices/renda-fixa/taxa-di" target="_blank" rel="noopener">Taxa DI</a></li>
+</ul>
+
+<p>Quer simular quanto cada opção pode render no seu caso? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'cdb lci lca diferença, qual investimento escolher, cdb ou lci, tributação lci lca',
+    ],
+
+    [
+        'slug' => 'inss-consignado-desconto-indevido-devolucao',
+        'title' => 'INSS Consignado: Como Identificar Descontos Indevidos e Pedir a Devolução',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Milhões de aposentados tiveram descontos indevidos no INSS. Veja como identificar cobranças irregulares no benefício e como pedir a devolução do valor.',
+        'image' => '/assets/img/post-inss-consignado-desconto-indevido-devolucao.jpg',
+        'full' => true,
+        'content' => '
+<p>INSS consignado com desconto indevido afetou milhões de aposentados e pensionistas nos últimos anos, depois que uma investigação da Polícia Federal (Operação Sem Desconto) revelou associações descontando mensalidades e empréstimos consignados sem autorização, direto no benefício, entre 2019 e 2024. Muitos beneficiários só perceberam o problema depois de meses, ou até anos, porque o valor descontado costumava ser pequeno o suficiente para passar despercebido em meio a outros descontos legítimos da folha de pagamento. Se você é aposentado ou pensionista, ou tem pais ou avós nessa situação, e nunca conferiu a folha de pagamento com atenção, este é o momento de checar linha por linha.</p>
+
+<h2>O Tamanho do Problema</h2>
+<p>Segundo a Serasa, o esquema envolveu cobranças de entidades associativas e empréstimos consignados fraudulentos, sem o consentimento dos beneficiários, somando bilhões de reais descontados de forma irregular ao longo de cinco anos. Mais de R$ 3 bilhões já foram devolvidos aos beneficiários que contestaram os descontos, e milhões de pessoas já registraram contestação junto ao INSS.</p>
+
+<h2>Quem Tem Direito à Devolução</h2>
+<p>Têm direito à devolução aposentados e pensionistas que:</p>
+<ul>
+    <li>Identificaram descontos de mensalidades associativas que nunca autorizaram;</li>
+    <li>Tiveram empréstimos consignados contratados sem seu consentimento;</li>
+    <li>Sofreram esses descontos entre 2019 e 2025, período coberto pela apuração.</li>
+</ul>
+<p>A devolução, quando confirmada a irregularidade, é feita em dobro do valor descontado, com correção pela inflação (IPCA) — e a Justiça tem reforçado a obrigatoriedade de bancos e associações devolverem esses valores, inclusive com indenização por danos morais em muitos casos julgados.</p>
+
+<h2>Consignado Fraudulento x Consignado Legítimo: Como Diferenciar</h2>
+<p>Nem todo desconto no benefício é irregular — o consignado legítimo, contratado conscientemente pelo próprio aposentado ou pensionista, continua sendo uma das formas mais baratas de crédito disponíveis, justamente por ter o desconto garantido direto no pagamento. A diferença está no consentimento: se o desconto apareceu na folha sem que você tenha assinado ou autorizado formalmente o contrato — muitas vezes por telefone, com uma gravação genérica usada como "prova" de aceite — trata-se de uma cobrança irregular, o mesmo valendo para mensalidades de associações e sindicatos que você não se lembra de ter aderido.</p>
+
+<h2>Como Verificar se Você Teve Descontos Indevidos</h2>
+<ol>
+    <li>Acesse o aplicativo ou site <strong>Meu INSS</strong> (meu.inss.gov.br) com seu CPF e senha do Gov.br;</li>
+    <li>Procure a opção "Consultar descontos de entidades associativas";</li>
+    <li>Revise a lista de descontos aplicados ao seu benefício nos últimos anos;</li>
+    <li>Se encontrar cobrança que você não reconhece ou não autorizou, registre a contestação diretamente pelo mesmo canal;</li>
+    <li>Alternativamente, ligue para a Central 135 (segunda a sábado, das 7h às 22h) ou procure uma agência dos Correios credenciada.</li>
+</ol>
+<p>Evite qualquer intermediário que cobre para "acelerar" a contestação — o processo é gratuito e pode ser feito diretamente pelos canais oficiais, sem burocracia extra.</p>
+
+<h2>O Que Fazer Enquanto Aguarda a Devolução</h2>
+<p>A devolução costuma cair automaticamente na mesma conta em que o benefício é pago, sem necessidade de ação judicial na maioria dos casos — mas o processo pode levar tempo. Enquanto isso, vale reorganizar o orçamento considerando apenas a renda líquida atual, sem contar com o valor a receber como certo para o mês. Quem já está com outras dívidas em aberto pode aproveitar para negociar tudo de uma vez: veja nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a>.</p>
+
+<h2>E se a Contestação For Negada ou Demorar Demais?</h2>
+<p>Quando a contestação pela via administrativa não é resolvida em prazo razoável, ou quando o INSS nega a devolução mesmo diante de indícios claros de fraude, o beneficiário pode buscar a Justiça — muitas vezes com apoio gratuito da Defensoria Pública da União, sem necessidade de contratar advogado particular. Os tribunais brasileiros já firmaram entendimento consolidado sobre a obrigatoriedade da devolução em dobro nesses casos, o que tem acelerado decisões favoráveis aos aposentados em ações judiciais. Antes de recorrer à Justiça, porém, vale sempre esgotar primeiro os canais administrativos gratuitos, já que a maior parte dos casos é resolvida sem precisar chegar a esse ponto.</p>
+
+<h2>Como Evitar Novos Descontos Indevidos</h2>
+<p>Depois de resolver os descontos antigos, o próximo passo é proteger o benefício contra novas cobranças irregulares. É possível bloquear preventivamente a contratação de novos consignados e associações pelo próprio aplicativo Meu INSS, na opção de bloqueio de descontos — uma camada extra de proteção especialmente importante para quem já foi vítima de fraude uma vez. Para quem depende do consignado de forma legítima, vale entender também como funciona o <a href="/artigo/consignado-clt-fgts-garantia">consignado com garantia do FGTS</a>, uma alternativa geralmente mais barata que o consignado tradicional.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Prazos e procedimentos de contestação podem mudar — consulte sempre os canais oficiais do INSS (meu.inss.gov.br ou 135) para confirmar a situação mais atual do seu caso.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/blog/devolucao-de-valores-do-inss/" target="_blank" rel="noopener">Devolução de valores do INSS: veja o calendário</a></li>
+</ul>
+
+<p>Quer organizar o orçamento enquanto aguarda a devolução? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'inss consignado desconto indevido, devolução inss aposentados, como contestar desconto inss, meu inss descontos associativos',
+    ],
+
 ];
 
 /**
