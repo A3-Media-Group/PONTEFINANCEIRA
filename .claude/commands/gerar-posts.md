@@ -1,5 +1,5 @@
 ---
-description: Pesquisa pautas atuais, gera 5 artigos com fontes confiáveis, imagem via Pollinations.ai, e publica
+description: Pesquisa pautas atuais, gera 5 artigos com fontes confiáveis, imagem via Gemini API, e publica
 allowed-tools: WebSearch, WebFetch, Read, Edit, Write, Bash(git *), Bash(curl *)
 ---
 
@@ -92,42 +92,27 @@ no Google sobre isso) e 2-3 palavras-chave secundárias relacionadas.
 - Termine com uma seção "## Fontes" citando de onde veio a informação (nome da fonte 
   + link), e um CTA linkando para /calculadoras.php ou /simuladores-financeiros.php
 
-## 4. IMAGEM DE CAPA (via Pollinations.ai, modelo flux-realism, sem API key)
-Gere a imagem fazendo uma requisição HTTP GET para:
-https://image.pollinations.ai/prompt/{PROMPT_CODIFICADO_EM_URL}?width=1200&height=675&nologo=true&model=flux-realism&enhance=true
+## 4. IMAGEM DE CAPA (via Gemini API, criação livre baseada no artigo)
+Gere a imagem via API do Gemini (Imagen), usando a variável de ambiente GEMINI_API_KEY.
 
-Onde {PROMPT_CODIFICADO_EM_URL} é o prompt em inglês (URL-encoded). Modelo 
-"flux-realism" é otimizado para fotografia realista — não usar o modelo "flux" 
-genérico, que produz resultados mais simples/abstratos.
+Leia o artigo completo que você acabou de escrever (título, introdução e os principais 
+pontos) e crie um prompt de imagem com liberdade criativa total, decidindo você mesmo:
+- O estilo mais adequado pro tema (fotografia realista, ilustração editorial, 
+  conceito abstrato, 3D — o que fizer mais sentido pro assunto específico)
+- A cena, composição e atmosfera que melhor representam o conteúdo real do artigo
+- As cores que combinam com o tom da matéria (pode usar a paleta da marca — azul 
+  petróleo #0E2438, verde esmeralda #1E7F5C, dourado #C9A227 — como inspiração, mas 
+  não é obrigatório encaixar à força se outra paleta contar melhor a história)
 
-DIRETRIZ CRÍTICA: antes de montar o prompt, releia o parágrafo de abertura e os 
-primeiros 2 subtítulos (H2) do artigo que você acabou de escrever. Extraia DESSE 
-CONTEÚDO ESPECÍFICO (não do título genérico) uma cena concreta e literal que 
-representa o argumento central do artigo — não uma metáfora vaga. O prompt precisa 
-"fazer sentido" com o assunto real tratado, não só com a categoria geral (ex: um 
-artigo sobre "Selic e financiamento imobiliário" pede uma cena de comprador de imóvel 
-olhando documentos/chaves — não uma cena genérica de "gráfico subindo").
+Única regra fixa: a imagem deve ser de alta qualidade, sem texto nem logotipos, e 
+guardar relação clara com o assunto específico do artigo (evite genérico demais).
 
-Monte o prompt neste formato:
-"professional editorial photography for business magazine cover, [cena real e 
-específica extraída do conteúdo do artigo, com objeto/pessoa/ambiente/ação concretos 
-e literais ao assunto tratado], shot on 50mm lens, shallow depth of field, dramatic 
-natural side lighting, subtle film grain, color palette dominated by deep petrol blue 
-(#0E2438) and emerald green (#1E7F5C) with small golden accents (#C9A227), asymmetric 
-composition, rule of thirds, generous negative space on one side, sophisticated 
-serious atmosphere, hyper-realistic, sharp focus, high resolution, no text, no 
-numbers, no logos, no watermark, no cartoon, no abstract shapes"
+Fora isso, use seu próprio julgamento criativo — não siga uma fórmula fixa de prompt, 
+cada artigo pode pedir uma abordagem visual diferente.
 
-Depois de gerar, ANTES de salvar, faça uma auto-checagem: "essa cena descrita no 
-prompt realmente ilustra o argumento específico deste artigo, ou é genérica o 
-suficiente pra servir em qualquer post de finanças?" Se for genérica demais, reescreva 
-o prompt com mais detalhes específicos do conteúdo real e gere de novo (máximo 2 
-tentativas).
+Salve a imagem gerada em /assets/img/post-[slug].jpg.
 
-Baixe a imagem retornada e salve em /assets/img/post-[slug].jpg.
-
-Se a requisição falhar ou der timeout, aguarde 15 segundos e tente novamente antes 
-de desistir.
+Se a geração falhar, tente novamente ajustando o prompt (máximo 2 tentativas).
 
 ## 5. METADADOS SEO
 - excerpt (meta description): até 160 caracteres, contendo a palavra-chave principal
