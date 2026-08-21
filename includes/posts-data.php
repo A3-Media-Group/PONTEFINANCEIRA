@@ -3576,6 +3576,181 @@ $posts = [
         'tags' => 'seguro de carro elétrico, seguro carro elétrico custa mais, bateria carro elétrico seguro cobre, franquia seguro carro elétrico',
     ],
 
+    [
+        'slug' => 'uber-passe-assinatura-motorista',
+        'title' => 'Uber Passe: Como Funciona o Novo Modelo de Assinatura para Motoristas',
+        'category' => ['Notícias'],
+        'date' => '2026-08-21',
+        'read_time' => '4 min',
+        'excerpt' => 'Uber testa o Uber Passe, modelo de assinatura com pagamento fixo em que o motorista fica com 100% dos ganhos das corridas. Entenda como funciona.',
+        'image' => '/assets/img/post-uber-passe-assinatura-motorista.jpg',
+        'full' => true,
+        'content' => '
+<p>O Uber Passe é o novo modelo de assinatura que a empresa está testando no Brasil, permitindo que o motorista pague um valor fixo antecipado e, em troca, fique com 100% dos ganhos das corridas realizadas naquele período — sem o desconto da taxa de serviço cobrada normalmente pela plataforma.</p>
+
+<h2>Como Funciona o Uber Passe</h2>
+<p>O modelo oferece duas modalidades diferentes de assinatura:</p>
+<ul>
+    <li><strong>Passe por Tempo:</strong> o motorista paga um valor fixo e tem viagens ilimitadas sem taxa de serviço por um período de 24 ou 72 horas;</li>
+    <li><strong>Passe por Ganhos:</strong> a isenção da taxa de serviço vale até o motorista atingir um limite de ganhos predefinido, ou até completar 180 dias, o que ocorrer primeiro.</li>
+</ul>
+<p>O passe é ativado automaticamente após a primeira viagem do período, e o valor da assinatura é descontado diretamente da carteira digital do motorista dentro do aplicativo.</p>
+
+<h2>Quanto Custa o Uber Passe</h2>
+<p>A Uber não divulgou os valores cobrados pelos passes, informando apenas que a plataforma pode alterar os preços a qualquer momento — o que significa que o motorista precisa conferir o valor vigente diretamente no aplicativo antes de decidir pela assinatura.</p>
+
+<h2>Onde o Modelo Está Disponível</h2>
+<p>Para motoristas de moto, o Uber Passe já está disponível em todo o Brasil. Já para motoristas de carro, o teste é obrigatório em 29 cidades selecionadas — ou seja, nem todo motorista de carro tem acesso à opção neste momento.</p>
+
+<h2>Vantagens do Modelo de Assinatura</h2>
+<ul>
+    <li>Retenção de 100% dos ganhos semanais das corridas realizadas durante o período do passe;</li>
+    <li>Previsibilidade de custo fixo, o que facilita o planejamento financeiro do motorista;</li>
+    <li>Possibilidade de trocar de modalidade (por tempo ou por ganhos) antes de cada nova ativação, conforme o que fizer mais sentido para a rotina de corridas.</li>
+</ul>
+
+<h2>Pontos de Atenção Antes de Assinar</h2>
+<ul>
+    <li><strong>Outras taxas continuam sendo cobradas:</strong> cancelamento, tempo de espera e pedágio não entram na isenção do passe;</li>
+    <li><strong>Possibilidade de débito automático:</strong> em caso de saldo insuficiente na carteira, a Uber pode debitar o valor automaticamente de outra forma vinculada à conta;</li>
+    <li><strong>Preços podem mudar a qualquer momento:</strong> o valor pago hoje pelo passe não é garantido para as próximas ativações;</li>
+    <li><strong>Vale fazer as contas antes de decidir:</strong> o passe só compensa se o volume de corridas do motorista gerar, em taxa de serviço normal, um valor maior do que o custo fixo do passe no mesmo período.</li>
+</ul>
+
+<h2>Como Decidir se Vale a Pena Para Você</h2>
+<p>Antes de assinar, simule quanto você paga em taxa de serviço em um dia ou período comum de trabalho e compare com o valor do passe equivalente. Motoristas com alto volume de corridas tendem a ter mais chance de sair no lucro com a assinatura, enquanto quem roda pouco pode não sentir tanta diferença.</p>
+<p>Se você trabalha como motorista de aplicativo e busca outras formas de melhorar sua renda ou acesso a crédito, vale conferir nosso guia sobre <a href="/artigo/motorista-de-aplicativo">crédito para motorista de aplicativo</a>, e também a novidade sobre como a <a href="/artigo/renda-de-app-financiamento-caixa">renda de aplicativo passou a ser aceita como formal para financiamento pela Caixa</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Valores, cidades disponíveis e condições do Uber Passe podem mudar a qualquer momento — confirme sempre as informações atualizadas diretamente no aplicativo.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/uber-testa-modelo-de-assinatura-para-motorista-com-pagamento-fixo-entenda/" target="_blank" rel="noopener">Uber testa modelo de assinatura para motorista, com pagamento fixo; entenda</a></li>
+</ul>
+
+<p>Quer organizar seus ganhos e planejar o orçamento como motorista de aplicativo? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'uber passe assinatura motorista, uber sem taxa de serviço, passe por tempo uber, quanto custa o uber passe',
+    ],
+
+    [
+        'slug' => 'como-organizar-heranca-reduzir-custos',
+        'title' => 'Como Organizar Herança e Reduzir Custos: Guia Prático',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-21',
+        'read_time' => '5 min',
+        'excerpt' => 'Veja como organizar a herança em vida, reduzir custos com ITCMD e inventário, e evitar conflitos entre herdeiros com testamento e holding familiar.',
+        'image' => '/assets/img/post-como-organizar-heranca-reduzir-custos.jpg',
+        'full' => true,
+        'content' => '
+<p>Organizar a herança ainda em vida é uma das formas mais eficazes de reduzir custos e evitar conflitos entre herdeiros no futuro. Apesar de ser um assunto cercado de tabu na maioria das famílias brasileiras, adiar essa conversa costuma gerar mais complicação — e mais gasto — do que planejar com antecedência.</p>
+
+<h2>Por Onde Começar: Organize o Patrimônio Ainda em Vida</h2>
+<p>O primeiro passo prático é criar um inventário detalhado de tudo o que compõe o patrimônio: imóveis, contas bancárias, investimentos, veículos e outros bens. Junto a isso, vale organizar a documentação relacionada — matrículas imobiliárias, contratos, extratos bancários e até senhas de acesso a contas digitais — e compartilhar a localização desses documentos com uma pessoa de confiança, evitando que a família tenha dificuldade de localizar tudo no momento em que for preciso.</p>
+
+<h2>Como Reduzir Custos: Entenda o ITCMD</h2>
+<p>O Imposto de Transmissão Causa Mortis e Doação (ITCMD) incide sobre heranças e doações, com alíquota que varia conforme o estado — podendo chegar a até 8% do valor transmitido. Em São Paulo, por exemplo, a alíquota é única, de 4%.</p>
+<p>Uma estratégia usada para reduzir o impacto desse imposto é a doação em vida, aproveitando isenções estaduais específicas. Em São Paulo, por exemplo, doações de até R$ 96.050 por ano ficam isentas do ITCMD — o que permite, ao longo de vários anos, transferir parte do patrimônio de forma gradual e com menor carga tributária.</p>
+<p>Além do ITCMD, outros custos que pesam no processo incluem taxas de cartório, honorários advocatícios e as despesas do próprio inventário.</p>
+
+<h2>Como Evitar Conflitos Entre Herdeiros</h2>
+<p>A legislação brasileira garante aos chamados herdeiros necessários — filhos, pais e cônjuge — o direito a pelo menos 50% do patrimônio, a chamada legítima. Isso significa que o testamento só pode dispor livremente sobre a outra metade dos bens.</p>
+<p>Para famílias com empresas ou múltiplos imóveis, uma ferramenta cada vez mais usada é a holding familiar — uma estrutura que organiza a governança do patrimônio entre os herdeiros, definindo regras claras de gestão e sucessão antes que qualquer conflito surja. Clareza nas definições sucessórias, de forma geral, é o fator que mais reduz o risco de disputas familiares no futuro.</p>
+
+<h2>Ferramentas Para Organizar a Sucessão</h2>
+<table>
+<tr><th>Ferramenta</th><th>Função</th></tr>
+<tr><td>Testamento</td><td>Define o destino da parcela disponível (até 50% do patrimônio)</td></tr>
+<tr><td>Doação em vida</td><td>Antecipa a transferência de bens e reduz a complexidade do inventário</td></tr>
+<tr><td>Holding familiar</td><td>Organiza a gestão de ativos e a governança entre herdeiros</td></tr>
+<tr><td>Seguro de vida</td><td>Cobre despesas imediatas e ajuda a manter a família no curto prazo</td></tr>
+</table>
+
+<h2>Se Você Está do Outro Lado: Recebendo uma Herança</h2>
+<p>Para quem recebe um valor de herança, a recomendação de especialistas é evitar decisões financeiras precipitadas. Antes de investir ou gastar qualquer valor recebido, vale entender bem as opções disponíveis — nosso guia sobre <a href="/artigo/como-comecar-a-investir">como começar a investir do zero</a> ajuda a organizar esse dinheiro com mais segurança, priorizando reserva de emergência antes de qualquer decisão maior.</p>
+
+<h2>Comece a Conversa em Família Antes que Seja Necessário</h2>
+<p>O maior obstáculo para organizar uma herança raramente é técnico — é emocional. Evitar o assunto por desconforto tende a transferir o problema (e o custo) para um momento de luto, quando a família já está fragilizada. Iniciar essa conversa com antecedência, com apoio de um profissional especializado em planejamento sucessório, é o que realmente reduz custos e conflitos no longo prazo.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não substitui orientação jurídica ou tributária individualizada. Alíquotas de ITCMD e regras sucessórias variam por estado — consulte um advogado especializado em planejamento sucessório para o seu caso.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/quem-ama-cuida-como-organizar-heranca-reduzir-custos-e-evitar-conflitos/" target="_blank" rel="noopener">"Quem ama cuida": como organizar herança, reduzir custos e evitar conflitos</a></li>
+</ul>
+
+<p>Quer simular o crescimento de um patrimônio a ser deixado para a família? Use nosso <a href="/simuladores-financeiros.php">simulador de juros compostos</a> gratuito.</p>
+',
+        'tags' => 'como organizar herança, itcmd alíquota por estado, holding familiar o que é, como evitar brigas por herança',
+    ],
+
+    [
+        'slug' => 'quanto-ganha-entregador-mercado-livre',
+        'title' => 'Quanto Ganha um Entregador do Mercado Livre: Requisitos e Ganhos Reais',
+        'category' => ['Notícias', 'Educação'],
+        'date' => '2026-08-21',
+        'read_time' => '4 min',
+        'excerpt' => 'Veja quanto ganha um entregador do Mercado Livre, os requisitos para se cadastrar (incluindo MEI obrigatório) e como calcular o ganho líquido real.',
+        'image' => '/assets/img/post-quanto-ganha-entregador-mercado-livre.jpg',
+        'full' => true,
+        'content' => '
+<p>Quanto ganha um entregador do Mercado Livre é uma das dúvidas mais comuns de quem busca uma renda extra através do aplicativo Envios Extra. Os valores brutos divulgados costumam chamar atenção, mas o ganho líquido real depende de custos operacionais que fazem bastante diferença no fim do mês.</p>
+
+<h2>Requisitos Para se Tornar Entregador</h2>
+<p>Segundo a Serasa, para se cadastrar como entregador do Mercado Livre é preciso atender a alguns requisitos básicos:</p>
+<ul>
+    <li>Ter no mínimo 18 anos e documento de identificação válido;</li>
+    <li>Ter veículo próprio (bicicleta, moto ou carro) com até 15 anos de fabricação e documentação em dia;</li>
+    <li>Para motos, ter bag ou baú com capacidade mínima de 80 litros;</li>
+    <li>Ter smartphone Android com internet móvel ativa;</li>
+    <li><strong>Ter MEI ativo</strong> (Microempreendedor Individual), com atividade compatível com entregas — esse cadastro passou a ser obrigatório para atuar na plataforma.</li>
+</ul>
+
+<h2>Como se Cadastrar</h2>
+<ol>
+    <li>Baixe o aplicativo "Envios Extra", disponível para Android;</li>
+    <li>Crie uma conta informando seus dados pessoais;</li>
+    <li>Envie os documentos exigidos, tanto pessoais quanto do veículo;</li>
+    <li>Aguarde a aprovação do Mercado Livre;</li>
+    <li>Configure sua área de atuação e horários de disponibilidade;</li>
+    <li>Comece a aceitar ofertas de entrega disponíveis na sua região.</li>
+</ol>
+
+<h2>Quanto Dá Para Ganhar</h2>
+<p>O ganho bruto diário costuma variar entre R$ 120 e R$ 300, dependendo do tipo de veículo utilizado e da região de atuação. O valor pago por cada entrega varia conforme a distância percorrida e o tipo de veículo — por isso, o valor exato de cada corrida só aparece dentro do aplicativo, antes de o entregador aceitar a oferta.</p>
+
+<h2>Os Custos Que Reduzem o Ganho Líquido</h2>
+<p>Antes de decidir se vale a pena, é essencial descontar do valor bruto os custos operacionais envolvidos na atividade:</p>
+<ul>
+    <li>Combustível (ou energia, no caso de veículos elétricos);</li>
+    <li>Manutenção do veículo;</li>
+    <li>Plano de internet do celular;</li>
+    <li>Tributos devidos como MEI, incluindo o DAS mensal.</li>
+</ul>
+<p>O ganho líquido real depende diretamente de quanto o entregador consegue controlar esses custos — planejar rotas eficientes e manter o veículo em bom estado são fatores que fazem diferença direta no valor que sobra no fim do mês.</p>
+
+<h2>Vale a Pena Como Renda Extra ou Principal?</h2>
+<p>Para quem busca uma renda extra, complementando outra atividade, o modelo tende a ser mais vantajoso — os custos fixos do veículo já existem independentemente da entrega, e o ganho adicional compensa o esforço. Já para quem depende dessa renda como principal, vale calcular com cuidado se o ganho líquido, após todos os custos, é suficiente para sustentar as despesas fixas do mês.</p>
+<p>Como MEI é obrigatório para essa atividade, vale entender também as regras atuais do enquadramento — veja mais no nosso guia sobre o <a href="/artigo/novo-limite-mei-2026">novo limite do MEI</a>. E se você já atua com entregas ou corridas por aplicativo e busca outras formas de acesso a crédito, confira nosso guia sobre <a href="/artigo/motorista-de-aplicativo">crédito para motorista de aplicativo</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Valores de ganhos e requisitos de cadastro podem mudar — confirme sempre as informações atualizadas diretamente no aplicativo Envios Extra do Mercado Livre.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/blog/mercado-livre-entregador/" target="_blank" rel="noopener">Mercado Livre Entregador: como funciona e como se cadastrar</a></li>
+</ul>
+
+<p>Quer organizar sua renda extra e planejar o orçamento mensal? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> de planejamento financeiro.</p>
+',
+        'tags' => 'quanto ganha um entregador do mercado livre, como ser entregador mercado livre, mei para entregador, envios extra mercado livre',
+    ],
+
 ];
 
 /**
