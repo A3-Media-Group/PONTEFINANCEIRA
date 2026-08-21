@@ -1,20 +1,41 @@
 ---
-description: Pesquisa pautas atuais, gera 3 artigos com fontes confiáveis, imagem via Pollinations.ai, e publica
+description: Pesquisa pautas atuais, gera 5 artigos com fontes confiáveis, imagem via Pollinations.ai, e publica
 allowed-tools: WebSearch, WebFetch, Read, Edit, Write, Bash(git *), Bash(curl *)
 ---
 
-Gere 3 novos artigos completos para o blog da Ponte Financeira, seguindo este processo:
+Gere 5 novos artigos completos para o blog da Ponte Financeira, seguindo este processo:
 
-## 1. PESQUISA DE PAUTAS (obrigatório usar WebSearch)
-Pesquise notícias e temas de finanças pessoais, economia brasileira, crédito e 
-investimentos dos ÚLTIMOS 7 DIAS. Use fontes confiáveis apenas:
-- Banco Central do Brasil (bcb.gov.br)
-- CVM (gov.br/cvm)
-- B3 (b3.com.br)
-- InfoMoney, Valor Econômico, G1 Economia, Estadão Economia, Serasa
-Descarte qualquer informação de fonte não confiável ou que não consiga verificar 
-em pelo menos uma dessas fontes. Escolha 3 temas que ainda não foram cobertos em 
-includes/posts-data.php (leia o arquivo primeiro para não duplicar assunto).
+## 1. PESQUISA DE PAUTAS — MIX DE 5 ARTIGOS (todos com base em SEO)
+Gere 5 artigos no total, seguindo esta distribuição fixa:
+
+**2 artigos — Modelo atual (notícias/pautas recentes)**
+Pesquise via WebSearch notícias e temas de finanças pessoais, economia brasileira, 
+crédito e investimentos dos ÚLTIMOS 7 DIAS, usando apenas fontes confiáveis: Banco 
+Central (bcb.gov.br), CVM (gov.br/cvm), B3 (b3.com.br), InfoMoney, Valor Econômico, 
+G1 Economia, Estadão Economia, Serasa. Escolha 2 temas atuais e relevantes.
+
+**2 artigos — Foco em SEO/volume de busca (maior potencial de tráfego)**
+Escolha 2 temas priorizando dúvidas recorrentes e de alto volume de busca no Brasil — 
+perguntas práticas que as pessoas pesquisam constantemente no Google (não precisam ser 
+notícia da semana), como: "como calcular X", "quanto rende Y", "como sair de Z", 
+"diferença entre A e B". Para esses 2, pense como pesquisa de palavra-chave: prefira 
+temas com intenção de busca clara e alta probabilidade de busca recorrente ao longo 
+do ano, não só um pico passageiro.
+
+**1 artigo — Foco no público endividado (a essência da marca)**
+Escolha 1 tema diretamente relevante para quem está endividado ou em dificuldade 
+financeira: renegociação de dívidas, programas tipo Desenrola, limpar nome no Serasa/
+SPC, recuperar score de crédito, orçamento de sobrevivência sob pressão, como negociar 
+com bancos, ou similar. Esse artigo deve ser o mais prático e acionável dos 5 — o 
+leitor precisa sair sabendo exatamente o próximo passo a dar.
+
+Para TODOS os 5 artigos, independente da categoria: leia includes/posts-data.php 
+primeiro para não duplicar assunto já coberto, e aplique a pesquisa de palavra-chave 
+(seção 2 abaixo) normalmente — ou seja, todos precisam ter boa otimização de SEO, 
+mudando apenas o CRITÉRIO DE ESCOLHA do tema, não o rigor da otimização.
+
+Ao final, na sua resposta, identifique claramente qual dos 5 artigos pertence a cada 
+categoria (2 atuais / 2 SEO / 1 endividados).
 
 ## 2. PESQUISA DE PALAVRA-CHAVE
 Para cada tema, defina uma palavra-chave principal (o que uma pessoa real buscaria 
@@ -86,8 +107,9 @@ próprios como "D'Antiochia" precisam virar "D\'Antiochia"). Nunca faça push co
 sintaxe conhecido. Há também um hook de pre-commit instalado (scripts/check-syntax.sh)
 que bloqueia automaticamente commits com erro de sintaxe PHP.
 
-Rode git add, git commit (mensagem listando os 3 títulos) e git push.
+Rode git add, git commit (mensagem listando os 5 títulos) e git push.
 
 ## 7. RESUMO FINAL
-Me liste os 3 títulos, a palavra-chave principal de cada um, as fontes usadas, 
-e confirme que o push foi feito.
+Me liste os 5 títulos, identificando a categoria de cada um (atual / SEO / 
+endividados), a palavra-chave principal de cada um, as fontes usadas, e confirme 
+que o push foi feito.
