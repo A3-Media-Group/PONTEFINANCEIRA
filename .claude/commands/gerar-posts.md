@@ -32,42 +32,42 @@ no Google sobre isso) e 2-3 palavras-chave secundárias relacionadas.
 - Termine com uma seção "## Fontes" citando de onde veio a informação (nome da fonte 
   + link), e um CTA linkando para /calculadoras.php ou /simuladores-financeiros.php
 
-## 4. IMAGEM DE CAPA (via Pollinations.ai, sem API key, fotografia editorial realista)
+## 4. IMAGEM DE CAPA (via Pollinations.ai, modelo flux-realism, sem API key)
 Gere a imagem fazendo uma requisição HTTP GET para:
-https://image.pollinations.ai/prompt/{PROMPT_CODIFICADO_EM_URL}?width=1200&height=675&nologo=true&model=flux
+https://image.pollinations.ai/prompt/{PROMPT_CODIFICADO_EM_URL}?width=1200&height=675&nologo=true&model=flux-realism&enhance=true
 
-Onde {PROMPT_CODIFICADO_EM_URL} é o prompt abaixo, com espaços/acentos codificados 
-corretamente para URL (URL-encode). Não precisa de nenhuma chave de API nem variável 
-de ambiente — é uma chamada HTTP simples.
+Onde {PROMPT_CODIFICADO_EM_URL} é o prompt em inglês (URL-encoded). Modelo 
+"flux-realism" é otimizado para fotografia realista — não usar o modelo "flux" 
+genérico, que produz resultados mais simples/abstratos.
 
-DIRETRIZ: a imagem deve parecer fotografia editorial de revista de negócios premium 
-(Forbes, Bloomberg Businessweek, Exame) — elegante, séria, realista. NUNCA cartoon, 
-flat design fofo ou clip art. NUNCA texto, números ou logotipos.
-
-Leia o artigo e identifique uma cena concreta e específica do tema (evite abstração; 
-evite clichês como aperto de mão genérico, calculadora numa mesa branca vazia, 
-cofrinho de porquinho).
+DIRETRIZ CRÍTICA: antes de montar o prompt, releia o parágrafo de abertura e os 
+primeiros 2 subtítulos (H2) do artigo que você acabou de escrever. Extraia DESSE 
+CONTEÚDO ESPECÍFICO (não do título genérico) uma cena concreta e literal que 
+representa o argumento central do artigo — não uma metáfora vaga. O prompt precisa 
+"fazer sentido" com o assunto real tratado, não só com a categoria geral (ex: um 
+artigo sobre "Selic e financiamento imobiliário" pede uma cena de comprador de imóvel 
+olhando documentos/chaves — não uma cena genérica de "gráfico subindo").
 
 Monte o prompt neste formato:
-
 "professional editorial photography for business magazine cover, [cena real e 
-específica em inglês, com objeto/ambiente/ângulo concretos], shot on 50mm lens, 
-shallow depth of field, dramatic natural side lighting, subtle film grain, color 
-palette dominated by deep petrol blue (#0E2438) and emerald green (#1E7F5C) with 
-small golden accents (#C9A227), asymmetric composition, rule of thirds, generous 
-negative space on one side, sophisticated serious atmosphere, hyper-realistic, 
-sharp focus, high resolution, no text, no numbers, no logos, no watermark, no cartoon"
+específica extraída do conteúdo do artigo, com objeto/pessoa/ambiente/ação concretos 
+e literais ao assunto tratado], shot on 50mm lens, shallow depth of field, dramatic 
+natural side lighting, subtle film grain, color palette dominated by deep petrol blue 
+(#0E2438) and emerald green (#1E7F5C) with small golden accents (#C9A227), asymmetric 
+composition, rule of thirds, generous negative space on one side, sophisticated 
+serious atmosphere, hyper-realistic, sharp focus, high resolution, no text, no 
+numbers, no logos, no watermark, no cartoon, no abstract shapes"
 
-(Escreva o prompt em inglês — modelos de geração de imagem geralmente entendem 
-melhor e dão resultado mais preciso em inglês, mesmo que o artigo seja em português)
+Depois de gerar, ANTES de salvar, faça uma auto-checagem: "essa cena descrita no 
+prompt realmente ilustra o argumento específico deste artigo, ou é genérica o 
+suficiente pra servir em qualquer post de finanças?" Se for genérica demais, reescreva 
+o prompt com mais detalhes específicos do conteúdo real e gere de novo (máximo 2 
+tentativas).
 
-Baixe a imagem retornada (curl ou equivalente) e salve em /assets/img/post-[slug].jpg.
+Baixe a imagem retornada e salve em /assets/img/post-[slug].jpg.
 
-Se a imagem vier com aparência cartoon/infantil ou genérica demais, ajuste o prompt 
-(adicione mais detalhes concretos da cena) e tente novamente (máximo 2 tentativas).
-
-Se a requisição falhar ou der timeout (pode acontecer, é um serviço gratuito com 
-limite de uso), aguarde 15 segundos e tente novamente antes de desistir.
+Se a requisição falhar ou der timeout, aguarde 15 segundos e tente novamente antes 
+de desistir.
 
 ## 5. METADADOS SEO
 - excerpt (meta description): até 160 caracteres, contendo a palavra-chave principal
