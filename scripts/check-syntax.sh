@@ -9,7 +9,8 @@
 #
 # Este script é usado tanto pelo git hook local (.git/hooks/pre-commit)
 # quanto pode ser rodado manualmente a qualquer momento:
-#   bash scripts/check-syntax.sh
+#   bash scripts/check-syntax.sh          (checa apenas os .php staged)
+#   bash scripts/check-syntax.sh --all    (checa todos os .php do repositório)
 #
 # Instalação do hook (necessário 1x por clone do repositório, pois
 # .git/hooks/ não é versionado pelo Git):
@@ -39,15 +40,18 @@ if [ -z "$PHP_BIN" ]; then
     exit 0
 fi
 
-# Lista de arquivos .php staged para este commit. Quando chamado fora de
-# um hook (execução manual), verifica todos os .php do repositório.
-if git rev-parse --is-inside-work-tree >/dev/null 2>&1 && git diff --cached --name-only --diff-filter=ACM 2>/dev/null | grep -q '\.php$'; then
-    FILES="$(git diff --cached --name-only --diff-filter=ACM | grep '\.php$')"
-else
+# Por padrão, verifica apenas os arquivos .php staged para este commit
+# (é o que o hook de pre-commit precisa). Passe --all para checar todos
+# os .php do repositório (útil para uma varredura manual completa):
+#   bash scripts/check-syntax.sh --all
+if [ "${1:-}" = "--all" ]; then
     FILES="$(find . -name '*.php' -not -path './vendor/*' -not -path './node_modules/*')"
+else
+    FILES="$(git diff --cached --name-only --diff-filter=ACM 2>/dev/null | grep '\.php$' || true)"
 fi
 
 if [ -z "$FILES" ]; then
+    # Nada staged (ou nada .php staged) — não há o que checar neste commit.
     exit 0
 fi
 
