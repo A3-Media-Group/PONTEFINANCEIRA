@@ -8,11 +8,46 @@ Gere 5 novos artigos completos para o blog da Ponte Financeira, seguindo este pr
 ## 1. PESQUISA DE PAUTAS — MIX DE 5 ARTIGOS (todos com base em SEO)
 Gere 5 artigos no total, seguindo esta distribuição fixa:
 
+Fontes confiáveis autorizadas para pesquisa e citação:
+
+**Brasil — Órgãos oficiais e dados**
+- Banco Central do Brasil (bcb.gov.br)
+- CVM (gov.br/cvm)
+- IBGE (ibge.gov.br) — dados de inflação (IPCA) e indicadores econômicos
+- Receita Federal (gov.br/receitafederal) — imposto de renda, MEI, Simples Nacional
+- Procon / Senacon (gov.br/consumidor) — direitos do consumidor
+
+**Brasil — Mercado e crédito**
+- B3 (b3.com.br)
+- Serasa
+- SPC Brasil (spcbrasil.org.br)
+- Reclame Aqui (reclameaqui.com.br) — apenas para citar estatísticas/tendências de 
+  reclamação, nunca reproduzir reclamações individuais
+
+**Brasil — Imprensa financeira**
+- InfoMoney
+- Valor Econômico
+- G1 Economia
+- Estadão Economia
+
+**Internacional — Contexto global (usar quando o tema tocar em economia 
+internacional: tarifas, dólar, juros dos EUA, cenário global)**
+- Federal Reserve (federalreserve.gov) — fonte primária para decisões de juros dos EUA
+- FMI / IMF (imf.org) — perspectiva econômica global
+- Reuters (reuters.com) — agência de notícias internacional
+
+Ao escolher fontes internacionais, sempre traga o dado de volta para o impacto prático 
+no leitor brasileiro (ex: "o que a decisão do Fed significa para o dólar e seus 
+investimentos aqui no Brasil"), nunca deixe o artigo genérico/global demais — o 
+público-alvo é brasileiro.
+
+Descarte qualquer informação de fonte não confiável ou que não consiga verificar em 
+pelo menos uma dessas fontes.
+
 **2 artigos — Modelo atual (notícias/pautas recentes)**
 Pesquise via WebSearch notícias e temas de finanças pessoais, economia brasileira, 
-crédito e investimentos dos ÚLTIMOS 7 DIAS, usando apenas fontes confiáveis: Banco 
-Central (bcb.gov.br), CVM (gov.br/cvm), B3 (b3.com.br), InfoMoney, Valor Econômico, 
-G1 Economia, Estadão Economia, Serasa. Escolha 2 temas atuais e relevantes.
+crédito e investimentos dos ÚLTIMOS 7 DIAS, usando apenas as fontes confiáveis 
+autorizadas listadas acima. Escolha 2 temas atuais e relevantes.
 
 **2 artigos — Foco em SEO/volume de busca (maior potencial de tráfego)**
 Escolha 2 temas priorizando dúvidas recorrentes e de alto volume de busca no Brasil — 
@@ -20,14 +55,18 @@ perguntas práticas que as pessoas pesquisam constantemente no Google (não prec
 notícia da semana), como: "como calcular X", "quanto rende Y", "como sair de Z", 
 "diferença entre A e B". Para esses 2, pense como pesquisa de palavra-chave: prefira 
 temas com intenção de busca clara e alta probabilidade de busca recorrente ao longo 
-do ano, não só um pico passageiro.
+do ano, não só um pico passageiro. Qualquer dado ou estatística citada no corpo do 
+artigo (mesmo que o tema em si seja evergreen) precisa vir de uma das fontes confiáveis 
+autorizadas listadas acima.
 
 **1 artigo — Foco no público endividado (a essência da marca)**
 Escolha 1 tema diretamente relevante para quem está endividado ou em dificuldade 
 financeira: renegociação de dívidas, programas tipo Desenrola, limpar nome no Serasa/
 SPC, recuperar score de crédito, orçamento de sobrevivência sob pressão, como negociar 
 com bancos, ou similar. Esse artigo deve ser o mais prático e acionável dos 5 — o 
-leitor precisa sair sabendo exatamente o próximo passo a dar.
+leitor precisa sair sabendo exatamente o próximo passo a dar. Dados sobre inadimplência, 
+negativados, programas de renegociação etc. devem vir de uma das fontes confiáveis 
+autorizadas listadas acima (Serasa e SPC Brasil costumam ser as mais relevantes aqui).
 
 Para TODOS os 5 artigos, independente da categoria: leia includes/posts-data.php 
 primeiro para não duplicar assunto já coberto, e aplique a pesquisa de palavra-chave 
