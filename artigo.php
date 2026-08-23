@@ -4,6 +4,7 @@ require_once __DIR__ . '/includes/posts-data.php';
 require_once __DIR__ . '/includes/authors.php';
 require_once __DIR__ . '/includes/taxonomy.php';
 require_once __DIR__ . '/includes/newsletter.php';
+require_once __DIR__ . '/includes/creditos-imagens.php';
 
 $slug = isset($_GET['slug']) ? $_GET['slug'] : '';
 $post = get_post_by_slug($slug);
@@ -110,6 +111,7 @@ $has_disclaimer = strpos($post['content'], 'class="callout"') !== false;
 
     <div class="container" style="padding-top:32px">
         <?php echo picture_tag($post['image'], $post['title'], 1200, 630, 'article-hero-img', true); ?>
+        <?php echo image_credit_html($post['slug']); ?>
     </div>
 
     <div class="article-body">

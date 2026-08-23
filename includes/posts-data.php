@@ -4681,6 +4681,305 @@ $posts = [
         'tags' => 'golpe desenrola brasil, desenrola brasil é golpe, como identificar golpe de empréstimo, novo desenrola brasil taxa',
     ],
 
+    [
+        'slug' => 'ibc-br-recua-junho-2026-desaceleracao-economia',
+        'title' => 'IBC-Br Recua 0,6% em Junho: O Que a Desaceleração da Economia Significa Para Você',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'O IBC-Br, prévia do PIB, recuou 0,6% em junho de 2026. Entenda o que a desaceleração da economia muda no seu emprego, crédito e planejamento financeiro.',
+        'image' => '/assets/img/post-ibc-br-recua-junho-2026-desaceleracao-economia.jpg',
+        'full' => true,
+        'content' => '
+<p>O IBC-Br recuou 0,6% em junho de 2026 na comparação com maio, segundo dados dessazonalizados divulgados pelo Banco Central — resultado pior do que o esperado pelos economistas, que projetavam retração de 0,53%. O Índice de Atividade Econômica do Banco Central funciona como uma prévia do PIB, e a queda acende um sinal de alerta sobre o ritmo da economia brasileira nos próximos meses. Para quem organiza o orçamento doméstico ou pensa em trocar de emprego, esse tipo de indicador costuma passar despercebido — mas ele antecipa mudanças que chegam ao bolso poucos meses depois, seja em forma de crédito mais caro, seja em forma de um mercado de trabalho mais cauteloso na hora de contratar.</p>
+
+<h2>O Que Mostram os Números</h2>
+<p>Segundo o Banco Central, além do recuo mensal, outros indicadores merecem atenção:</p>
+<ul>
+    <li>Nos 12 meses encerrados em junho, o indicador acumula alta de apenas 1,5%;</li>
+    <li>Na comparação trimestral, o crescimento ficou em 0,2%;</li>
+    <li>Frente a junho de 2025, o indicador cresceu 2,4%;</li>
+    <li>A atividade industrial caiu 1,4% em relação a maio, e o setor de serviços recuou 0,5%;</li>
+    <li>Somente a agropecuária avançou, com alta de 1% no período — sem esse setor, a queda do IBC-Br teria sido de 0,9%.</li>
+</ul>
+
+<h2>O Que é o IBC-Br e Por Que Ele Importa</h2>
+<p>O IBC-Br é calculado pelo Banco Central combinando dados da indústria, do comércio, dos serviços e da agropecuária, funcionando como uma prévia mensal do PIB antes da divulgação oficial trimestral pelo IBGE. Por sair mais rápido que o PIB oficial, o indicador é usado por economistas e pelo próprio Banco Central para calibrar decisões de política monetária, incluindo os movimentos da Selic.</p>
+<p>Vale notar que o IBC-Br é apenas uma prévia, sujeita a revisões — o número final do PIB, divulgado trimestralmente pelo IBGE, pode confirmar, suavizar ou até reverter a leitura inicial. Ainda assim, o mercado financeiro reage rapidamente a esses dados, porque eles chegam com semanas de antecedência em relação ao PIB oficial, dando o primeiro sinal de para onde a economia está caminhando.</p>
+
+<h2>O Que a Desaceleração Muda no Seu Dia a Dia</h2>
+<p>Uma economia perdendo ritmo não é só um número abstrato — ela costuma se refletir em decisões concretas das empresas e do governo:</p>
+<ul>
+    <li><strong>Mercado de trabalho:</strong> setores em desaceleração, como indústria e serviços, tendem a segurar contratações e podem acelerar desligamentos se a queda persistir;</li>
+    <li><strong>Crédito:</strong> bancos costumam ficar mais seletivos na concessão de crédito em cenários de atividade mais fraca, elevando a importância de manter um bom histórico de pagamento;</li>
+    <li><strong>Juros:</strong> uma economia mais fraca pode dar ao Banco Central mais espaço para cortar a Selic, o que barateia o crédito no médio prazo — mas esse efeito não é imediato;</li>
+    <li><strong>Renda variável:</strong> setores diretamente ligados à indústria e a serviços tendem a sentir mais o impacto de um trimestre mais fraco, o que pode se refletir no desempenho de ações desses segmentos na bolsa.</li>
+</ul>
+
+<h2>Como se Preparar Para um Cenário de Desaceleração</h2>
+<ol>
+    <li>Reforce a reserva de emergência antes de qualquer sinal mais forte de instabilidade no emprego — veja nosso guia sobre <a href="/artigo/reserva-de-emergencia-quanto-guardar">quanto guardar e onde investir a reserva de emergência</a>;</li>
+    <li>Evite assumir novas dívidas de longo prazo em um momento de incerteza sobre renda futura;</li>
+    <li>Priorize quitar dívidas com juros mais altos, já que o crédito tende a ficar mais restritivo em cenários de desaceleração;</li>
+    <li>Revise o orçamento mensal considerando um cenário mais conservador de renda, mesmo que a situação atual ainda esteja estável.</li>
+</ol>
+<p>Um único mês de recuo não define uma recessão, mas a combinação de indústria e serviços em queda simultânea é um sinal que vale acompanhar nas próximas divulgações do indicador — quem já mantém uma reserva sólida e dívidas sob controle atravessa esses períodos com muito mais tranquilidade do que quem depende do crédito para o dia a dia, sem precisar tomar decisões precipitadas caso o cenário realmente piore nos próximos meses.</p>
+
+<h3>Como o IBC-Br se Diferencia de Outros Indicadores</h3>
+<p>Diferente do IPCA, que mede a inflação, ou da taxa de desemprego, divulgada pelo IBGE trimestralmente, o IBC-Br mede o volume de atividade econômica — ou seja, o quanto o país está produzindo e vendendo, não o quanto os preços estão subindo ou quantas pessoas estão sem emprego. Os três indicadores, juntos, formam o painel que o Banco Central usa para decidir os rumos da Selic a cada reunião do Copom: uma economia desacelerando com inflação sob controle tende a abrir espaço para cortes de juros, enquanto desaceleração combinada com inflação alta cria um dilema mais difícil para a política monetária.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Indicadores econômicos são revisados periodicamente — consulte sempre os dados mais atualizados do Banco Central.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>B3 (Bora Investir) — <a href="https://borainvestir.b3.com.br/noticias/ibc-br-recuou-06-em-junho/" target="_blank" rel="noopener">IBC-Br recuou 0,6% em junho, diz Banco Central</a></li>
+</ul>
+
+<p>Quer se preparar financeiramente para cenários de instabilidade? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'ibc-br o que é, desaceleração economia brasil 2026, prévia do pib, como se proteger crise econômica',
+    ],
+
+    [
+        'slug' => 'busca-credito-cresce-baixa-renda-serasa-2026',
+        'title' => 'Busca por Crédito Cresce 35% Entre Quem Ganha Até 2 Salários Mínimos, Mostra Serasa',
+        'category' => ['Notícias', 'Educação'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'A demanda por crédito cresceu 16,5% em 12 meses, e mais entre quem ganha até 2 salários mínimos. Veja o que isso revela sobre o orçamento das famílias.',
+        'image' => '/assets/img/post-busca-credito-cresce-baixa-renda-serasa-2026.jpg',
+        'full' => true,
+        'content' => '
+<p>A busca por crédito no Brasil cresceu 16,5% nos 12 meses encerrados em junho de 2026, segundo o Indicador de Demanda por Crédito da Serasa Experian. Mas o dado mais revelador está no recorte por faixa de renda: entre consumidores que ganham de 1 a 2 salários mínimos, a busca por crédito avançou 35,2% no mesmo período — o maior crescimento entre todas as faixas analisadas.</p>
+
+<h2>O Crescimento Por Faixa de Renda</h2>
+<p>Segundo a Serasa Experian, o aumento na procura por crédito foi maior justamente entre quem ganha menos:</p>
+<ul>
+    <li><strong>De 1 a 2 salários mínimos:</strong> +35,2% (maior crescimento);</li>
+    <li><strong>Até 1 salário mínimo:</strong> +18,1%;</li>
+    <li><strong>De 5 a 10 salários mínimos:</strong> +16,1%;</li>
+    <li><strong>Acima de 10 salários mínimos:</strong> +12,9% (menor crescimento);</li>
+    <li><strong>De 2 a 5 salários mínimos:</strong> única faixa em contração, com queda de 1,5%.</li>
+</ul>
+<p>O padrão nas pontas é claro: entre quem ganha até 2 salários mínimos, o crescimento na busca por crédito passa de 30%, bem acima da média geral de 16,5% — um sinal de que famílias de baixa renda estão recorrendo cada vez mais ao crédito para lidar com o dia a dia.</p>
+<p>Chama atenção também o comportamento oposto da faixa intermediária, de 2 a 5 salários mínimos, a única a registrar contração na busca por crédito. Uma leitura possível é que essa faixa de renda, nem tão vulnerável quanto quem ganha até 2 salários mínimos, nem tão estável quanto as faixas mais altas, esteja reagindo ao cenário de juros altos evitando novas dívidas — enquanto quem ganha menos muitas vezes não tem essa opção, já que o crédito supre necessidades básicas que não podem simplesmente ser adiadas, como alimentação, contas de energia ou aluguel em atraso — despesas que não esperam o próximo salário chegar.</p>
+
+<h2>Onde a Demanda Mais Cresceu</h2>
+<p>O levantamento também mostrou grandes variações regionais, com destaque para estados fora do eixo Sul-Sudeste:</p>
+<ul>
+    <li>Mato Grosso lidera o ranking, com crescimento de 29,9%;</li>
+    <li>Acre aparece em seguida, com 24,8%;</li>
+    <li>Roraima registrou alta de 24,4%;</li>
+    <li>Amapá teve crescimento de 22,6%;</li>
+    <li>Mato Grosso do Sul e Rio Grande do Sul empataram, com 22,1% cada.</li>
+</ul>
+
+<h2>Por Que Isso Está Acontecendo</h2>
+<p>Segundo a economista-chefe da Serasa Experian, a necessidade de acesso ao crédito continua prevalecendo entre famílias de menor renda — mas com uma diferença importante em relação a outras faixas: para esse grupo, o crédito serve menos à administração do orçamento doméstico e mais à cobertura de despesas essenciais, refletindo a pressão do custo de vida sobre o bolso de quem ganha menos.</p>
+<p>Em outras palavras, o crédito está sendo usado, cada vez mais, não como ferramenta de planejamento, mas como forma de tapar buracos no orçamento básico — um padrão que costuma preceder o endividamento excessivo se não for acompanhado de perto.</p>
+
+<h2>Como Sair Desse Ciclo Antes que Ele se Agrave</h2>
+<ol>
+    <li>Mapeie exatamente para onde está indo o crédito contratado — se é para despesas essenciais recorrentes, é sinal de que o orçamento está estruturalmente no vermelho, não apenas passando por um mês ruim;</li>
+    <li>Priorize linhas de crédito mais baratas, como o consignado, em vez do cartão ou do crédito pessoal sem garantia, sempre que precisar recorrer a alguma forma de crédito;</li>
+    <li>Busque programas de complementação de renda ou benefícios sociais aos quais você tenha direito antes de recorrer a crédito para cobrir despesas básicas;</li>
+    <li>Monte um orçamento simples, mesmo que apertado, para identificar exatamente onde cortar antes que o crédito vire hábito.</li>
+</ol>
+<p>Quem está usando crédito para cobrir o básico do mês pode se beneficiar de reorganizar as prioridades com o <a href="/artigo/metodo-50-30-20-orcamento">método 50-30-20</a>, ou, em situações mais graves, seguir o passo a passo do nosso guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a>. Quem já está com dívidas acumuladas por causa desse ciclo também pode conferir como <a href="/artigo/negociar-dividas-bancos">negociar dívidas com bancos sem aceitar a primeira proposta</a>.</p>
+
+<h3>O Que Fazer Antes de Contratar Mais uma Linha de Crédito</h3>
+<p>Antes de contratar qualquer novo crédito para cobrir despesas do mês, vale fazer uma pergunta simples: essa despesa é pontual ou vai se repetir todo mês? Se for recorrente, o crédito só adia o problema e ainda soma juros a ele — o caminho mais sustentável é ajustar o orçamento de forma estrutural, mesmo que isso signifique cortes difíceis no curto prazo. Recorrer ao crédito repetidamente para cobrir o mesmo tipo de despesa é justamente o padrão que a Serasa identificou crescendo entre as famílias de menor renda, e reconhecer esse padrão na própria rotina é o primeiro passo para interrompê-lo antes que ele se torne um ciclo difícil de quebrar.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Dados de demanda por crédito são indicadores agregados e podem não refletir a situação individual de cada consumidor.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa Experian — <a href="https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/" target="_blank" rel="noopener">Indicadores: Busca dos brasileiros por crédito cresceu 16,5% em junho</a></li>
+</ul>
+
+<p>Quer organizar o orçamento antes de recorrer a crédito? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'busca por crédito brasil 2026, demanda por crédito baixa renda, serasa experian indicador, crédito para pagar contas básicas',
+    ],
+
+    [
+        'slug' => 'o-que-e-piramide-financeira-como-identificar',
+        'title' => 'O Que é Pirâmide Financeira e Como Identificar Antes de Perder Dinheiro',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é pirâmide financeira, os sinais de alerta mais comuns e como verificar se uma oferta de investimento é legítima antes de investir.',
+        'image' => '/assets/img/post-o-que-e-piramide-financeira-como-identificar.jpg',
+        'full' => true,
+        'content' => '
+<p>O que é pirâmide financeira é uma pergunta que ganha força sempre que surge uma nova promessa de "ganho garantido" nas redes sociais. Diferente de um investimento legítimo, uma pirâmide financeira não gera lucro real a partir de um produto, serviço ou ativo — ela paga os primeiros participantes com o dinheiro dos que entram depois, um modelo que inevitavelmente desmorona quando o número de novos participantes para de crescer.</p>
+
+<h2>Como Funciona uma Pirâmide Financeira na Prática</h2>
+<p>O esquema costuma seguir uma lógica simples: você é convidado a investir um valor, com a promessa de retorno alto e rápido, muitas vezes acima de qualquer coisa praticada pelo mercado. Parte do "retorno" pago a você, na verdade, vem do dinheiro de quem entrou depois — não de lucro gerado por atividade econômica real. Como cada participante costuma ser incentivado a recrutar novos investidores, o esquema precisa de uma base cada vez maior de gente entrando para sustentar os pagamentos anteriores, até que a captação de novos participantes não seja mais suficiente e o sistema pare de pagar.</p>
+
+<h2>Principais Sinais de Alerta</h2>
+<ul>
+    <li><strong>Promessas de lucro elevado e garantido:</strong> nenhum investimento legítimo consegue garantir retorno fixo muito acima da taxa livre de risco do mercado;</li>
+    <li><strong>Pressão para decisão rápida:</strong> frases como "vagas limitadas" ou "só até hoje" são usadas para não dar tempo de pesquisar;</li>
+    <li><strong>Ênfase em recrutar novos participantes:</strong> se o ganho depende mais de trazer gente nova do que de um produto ou serviço real, é um forte sinal de alerta;</li>
+    <li><strong>Respostas vagas sobre como o dinheiro é investido:</strong> empresas legítimas conseguem explicar com clareza a estratégia por trás do retorno prometido;</li>
+    <li><strong>Ausência de registro nos órgãos reguladores:</strong> qualquer empresa que capte investimentos do público precisa de autorização da CVM.</li>
+</ul>
+
+<h2>Como Verificar se uma Oferta é Legítima</h2>
+<ol>
+    <li>Pesquise o nome completo da empresa e o CNPJ antes de investir qualquer valor;</li>
+    <li>Consulte se a empresa tem registro e autorização para atuar no mercado financeiro no site da CVM (sistemas.cvm.gov.br), de forma gratuita;</li>
+    <li>Desconfie de qualquer retorno prometido muito acima do que investimentos de renda fixa ou variável tradicionais oferecem no mesmo período;</li>
+    <li>Procure reclamações ou processos envolvendo a empresa antes de comprometer qualquer valor;</li>
+    <li>Nunca invista com base apenas na indicação de amigos ou familiares — peça sempre a documentação formal da oferta.</li>
+</ol>
+
+<h2>O Que Fazer se Suspeitar de uma Pirâmide</h2>
+<p>Se você já investiu ou está em dúvida sobre uma oferta específica, a CVM disponibiliza o canal "Fale com a CVM" no site oficial para registrar denúncias e tirar dúvidas sobre a legitimidade de uma empresa ou oferta. Quanto mais cedo a suspeita for reportada, maior a chance de proteger outras pessoas de cair no mesmo esquema — pirâmides financeiras dependem justamente da demora na identificação para continuar crescendo.</p>
+
+<h2>Pirâmide Financeira x Investimento de Alto Risco: Qual a Diferença</h2>
+<p>Vale lembrar que nem todo investimento com retorno acima da média é uma fraude — ativos de maior risco, como ações de empresas menores ou criptomoedas, podem legitimamente render mais (ou menos) que a média do mercado, com volatilidade real e risco de perda documentado. A diferença central está na origem do retorno: um investimento legítimo gera valor a partir de uma atividade econômica real, mesmo que arriscada, enquanto uma pirâmide depende exclusivamente da entrada de novos participantes para se sustentar. Antes de investir em qualquer produto novo ou pouco conhecido, vale entender a fundo como o retorno é gerado — e desconfiar sempre que a resposta não for clara.</p>
+
+<h3>Pirâmides Digitais: o Novo Formato Mais Comum</h3>
+<p>Nos últimos anos, o formato mais comum migrou das reuniões presenciais para grupos de WhatsApp, Telegram e redes sociais, muitas vezes disfarçado de "clube de investimentos" ou "mentoria financeira". O funcionamento é o mesmo esquema antigo, só que com alcance muito maior e mais rápido — um único perfil com boa audiência nas redes sociais consegue captar milhares de novos participantes em poucos dias, acelerando tanto o crescimento quanto o colapso do esquema. Desconfie especialmente de perfis que prometem "liberdade financeira" associada à entrada em um grupo fechado mediante pagamento.</p>
+
+<h3>O Que Fazer Se Você Já Investiu em uma Pirâmide</h3>
+<p>Quem já colocou dinheiro em um esquema suspeito e percebeu o problema antes do colapso total deve agir rápido: reunir todos os comprovantes de pagamento, prints de conversas e promessas feitas, e registrar um boletim de ocorrência descrevendo o esquema com o máximo de detalhes possível. Esses registros são importantes tanto para eventuais ações de ressarcimento quanto para ajudar autoridades a identificar e interromper o esquema antes que mais pessoas sejam prejudicadas. Recuperar o valor investido nem sempre é possível, especialmente se o esquema já entrou em colapso, mas agir cedo aumenta as chances de recuperação parcial em processos coletivos.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Consulte sempre os canais oficiais da CVM antes de investir em produtos financeiros desconhecidos.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>CVM — <a href="https://www.gov.br/investidor/pt-br" target="_blank" rel="noopener">Portal do Investidor</a></li>
+</ul>
+
+<p>Quer simular o retorno real de investimentos legítimos antes de decidir onde aplicar seu dinheiro? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'o que é pirâmide financeira, como identificar pirâmide financeira, golpe de investimento, sinais de golpe financeiro',
+    ],
+
+    [
+        'slug' => 'iof-o-que-e-como-funciona-emprestimos-cartao',
+        'title' => 'IOF: O Que É e Como Ele Afeta Seus Empréstimos e Compras no Cartão',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é o IOF, como ele é calculado em empréstimos, cartão internacional e câmbio, e por que esse imposto pesa mais do que parece.',
+        'image' => '/assets/img/post-iof-o-que-e-como-funciona-emprestimos-cartao.jpg',
+        'full' => true,
+        'content' => '
+<p>IOF (Imposto sobre Operações Financeiras) é um dos impostos mais presentes no dia a dia de quem usa crédito ou compra em moeda estrangeira, mas também um dos menos compreendidos — ele não aparece como uma cobrança separada e visível, mas embutido no custo total da operação. Entender como ele funciona ajuda a calcular o custo real de um empréstimo ou de uma compra internacional antes de fechar negócio.</p>
+
+<h2>O Que é o IOF</h2>
+<p>O IOF incide sobre operações de crédito, câmbio e seguro, além de operações relativas a títulos ou valores mobiliários. A cobrança e o recolhimento do imposto ficam a cargo da instituição responsável pela operação — o banco, a financeira ou a administradora do cartão —, e não do próprio consumidor diretamente, o que faz com que boa parte das pessoas nem perceba que está pagando esse imposto embutido no custo final.</p>
+
+<h2>Como o IOF é Calculado em Cada Tipo de Operação</h2>
+<ul>
+    <li><strong>Empréstimo pessoal (pessoa física):</strong> taxa fixa de 0,38% na contratação, mais 0,0082% ao dia sobre o valor, incidindo enquanto a operação estiver em aberto;</li>
+    <li><strong>Parcelamento no cartão de crédito:</strong> não há incidência de IOF sobre o parcelamento combinado desde o início da compra — o imposto só passa a incidir se houver atraso ou pagamento parcial da fatura, quando o saldo entra no rotativo;</li>
+    <li><strong>Compras internacionais no cartão:</strong> alíquota de 5,38% sobre o valor total da compra, cobrada em uma única vez no momento da transação — vale até para compras em sites estrangeiros feitas de dentro do Brasil;</li>
+    <li><strong>Câmbio (compra de moeda estrangeira em espécie):</strong> alíquota de 1,1% sobre o valor da operação.</li>
+</ul>
+
+<h2>Por Que o IOF Pesa Mais do que Parece</h2>
+<p>Como o IOF é embutido no valor total e cobrado de forma automática pela instituição financeira, muita gente subestima o quanto ele representa no custo final de uma operação — especialmente em empréstimos de prazo mais longo, onde a taxa diária se acumula mês após mês. Num empréstimo pessoal de 12 meses, por exemplo, a taxa diária de 0,0082% já soma quase 3% ao ano só de IOF, somado à taxa fixa inicial de 0,38% — um custo que se soma aos juros do empréstimo, e não os substitui.</p>
+
+<h2>Como Reduzir o Impacto do IOF no Seu Bolso</h2>
+<ol>
+    <li>Ao comparar propostas de crédito, sempre olhe o Custo Efetivo Total (CET), que já inclui o IOF — não compare só a taxa de juros anunciada;</li>
+    <li>Para compras internacionais frequentes, avalie cartões que oferecem IOF reduzido ou isento em parcerias específicas, comparando o custo total antes de decidir;</li>
+    <li>Evite deixar a fatura do cartão cair no rotativo — além dos juros altíssimos dessa modalidade, o IOF passa a incidir também sobre o saldo não pago;</li>
+    <li>Em empréstimos, quanto menor o prazo, menor o valor total pago de IOF, já que a taxa diária se acumula com o tempo — vale considerar esse fator na hora de negociar o prazo do contrato.</li>
+</ol>
+<p>Quem está avaliando um empréstimo pessoal com juros muito altos deve redobrar a atenção: somado ao IOF, o custo final pode surpreender. Veja nosso alerta sobre <a href="/artigo/emprestimo-pessoal-juros-abusivos-senacon-investiga">empréstimos pessoais com juros abusivos que estão sendo investigados pela Senacon</a> antes de contratar qualquer linha de crédito não consignado.</p>
+
+<h3>IOF em Investimentos de Renda Fixa</h3>
+<p>O IOF também aparece num lugar que muita gente esquece: o resgate antecipado de investimentos de renda fixa, como CDB, antes de completar 30 dias da aplicação. Nesse caso, a tabela regressiva do IOF pode consumir até 96% do rendimento obtido nos primeiros dias, chegando a zero somente a partir do 30º dia. Por isso, além de olhar o Imposto de Renda, quem investe em renda fixa e pode precisar do dinheiro em menos de um mês deve considerar esse imposto adicional antes de aplicar. É por isso que produtos com liquidez diária, como o Tesouro Selic, costumam ser mais indicados para a reserva de emergência do que CDBs com prazo de carência — o risco de precisar resgatar antes dos 30 dias e perder quase todo o rendimento para o IOF é real.</p>
+
+<h3>IOF Não é a Mesma Coisa que Juros</h3>
+<p>Uma confusão comum é tratar o IOF como se fosse parte dos juros cobrados pelo banco ou financeira. São coisas diferentes: os juros remuneram quem empresta o dinheiro pelo risco e pelo custo de oportunidade da operação, enquanto o IOF é um tributo federal, que existe independentemente de quem está emprestando. Isso significa que, mesmo comparando duas propostas com a mesma taxa de juros, o valor final pode variar se o prazo ou o tipo de operação mudar a incidência do IOF — mais um motivo para sempre comparar o Custo Efetivo Total, e não apenas a taxa de juros isolada.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Alíquotas de IOF podem mudar por decreto do governo federal — consulte sempre a tabela vigente antes de fechar qualquer operação.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Receita Federal — <a href="https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/tributos/IOF" target="_blank" rel="noopener">IOF — Imposto sobre Operações Financeiras</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/guias/iof/" target="_blank" rel="noopener">IOF: o que é, quando é cobrado e como o imposto é calculado</a></li>
+</ul>
+
+<p>Quer calcular o custo real de um empréstimo antes de contratar? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'o que é iof, iof cartão de crédito internacional, iof empréstimo pessoal, como calcular iof',
+    ],
+
+    [
+        'slug' => 'divida-prescrita-quanto-tempo-sai-nome',
+        'title' => 'Dívida Prescrita: Depois de Quanto Tempo Ela Sai do Serasa e do SPC',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda depois de quanto tempo uma dívida prescreve, sai do Serasa e do SPC automaticamente, e por que ela continua existindo mesmo depois disso.',
+        'image' => '/assets/img/post-divida-prescrita-quanto-tempo-sai-nome.jpg',
+        'full' => true,
+        'content' => '
+<p>Dívida prescrita é aquela que, depois de um determinado prazo, não pode mais manter seu CPF negativado nos birôs de crédito. A regra é clara: após 5 anos contados do vencimento ou da data de inclusão da negativação, o registro deve ser removido automaticamente do Serasa e do SPC Brasil — mas isso não significa que a dívida deixa de existir, e entender essa diferença evita mal-entendidos na hora de negociar ou de planejar as próprias finanças.</p>
+
+<h2>O Que Muda Depois dos 5 Anos</h2>
+<p>Segundo a Serasa, depois de 5 anos da data de negativação, a dívida deve aparecer apenas como conta em atraso, sem a negativação propriamente dita. Na prática, isso significa que:</p>
+<ul>
+    <li>A dívida deixa de negativar o CPF nos birôs de crédito;</li>
+    <li>Ela não afeta mais diretamente o Serasa Score;</li>
+    <li>Ela não impede, por si só, o acesso a novo crédito — embora o histórico financeiro geral ainda possa influenciar a análise do credor.</li>
+</ul>
+
+<h2>A Dívida Prescrita Deixa de Existir?</h2>
+<p>Não. A prescrição afeta apenas a possibilidade de manter o CPF negativado publicamente — a dívida continua registrada nos sistemas internos da empresa credora, que pode inclusive oferecer uma proposta de negociação com condições facilitadas para quem quiser regularizar a situação. É comum, inclusive, que credores ofereçam descontos maiores justamente para dívidas antigas, já que o custo de cobrança judicial de uma dívida prescrita costuma não compensar para a empresa.</p>
+
+<h2>A Remoção é Automática ou Preciso Solicitar?</h2>
+<p>Pela regra, o gestor do cadastro — Serasa, SPC ou qualquer outro birô — deve retirar automaticamente o nome do consumidor de seu banco de dados assim que a dívida completa 5 anos de negativação. Na prática, porém, vale sempre conferir se a remoção realmente aconteceu:</p>
+<ol>
+    <li>Consulte seu CPF gratuitamente pelo site ou aplicativo da Serasa ou do SPC Brasil;</li>
+    <li>Verifique a data de inclusão de cada negativação listada;</li>
+    <li>Se encontrar uma dívida com mais de 5 anos ainda negativada, solicite a exclusão diretamente pelo canal de atendimento do birô de crédito;</li>
+    <li>Guarde o protocolo do pedido, caso precise cobrar a remoção depois.</li>
+</ol>
+
+<h2>Vale a Pena Negociar uma Dívida Prescrita?</h2>
+<p>Depende do objetivo. Como a dívida prescrita já não pesa na negativação, alguns consumidores preferem simplesmente deixar o débito antigo de lado. Mas vale lembrar que a dívida ainda pode aparecer em consultas mais detalhadas de crédito, mesmo sem gerar negativação, e alguns credores continuam tentando cobrar por telefone ou mensagem mesmo depois da prescrição — uma cobrança que, embora legal, não pode mais usar a negativação como forma de pressão. Para quem tem várias dívidas antigas em aberto, negociar tudo de uma vez, aproveitando os descontos maiores costumeiramente oferecidos para débitos velhos, pode ser uma forma de fechar essa página de vez e evitar surpresas futuras — veja nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a>.</p>
+
+<h2>Como Evitar Chegar Nesse Ponto</h2>
+<p>Esperar a dívida prescrever para "resolver sozinha" costuma custar caro: cinco anos de negativação afetam o acesso a crédito, financiamentos e até processos seletivos de emprego que consultam o CPF. Negociar cedo, mesmo com um desconto menor do que o oferecido para dívidas antigas, costuma sair mais barato no total — e evita cinco anos de restrição ao crédito. Veja também como <a href="/artigo/como-aumentar-score-credito">recuperar o score de crédito</a> depois de quitar qualquer pendência, prescrita ou não.</p>
+
+<h3>Diferença Entre Dívida Prescrita e Dívida Quitada</h3>
+<p>Vale não confundir os dois conceitos: uma dívida quitada teve seu valor efetivamente pago, e a baixa da negativação deve acontecer em até 5 dias úteis após o pagamento, segundo o Código de Defesa do Consumidor. Já uma dívida prescrita nunca foi paga — ela simplesmente perdeu, pelo tempo, o poder de manter o CPF negativado. Para quem pensa em score de crédito e histórico financeiro no longo prazo, quitar continua sendo a opção mais sólida: além de resolver a pendência de fato, sinaliza para futuros credores um histórico de pagamento mais consistente do que simplesmente esperar o prazo passar.</p>
+
+<h3>Dívida Prescrita Pode Voltar a Negativar o Nome?</h3>
+<p>Não. Uma vez removida a negativação por prescrição, a mesma dívida não pode voltar a negativar o CPF pelo mesmo débito — a empresa credora pode continuar cobrando pelos canais tradicionais, mas não pode reinserir o registro nos birôs de crédito depois de passados os 5 anos. Se isso acontecer, é uma prática irregular, e o consumidor tem o direito de solicitar a remoção imediata junto ao Serasa ou ao SPC Brasil, além de poder buscar reparação por danos caso a negativação indevida cause algum prejuízo comprovado, como a recusa de um crédito ou financiamento.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Prazos de prescrição podem variar conforme o tipo de dívida — consulte sempre um advogado ou os canais oficiais da Serasa e do SPC Brasil para casos específicos.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/divida-prescrita/" target="_blank" rel="noopener">Dívida prescrita ainda pode ser cobrada?</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/divida-com-mais-de-5-anos/" target="_blank" rel="noopener">Dívida com mais de cinco anos: o que acontece?</a></li>
+</ul>
+
+<p>Quer organizar suas dívidas antes que elas neguem seu nome por anos? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'dívida prescrita, depois de quantos anos a dívida sai do nome, dívida com mais de 5 anos, prescrição de dívida serasa',
+    ],
+
 ];
 
 /**

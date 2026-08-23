@@ -159,6 +159,8 @@ a.post-cat:hover { color: var(--accent-dark); }
 
 /* ---------- Artigo individual ---------- */
 .article-hero-img { width: 100%; max-height: 420px; object-fit: cover; border-radius: 0; }
+.image-credit { font-size: .74rem; color: var(--text-muted); margin: 6px 0 0; letter-spacing: .01em; }
+.image-credit a { color: var(--text-muted); text-decoration: underline; }
 .article-header { background: var(--card); border-bottom: 1px solid var(--line); padding: 56px 0 32px; }
 .breadcrumbs { font-size: .8rem; color: var(--text-muted); margin-bottom: 18px; letter-spacing: .02em; }
 .breadcrumbs a { color: var(--accent-dark); }
