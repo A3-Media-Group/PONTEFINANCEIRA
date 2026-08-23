@@ -46,6 +46,41 @@ $image_credits = [
         'source_name' => 'rawpixel',
         'source_url' => 'https://www.rawpixel.com/image/5924603/photo-image-background-public-domain-glass',
     ],
+    'desenrola-2-0-inadimplencia-dividas-renegociadas-10' => [
+        'title' => 'Business agreement handshake at coffee shop',
+        'creator' => 'rawpixel.com',
+        'license' => 'CC0 1.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=67537455',
+    ],
+    'reincidencia-inadimplencia-pior-julho-historia-spc' => [
+        'title' => 'Free public domain CC0 photo (calculadora)',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/5946427/free-public-domain-cc0-photo',
+    ],
+    'o-que-e-cet-custo-efetivo-total-emprestimos' => [
+        'title' => 'Free hand holding pen signing',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/5903963/photo-image-background-public-domain-hand',
+    ],
+    'decimo-terceiro-salario-como-calcular-quando-pago' => [
+        'title' => '20 Brazilian Real banknote featuring a Golden Lion Tamarin monkey',
+        'creator' => 'Oleg Yunakov',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=193031378',
+    ],
+    'nas-nucleo-atendimento-superendividado-procon' => [
+        'title' => 'Two people discussing business table',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/3336872/free-photo-image-desk-meeting-men',
+    ],
 ];
 
 /**

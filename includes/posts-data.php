@@ -4980,6 +4980,295 @@ $posts = [
         'tags' => 'dívida prescrita, depois de quantos anos a dívida sai do nome, dívida com mais de 5 anos, prescrição de dívida serasa',
     ],
 
+    [
+        'slug' => 'desenrola-2-0-inadimplencia-dividas-renegociadas-10',
+        'title' => 'Desenrola 2.0: Inadimplência das Dívidas Renegociadas Chega a 10% — o Que Isso Significa',
+        'category' => ['Notícias', 'Renegociação'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'A inadimplência das dívidas renegociadas pelo Desenrola 2.0 chegou a 10% em agosto. Entenda os números por banco e o que fazer para não repetir o problema.',
+        'image' => '/assets/img/post-desenrola-2-0-inadimplencia-dividas-renegociadas-10.jpg',
+        'full' => true,
+        'content' => '
+<p>A inadimplência das dívidas renegociadas pelo Desenrola 2.0 chegou a 10% em agosto de 2026, segundo análise do UBS BB — um índice considerado elevado pelos analistas, ainda que bem abaixo do limite de 50% de cobertura oferecido pelo Fundo Garantidor de Operações do programa. Os números mostram que renegociar uma dívida não garante, sozinho, que ela seja paga até o fim.</p>
+
+<h2>Os Números do Desenrola 2.0</h2>
+<p>O programa já renegociou R$ 3,5 bilhões em empréstimos garantidos — equivalente a cerca de R$ 23 bilhões em dívidas originais antes dos descontos, considerando uma redução média de 85% sobre o valor devido. Apesar do desconto generoso, a inadimplência sobre esse valor renegociado varia bastante conforme a instituição financeira:</p>
+<ul>
+    <li><strong>Banco do Brasil:</strong> 18,4% (maior taxa entre as instituições analisadas);</li>
+    <li><strong>Santander Brasil:</strong> 14,1%;</li>
+    <li><strong>Nu:</strong> 13,8%;</li>
+    <li><strong>Itaú:</strong> 11,5%;</li>
+    <li><strong>Bradesco:</strong> 0,4%;</li>
+    <li><strong>PicPay:</strong> 0,2% (menor taxa).</li>
+</ul>
+<p>A diferença enorme entre as instituições sugere que o perfil de cliente atendido e os critérios de elegibilidade para a renegociação variam bastante de banco para banco — o que também explica por que a média geral do programa, de 10%, esconde realidades bem diferentes.</p>
+
+<h2>Como Funciona o Fundo Garantidor de Operações</h2>
+<p>O Fundo Garantidor de Operações (FGO) é a peça central que permite ao Desenrola 2.0 oferecer descontos tão altos aos consumidores: ele cobre parte do risco de calote assumido pelos bancos participantes, funcionando como um colchão de segurança para as instituições financeiras. É por isso que o limite de cobertura de 50% funciona como referência de alerta — enquanto a inadimplência ficar abaixo desse teto, o programa continua sustentável financeiramente para os bancos, mesmo com uma parcela relevante de consumidores não pagando o combinado.</p>
+
+<h2>Por Que Gente Que Renegocia Volta a Ficar Inadimplente</h2>
+<p>Segundo os analistas do UBS BB, a carteira do Desenrola 2.0 "ainda está em fase de maturação" — ou seja, os números atuais podem não refletir o comportamento definitivo de longo prazo do programa. Mas a experiência de programas de renegociação em massa, no Brasil e em outros países, mostra um padrão recorrente: renegociar uma dívida resolve o passado, mas não muda automaticamente os hábitos financeiros que levaram ao endividamento em primeiro lugar. Sem ajustar o orçamento depois do acordo, é comum que a pessoa volte a atrasar outras contas — ou a mesma dívida renegociada — em poucos meses.</p>
+
+<h2>Como Não Fazer Parte Dessa Estatística</h2>
+<ol>
+    <li>Antes de aceitar a renegociação, calcule se a nova parcela realmente cabe no orçamento mensal considerando a renda atual, não uma expectativa de renda futura;</li>
+    <li>Monte um orçamento estruturado logo após fechar o acordo — não espere o primeiro atraso para reagir;</li>
+    <li>Evite contrair novo crédito enquanto a dívida renegociada ainda estiver em andamento, mesmo que o limite pareça disponível;</li>
+    <li>Se perceber que a parcela renegociada vai atrasar, entre em contato com o credor antes do vencimento — muitas instituições têm mais flexibilidade para ajustar o acordo do que para uma dívida em atraso do zero.</li>
+</ol>
+<p>Para quem está avaliando participar do programa ou já renegociou e quer entender melhor como funciona, veja nosso guia sobre <a href="/artigo/desenrola-adimplentes-como-funciona">como funciona o Desenrola Adimplentes</a> e sobre <a href="/artigo/desenrola-brasil">o que foi o Desenrola Brasil</a> na primeira edição do programa.</p>
+
+<h3>O Que Fazer se Você Já Está Inadimplente na Dívida Renegociada</h3>
+<p>Quem já renegociou pelo Desenrola e está atrasando a parcela não deve simplesmente deixar a situação se acumular. O primeiro passo é procurar o próprio banco para entender se é possível um novo ajuste — muitas instituições preferem renegociar de novo a perder o valor já descontado. Se essa via não funcionar, vale buscar apoio especializado, como o <a href="/artigo/nas-nucleo-atendimento-superendividado-procon">Núcleo de Atendimento ao Superendividado (NAS) do Procon</a>, que ajuda a reorganizar todas as dívidas de uma família de forma conjunta, e não apenas uma renegociação isolada.</p>
+
+<h3>O Que Diferencia Quem Consegue Pagar de Quem Reincide</h3>
+<p>Comparando os dois grupos — quem mantém a dívida renegociada em dia e quem volta a atrasar — a diferença raramente está no valor do desconto obtido na negociação, e sim no que acontece depois dela. Quem consegue honrar o acordo costuma ter feito um ajuste real no orçamento antes de assinar, cortando gastos que não cabiam mais na nova realidade financeira. Já quem reincide, na maioria dos casos, aceitou a renegociação como um alívio imediato sem mudar o comportamento que gerou a dívida original — o que torna praticamente inevitável repetir o mesmo ciclo assim que a pressão do primeiro atraso passa.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Números do Desenrola 2.0 podem ser atualizados nos próximos meses, à medida que a carteira amadurece — consulte sempre os canais oficiais do programa para a situação mais atual.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/mercados/ubs-bb-indice-de-inadimplencia-do-desenrola-2-0-e-elevado-mas-bem-abaixo-do-limite/" target="_blank" rel="noopener">UBS BB: Índice de inadimplência do Desenrola 2.0 é elevado, mas bem abaixo do limite</a></li>
+</ul>
+
+<p>Quer negociar uma dívida com segurança e planejar o orçamento antes de fechar o acordo? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'desenrola 2.0 inadimplência, desenrola brasil renegociação 2026, inadimplência dívidas renegociadas, desenrola por banco',
+    ],
+
+    [
+        'slug' => 'reincidencia-inadimplencia-pior-julho-historia-spc',
+        'title' => 'Reincidência na Inadimplência Atinge 86,54% em Julho, o Pior da História, Mostra SPC Brasil',
+        'category' => ['Score de Crédito', 'Notícias'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Reincidência na inadimplência chegou a 86,54% em julho, o pior resultado da história, aponta SPC Brasil. Entenda os números e como quebrar esse ciclo.',
+        'image' => '/assets/img/post-reincidencia-inadimplencia-pior-julho-historia-spc.jpg',
+        'full' => true,
+        'content' => '
+<p>A reincidência na inadimplência atingiu 86,54% dos negativados em julho de 2026 — o pior resultado da série histórica, segundo o Indicador de Inadimplência do CNDL e do SPC Brasil. Isso significa que, de cada 10 pessoas que tiveram o nome negativado no mês, quase 9 já haviam passado por essa situação antes, seja porque nunca quitaram uma dívida antiga, seja porque voltaram a se endividar depois de limpar o nome.</p>
+
+<h2>Os Números da Reincidência</h2>
+<p>O levantamento detalha o perfil dos negativados em julho:</p>
+<ul>
+    <li><strong>66,27%</strong> ainda não quitaram dívidas antigas — ou seja, seguem inadimplentes de um débito anterior;</li>
+    <li><strong>20,26%</strong> voltaram a negativar depois de terem conseguido sair do cadastro de inadimplentes;</li>
+    <li><strong>Apenas 13,46%</strong> tiveram sua primeira negativação no período.</li>
+</ul>
+<p>Além disso, o número de devedores reincidentes cresceu 18,30% nos 12 meses encerrados em julho de 2026, na comparação com os 12 meses anteriores — um ritmo de crescimento bem mais rápido do que o de novos inadimplentes.</p>
+
+<h2>O Dado Mais Revelador: 71,9 Dias Entre Dívidas</h2>
+<p>Talvez o número mais preocupante do levantamento seja o intervalo médio entre vencimentos de dívidas para quem reincide: 71,9 dias. Na prática, isso significa que, cerca de 2,4 meses depois do vencimento de uma dívida que gerou negativação, outra dívida do mesmo consumidor já está vencendo. O ciclo se repete rápido demais para que a pessoa consiga se reorganizar financeiramente entre um problema e outro.</p>
+<p>Esse intervalo curto ajuda a explicar por que soluções pontuais, como negociar uma única dívida isoladamente, tendem a falhar: o consumidor mal termina de resolver um problema e já está enfrentando o próximo, sem tempo real para reconstruir uma margem de segurança no orçamento entre um vencimento e outro.</p>
+
+<h2>Por Que a Reincidência é Tão Alta</h2>
+<p>Segundo os líderes do CNDL e do SPC Brasil, o problema envolve uma combinação de fatores estruturais: taxas de juros elevadas, renda comprimida pela inflação e a dificuldade crônica de boa parte da população em manter as contas em dia. Ou seja, não se trata apenas de renegociações pontuais que falham — é um padrão mais profundo, ligado à capacidade real de pagamento das famílias frente ao custo de vida atual. Some a isso o fato de que boa parte dos reincidentes carrega mais de uma dívida ao mesmo tempo, o que torna o problema ainda mais difícil de resolver com negociações isoladas, credor por credor.</p>
+
+<h2>Como Quebrar o Ciclo da Reincidência</h2>
+<ol>
+    <li>Depois de negociar e quitar uma dívida, monte imediatamente um orçamento que caiba na renda disponível — sem isso, o espaço que abriu no orçamento tende a ser ocupado por um novo compromisso rapidamente;</li>
+    <li>Priorize formar uma reserva mínima, mesmo pequena, antes de assumir qualquer novo crédito — ela é o que evita que um imprevisto vire negativação de novo;</li>
+    <li>Evite contratar novo crédito só porque o limite voltou a ficar disponível depois da negociação;</li>
+    <li>Se identificar que uma nova dívida está prestes a vencer sem condições de pagamento, negocie antes do vencimento — o intervalo médio de 71,9 dias mostra que agir cedo é a diferença entre resolver e reincidir.</li>
+</ol>
+<p>Para entender o retrato mais amplo da inadimplência no Brasil e como sair do ciclo de forma estruturada, veja nosso guia sobre <a href="/artigo/brasileiros-negativados-como-sair-ciclo-inadimplencia">como sair do ciclo da inadimplência</a>. E quem está reorganizando o orçamento depois de uma negociação pode aproveitar o <a href="/artigo/metodo-50-30-20-orcamento">método 50-30-20</a> para não deixar a história se repetir.</p>
+
+<h3>O Perfil de Quem Mais Reincide</h3>
+<p>Levantamentos anteriores do SPC Brasil já mostravam que a reincidência tende a ser maior entre famílias de renda mais baixa, justamente o grupo que menos tem margem no orçamento para absorver imprevistos sem recorrer a novo crédito. Isso cria um efeito cascata: a família nega o nome, negocia, consegue um respiro temporário, mas qualquer imprevisto — uma conta médica, um conserto inesperado — já é suficiente para gerar uma nova dívida, já que não havia reserva formada durante o período de recuperação. É por isso que reforçar a reserva de emergência logo após uma negociação costuma pesar tanto quanto a própria negociação na prevenção da reincidência.</p>
+
+<h3>Quando Vale Buscar Apoio Especializado</h3>
+<p>Se a reincidência já virou um padrão difícil de quebrar sozinho, vale considerar um apoio mais estruturado do que uma negociação isolada. O <a href="/artigo/nas-nucleo-atendimento-superendividado-procon">Núcleo de Atendimento ao Superendividado (NAS)</a>, serviço gratuito do Procon, foi criado justamente para tratar o problema financeiro como um todo, analisando todas as dívidas de uma família ao mesmo tempo — uma abordagem que tende a reduzir bem mais a chance de reincidência do que resolver um credor de cada vez.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Os dados refletem o indicador de julho de 2026 e podem mudar nos próximos meses — consulte sempre os canais oficiais do SPC Brasil para números atualizados.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>CNDL / SPC Brasil — <a href="https://cndl.org.br/varejosa/com-pior-julho-da-historia-reincidencia-atinge-8654-dos-consumidores-que-entraram-na-inadimplencia-aponta-cndl-e-spc-brasil/" target="_blank" rel="noopener">Com pior julho da história, reincidência atinge 86,54% dos consumidores que entraram na inadimplência</a></li>
+</ul>
+
+<p>Quer organizar o orçamento para não reincidir na inadimplência? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'reincidência inadimplência 2026, spc brasil indicador inadimplência, como não reincidir em dívida, ciclo de negativação',
+    ],
+
+    [
+        'slug' => 'o-que-e-cet-custo-efetivo-total-emprestimos',
+        'title' => 'O Que é CET (Custo Efetivo Total) e Como Usar Para Comparar Empréstimos',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é o CET, por que ele é mais confiável que a taxa de juros isolada, e como usá-lo para comparar propostas de empréstimo.',
+        'image' => '/assets/img/post-o-que-e-cet-custo-efetivo-total-emprestimos.jpg',
+        'full' => true,
+        'content' => '
+<p>CET (Custo Efetivo Total) é a informação mais importante — e mais ignorada — na hora de comparar propostas de empréstimo ou financiamento. Diferente da taxa de juros anunciada, que costuma aparecer em destaque nas propagandas, o CET reúne todos os custos reais de uma operação de crédito num único percentual anual, tornando possível comparar propostas de forma justa.</p>
+
+<h2>O Que é o CET</h2>
+<p>Segundo o Banco Central, o CET é a taxa percentual anual que representa o custo total de uma operação de crédito ou arrendamento mercantil, incluindo juros, tarifas, tributos, seguros e quaisquer outros encargos cobrados do cliente, calculada em regime de juros compostos. A obrigatoriedade de informar o CET antes da contratação está prevista na Resolução CMN nº 4.881/2020, que substituiu a antiga Resolução 3.517/2007 sobre o mesmo tema.</p>
+
+<h2>Por Que Só a Taxa de Juros Não é Suficiente</h2>
+<p>Duas propostas de empréstimo com a mesma taxa de juros nominal podem ter custos finais bem diferentes, dependendo de:</p>
+<ul>
+    <li>Tarifas de abertura de crédito ou de cadastro cobradas separadamente;</li>
+    <li>Seguros vinculados à operação, muitas vezes oferecidos como "opcionais" mas embutidos no cálculo padrão;</li>
+    <li>IOF, que varia conforme o prazo e o tipo de operação — veja nosso guia sobre <a href="/artigo/iof-o-que-e-como-funciona-emprestimos-cartao">como o IOF afeta empréstimos e compras no cartão</a>;</li>
+    <li>Outras tarifas administrativas específicas de cada instituição.</li>
+</ul>
+<p>É exatamente por isso que instituições financeiras são obrigadas a informar o CET antes da contratação — ele elimina a possibilidade de comparar "taxa de juros contra taxa de juros" enquanto uma das propostas esconde custos adicionais que só aparecem depois de assinado o contrato.</p>
+
+<h2>Como Usar o CET na Prática</h2>
+<ol>
+    <li>Ao receber qualquer proposta de crédito, peça explicitamente o CET antes de decidir — é direito do consumidor, garantido por resolução do Banco Central;</li>
+    <li>Compare o CET, não a taxa de juros, entre diferentes instituições para o mesmo valor e prazo;</li>
+    <li>Desconfie de propostas que demoram a informar o CET ou que só o mencionam depois de pressionadas — é um sinal de que os custos adicionais podem ser altos;</li>
+    <li>Lembre-se que o CET já é anualizado — para comparar com uma proposta informada em taxa mensal, converta ambas para a mesma base de tempo antes de decidir.</li>
+</ol>
+
+<h2>CET Não é a Mesma Coisa que Taxa de Juros</h2>
+<p>Um erro comum é achar que o CET é apenas "a taxa de juros com um nome mais formal". Na prática, o CET é sempre igual ou maior que a taxa de juros nominal, porque soma todos os outros custos a ela. Uma diferença pequena entre CET e taxa de juros indica uma operação com poucos custos adicionais; uma diferença grande é sinal de que vale a pena negociar a remoção de tarifas ou seguros embutidos antes de fechar o contrato.</p>
+
+<h2>Onde Encontrar o CET</h2>
+<p>Bancos e financeiras são obrigados a exibir o CET de forma clara no contrato e, geralmente, também em simulações feitas pelo aplicativo ou site antes da contratação. Se a informação não aparecer automaticamente, o consumidor pode — e deve — solicitá-la diretamente, por escrito, antes de assinar qualquer proposta de crédito pessoal, financiamento de veículo ou imóvel, ou consignado.</p>
+
+<h2>Exemplo Prático: Duas Propostas, Mesma Taxa de Juros</h2>
+<p>Imagine duas propostas de empréstimo de R$ 10.000 em 12 parcelas, ambas anunciadas com a mesma taxa de juros de 2% ao mês. A Proposta A não cobra nenhuma tarifa adicional, resultando num CET próximo de 26,8% ao ano — praticamente equivalente aos juros compostos anualizados. Já a Proposta B cobra uma tarifa de cadastro de R$ 300 e um seguro prestamista obrigatório de R$ 50 por mês, elevando o CET para algo em torno de 34% ao ano, mesmo com a taxa de juros anunciada sendo idêntica. Sem comparar o CET, essa diferença de quase 8 pontos percentuais ao ano passaria despercebida até o consumidor já estar com o contrato assinado — e é justamente esse tipo de custo escondido que a exigência legal de divulgação do CET busca evitar.</p>
+
+<h3>CET e o Empréstimo Pessoal com Juros Abusivos</h3>
+<p>O CET é especialmente útil para identificar propostas de crédito pessoal com juros abusivos, tema que tem ganhado atenção da Senacon. Quando o CET informado passa de um patamar muito acima da média do mercado — como os casos de crédito pessoal não consignado com taxas acima de 800% ao ano identificados em investigações recentes — é um sinal claro de que vale buscar outras opções antes de assinar. Veja mais sobre esse tema em nosso artigo sobre <a href="/artigo/emprestimo-pessoal-juros-abusivos-senacon-investiga">empréstimos pessoais com juros abusivos investigados pela Senacon</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Regras sobre divulgação de CET podem ser atualizadas por novas resoluções do CMN — consulte sempre a normativa vigente.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/content/estabilidadefinanceira/especialnor/Resolu%C3%A7%C3%A3o4881.pdf" target="_blank" rel="noopener">Resolução CMN nº 4.881/2020 — Custo Efetivo Total</a></li>
+</ul>
+
+<p>Quer simular o custo real de um empréstimo antes de contratar? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'o que é cet, custo efetivo total, como comparar empréstimos, cet banco central',
+    ],
+
+    [
+        'slug' => 'decimo-terceiro-salario-como-calcular-quando-pago',
+        'title' => '13º Salário: Como é Calculado, Quando é Pago e Quanto Desconta de Imposto de Renda',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda como é calculado o 13º salário, quando as parcelas são pagas e quanto de Imposto de Renda é descontado no valor final.',
+        'image' => '/assets/img/post-decimo-terceiro-salario-como-calcular-quando-pago.jpg',
+        'full' => true,
+        'content' => '
+<p>13º salário é um direito garantido a todo trabalhador com carteira assinada, mas o cálculo exato do valor — e do desconto de Imposto de Renda sobre ele — ainda gera dúvida na maioria das famílias brasileiras. Entender como a conta funciona ajuda a planejar o uso do dinheiro antes mesmo de ele cair na conta.</p>
+
+<h2>Como é Calculado o 13º Salário</h2>
+<p>O valor bruto do 13º corresponde a 1/12 do salário do trabalhador para cada mês completo trabalhado no ano — ou seja, quem trabalhou o ano inteiro recebe o equivalente a um salário integral, e quem trabalhou apenas parte do ano recebe proporcionalmente. Meses com 15 dias trabalhados ou mais já contam como mês completo para esse cálculo.</p>
+<p>A fórmula básica é: <strong>(Salário ÷ 12) × Número de Meses Trabalhados</strong>. Também entram no cálculo, quando aplicável, médias de horas extras habituais, comissões e adicionais como insalubridade ou periculosidade.</p>
+
+<h2>Quando as Parcelas São Pagas</h2>
+<p>O 13º salário é pago obrigatoriamente em duas parcelas:</p>
+<ul>
+    <li><strong>Primeira parcela:</strong> até 30 de novembro, correspondente a metade do valor bruto, sem nenhum desconto — funciona como um adiantamento;</li>
+    <li><strong>Segunda parcela:</strong> até 20 de dezembro, com o valor restante, já descontados o Imposto de Renda e o INSS sobre o valor total do 13º.</li>
+</ul>
+<p>Trabalhadores também podem solicitar o adiantamento da primeira parcela junto com as férias, se preferirem receber esse valor mais cedo no ano.</p>
+
+<h2>Como Funciona o Desconto de Imposto de Renda</h2>
+<p>O Imposto de Renda sobre o 13º salário é calculado separadamente do salário mensal — não soma ao rendimento do mês nem entra na mesma faixa da tabela progressiva usada no salário regular. A base de cálculo é o valor bruto do 13º menos o INSS correspondente, permitindo apenas as deduções legais de INSS e pensão alimentícia judicial (dependentes e outras deduções comuns do IR mensal não entram aqui).</p>
+<p>Esse imposto é retido integralmente no pagamento da segunda parcela, em dezembro, e não pode ser compensado ou ajustado na declaração anual do Imposto de Renda — o 13º entra na declaração como rendimento sujeito à tributação exclusiva, separado do restante dos rendimentos do ano.</p>
+
+<h2>Exemplo Prático de Cálculo</h2>
+<p>Um trabalhador com salário de R$ 3.000 que trabalhou o ano inteiro tem direito a R$ 3.000 de 13º bruto. A primeira parcela, de R$ 1.500, é paga sem desconto até 30 de novembro. Na segunda parcela, o cálculo do IR considera o valor bruto total (R$ 3.000) menos o INSS sobre esse valor, aplicando a alíquota correspondente da tabela progressiva sobre essa base — o resultado é descontado apenas da segunda parcela, junto com o INSS.</p>
+<p>Já um trabalhador que atua há apenas 6 meses na empresa no ano-calendário tem direito a metade do 13º: (R$ 3.000 ÷ 12) × 6 = R$ 1.500 de 13º bruto, seguindo a mesma lógica de duas parcelas, mas com valores proporcionalmente menores em cada uma.</p>
+
+<h2>O Que Fazer com o 13º Salário</h2>
+<p>Antes de gastar o 13º, vale considerar algumas prioridades:</p>
+<ol>
+    <li>Quitar dívidas com juros altos, como o rotativo do cartão, antes de qualquer outro uso — veja como funciona o <a href="/artigo/juros-rotativo-cartao-teto-100">rotativo do cartão de crédito</a>;</li>
+    <li>Reforçar a reserva de emergência, se ainda não estiver completa — veja nosso guia sobre <a href="/artigo/reserva-de-emergencia-quanto-guardar">quanto guardar e onde investir a reserva de emergência</a>;</li>
+    <li>Só depois de cobertas essas duas prioridades, considerar investimentos de médio e longo prazo ou gastos planejados, como uma viagem ou uma compra maior.</li>
+</ol>
+<p>Dividir o 13º entre essas prioridades, em vez de gastar tudo de uma vez assim que cai na conta, costuma fazer bem mais diferença no ano seguinte do que qualquer decisão isolada de consumo — principalmente para quem já carrega alguma dívida em aberto — resolver essa pendência com o 13º costuma valer mais do que qualquer compra imediata, mesmo que pareça menos gratificante no curto prazo.</p>
+
+<h3>13º Salário Também Vale Para Quem Foi Demitido</h3>
+<p>Quem foi desligado da empresa ao longo do ano também tem direito ao 13º proporcional, calculado sobre os meses trabalhados até a demissão, com exceção da demissão por justa causa. Esse valor deve constar na rescisão de contrato de trabalho — veja nosso guia sobre <a href="/artigo/rescisao-contrato-de-trabalho">rescisão de contrato de trabalho</a> para entender todos os valores devidos, e use nossa <a href="/calculadoras/rescisao.php">calculadora de rescisão trabalhista</a> para simular o total a receber. Mesmo em caso de pedido de demissão, o 13º proporcional continua sendo devido — a única exceção real é a demissão por justa causa, quando o direito ao 13º proporcional do ano corrente é perdido.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Regras de cálculo e tabelas de IR podem mudar — consulte sempre a folha de pagamento oficial da sua empresa ou um contador para valores exatos.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/como-funciona-o-imposto-retido-no-13o-salario-na-hora-da-declaracao-do-ir/" target="_blank" rel="noopener">Como funciona o imposto retido no 13º salário na hora da declaração do IR</a></li>
+</ul>
+
+<p>Quer simular quanto do seu 13º sobra depois dos descontos? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'como calcular 13º salário, quando é pago o décimo terceiro, imposto de renda 13º salário, 13º salário parcelas',
+    ],
+
+    [
+        'slug' => 'nas-nucleo-atendimento-superendividado-procon',
+        'title' => 'Núcleo de Atendimento ao Superendividado (NAS): Como Funciona o Apoio Gratuito do Procon',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-08-23',
+        'read_time' => '5 min',
+        'excerpt' => 'Conheça o NAS, serviço gratuito do Procon que ajuda superendividados a organizar dívidas, negociar com credores e sair do vermelho com apoio jurídico.',
+        'image' => '/assets/img/post-nas-nucleo-atendimento-superendividado-procon.jpg',
+        'full' => true,
+        'content' => '
+<p>NAS (Núcleo de Atendimento ao Superendividado) é um serviço gratuito oferecido pelo Procon em diversos estados do país, criado para dar apoio integral a pessoas físicas e famílias que não conseguem mais pagar suas dívidas sem comprometer o mínimo necessário para viver. Diferente de uma negociação pontual com um único credor, o NAS trata o problema financeiro como um todo — analisando todas as dívidas de uma vez.</p>
+
+<h2>Quem Pode Ser Atendido</h2>
+<p>O serviço é voltado para pessoas físicas maiores de 18 anos, de boa-fé, cujas dívidas de consumo comprometem o chamado "mínimo existencial" — o valor necessário para cobrir as despesas básicas da família. Na prática, costuma atender quem tem mais de 30% da renda mensal comprometida com dívidas e não consegue mais honrar os compromissos assumidos, mesmo cortando gastos. O atendimento não é restrito a nenhuma faixa de renda específica — o critério central é o comprometimento do orçamento, não o valor absoluto ganho pela família — famílias de renda média também podem se enquadrar, dependendo do volume de dívidas acumuladas.</p>
+
+<h2>Como Funciona o Atendimento</h2>
+<p>O NAS foi estruturado com base na Lei do Superendividamento (Lei nº 14.181/2021) e costuma seguir um processo estruturado:</p>
+<ol>
+    <li><strong>Análise da situação econômica:</strong> o Procon avalia toda a renda e as despesas da família, não apenas as dívidas em atraso;</li>
+    <li><strong>Mapeamento das dívidas:</strong> levantamento completo de todos os credores, valores e condições de cada dívida;</li>
+    <li><strong>Curso de orientação financeira:</strong> em muitos núcleos, o atendimento inclui uma etapa educativa sobre organização de orçamento;</li>
+    <li><strong>Planilhamento de receitas e despesas:</strong> montagem de um plano de pagamento realista, compatível com a renda disponível;</li>
+    <li><strong>Audiência de conciliação:</strong> quando necessário, o Procon convoca os credores para uma negociação conjunta, buscando um acordo que caiba no orçamento da família.</li>
+</ol>
+
+<h2>O Diferencial do Atendimento em Conjunto</h2>
+<p>A grande vantagem do NAS em relação a negociar sozinho, credor por credor, é justamente essa visão de conjunto: em vez de fechar um acordo com um banco e descobrir depois que não sobra dinheiro para pagar outras três dívidas, o núcleo organiza um plano que considera todos os compromissos financeiros ao mesmo tempo, redistribuindo o que é possível pagar de forma sustentável entre os credores. Esse modelo tende a reduzir a reincidência — o problema de voltar a ficar inadimplente logo depois de uma negociação pontual, tema recorrente nos indicadores de inadimplência mais recentes.</p>
+<p>Outro ponto importante é o apoio jurídico e, em alguns núcleos, psicológico, oferecido durante o processo. Lidar com múltiplos credores ao mesmo tempo costuma ser uma fonte significativa de estresse, e o NAS foi pensado para reduzir essa sobrecarga — o consumidor não precisa negociar sozinho com cada banco ou financeira, já que o próprio núcleo assume boa parte dessas conversas em nome da família atendida, reduzindo tanto o desgaste emocional quanto o risco de aceitar um acordo pior por cansaço ou pressão do credor.</p>
+
+<h2>Como Acessar o NAS</h2>
+<ol>
+    <li>Procure o Procon do seu estado ou município — muitos já têm núcleos específicos para superendividamento, com atendimento presencial ou por agendamento online;</li>
+    <li>Leve documentos pessoais, comprovantes de renda e, se possível, a relação de dívidas em atraso;</li>
+    <li>Participe das etapas de orientação e planilhamento propostas pelo núcleo;</li>
+    <li>Compareça às audiências de conciliação agendadas com os credores, quando houver;</li>
+    <li>Cumpra o plano de pagamento acordado com atenção — o descumprimento reiterado pode encerrar o atendimento antes da conclusão do processo.</li>
+</ol>
+<p>O serviço é totalmente gratuito, sem necessidade de advogado particular ou pagamento de qualquer taxa — desconfie de qualquer intermediário que cobre para agilizar ou garantir o atendimento, já que o NAS é um serviço público. Para quem já passou por uma negociação e quer entender como evitar reincidir, vale ler também sobre a <a href="/artigo/reincidencia-inadimplencia-pior-julho-historia-spc">reincidência recorde na inadimplência</a> e sobre o <a href="/artigo/metodo-50-30-20-orcamento">método 50-30-20</a> para reorganizar o orçamento depois do acordo.</p>
+
+<h3>NAS x Serasa Limpa Nome: Qual a Diferença</h3>
+<p>Vale entender a diferença entre os dois caminhos: plataformas como o <a href="/artigo/nome-sujo-como-consultar-2026">Serasa Limpa Nome</a> funcionam bem para negociar uma ou poucas dívidas específicas, de forma rápida e digital. Já o NAS é indicado para casos mais complexos, com múltiplas dívidas simultâneas e comprometimento severo da renda, quando o problema não é mais uma dívida isolada, mas a estrutura inteira do orçamento familiar. Os dois caminhos não são excludentes — é possível usar plataformas digitais para dívidas mais simples e recorrer ao NAS quando a situação exige uma reorganização mais ampla, incluindo casos em que já houve mais de uma tentativa de negociação sem sucesso.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A disponibilidade do NAS varia por estado e município — consulte o Procon da sua região para confirmar se o serviço está disponível e como agendar.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Ministério da Justiça e Segurança Pública — <a href="https://www.gov.br/mj/pt-br/assuntos/noticias/fdd-aprova-21-milhoes-para-estruturar-nucleos-de-atendimento-aos-superendividados" target="_blank" rel="noopener">FDD aprova R$ 21 milhões para estruturar Núcleos de Atendimento aos Superendividados</a></li>
+</ul>
+
+<p>Quer organizar suas dívidas antes de procurar ajuda especializada? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'nas núcleo atendimento superendividado, procon superendividamento, ajuda gratuita para dívidas, lei do superendividamento',
+    ],
+
 ];
 
 /**
