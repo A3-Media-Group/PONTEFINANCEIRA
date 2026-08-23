@@ -1,5 +1,5 @@
 ---
-description: Pesquisa pautas atuais, gera 5 artigos com fontes confiáveis, imagem via Gemini API, e publica
+description: Pesquisa pautas atuais, gera 5 artigos com fontes confiáveis, foto real via Openverse, e publica
 allowed-tools: WebSearch, WebFetch, Read, Edit, Write, Bash(git *), Bash(curl *)
 ---
 
@@ -92,27 +92,37 @@ no Google sobre isso) e 2-3 palavras-chave secundárias relacionadas.
 - Termine com uma seção "## Fontes" citando de onde veio a informação (nome da fonte 
   + link), e um CTA linkando para /calculadoras.php ou /simuladores-financeiros.php
 
-## 4. IMAGEM DE CAPA (via Gemini API, criação livre baseada no artigo)
-Gere a imagem via API do Gemini (Imagen), usando a variável de ambiente GEMINI_API_KEY.
+## 4. IMAGEM DE CAPA (busca de foto real via Openverse, sem IA)
+Busque uma foto real que reflita o assunto específico do artigo usando a API pública 
+do Openverse:
 
-Leia o artigo completo que você acabou de escrever (título, introdução e os principais 
-pontos) e crie um prompt de imagem com liberdade criativa total, decidindo você mesmo:
-- O estilo mais adequado pro tema (fotografia realista, ilustração editorial, 
-  conceito abstrato, 3D — o que fizer mais sentido pro assunto específico)
-- A cena, composição e atmosfera que melhor representam o conteúdo real do artigo
-- As cores que combinam com o tom da matéria (pode usar a paleta da marca — azul 
-  petróleo #0E2438, verde esmeralda #1E7F5C, dourado #C9A227 — como inspiração, mas 
-  não é obrigatório encaixar à força se outra paleta contar melhor a história)
+https://api.openverse.org/v1/images/?q={TERMOS_DE_BUSCA_EM_INGLES}&license_type=commercial,modification&orientation=landscape&size=large&page_size=10
 
-Única regra fixa: a imagem deve ser de alta qualidade, sem texto nem logotipos, e 
-guardar relação clara com o assunto específico do artigo (evite genérico demais).
+Processo:
+1. Leia o artigo e extraia 2-3 termos de busca em INGLÊS que descrevam a cena/objeto 
+   central do texto (buscas em inglês trazem resultados muito melhores que em português, 
+   já que a maioria do acervo é internacional). Exemplo: artigo sobre "reserva de 
+   emergência" → termos como "emergency savings jar", "piggy bank coins", "financial 
+   safety net".
+2. Faça a requisição GET pra API acima.
+3. Da lista de resultados retornados, escolha a imagem mais relevante e de melhor 
+   qualidade (priorize: license_type "cc0" ou "by" — mais permissivas; maior resolução 
+   disponível em 'url'; e que a imagem realmente pareça combinar com o tema, avaliando 
+   pelo 'title' e 'tags' retornados).
+4. Se a primeira busca não trouxer bons resultados, tente novamente com termos 
+   alternativos (máximo 3 tentativas de busca com termos diferentes).
+5. Baixe a imagem (campo 'url' do resultado escolhido) e salve em 
+   /assets/img/post-[slug].jpg.
+6. IMPORTANTE — Atribuição: guarde o nome do criador e a licença de cada imagem usada 
+   (campos 'creator' e 'license' da resposta da API). Crie/atualize um arquivo 
+   includes/creditos-imagens.php com uma lista simples de "slug do post → foto de 
+   [creator], licença [license], fonte [foreign_landing_url]" para cada imagem salva 
+   dessa forma daqui pra frente. Isso é necessário para cumprir a licença Creative 
+   Commons quando ela exigir atribuição.
 
-Fora isso, use seu próprio julgamento criativo — não siga uma fórmula fixa de prompt, 
-cada artigo pode pedir uma abordagem visual diferente.
-
-Salve a imagem gerada em /assets/img/post-[slug].jpg.
-
-Se a geração falhar, tente novamente ajustando o prompt (máximo 2 tentativas).
+Se depois de 3 tentativas nenhuma imagem relevante for encontrada, deixe o post sem 
+imagem nova (mantenha a atual) e me avise no resumo final, em vez de usar uma foto 
+genérica que não tenha relação com o assunto.
 
 ## 5. METADADOS SEO
 - excerpt (meta description): até 160 caracteres, contendo a palavra-chave principal
