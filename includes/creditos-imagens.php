@@ -81,6 +81,41 @@ $image_credits = [
         'source_name' => 'rawpixel',
         'source_url' => 'https://www.rawpixel.com/image/3336872/free-photo-image-desk-meeting-men',
     ],
+    'busca-empresas-credito-cresce-pmes-brasileiras' => [
+        'title' => 'A small neighborhood shop at night with a vendor preparing items behind the counter',
+        'creator' => 'PattayaPatrol',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=194380624',
+    ],
+    'credito-caro-pmes-80-bilhoes-dividas-serasa' => [
+        'title' => 'Empty wallet',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/5920849/empty-wallet-free-public-domain-cc0-image',
+    ],
+    'consignado-inss-limites-taxas-quanto-pegar-emprestado' => [
+        'title' => 'Accounting Finance',
+        'creator' => 'Wilfred Iven',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/accounting-finance-JONMP7TPGK',
+    ],
+    'mei-microempresa-epp-diferenca-quando-migrar' => [
+        'title' => 'Craftsman working on a white surface with tools in a workshop',
+        'creator' => 'Shixart1985',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=189764515',
+    ],
+    'divida-mei-como-negociar-sem-perder-cnpj' => [
+        'title' => 'Work Business',
+        'creator' => 'Kristin Hardwick',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/work-business-J5LXKNDREC',
+    ],
 ];
 
 /**
