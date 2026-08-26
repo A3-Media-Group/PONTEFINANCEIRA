@@ -5565,6 +5565,299 @@ $posts = [
         'tags' => 'dívida de mei, como negociar dívida mei, mei excluído simples nacional, perder cnpj por dívida',
     ],
 
+    [
+        'slug' => 'boletim-focus-pib-2026-cai-195-o-que-muda',
+        'title' => 'Boletim Focus: Projeção do PIB Cai Para 1,95% em 2026 — O Que Isso Muda no Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-26',
+        'read_time' => '5 min',
+        'excerpt' => 'O Boletim Focus revisou a projeção do PIB de 2026 para 1,95%. Entenda o que essa desaceleração significa para crédito, emprego e consumo.',
+        'image' => '/assets/img/post-boletim-focus-pib-2026-cai-195-o-que-muda.jpg',
+        'full' => true,
+        'content' => '
+<p>O Boletim Focus, relatório semanal do Banco Central com projeções de mais de 130 instituições financeiras, revisou para baixo a expectativa de crescimento do PIB brasileiro em 2026: a mediana caiu de 1,98% para 1,95% na divulgação de 24 de agosto. Entre as respostas mais recentes, dos últimos cinco dias úteis, a projeção fica ainda mais baixa, em 1,93% — um sinal de que o movimento de revisão pode continuar nas próximas semanas.</p>
+
+<h2>O Que Mais Mostrou o Boletim</h2>
+<ul>
+    <li><strong>IPCA (inflação) 2026:</strong> mantido em 5,02%, acima do teto da meta perseguida pelo Banco Central;</li>
+    <li><strong>Selic 2026:</strong> projeção estável em 13,75% ao ano;</li>
+    <li><strong>Câmbio (dólar) 2026:</strong> expectativa mantida em R$ 5,20;</li>
+    <li><strong>PIB 2027:</strong> projeção estável em 1,50%;</li>
+    <li><strong>PIB 2028:</strong> projeção subiu de 1,89% para 1,98%.</li>
+</ul>
+<p>Chama atenção que, mesmo com o PIB de 2026 sendo revisado para baixo, a projeção para 2028 melhorou — um sinal de que o mercado enxerga a desaceleração atual como algo mais concentrado no curto prazo do que uma mudança estrutural na trajetória da economia.</p>
+
+<h2>O Que Está Pressionando a Inflação</h2>
+<p>Segundo o próprio relatório, a principal fonte de cautela continua sendo a inflação de serviços intensivos em mão de obra, que reflete a resiliência da demanda doméstica e condições ainda apertadas no mercado de trabalho. Em outras palavras: mesmo com a economia desacelerando, o custo de contratar e manter funcionários segue pressionando os preços de serviços — de manutenção doméstica a cuidados pessoais — mais do que os preços de bens.</p>
+<p>Esse é um padrão que o Banco Central observa de perto porque a inflação de serviços costuma ser mais "grudenta" (persistente) do que a de bens: enquanto o preço de um eletrônico pode cair rapidamente com uma alta do real ou uma queda de custos de produção, o preço de um corte de cabelo ou de uma faxina tende a subir de forma mais gradual e constante, respondendo principalmente ao custo da mão de obra — que, por sua vez, reflete o aquecimento do mercado de trabalho.</p>
+
+<h2>O Que Essa Combinação Significa Para Você</h2>
+<ul>
+    <li><strong>Juros parados em patamar alto:</strong> com a Selic projetada estável em 13,75%, o crédito continua caro por mais tempo do que muitos esperavam no início do ano;</li>
+    <li><strong>Crescimento mais fraco:</strong> um PIB menor tende a significar menos vagas de emprego sendo criadas e menos aumento real de renda para quem já está empregado;</li>
+    <li><strong>Câmbio relativamente estável:</strong> a expectativa de R$ 5,20 sugere que o mercado não vê uma disparada abrupta do dólar no horizonte, ao menos por enquanto;</li>
+    <li><strong>Inflação de serviços resistente:</strong> despesas do dia a dia como salão, encanador, streaming e mensalidades tendem a continuar subindo mais que a média geral de preços.</li>
+</ul>
+
+<h2>Como se Planejar Nesse Cenário</h2>
+<ol>
+    <li>Priorize quitar dívidas com juros variáveis atrelados à Selic antes que qualquer eventual alta adicional pese ainda mais no orçamento;</li>
+    <li>Reforce a reserva de emergência considerando um cenário de mercado de trabalho mais apertado — veja nosso guia sobre <a href="/artigo/reserva-de-emergencia-quanto-guardar">quanto guardar e onde investir a reserva de emergência</a>;</li>
+    <li>Aproveite a Selic ainda alta para investimentos de renda fixa atrelados ao CDI, que seguem rendendo bem nesse cenário — veja nosso guia sobre <a href="/artigo/o-que-e-cdi-como-funciona">o que é CDI e como ele afeta seus investimentos</a>;</li>
+    <li>Revise gastos recorrentes com serviços, já que essa categoria específica tende a subir mais que a inflação média nos próximos meses;</li>
+    <li>Evite assumir novos compromissos financeiros de longo prazo sem considerar que o crescimento mais fraco pode significar menos estabilidade de renda nos próximos meses.</li>
+</ol>
+<p>Nenhuma dessas medidas depende de prever o futuro com precisão — elas funcionam como um seguro contra cenários mais difíceis, sem exigir abrir mão de oportunidades caso a economia surpreenda para cima nos próximos meses.</p>
+
+<h3>Por Que o Focus Importa Mesmo Sendo Só uma Projeção</h3>
+<p>Vale lembrar que o Boletim Focus reúne expectativas de mercado, não uma previsão garantida — os números mudam semana a semana conforme novos dados são divulgados. Ainda assim, o relatório funciona como um termômetro confiável, já que o próprio Banco Central usa essas expectativas para calibrar decisões de política monetária, incluindo os movimentos futuros da Selic. Acompanhar a tendência das revisões, mais do que o número exato de uma única semana, costuma ser mais útil para o planejamento financeiro pessoal. Quando várias semanas seguidas mostram revisões na mesma direção — como o PIB de 2026 vem mostrando —, é um sinal mais forte de que o mercado está realmente reavaliando o cenário, e não apenas ajustando ruído de curto prazo.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. O Boletim Focus é atualizado semanalmente e as projeções podem mudar — consulte sempre a edição mais recente no site do Banco Central.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/publicacoes/focus" target="_blank" rel="noopener">Boletim Focus</a></li>
+</ul>
+
+<p>Quer simular como a Selic e a inflação afetam seus investimentos e dívidas? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'boletim focus pib 2026, projeção pib brasil 2026, selic ipca dólar 2026, o que é boletim focus',
+    ],
+
+    [
+        'slug' => 'jackson-hole-2026-novo-fed-o-que-esperar-dolar',
+        'title' => 'Jackson Hole 2026: Novo Presidente do Fed e o Que Esperar Para o Dólar e Seus Investimentos',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-26',
+        'read_time' => '5 min',
+        'excerpt' => 'O Simpósio de Jackson Hole acontece entre 27 e 29 de agosto, com o primeiro discurso do novo presidente do Fed. Veja o que está em jogo para o dólar.',
+        'image' => '/assets/img/post-jackson-hole-2026-novo-fed-o-que-esperar-dolar.jpg',
+        'full' => true,
+        'content' => '
+<p>O Simpósio de Jackson Hole, um dos eventos mais acompanhados pelo mercado financeiro mundial, acontece entre 27 e 29 de agosto de 2026, no Wyoming (Estados Unidos), organizado pelo Federal Reserve de Kansas City. O tema oficial desta edição é "Inovação Financeira: Implicações Para Pagamentos e Política Econômica" — mas o evento ganha atenção extra por outro motivo: será o primeiro discurso de Kevin Warsh como presidente do Federal Reserve, o banco central americano, marcado para sexta-feira (28), às 10h no horário de Brasília.</p>
+
+<h2>Por Que Esse Discurso Importa Tanto</h2>
+<p>Kevin Warsh assumiu a presidência do Federal Reserve em 22 de maio de 2026, sucedendo Jerome Powell, que conduziu a política monetária americana nos últimos anos. Discursos de Jackson Hole historicamente servem para os presidentes do Fed sinalizarem os próximos passos da política de juros dos Estados Unidos — e como essa é a estreia de Warsh no evento, o mercado global está especialmente atento a qualquer indicação sobre sua visão de condução da economia americana, mesmo com o tema oficial deste ano focado em pagamentos e inovação financeira.</p>
+
+<h2>O Cenário Econômico Que Chega ao Simpósio</h2>
+<ul>
+    <li>O rendimento do título do Tesouro americano de 30 anos fechou em 5,31% no dia 17 de agosto, o maior nível desde 2007;</li>
+    <li>O Tesouro dos EUA interveio no mercado de títulos em 19 de agosto para tentar reduzir os custos de financiamento de longo prazo;</li>
+    <li>Dados de emprego (payroll) e vendas no varejo vieram negativos em julho, mostrando um enfraquecimento da atividade econômica americana;</li>
+    <li>Antes do simpósio, o Fed havia mantido os juros estáveis na faixa entre 3,50% e 3,75% em suas últimas reuniões de política monetária.</li>
+</ul>
+<p>Esse conjunto de sinais — juros de longo prazo em alta, intervenção do Tesouro e dados fracos de emprego — cria um cenário de expectativas divididas: parte do mercado espera que o novo presidente sinalize cortes de juros para estimular a economia mais fraca, enquanto outra parte teme que a inflação ainda elevada limite esse espaço.</p>
+<p>A própria intervenção do Tesouro americano no mercado de títulos longos, em 19 de agosto, é um sinal raro — normalmente reservado para momentos em que o governo teme que o custo de financiamento da dívida pública suba a ponto de pressionar toda a economia. Esse tipo de movimento reforça a leitura de que as autoridades americanas já estão preocupadas com o rumo dos juros de longo prazo, o que aumenta ainda mais a expectativa em torno do discurso de estreia de Warsh.</p>
+
+<h2>O Que Isso Significa Para o Brasil</h2>
+<p>Decisões e sinalizações do Fed afetam diretamente o Brasil por um caminho bem conhecido: quando os juros americanos sobem (ou o mercado espera que subam), o dólar tende a se fortalecer globalmente, atraindo capital de países emergentes como o Brasil de volta para os Estados Unidos. O caminho inverso também vale — sinais de corte de juros nos EUA tendem a enfraquecer o dólar e favorecer moedas emergentes, incluindo o real.</p>
+<p>Um discurso mais "dovish" (favorável a cortes de juros) tende a beneficiar o real e a bolsa brasileira no curto prazo; um tom mais "hawkish" (resistente a cortes, priorizando o controle da inflação) tende a fortalecer o dólar globalmente, pressionando o câmbio brasileiro para cima.</p>
+
+<h2>Como se Preparar Para a Volatilidade</h2>
+<ol>
+    <li>Evite tomar decisões financeiras importantes baseadas apenas na expectativa de um único discurso — o mercado costuma reagir de forma exagerada no curto prazo, e parte do movimento se reverte nos dias seguintes;</li>
+    <li>Se você tem uma viagem internacional ou compra em dólar planejada, considere comprar parte da moeda antes do evento, para não depender inteiramente da reação do mercado;</li>
+    <li>Mantenha o foco na estratégia de longo prazo dos seus investimentos, sem reagir impulsivamente a notícias de um único dia;</li>
+    <li>Acompanhe como o discurso afeta a curva de juros brasileira nos dias seguintes, já que esse é um reflexo mais direto do impacto real sobre o crédito no Brasil.</li>
+</ol>
+
+<h3>Um Simpósio Sobre Pagamentos, Não Só Sobre Juros</h3>
+<p>Vale notar que o tema oficial da edição de 2026 — inovação financeira e pagamentos — sugere que parte das discussões deve girar em torno de temas como moedas digitais de bancos centrais, sistemas de pagamento instantâneo (como o próprio Pix, que já é referência internacional) e regulação de novas tecnologias financeiras. Isso não significa que a política de juros ficará de fora, mas o pano de fundo do evento pode trazer sinalizações relevantes também para o futuro dos pagamentos digitais no Brasil, não apenas para o câmbio. Para um país que já é referência mundial em pagamentos instantâneos com o Pix, discussões internacionais sobre o tema tendem a repercutir também por aqui, mesmo que de forma indireta.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. O conteúdo dos discursos ainda não havia sido divulgado no momento da publicação deste artigo — consulte fontes atualizadas após o evento.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Federal Reserve Bank of Kansas City — <a href="https://www.kansascityfed.org/newsroom/2026-news-releases/kansas-city-fed-to-host-annual-jackson-hole-economic-policy-symposium-2026/" target="_blank" rel="noopener">Kansas City Fed to Host Annual Jackson Hole Economic Policy Symposium</a></li>
+</ul>
+
+<p>Quer entender como o câmbio afeta seus investimentos? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'jackson hole 2026, novo presidente fed kevin warsh, dólar juros americanos, o que é jackson hole',
+    ],
+
+    [
+        'slug' => 'renda-fixa-renda-variavel-diferencas-como-escolher',
+        'title' => 'Renda Fixa x Renda Variável: Diferenças e Como Escolher',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-26',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda a diferença entre renda fixa e renda variável, os riscos e retornos de cada uma, e como decidir onde investir de acordo com seu objetivo.',
+        'image' => '/assets/img/post-renda-fixa-renda-variavel-diferencas-como-escolher.jpg',
+        'full' => true,
+        'content' => '
+<p>Renda fixa e renda variável são as duas grandes categorias de investimento no Brasil, e entender a diferença entre elas é o primeiro passo antes de aplicar qualquer valor. A escolha entre uma e outra não é sobre qual é "melhor", mas sobre qual se encaixa no seu objetivo, prazo e tolerância ao risco.</p>
+
+<h2>O Que é Renda Fixa</h2>
+<p>Na renda fixa, as regras de remuneração são conhecidas no momento da aplicação — você sabe, com boa previsibilidade, quanto vai render (mesmo que a rentabilidade final varie um pouco em produtos pós-fixados, atrelados a um índice como o CDI). Exemplos incluem Tesouro Direto, CDB, LCI, LCA e debêntures. O investidor, na prática, empresta dinheiro para o governo ou para uma instituição, recebendo de volta o valor com juros no prazo combinado.</p>
+
+<h2>O Que é Renda Variável</h2>
+<p>Na renda variável, não há garantia de retorno — o valor investido pode subir ou cair conforme as condições de mercado, o desempenho da empresa ou fatores econômicos mais amplos. Ações, fundos imobiliários (FIIs) e ETFs são os exemplos mais comuns. O investidor se torna sócio (no caso das ações) ou cotista de um fundo, participando dos resultados, positivos ou negativos, do ativo escolhido.</p>
+
+<h2>Principais Diferenças na Prática</h2>
+<ul>
+    <li><strong>Previsibilidade:</strong> renda fixa oferece retorno mais previsível; renda variável pode surpreender para cima ou para baixo;</li>
+    <li><strong>Risco:</strong> renda fixa (especialmente títulos públicos e produtos com garantia do FGC) costuma ter risco bem menor que a renda variável;</li>
+    <li><strong>Potencial de retorno:</strong> no longo prazo, a renda variável historicamente oferece potencial de retorno maior, como compensação pelo risco adicional;</li>
+    <li><strong>Liquidez:</strong> varia bastante em ambas as categorias — alguns produtos de renda fixa têm liquidez diária, outros só no vencimento; o mesmo vale para ações (líquidas) e alguns FIIs menos negociados.</li>
+</ul>
+<p>Vale destacar também a diferença na tributação: a renda fixa costuma seguir a tabela regressiva do Imposto de Renda, com alíquotas que diminuem quanto mais tempo o dinheiro fica aplicado; ações têm isenção de IR na venda até um determinado limite mensal de vendas, mas pagam 15% sobre o lucro acima desse valor, enquanto FIIs têm regras próprias de isenção sobre os rendimentos mensais distribuídos, mas não sobre o ganho de capital na venda das cotas.</p>
+
+<h2>Como Decidir Onde Investir</h2>
+<p>A decisão depende de três fatores principais:</p>
+<ol>
+    <li><strong>Prazo:</strong> dinheiro que você pode precisar em pouco tempo (reserva de emergência, por exemplo) deve ficar em renda fixa de liquidez diária, nunca em renda variável — veja nosso guia sobre <a href="/artigo/reserva-de-emergencia-quanto-guardar">quanto guardar e onde investir a reserva de emergência</a>;</li>
+    <li><strong>Objetivo:</strong> metas de curto e médio prazo (viagem, entrada de um imóvel em 2-3 anos) combinam melhor com renda fixa; objetivos de longo prazo (aposentadoria, 10+ anos) podem incluir uma fatia maior de renda variável;</li>
+    <li><strong>Tolerância ao risco:</strong> quem não consegue dormir tranquilo vendo o patrimônio oscilar deve manter uma proporção maior em renda fixa, independentemente do prazo do objetivo.</li>
+</ol>
+
+<h2>Não é Uma Escolha Excludente</h2>
+<p>Grande parte dos investidores experientes combina as duas categorias na mesma carteira, ajustando a proporção conforme a idade, os objetivos e o momento de vida. Uma regra simples e conhecida (embora não seja uma fórmula exata) sugere que a parcela em renda variável pode ser aproximadamente "100 menos a idade" em percentual — um jovem de 25 anos poderia considerar até 75% em renda variável, enquanto alguém perto da aposentadoria tenderia a reduzir bastante essa fatia. Vale usar essa regra como ponto de partida para reflexão, não como um cálculo definitivo.</p>
+
+<h2>Antes de Investir em Renda Variável</h2>
+<p>Só considere renda variável depois de ter uma reserva de emergência formada e as dívidas mais caras sob controle — investir em ações ou fundos imobiliários enquanto se paga juros de rotativo do cartão, por exemplo, quase nunca compensa matematicamente, já que os juros da dívida costumam superar de longe o retorno esperado do investimento.</p>
+
+<h3>Erro Comum: Confundir Renda Variável com Especulação</h3>
+<p>Vale separar dois conceitos que costumam ser confundidos: investir em renda variável com um horizonte de longo prazo, entendendo o negócio por trás de uma ação ou a qualidade dos imóveis de um fundo imobiliário, é diferente de especular tentando prever movimentos de curto prazo do mercado. A primeira abordagem tem histórico de funcionar para investidores pacientes; a segunda se aproxima mais de uma aposta, mesmo quando parece sofisticada. Um bom teste para saber de que lado você está: se você não conseguiria explicar em poucas frases por que aquele ativo específico deveria valorizar no longo prazo, é provável que esteja mais perto de especular do que de investir.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Rentabilidade passada não garante resultados futuros — avalie sempre o seu perfil de risco antes de investir.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>CVM — <a href="https://www.gov.br/investidor/pt-br" target="_blank" rel="noopener">Portal do Investidor</a></li>
+</ul>
+
+<p>Quer simular diferentes cenários de investimento antes de decidir? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'renda fixa x renda variável, diferença renda fixa renda variável, como escolher investimento, onde investir dinheiro',
+    ],
+
+    [
+        'slug' => 'portabilidade-credito-como-trocar-banco-sem-perder-dinheiro',
+        'title' => 'Portabilidade de Crédito: Como Trocar de Banco Sem Perder Dinheiro',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-08-26',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda como funciona a portabilidade de crédito, quais linhas permitem a troca de banco e como usar esse direito para pagar menos juros.',
+        'image' => '/assets/img/post-portabilidade-credito-como-trocar-banco-sem-perder-dinheiro.jpg',
+        'full' => true,
+        'content' => '
+<p>Portabilidade de crédito é o direito, garantido por regulamentação do Banco Central, de transferir o saldo devedor de um empréstimo ou financiamento para outra instituição financeira que ofereça condições melhores — sem custo para o consumidor e sem que o dinheiro passe pela sua conta. Poucos brasileiros usam esse direito, mas ele pode representar uma economia real em contratos de longo prazo.</p>
+
+<h2>Como Funciona na Prática</h2>
+<p>Ao solicitar a portabilidade, a dívida antiga deixa de ser paga ao banco original e passa a ser paga à nova instituição, com um novo contrato e, geralmente, taxa de juros menor. A liquidação da dívida original acontece diretamente entre os bancos, pelo Sistema de Transferência de Reservas (STR) — o valor nunca transita pela conta do cliente, o que elimina o risco de uso indevido do dinheiro durante a transição.</p>
+<p>Esse detalhe é importante porque diferencia a portabilidade de uma simples troca de banco por conta própria: se o cliente sacasse o dinheiro de um novo empréstimo para quitar o antigo manualmente, poderia ficar exposto a taxas adicionais, atrasos na baixa do contrato original ou até uso indevido do valor no meio do caminho. A portabilidade regulamentada elimina essas etapas de risco. Como todo o processo é mediado diretamente pelas instituições financeiras, o consumidor também não precisa se preocupar em coordenar o timing entre quitar o contrato antigo e receber o novo — a própria transferência entre bancos garante que a dívida original seja liquidada no momento certo.</p>
+
+<h2>Quais Linhas de Crédito Permitem Portabilidade</h2>
+<ul>
+    <li>Cartão de crédito (saldo do rotativo ou parcelado);</li>
+    <li>Cheque especial;</li>
+    <li>Financiamento de veículo;</li>
+    <li>Crédito imobiliário;</li>
+    <li>Crédito pessoal;</li>
+    <li>Empréstimo consignado — veja nosso guia sobre <a href="/artigo/consignado-inss-limites-taxas-quanto-pegar-emprestado">como funciona o consignado do INSS</a> antes de considerar a portabilidade dessa linha específica.</li>
+</ul>
+
+<h2>Regras Que Você Precisa Conhecer</h2>
+<ul>
+    <li><strong>Parcelas já pagas:</strong> é necessário ter pago parte das parcelas do contrato original antes de solicitar a portabilidade;</li>
+    <li><strong>Limite do novo contrato:</strong> o novo contrato não pode ter valor nem prazo superiores aos do contrato original — ou seja, a portabilidade serve para melhorar as condições, não para alongar a dívida;</li>
+    <li><strong>Prazo de resposta:</strong> a instituição original tem até 15 dias para fornecer as informações sobre o saldo devedor à instituição de destino;</li>
+    <li><strong>Sem custo:</strong> o cliente não paga pela efetivação da portabilidade, e os custos de comunicação entre as instituições não podem ser repassados ao consumidor.</li>
+</ul>
+
+<h2>Passo a Passo Para Solicitar</h2>
+<ol>
+    <li>Compare o CET (Custo Efetivo Total) do seu contrato atual com propostas de outras instituições — veja nosso guia sobre <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">o que é CET e como usá-lo para comparar empréstimos</a>;</li>
+    <li>Solicite formalmente a portabilidade à instituição de destino, que cuidará da comunicação com o banco original;</li>
+    <li>Confirme por escrito as novas condições (taxa, prazo e valor da parcela) antes de assinar o novo contrato;</li>
+    <li>Acompanhe se o banco original confirma a quitação do contrato antigo após a portabilidade ser efetivada.</li>
+</ol>
+
+<h2>Quando Vale a Pena Fazer a Portabilidade</h2>
+<p>A portabilidade compensa quando a diferença de CET entre o contrato atual e a nova proposta é grande o suficiente para superar qualquer custo indireto do processo, como o tempo gasto comparando propostas. Em geral, contratos de prazo mais longo — financiamento de imóvel ou de veículo — costumam ter o maior potencial de economia, já que uma diferença pequena na taxa de juros se acumula por muitos meses ou anos. Já em dívidas de prazo curto, como um empréstimo pessoal de poucos meses, a economia tende a ser menor e nem sempre compensa o esforço. Fazer as contas antes de decidir — comparando o total pago em juros nas duas opções, e não apenas a diferença percentual entre as taxas — evita gastar tempo com uma portabilidade que traria pouca economia real. Vale lembrar também que dívidas com garantia, como o financiamento imobiliário, costumam ter processos de portabilidade um pouco mais burocráticos, envolvendo transferência de alienação fiduciária — o que não invalida o direito, mas pode levar mais tempo do que a portabilidade de um crédito pessoal sem garantia.</p>
+
+<h3>O Banco Original Pode Tentar Reter Você</h3>
+<p>É comum que, ao solicitar a portabilidade, o banco original ofereça uma contraproposta para tentar manter o cliente — uma prática conhecida como retenção. Não há nada de errado em considerar essa contraproposta, desde que ela realmente iguale ou supere as condições da nova instituição; o importante é decidir com base nos números concretos de cada oferta, não na conveniência de continuar com o mesmo banco por hábito ou comodidade. Peça a contraproposta por escrito antes de decidir, e compare o CET das duas ofertas lado a lado — é a única forma confiável de saber qual realmente compensa mais no total.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Regras de portabilidade podem ser atualizadas por novas resoluções do Banco Central — consulte sempre a normativa vigente antes de solicitar.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/content/publicacoes/Documents/reb/boxesreb2020/boxe_2_evolucao_portabilidade_credito_brasil.pdf" target="_blank" rel="noopener">Evolução da Portabilidade de Crédito no Brasil</a></li>
+</ul>
+
+<p>Quer comparar o custo real de diferentes propostas de crédito? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'portabilidade de crédito, como trocar de banco empréstimo, portabilidade consignado, direito portabilidade banco central',
+    ],
+
+    [
+        'slug' => 'divida-ativa-uniao-como-negociar-desconto',
+        'title' => 'Dívida Ativa da União: O Que É e Como Negociar com Desconto de Até 100%',
+        'category' => ['Renegociação', 'Educação'],
+        'date' => '2026-08-26',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda o que é a dívida ativa da União, quem pode negociar pela transação tributária da PGFN e como conseguir descontos de até 100% em juros e multas.',
+        'image' => '/assets/img/post-divida-ativa-uniao-como-negociar-desconto.jpg',
+        'full' => true,
+        'content' => '
+<p>Dívida ativa da União é o nome dado às dívidas com o governo federal — impostos, multas e outras obrigações não pagas — depois de inscritas para cobrança pela Procuradoria-Geral da Fazenda Nacional (PGFN). Diferente de uma dívida bancária, negociar com a União segue regras próprias, e a boa notícia é que existe um canal oficial e permanente para isso, com descontos que podem chegar a 100% sobre juros, multas e encargos legais.</p>
+
+<h2>O Que Pode Virar Dívida Ativa</h2>
+<p>Qualquer débito não pago com órgãos federais pode ser inscrito em dívida ativa, incluindo:</p>
+<ul>
+    <li>Impostos federais em atraso, como Imposto de Renda;</li>
+    <li>Débitos do MEI, ME e EPP com o Simples Nacional, quando não regularizados a tempo — veja nosso guia sobre <a href="/artigo/divida-mei-como-negociar-sem-perder-cnpj">como negociar dívida de MEI sem perder o CNPJ</a>;</li>
+    <li>Multas de órgãos federais, como as aplicadas pela fiscalização trabalhista ou ambiental;</li>
+    <li>Contribuições previdenciárias não recolhidas.</li>
+</ul>
+<p>Antes de virar dívida ativa, o débito passa por um processo de cobrança administrativa dentro do próprio órgão de origem — a inscrição na dívida ativa costuma ser o passo seguinte, quando o contribuinte não regulariza a pendência dentro do prazo dado pela notificação inicial.</p>
+
+<h2>A Transação Tributária: Como Funciona</h2>
+<p>A PGFN publica periodicamente editais de transação tributária, abrindo janelas específicas para negociação de débitos inscritos em dívida ativa. A edição mais recente, o Edital PGFN nº 6/2026, está com adesão aberta até 30 de setembro de 2026, exclusivamente pelo portal Regularize, e vale para pessoas físicas e jurídicas com débitos de até R$ 45 milhões por contribuinte.</p>
+<p>Para participar dessa edição específica, a inscrição em dívida ativa precisa ter ocorrido até 1º de junho de 2025 (para a modalidade de pequeno valor) ou até 3 de março de 2026 (para as modalidades gerais).</p>
+
+<h2>Os Descontos Disponíveis</h2>
+<p>O edital prevê diferentes modalidades de transação, voltadas principalmente para contribuintes cuja capacidade de pagamento presumida seja insuficiente para quitar a dívida integralmente em até 5 anos. Os descontos podem chegar a 100% sobre juros, multas e encargos legais, respeitando os limites específicos de cada modalidade — mas nunca sobre o valor principal do tributo devido, que precisa ser pago integralmente.</p>
+
+<h2>Como Negociar Passo a Passo</h2>
+<ol>
+    <li>Acesse o portal Regularize (regularize.pgfn.gov.br) com sua conta gov.br;</li>
+    <li>Consulte todos os débitos em seu nome inscritos em dívida ativa;</li>
+    <li>Verifique qual modalidade de transação se aplica ao seu caso, considerando o valor da dívida, a data de inscrição e sua capacidade real de pagamento;</li>
+    <li>Simule as condições de parcelamento e desconto antes de formalizar a adesão;</li>
+    <li>Mantenha os pagamentos das parcelas em dia após a adesão — o descumprimento pode cancelar o acordo e reativar a cobrança do valor integral, incluindo os juros e multas que haviam sido descontados.</li>
+</ol>
+
+<h2>Diferença Entre Dívida Ativa e Dívida Bancária</h2>
+<p>Vale entender por que a dívida ativa exige uma abordagem diferente: enquanto uma dívida com banco pode ser negociada diretamente ou através de birôs de crédito como Serasa e SPC, a dívida com a União só pode ser regularizada pelos canais oficiais da PGFN, seguindo os editais específicos vigentes em cada momento. Não existe negociação informal ou "por fora" com a Fazenda Nacional — qualquer oferta fora do portal Regularize deve ser tratada com desconfiança. Golpes que se aproveitam desse tipo de dívida costumam imitar a comunicação visual de órgãos oficiais para cobrar taxas antecipadas, o mesmo padrão usado em golpes que imitam programas de renegociação bancária — desconfie sempre de qualquer contato não solicitado pedindo pagamento fora dos canais oficiais do governo.</p>
+
+<h3>O Que Acontece se a Dívida Não For Negociada</h3>
+<p>Uma dívida ativa não negociada não desaparece — ela pode gerar protesto em cartório, inscrição do CPF ou CNPJ em cadastros de inadimplentes e, em casos mais graves, execução fiscal judicial, com possibilidade de penhora de bens. Por isso, mesmo quando o valor parece pequeno diante de outras prioridades financeiras, vale considerar a negociação antes que a dívida evolua para uma cobrança judicial, processo que costuma ser bem mais custoso e demorado de resolver do que a transação administrativa. A inscrição em dívida ativa também pode impedir a emissão de certidões negativas de débito, documento frequentemente exigido em processos de financiamento, participação em licitações públicas e até na abertura de novas linhas de crédito empresarial. Manter essas certidões em dia costuma ser tão importante quanto o valor da dívida em si para quem depende de contratos com o setor público ou de crédito bancário para manter o negócio funcionando.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Prazos e condições de editais de transação tributária mudam a cada nova edição — consulte sempre o portal oficial da PGFN para confirmar as regras vigentes no momento da sua negociação.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Procuradoria-Geral da Fazenda Nacional — <a href="https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao" target="_blank" rel="noopener">Transação tributária na dívida ativa</a></li>
+</ul>
+
+<p>Quer organizar suas dívidas antes de negociar com a União? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'dívida ativa da união, transação tributária pgfn, como negociar dívida com a união, edital pgfn 2026',
+    ],
+
 ];
 
 /**

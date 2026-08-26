@@ -116,6 +116,41 @@ $image_credits = [
         'source_name' => 'StockSnap',
         'source_url' => 'https://stocksnap.io/photo/work-business-J5LXKNDREC',
     ],
+    'boletim-focus-pib-2026-cai-195-o-que-muda' => [
+        'title' => 'City Skyline',
+        'creator' => 'Matt Bango',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/city-skyline-SXQ0JKUKW8',
+    ],
+    'jackson-hole-2026-novo-fed-o-que-esperar-dolar' => [
+        'title' => 'Teewinot Grand Teton GTNP4',
+        'creator' => 'Acroterion',
+        'license' => 'CC BY-SA 3.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=12116480',
+    ],
+    'renda-fixa-renda-variavel-diferencas-como-escolher' => [
+        'title' => 'Stock Graph',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/5926718/stock-graph-free-public-domain-cc0-image',
+    ],
+    'portabilidade-credito-como-trocar-banco-sem-perder-dinheiro' => [
+        'title' => 'Empty highway with three lanes in each direction',
+        'creator' => 'Nilo Velez',
+        'license' => 'CC0 1.0',
+        'source_name' => 'WordPress Photo Directory',
+        'source_url' => 'https://wordpress.org/photos/photo/906678d33f/',
+    ],
+    'divida-ativa-uniao-como-negociar-desconto' => [
+        'title' => 'Architecture Column',
+        'creator' => 'The Building Envelope',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/architecture-column-01VGNXPYYL',
+    ],
 ];
 
 /**
