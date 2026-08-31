@@ -151,6 +151,34 @@ $image_credits = [
         'source_name' => 'StockSnap',
         'source_url' => 'https://stocksnap.io/photo/architecture-column-01VGNXPYYL',
     ],
+    'desemprego-cai-53-menor-serie-historica-ibge' => [
+        'title' => 'Woman on a Job Interview - 38826218972',
+        'creator' => 'amtec_photos',
+        'license' => 'CC BY-SA 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=156815879',
+    ],
+    'divida-bruta-governo-825-pib-o-que-significa' => [
+        'title' => 'Brasilia National Congress Buildings',
+        'creator' => 'Cayambe',
+        'license' => 'CC BY-SA 3.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=22087128',
+    ],
+    'financiamento-imobiliario-como-funciona-passo-a-passo' => [
+        'title' => 'Hand holds house keys near door lock, symbolizing new beginnings and homeownership journey in a modern setting',
+        'creator' => 'Shixart1985',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=190519542',
+    ],
+    'juros-rotativo-cartao-credito-como-sair' => [
+        'title' => 'Close-up of a woman looking at a credit card while working on her laptop',
+        'creator' => 'Shixart1985',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=187689718',
+    ],
 ];
 
 /**

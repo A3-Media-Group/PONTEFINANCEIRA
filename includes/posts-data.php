@@ -5858,6 +5858,257 @@ $posts = [
         'tags' => 'dívida ativa da união, transação tributária pgfn, como negociar dívida com a união, edital pgfn 2026',
     ],
 
+    [
+        'slug' => 'desemprego-cai-53-menor-serie-historica-ibge',
+        'title' => 'Desemprego Cai para 5,3% em Julho, o Menor da História: o Que Isso Significa Pro Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-31',
+        'read_time' => '6 min',
+        'excerpt' => 'Taxa de desemprego caiu para 5,3% no trimestre até julho, a menor da série do IBGE. Entenda o que o dado tem a ver com seu emprego e seu bolso.',
+        'image' => '/assets/img/post-desemprego-cai-53-menor-serie-historica-ibge.jpg',
+        'full' => true,
+        'content' => '
+<p>A taxa de desemprego no Brasil caiu para 5,3% no trimestre encerrado em julho de 2026, segundo o IBGE — o menor patamar para o período desde o início da série histórica da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua, em 2012. O resultado, divulgado em 27 de agosto, representa uma queda de 0,5 ponto percentual em relação ao trimestre móvel anterior e reforça um movimento de aquecimento gradual do mercado de trabalho ao longo do ano.</p>
+
+<h2>O Que Diz o IBGE</h2>
+<p>Segundo a Pesquisa Nacional por Amostra de Domicílios Contínua, a população ocupada chegou a 103,3 milhões de pessoas no trimestre encerrado em julho — o maior número já registrado pela pesquisa. Dentro desse total, o número de empregados com carteira assinada no setor privado (excluindo trabalhadores domésticos) somou 39,4 milhões, também um recorde da série.</p>
+<p>Ao mesmo tempo, o IBGE encontrou 5,8 milhões de pessoas desocupadas, ou seja, buscando trabalho sem conseguir se recolocar. É um número que ainda pesa, mesmo com a taxa geral em queda: por trás da média nacional de 5,3%, a distribuição de oportunidades continua desigual entre regiões, faixas de renda e níveis de escolaridade.</p>
+
+<h2>Por Que a Taxa Cai Mesmo com a Economia Desacelerando</h2>
+<p>O resultado positivo do mercado de trabalho chama atenção porque caminha em direção contrária a outros indicadores recentes da economia brasileira. O Índice de Atividade Econômica do Banco Central (IBC-Br), por exemplo, <a href="/artigo/ibc-br-recua-junho-2026-desaceleracao-economia">recuou em junho</a>, sinalizando perda de ritmo na atividade como um todo. O mercado de trabalho, no entanto, tende a reagir com atraso às oscilações da economia — ele costuma continuar aquecido por alguns meses depois que a atividade já começou a desacelerar, e só sente o impacto de forma mais visível quando a desaceleração se prolonga.</p>
+<p>Isso significa que o dado de julho reflete decisões de contratação tomadas meses atrás, e não necessariamente aponta para a mesma força nos próximos trimestres caso o ritmo mais fraco da economia se confirme nos indicadores seguintes. É um padrão observado em ciclos econômicos anteriores: o emprego costuma ser um dos últimos indicadores a sentir uma desaceleração e também um dos últimos a mostrar sinais claros de recuperação, o que reforça a importância de olhar para vários indicadores ao mesmo tempo, e não apenas para a taxa de desemprego isoladamente, antes de tirar conclusões sobre a direção da economia.</p>
+
+<h2>O Que Isso Significa Se Você Está Empregado</h2>
+<p>Um mercado de trabalho mais aquecido, com recorde de vagas com carteira assinada, tende a dar mais poder de negociação para quem já está empregado — seja para pedir um reajuste, negociar benefícios ou considerar uma troca de emprego em busca de salário melhor. Mas vale um cuidado: número forte de emprego não é garantia de estabilidade permanente, ainda mais em um cenário de atividade econômica mais fraca. É um bom momento para reforçar, e não para relaxar, hábitos como manter uma <a href="/artigo/reserva-de-emergencia-quanto-guardar">reserva de emergência</a> equivalente a alguns meses de despesas — ela é o que separa uma eventual perda de renda de um problema financeiro grave. Aproveitar um momento de renda mais estável para reforçar essa reserva, em vez de aumentar apenas o padrão de consumo, costuma fazer bastante diferença caso o cenário do mercado de trabalho mude de direção nos próximos trimestres.</p>
+
+<h2>O Que Isso Significa Se Você Está Buscando Recolocação</h2>
+<p>Para os 5,8 milhões de brasileiros ainda em busca de trabalho, os dados do IBGE trazem um sinal de que o mercado está absorvendo mão de obra em ritmo mais rápido do que nos anos anteriores — mas a recolocação continua sendo um processo que exige planejamento financeiro paralelo. Se você está nessa fase, vale reorganizar o orçamento doméstico usando um método simples como o <a href="/artigo/metodo-50-30-20-orcamento">método 50-30-20</a>, priorizando o essencial enquanto a renda está reduzida ou instável.</p>
+<p>Se o período sem renda estável já gerou contas atrasadas, o primeiro passo é entender como isso afeta seu nome e seu score — nosso guia sobre <a href="/artigo/brasileiros-negativados-como-sair-ciclo-inadimplencia">como sair do ciclo de inadimplência</a> explica o caminho prático para regularizar a situação antes que ela se acumule.</p>
+
+<h2>Informalidade: o Ponto de Atenção Que os Números Escondem</h2>
+<p>Vale lembrar que a taxa de desemprego não mede a qualidade do emprego gerado. Parte da população ocupada trabalha na informalidade — sem carteira assinada, sem FGTS e sem direitos trabalhistas garantidos — o que significa menor previsibilidade de renda e menor proteção em caso de imprevisto. O recorde de 39,4 milhões de carteiras assinadas é um indicador positivo justamente porque aponta para geração de emprego formal, mas o quadro completo do mercado de trabalho brasileiro ainda inclui uma parcela relevante de trabalhadores em situação mais precária, sem acesso aos mesmos direitos e proteções.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>IBGE — <a href="https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html" target="_blank" rel="noopener">Pesquisa Nacional por Amostra de Domicílios Contínua</a></li>
+</ul>
+
+<p>Quer organizar suas finanças para aproveitar um bom momento de mercado de trabalho ou se preparar para uma eventual recolocação? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'taxa de desemprego brasil 2026, ibge pnad contínua, mercado de trabalho, carteira assinada',
+    ],
+
+    [
+        'slug' => 'divida-bruta-governo-825-pib-o-que-significa',
+        'title' => 'Dívida Bruta do Governo Bate 82,5% do PIB: o Que Isso Tem a Ver com o Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-08-31',
+        'read_time' => '6 min',
+        'excerpt' => 'A dívida bruta do governo subiu para 82,5% do PIB em julho, maior nível desde 2021. Entenda o que isso significa para juros, dólar e seu bolso.',
+        'image' => '/assets/img/post-divida-bruta-governo-825-pib-o-que-significa.jpg',
+        'full' => true,
+        'content' => '
+<p>A dívida bruta do governo geral (DBGG) subiu para 82,5% do Produto Interno Bruto (PIB) em julho de 2026, informou o Banco Central. É uma alta de 0,6 ponto percentual em relação aos 81,9% registrados em junho, e o maior patamar da métrica desde abril de 2021. Em valores nominais, a dívida somou R$ 10,947 trilhões, contra R$ 10,809 trilhões no mês anterior.</p>
+
+<h2>O Que É a Dívida Bruta do Governo Geral</h2>
+<p>A DBGG mede o total de dívidas do governo federal, dos estados e dos municípios, excluindo o próprio Banco Central e as empresas estatais. É diferente da chamada dívida líquida, que soma ativos e passivos do setor público em uma conta mais ampla. A DBGG é o indicador que o mercado financeiro e as agências de classificação de risco acompanham mais de perto para avaliar a saúde fiscal do país — quanto maior a dívida em relação ao tamanho da economia, maior a percepção de risco de que o governo precise, no futuro, elevar impostos, cortar gastos ou financiar seus déficits emitindo ainda mais dívida.</p>
+<p>Vale notar que dívida pública alta não é, por si só, um problema imediato — muitos países desenvolvidos operam com relação dívida/PIB bem acima da brasileira sem crise iminente. O que preocupa investidores e agências de risco é a trajetória: se a proporção está subindo de forma consistente, ano após ano, sem sinal de estabilização, ou se está apenas oscilando dentro de uma faixa relativamente estável ao longo do tempo.</p>
+
+<h2>Por Que a Dívida Subiu em Julho</h2>
+<p>Segundo o Banco Central, o avanço de julho foi influenciado principalmente pelos juros nominais apropriados sobre a dívida já existente, que empurraram o indicador para cima em 0,8 ponto percentual, e por emissões líquidas de novos títulos, com efeito adicional de 0,2 ponto percentual. Do lado positivo, o crescimento do PIB nominal ajudou a conter parte do avanço, com efeito negativo de 0,5 ponto percentual sobre a proporção da dívida. No acumulado de 2026, a alta já soma 3,9 pontos percentuais.</p>
+
+<h2>O Que Isso Tem a Ver com o Seu Dinheiro</h2>
+<p>A relação entre dívida pública e vida financeira pessoal passa, principalmente, pela taxa de juros. Quando o mercado percebe que a trajetória da dívida está piorando, tende a exigir um retorno maior para financiar o governo — o que pressiona os juros de mercado para cima, incluindo os que você paga em um financiamento, um empréstimo pessoal ou o rotativo do cartão de crédito. O mesmo movimento também costuma pressionar o dólar, já que parte dos investidores busca ativos considerados mais seguros fora do Brasil quando a percepção de risco fiscal aumenta.</p>
+<p>Esse é, inclusive, um dos motivos pelos quais o mercado financeiro observa de perto tanto a dívida pública quanto projeções como as do <a href="/artigo/boletim-focus-pib-2026-cai-195-o-que-muda">Boletim Focus</a>, que reúne as expectativas de bancos e casas de análise para a economia brasileira, incluindo a trajetória fiscal do país.</p>
+
+<h2>É Motivo Para Pânico?</h2>
+<p>O patamar atual, embora seja o maior desde 2021, ainda está distante do pico histórico da série, de 87,6% do PIB, registrado em dezembro de 2020, em plena pandemia — quando o governo elevou fortemente os gastos emergenciais. A trajetória atual de alta é mais gradual e estrutural, ligada principalmente ao peso dos juros sobre uma dívida que já é grande, e não a um choque isolado.</p>
+<p>Isso não significa que o tema deva ser ignorado, mas também não é motivo para decisões financeiras precipitadas baseadas apenas em uma manchete. Na prática, o que está ao seu alcance é cuidar do que você controla diretamente: manter uma reserva de emergência, evitar dívidas caras como o rotativo do cartão e acompanhar a evolução dos juros para tomar decisões de crédito e investimento mais bem informadas — independentemente de qual seja a manchete fiscal do mês.</p>
+
+<h2>Como Acompanhar Esse Indicador</h2>
+<p>O Banco Central publica a DBGG mensalmente, sempre com defasagem de cerca de um mês em relação ao período de referência (o dado de julho, por exemplo, saiu no fim de agosto). Acompanhar a série ajuda a entender se a alta é um movimento pontual ou uma tendência mais longa — e a diferenciar ruído de notícia de mudança real na saúde fiscal do país, o que faz bastante diferença na hora de interpretar qualquer manchete sobre o assunto. Além da DBGG, vale acompanhar o resultado primário do governo — a diferença entre receitas e despesas antes do pagamento de juros — já que é esse número que mostra se o governo está conseguindo, ou não, conter o crescimento da dívida pela via do controle direto de gastos, e não apenas contando com o crescimento da economia para diluir a proporção.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney (dados do Banco Central) — <a href="https://www.infomoney.com.br/economia/divida-bruta-do-governo-geral-fica-em-825-do-pib-em-julho-ante-819-em-junho/" target="_blank" rel="noopener">Dívida Bruta do Governo Geral fica em 82,5% do PIB em julho</a></li>
+</ul>
+
+<p>Quer planejar suas finanças considerando o cenário de juros? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'dívida bruta do governo geral, dbgg 2026, dívida pública brasileira, juros e dívida pública',
+    ],
+
+    [
+        'slug' => 'recuperar-score-credito',
+        'title' => 'Como Recuperar o Score de Crédito: Guia Passo a Passo',
+        'category' => ['Score de Crédito', 'Educação'],
+        'date' => '2026-08-31',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda como recuperar o score de crédito: os fatores que compõem a nota, o Cadastro Positivo e o passo a passo para subir sua pontuação.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber como recuperar o score de crédito é uma dúvida comum entre quem já esteve com o nome sujo, atrasou contas ou simplesmente nunca entendeu bem como essa nota é calculada. O score de crédito é uma pontuação de 0 a 1.000, calculada por birôs como a Serasa a partir de informações sobre seu comportamento financeiro, e reflete a probabilidade de você pagar suas contas em dia nos próximos meses. Quanto mais alto, mais fácil — e mais barato — tende a ser conseguir crédito.</p>
+
+<h2>As Faixas do Score</h2>
+<p>Segundo a Serasa, o score é dividido em quatro faixas:</p>
+<ul>
+    <li><strong>0 a 300:</strong> baixo</li>
+    <li><strong>301 a 500:</strong> regular</li>
+    <li><strong>501 a 700:</strong> bom</li>
+    <li><strong>701 a 1.000:</strong> excelente</li>
+</ul>
+<p>Estar nas faixas mais baixas não significa que você nunca vai conseguir crédito, mas costuma significar taxas de juros mais altas e limites mais restritos, já que o credor precifica o risco percebido na sua pontuação.</p>
+
+<h2>O Que Compõe o Score de Crédito</h2>
+<p>De acordo com a própria Serasa, seis grupos de fatores formam a pontuação, cada um com um peso diferente:</p>
+<ul>
+    <li><strong>Pagamentos (29%):</strong> o fator mais importante, baseado no histórico do Cadastro Positivo — contas pagas em dia pesam a favor, atrasos pesam contra.</li>
+    <li><strong>Experiência no mercado (24%):</strong> quanto tempo de histórico de relacionamento financeiro você tem.</li>
+    <li><strong>Dívidas (21%):</strong> considera negativações, protestos, cheques sem fundo e ações judiciais.</li>
+    <li><strong>Consultas ao CPF (12%):</strong> muitas consultas em pouco tempo podem indicar busca ativa por crédito, o que pesa contra a pontuação.</li>
+    <li><strong>Informações cadastrais (8%):</strong> idade e atualização dos seus dados na base do birô.</li>
+    <li><strong>Contratos (6%):</strong> contratos de crédito ativos, sua duração e o intervalo entre eles.</li>
+</ul>
+
+<h2>Passo a Passo Para Recuperar o Score</h2>
+<ol>
+    <li><strong>Resolva as dívidas negativadas primeiro.</strong> Como o fator dívidas pesa 21% e o histórico de pagamento pesa 29%, negativações são o que mais prejudica sua nota. Se você tem contas em atraso, comece por elas — nosso guia sobre <a href="/artigo/brasileiros-negativados-como-sair-ciclo-inadimplencia">como sair do ciclo de inadimplência</a> explica como priorizar e negociar.</li>
+    <li><strong>Ative o Cadastro Positivo.</strong> Desde 2019 ele é automático para a maioria dos CPFs, mas vale confirmar se está ativo direto no site da Serasa — é a partir dele que seu histórico de pagamentos em dia passa a contar a favor da pontuação.</li>
+    <li><strong>Pague as contas em dia, a partir de agora.</strong> Não existe atalho: como pagamento é o maior peso do cálculo, cada conta paga na data — luz, água, telefone, cartão — contribui para a recuperação gradual da nota.</li>
+    <li><strong>Use o cartão de crédito com moderação.</strong> Evite usar mais do que 30% do limite disponível e, sempre que possível, pague a fatura integral em vez de recorrer ao <a href="/artigo/juros-rotativo-cartao-credito-como-sair">rotativo do cartão</a>, que além de caríssimo também sinaliza dificuldade financeira para o birô.</li>
+    <li><strong>Evite pedir crédito repetidamente em pouco tempo.</strong> Cada simulação ou pedido de cartão, empréstimo ou financiamento gera uma consulta ao seu CPF. Concentre os pedidos em um período curto e evite fazer isso com frequência sem necessidade real.</li>
+    <li><strong>Mantenha seus dados cadastrais atualizados.</strong> Endereço, telefone e outras informações desatualizadas no birô podem pesar negativamente nesse fator, embora seja o de menor peso isolado.</li>
+</ol>
+
+<h2>Quanto Tempo Leva Para o Score Subir</h2>
+<p>A própria Serasa afirma que não existe fórmula mágica: a recuperação é gradual e depende da consistência do comportamento financeiro ao longo do tempo, não de uma ação isolada. Quem tem negativações e consegue negociá-las tende a ver o efeito mais rápido, já que o peso desse fator é alto; já a reconstrução de um bom histórico de pagamentos, por ser o fator mais pesado do cálculo, costuma exigir meses de contas pagas em dia antes de se refletir de forma consistente na pontuação final. Por isso, quem está recuperando o score deve tratar o processo como algo contínuo, e não como uma meta pontual — o hábito de acompanhar a própria pontuação a cada poucos meses ajuda a perceber se as mudanças de comportamento estão realmente surtindo efeito.</p>
+
+<h2>Erros Comuns Que Travam a Recuperação</h2>
+<p>Alguns hábitos costumam sabotar quem está tentando subir o score sem perceber: atrasar mesmo pequenas contas recorrentes, usar o limite do cartão até o teto todos os meses, buscar diversas linhas de crédito ao mesmo tempo em busca da melhor oferta e ignorar dívidas antigas na esperança de que elas simplesmente desapareçam. Nenhuma dívida some por conta própria — ela pode, inclusive, <a href="/artigo/divida-prescrita-quanto-tempo-sai-nome">prescrever depois de um determinado prazo</a>, mas isso não significa que ela deixe de ter existido ou que valha a pena esperar por esse caminho em vez de negociar diretamente com o credor.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/score/faq/" target="_blank" rel="noopener">Perguntas frequentes sobre o Serasa Score</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/score/blog/cadastro-positivo-influencia-score/" target="_blank" rel="noopener">Como o Cadastro Positivo influencia o Serasa Score</a></li>
+</ul>
+
+<p>Quer simular como a queda dos juros no seu crédito pode acelerar sua recuperação financeira? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'como recuperar score de crédito, score serasa, cadastro positivo, aumentar score de crédito',
+    ],
+
+    [
+        'slug' => 'financiamento-imobiliario-como-funciona-passo-a-passo',
+        'title' => 'Financiamento Imobiliário: Como Funciona e o Passo a Passo Para Conseguir o Seu',
+        'category' => ['Finanças', 'Educação'],
+        'date' => '2026-08-31',
+        'read_time' => '8 min',
+        'excerpt' => 'Entenda como funciona o financiamento imobiliário no Brasil: SFH, SFI, entrada, CET e o passo a passo completo para conseguir o seu.',
+        'image' => '/assets/img/post-financiamento-imobiliario-como-funciona-passo-a-passo.jpg',
+        'full' => true,
+        'content' => '
+<p>Entender como funciona o financiamento imobiliário é o primeiro passo antes de sair comparando taxas entre bancos. No Brasil, esse tipo de crédito é organizado principalmente em dois sistemas regulados pelo Banco Central — o SFH e o SFI — e envolve etapas que vão muito além de simplesmente escolher a instituição com a taxa mais baixa anunciada.</p>
+
+<h2>SFH x SFI: Qual a Diferença</h2>
+<p>Segundo o Banco Central, o Sistema Financeiro da Habitação (SFH) foi criado para facilitar e promover a construção e a aquisição da casa própria, especialmente para a população de renda mais baixa. Na prática, isso se traduz em regras mais protetivas para quem financia: a taxa de juros é limitada a 12% ao ano mais a variação da TR, e é possível usar o saldo do FGTS tanto na entrada quanto na amortização das parcelas ou em caso de dificuldade temporária de pagamento.</p>
+<p>Uma resolução recente do Conselho Monetário Nacional ampliou o valor máximo do imóvel elegível ao SFH de R$ 1,5 milhão para R$ 2,25 milhões, o que passou a incluir uma faixa maior de imóveis dentro das regras mais vantajosas desse sistema.</p>
+<p>Já o Sistema de Financiamento Imobiliário (SFI) é o modelo usado para imóveis fora dos limites e das condições do SFH — sem teto de taxa de juros regulado e com regras definidas conforme a fonte de recursos de cada instituição financeira. Costuma ser o caminho para imóveis de valor mais alto ou perfis que não se encaixam nas exigências do SFH.</p>
+
+<h2>Passo a Passo Para Conseguir o Financiamento</h2>
+<ol>
+    <li><strong>Organize seu orçamento e seu score de crédito.</strong> Antes de simular qualquer financiamento, vale entender sua real capacidade de pagamento e, se necessário, trabalhar para <a href="/artigo/recuperar-score-credito">recuperar seu score de crédito</a> — uma pontuação melhor tende a abrir acesso a taxas mais competitivas.</li>
+    <li><strong>Simule a parcela em relação à sua renda.</strong> Os bancos costumam limitar o comprometimento da renda familiar com a parcela do financiamento a algo em torno de 30%. Simular esse número antes de procurar um imóvel evita frustração na hora da análise de crédito.</li>
+    <li><strong>Pesquise taxas entre diferentes bancos.</strong> A diferença de taxa entre instituições pode representar milhares de reais ao longo do contrato — vale simular em pelo menos três ou quatro bancos antes de decidir.</li>
+    <li><strong>Reúna a documentação necessária.</strong> Comprovantes de renda, identidade, certidões e, se for usar FGTS, o extrato do fundo, entre outros documentos exigidos pela instituição.</li>
+    <li><strong>Aguarde a avaliação do imóvel pelo banco.</strong> A instituição financeira avalia o imóvel escolhido para confirmar se o valor pedido é compatível com o valor de mercado — essa avaliação também define o limite máximo financiável.</li>
+    <li><strong>Passe pela análise de crédito.</strong> O banco analisa seu histórico, score e capacidade de pagamento antes de aprovar o financiamento e definir a taxa final oferecida a você.</li>
+    <li><strong>Assine o contrato e registre o imóvel.</strong> Depois da aprovação, o contrato de financiamento é assinado e o imóvel passa a ter uma alienação fiduciária ou hipoteca em favor do banco até o fim do pagamento.</li>
+</ol>
+
+<h2>Entrada, Amortização e o CET</h2>
+<p>A entrada mínima exigida costuma variar entre 10% e 20% do valor do imóvel, dependendo do sistema e da instituição. Quanto ao pagamento das parcelas, os dois modelos mais comuns de amortização são o SAC, em que as parcelas começam mais altas e diminuem com o tempo, e o Price, em que as parcelas permanecem fixas durante todo o contrato — mas com uma proporção maior de juros pagos ao longo dos primeiros anos.</p>
+<p>Antes de comparar propostas de bancos diferentes, olhe sempre para o Custo Efetivo Total (CET), e não apenas para a taxa de juros anunciada. Como <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">explicamos em detalhes em outro artigo</a>, o CET inclui seguros obrigatórios, taxas administrativas e outros encargos — é o número que realmente representa o custo total do crédito, e duas propostas com a mesma taxa de juros anunciada podem ter CETs bem diferentes entre si.</p>
+
+<h2>Use o FGTS a Seu Favor</h2>
+<p>Quem tem saldo de FGTS e atende aos requisitos do SFH pode usar o fundo de três formas principais: como parte da entrada, para abater o saldo devedor a cada dois anos, ou para pagar até 80% do valor de até 12 prestações consecutivas em caso de dificuldade temporária de renda. Vale simular esse uso com atenção, já que resgatar o FGTS reduz o valor disponível para uma eventual rescisão futura do contrato de trabalho.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/pre/composicao/soc_cred_imob.asp?frame=1" target="_blank" rel="noopener">Sistema Financeiro da Habitação e Sociedade de Crédito Imobiliário</a></li>
+    <li>Caixa Econômica Federal — <a href="https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2026/03-MAR%C3%87O/CAIXA-amplia-financiamento-para-im%C3%B3veis-acima-de-R$-2,25-milh%C3%B5es.aspx" target="_blank" rel="noopener">CAIXA amplia financiamento para imóveis acima de R$ 2,25 milhões</a></li>
+</ul>
+
+<p>Quer simular quanto você pagaria de parcela em um financiamento imobiliário? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'como funciona financiamento imobiliário, sfh sistema financeiro habitação, financiamento imobiliário passo a passo, cet financiamento',
+    ],
+
+    [
+        'slug' => 'juros-rotativo-cartao-credito-como-sair',
+        'title' => 'Juros do Rotativo do Cartão de Crédito: Por Que Passam de 400% ao Ano e Como Sair Dessa Dívida',
+        'category' => ['Cartão de Crédito', 'Renegociação'],
+        'date' => '2026-08-31',
+        'read_time' => '7 min',
+        'excerpt' => 'O juro do rotativo do cartão chegou a 436,2% ao ano em julho, segundo o BC. Entenda por que é tão caro e o passo a passo para sair dessa dívida.',
+        'image' => '/assets/img/post-juros-rotativo-cartao-credito-como-sair.jpg',
+        'full' => true,
+        'content' => '
+<p>Os juros do rotativo do cartão de crédito continuam entre os mais caros do sistema financeiro brasileiro. Segundo o Banco Central, a taxa média cobrada pelos bancos nessa modalidade caiu de 442,4% para 436,2% ao ano em julho de 2026 — uma redução, mas ainda um patamar que transforma qualquer saldo esquecido no cartão em uma bola de neve em poucos meses.</p>
+
+<h2>Por Que o Rotativo é Tão Caro</h2>
+<p>O rotativo é acionado quando você paga apenas parte da fatura do cartão — ou só o valor mínimo — e o restante do saldo passa a ser financiado pelo banco a partir do dia seguinte ao vencimento. É um crédito sem garantia e de curtíssimo prazo, o que os bancos usam para justificar o risco embutido na taxa: como não há um bem dado em garantia e o histórico de inadimplência nessa modalidade é historicamente alto, o custo é repassado a todos os usuários do rotativo, inclusive aos que pagam em poucos dias.</p>
+<p>Vale um esclarecimento sobre a taxa anual divulgada pelo Banco Central: ela é uma extrapolação do juro cobrado ao mês para uma base de 12 meses, mesmo que a maioria das pessoas fique no rotativo por poucos dias ou semanas, não o ano inteiro. Isso não torna o rotativo barato — mesmo poucos dias de juro mensal nessa faixa já pesam bastante no valor da fatura seguinte — mas explica por que o número anualizado parece ainda mais assustador do que o custo efetivamente sentido por quem sai do rotativo rápido.</p>
+
+<h2>O Teto Legal do Rotativo</h2>
+<p>Desde janeiro de 2024, uma lei limita os juros do rotativo e do parcelamento de fatura: a dívida total nessas modalidades não pode superar 100% do valor principal contratado. Ou seja, mesmo que o saldo fique parado por muito tempo, os juros e encargos acumulados não podem, por lei, dobrar de tamanho o valor da dívida original. É uma proteção importante, mas que não elimina o problema de fundo — o rotativo continua sendo, disparado, uma das formas mais caras de crédito disponíveis para o consumidor brasileiro.</p>
+
+<h2>Como Se Cai no Rotativo Sem Perceber</h2>
+<p>A porta de entrada mais comum é pagar apenas o valor mínimo da fatura, pensando em compensar no mês seguinte — o que raramente acontece, porque a fatura seguinte já chega maior, entre as novas compras e os juros do saldo anterior. Atrasos pontuais no pagamento também acionam o rotativo, mesmo quando a intenção original era pagar o valor integral da fatura.</p>
+
+<h2>Passo a Passo Para Sair do Rotativo</h2>
+<ol>
+    <li><strong>Pare de usar o cartão para novas compras.</strong> Enquanto houver saldo no rotativo, cada nova compra no cartão só aumenta a base sobre a qual os juros incidem.</li>
+    <li><strong>Contate o banco para negociar.</strong> Muitos bancos oferecem linhas específicas para renegociar o saldo do rotativo com juros bem mais baixos do que os cobrados na modalidade original — vale ligar e perguntar diretamente antes de assumir que não há alternativa.</li>
+    <li><strong>Considere substituir a dívida por um crédito mais barato.</strong> Linhas com garantia, como o consignado, costumam cobrar uma fração do custo do rotativo — como mostramos no artigo sobre o <a href="/artigo/consignado-inss-limites-taxas-quanto-pegar-emprestado">consignado do INSS</a>, mesmo o consignado tradicional já opera bem abaixo dos juros do rotativo do cartão. Trocar uma dívida cara por uma mais barata, quando possível, é uma estratégia válida — desde que você tenha disciplina para não recair no cartão depois.</li>
+    <li><strong>Use a portabilidade se fizer sentido.</strong> Se você tem outras dívidas bancárias, avaliar a <a href="/artigo/portabilidade-credito-como-trocar-banco-sem-perder-dinheiro">portabilidade de crédito</a> pode liberar espaço no orçamento para atacar o saldo do cartão com mais força.</li>
+    <li><strong>Priorize o pagamento do saldo do rotativo sobre outras prioridades não essenciais.</strong> Dado o custo altíssimo dessa dívida específica, quitá-la — mesmo que aos poucos — costuma valer mais do que qualquer rendimento que você conseguiria em uma aplicação financeira comum enquanto o saldo permanece parado no cartão.</li>
+    <li><strong>Depois de sair do rotativo, reconstrua seu score.</strong> Uma vez resolvido o saldo, siga um plano consistente para <a href="/artigo/recuperar-score-credito">recuperar seu score de crédito</a> e evitar cair na mesma armadilha novamente.</li>
+</ol>
+
+<h2>Como Evitar Cair no Rotativo de Novo</h2>
+<p>Configurar o pagamento automático da fatura integral, sempre que o orçamento permitir, é a forma mais simples de nunca mais entrar no rotativo por esquecimento. Quando o valor total da fatura for realmente incompatível com a renda do mês, o parcelamento oferecido pelo próprio banco — embora também caro — costuma ter um custo mais previsível do que deixar o saldo simplesmente rolar no rotativo padrão mês após mês.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney (dados do Banco Central) — <a href="https://www.infomoney.com.br/economia/juro-medio-do-rotativo-do-cartao-de-credito-cai-a-4362-ao-ano-em-julho-afirma-bc/" target="_blank" rel="noopener">Juro médio do rotativo do cartão de crédito cai a 436,2% ao ano em julho</a></li>
+</ul>
+
+<p>Quer simular quanto tempo levaria para sair de uma dívida no cartão de crédito? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'juros do cartão de crédito rotativo, como sair do rotativo, dívida no cartão de crédito, juro rotativo 2026',
+    ],
+
 ];
 
 /**
