@@ -207,6 +207,27 @@ $image_credits = [
         'source_name' => 'Wikimedia Commons',
         'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=189589715',
     ],
+    'fgc-paga-635-milhoes-fundo-garantidor-creditos' => [
+        'title' => 'University National Bank building - safes in basement vault',
+        'creator' => 'Joe Mabel',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=130202485',
+    ],
+    'mei-autonomo-clt-qual-vale-mais-a-pena' => [
+        'title' => 'Laptop Typing',
+        'creator' => 'Kristin Hardwick',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/laptop-typing-XJMBMTYYN2',
+    ],
+    'como-comprar-acoes-bolsa-passo-a-passo' => [
+        'title' => 'Vista aérea de la Avenida Paulista de São Paulo',
+        'creator' => 'ProtoplasmaKid',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=179848775',
+    ],
 ];
 
 /**
