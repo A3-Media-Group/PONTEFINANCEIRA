@@ -46,6 +46,7 @@ function static_lastmod($file)
     </url>
     <?php endforeach; ?>
     <?php foreach (get_all_tags($posts) as $tag): ?>
+    <?php if ($tag['count'] < 3) continue; // páginas de tag com pouco conteúdo estão noindex (ver tag.php) — não faz sentido listá-las aqui ?>
     <url>
         <loc><?php echo SITE_URL; ?>/tag/<?php echo $tag['slug']; ?></loc>
         <changefreq>monthly</changefreq>

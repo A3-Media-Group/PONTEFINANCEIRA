@@ -23,6 +23,15 @@ if (!$tag_name) {
 $tag_posts = get_posts_by_tag_slug($posts, $slug);
 usort($tag_posts, function ($a, $b) { return strtotime($b['date']) <=> strtotime($a['date']); });
 
+// Tags com poucos artigos geram conteúdo fino/repetitivo (praticamente uma
+// cópia da página do próprio artigo) e consomem crawl budget do Google sem
+// necessidade. A navegação continua funcionando normalmente — só pedimos
+// para o Google não indexar essa página específica enquanto ela tiver
+// menos de 3 artigos.
+if (count($tag_posts) < 3) {
+    $page_robots = 'noindex, follow';
+}
+
 $page_title = 'Artigos sobre ' . $tag_name . ' | ' . SITE_NAME;
 $page_description = 'Todos os artigos da ' . SITE_NAME . ' marcados com "' . $tag_name . '" — explicados de forma direta e sem jargão.';
 $page_url = SITE_URL . '/tag/' . $slug;
