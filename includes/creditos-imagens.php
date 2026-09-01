@@ -179,6 +179,34 @@ $image_credits = [
         'source_name' => 'Wikimedia Commons',
         'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=187689718',
     ],
+    'ipca-15-deflacao-agosto-2026-o-que-significa' => [
+        'title' => 'Supermarket shelves',
+        'creator' => 'Frankie Fouganthin',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=107728652',
+    ],
+    'orcamento-2027-salario-minimo-1741-superavit-primario' => [
+        'title' => 'Planalto Palace, Brasília',
+        'creator' => 'Jerrye and Roy Klotz, MD',
+        'license' => 'CC BY-SA 3.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=24729970',
+    ],
+    'aposentadoria-inss-regras-tempo-contribuicao-2026' => [
+        'title' => 'Elderly man portrait',
+        'creator' => 'Pedro Ribeiro Simões',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=95154282',
+    ],
+    'emprestimo-para-negativado-vale-a-pena-como-funciona' => [
+        'title' => 'Businessman expresses frustration while sitting in a chair at an office',
+        'creator' => 'Shixart1985',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=189589715',
+    ],
 ];
 
 /**
