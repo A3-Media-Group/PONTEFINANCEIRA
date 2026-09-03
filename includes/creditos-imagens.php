@@ -228,6 +228,27 @@ $image_credits = [
         'source_name' => 'Wikimedia Commons',
         'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=179848775',
     ],
+    'golpe-pix-med-prazo-80-dias' => [
+        'title' => 'Hand holding smartphone with blank white screen',
+        'creator' => 'Santeri Viinamäki',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=53155970',
+    ],
+    'leilao-imoveis-banco-como-funciona-vale-a-pena' => [
+        'title' => 'Housing and Property Auction',
+        'creator' => 'advokatsmart.no',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=123024269',
+    ],
+    'o-que-e-cadastro-positivo-como-funciona' => [
+        'title' => 'Legal Contract & Signature - Warm Tones',
+        'creator' => 'Blogtrepreneur',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=55666535',
+    ],
 ];
 
 /**

@@ -6602,6 +6602,258 @@ $posts = [
         'tags' => 'cheque especial como funciona, juros cheque especial, como sair do cheque especial, teto juros cheque especial',
     ],
 
+    [
+        'slug' => 'endividamento-familias-nivel-recorde-banco-central',
+        'title' => 'Endividamento das Famílias Segue em Nível Recorde, Alerta o Banco Central',
+        'category' => ['Notícias', 'Renegociação'],
+        'date' => '2026-09-03',
+        'read_time' => '6 min',
+        'excerpt' => 'O Banco Central alertou que o endividamento das famílias está no maior nível da série histórica. Entenda o que isso significa e como se proteger.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>O Comitê de Estabilidade Financeira (Comef) do Banco Central alertou que o endividamento das famílias brasileiras permanece em patamar historicamente alto, com o comprometimento de renda atingindo o maior nível da série histórica. O comunicado, divulgado em 2 de setembro, reforça um sinal de alerta que já vinha aparecendo em outros indicadores de crédito ao longo do ano.</p>
+
+<h2>O Que Diz o Relatório do Banco Central</h2>
+<p>Segundo o Comef, o quadro atual "segue sendo influenciado pela participação relevante de modalidades de crédito mais onerosas" na composição da dívida das famílias — ou seja, uma fatia significativa do endividamento não vem de financiamentos com juros controlados, mas de linhas caras e sem garantia, como o cartão de crédito e o empréstimo pessoal. O comitê classificou o cenário como merecedor de "cautela e diligência adicionais no mercado de crédito".</p>
+<p>O Comef é o colegiado do Banco Central responsável por monitorar riscos ao sistema financeiro como um todo, reunindo diretores da instituição para avaliar, entre outros temas, o nível de endividamento do país e a saúde do mercado de crédito. Diferente de comunicados sobre a Selic, que miram diretamente a inflação, os alertas do Comef funcionam como um termômetro mais amplo da saúde financeira de famílias e empresas — e costumam anteceder mudanças regulatórias no mercado de crédito quando o cenário não melhora nas edições seguintes do relatório.</p>
+
+<h2>Por Que o Crédito Caro Pesa Tanto Nessa Conta</h2>
+<p>Quando uma parcela relevante da dívida das famílias está concentrada em modalidades como o <a href="/artigo/juros-rotativo-cartao-credito-como-sair">rotativo do cartão de crédito</a> ou o <a href="/artigo/cheque-especial-como-funciona-como-sair">cheque especial</a> — ambos com juros que costumam superar 100% ao ano —, o comprometimento de renda cresce muito mais rápido do que cresceria com uma dívida de mesmo valor em uma linha mais barata, como um consignado ou um financiamento com garantia. É esse efeito, mais do que necessariamente o volume total emprestado, que preocupa o Banco Central: dívidas caras crescem sozinhas, mesmo sem novos gastos, só pelo acúmulo de juros sobre juros.</p>
+<p>Esse padrão também ajuda a explicar por que dois lares com o mesmo valor total de dívida podem estar em situações completamente diferentes: quem concentra a dívida em linhas baratas e previsíveis tem uma trajetória de pagamento bem mais gerenciável do que quem depende de crédito caro para fechar as contas todo mês. O tipo de dívida, e não apenas o tamanho dela, é o que determina se a situação tende a melhorar ou piorar com o tempo.</p>
+
+<h2>O Que Isso Significa Para as Empresas Também</h2>
+<p>O comunicado do Comef não trata apenas das famílias — o comitê também notou uma redução no número de empresas reportando aumento de lucro líquido, ao mesmo tempo em que mais empresas relatam despesas financeiras mais altas, com níveis elevados de ativos problemáticos e probabilidade de inadimplência. É um sinal de que o aperto no crédito e o custo mais alto do dinheiro pressionam tanto o orçamento das famílias quanto o caixa das empresas ao mesmo tempo — o que tende a se retroalimentar, já que empresas mais pressionadas geram menos empregos e reajustes salariais mais tímidos.</p>
+
+<h2>O Que Fazer Se Você Está Nessa Estatística</h2>
+<p>Se boa parte da sua dívida está concentrada em crédito caro, o primeiro passo prático é entender o tamanho real do problema antes de qualquer decisão — revisar todas as dívidas em aberto, os juros de cada uma e priorizar a quitação das mais caras primeiro. Nosso guia sobre <a href="/artigo/brasileiros-negativados-como-sair-ciclo-inadimplencia">como sair do ciclo de inadimplência</a> detalha esse processo passo a passo, e o artigo sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> ajuda a abordar o credor de forma mais estratégica, em vez de aceitar a primeira condição oferecida.</p>
+
+<h2>Um Alerta, Não Uma Sentença</h2>
+<p>Vale lembrar que um alerta de estabilidade financeira do Banco Central é um instrumento de monitoramento do sistema como um todo, e não uma previsão de crise iminente para cada família individualmente. Mas serve como um lembrete prático: se você reconhece o padrão descrito pelo Comef na sua própria vida financeira — dívida cara, crescendo, com comprometimento de renda alto —, é um bom momento para agir antes que a situação se agrave, e não depois.</p>
+<p>Relatórios como esse também costumam influenciar decisões futuras de política monetária e de regulação do crédito — quando o Banco Central sinaliza preocupação recorrente com o endividamento das famílias, é comum que instituições financeiras fiquem mais cautelosas na concessão de novo crédito, o que pode significar exigências mais rígidas de análise e menos ofertas de crédito fácil no curto prazo. Estar com as finanças organizadas hoje reduz o risco de ser pego de surpresa por esse tipo de aperto.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney (dados do Banco Central/Comef) — <a href="https://www.infomoney.com.br/economia/endividamento-continua-pressionando-a-condicao-financeira-de-familias-diz-bc/" target="_blank" rel="noopener">Endividamento continua pressionando a condição financeira de famílias, diz BC</a></li>
+</ul>
+
+<p>Quer entender o tamanho real das suas dívidas antes de decidir o próximo passo? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'endividamento das famílias 2026, comef banco central, dívida das famílias recorde, crédito caro brasil',
+    ],
+
+    [
+        'slug' => 'golpe-pix-med-prazo-80-dias',
+        'title' => 'Golpe do Pix: Banco Central Amplia Prazo do MED de 30 para 80 Dias',
+        'category' => ['Notícias', 'Renegociação'],
+        'date' => '2026-09-03',
+        'read_time' => '6 min',
+        'excerpt' => 'Desde 1º de setembro, o prazo para pedir devolução de Pix golpe pelo MED subiu de 30 para 80 dias. Entenda como funciona e o que fazer.',
+        'image' => '/assets/img/post-golpe-pix-med-prazo-80-dias.jpg',
+        'full' => true,
+        'content' => '
+<p>Desde 1º de setembro de 2026, o Banco Central ampliou de 30 para 80 dias o prazo para acionar o Mecanismo Especial de Devolução (MED), o canal oficial para tentar recuperar dinheiro perdido em golpes envolvendo Pix. A mudança dá bem mais tempo para quem só percebe o golpe depois que o prazo antigo já teria se esgotado.</p>
+
+<h2>O Que É o MED</h2>
+<p>O MED é o mecanismo criado pelo Banco Central para tentar bloquear e devolver valores transferidos por Pix em casos de fraude comprovada. Ele funciona através do próprio banco ou instituição de pagamento da vítima — não é preciso acionar diretamente o Banco Central nem abrir um processo judicial para dar entrada no pedido.</p>
+<p>Vale entender que o MED não é um seguro nem uma garantia automática de devolução: ele depende de a instituição de destino conseguir efetivamente bloquear o valor antes que o golpista o retire ou transfira para outra conta. Por isso, quanto mais rápido a vítima reportar o golpe ao próprio banco, maiores as chances de recuperar o dinheiro — mesmo com o prazo agora estendido para 80 dias, agir assim que a fraude é percebida continua sendo a atitude mais eficaz.</p>
+
+<h2>O Que Mudou</h2>
+<p>Até agosto, a vítima tinha até 30 dias após a transação fraudulenta para formalizar a reclamação junto ao seu banco e ativar o MED. A partir de setembro, esse prazo passa para 80 dias — uma mudança relevante para golpes mais elaborados, em que a vítima demora mais tempo para perceber que caiu em uma fraude, diferente de um golpe óbvio identificado no mesmo dia.</p>
+<p>Essa diferença de prazo importa especialmente em golpes que só se revelam depois de um tempo — por exemplo, quando a vítima percebe a fraude apenas ao notar uma cobrança recorrente inesperada, ou quando o golpe envolve várias etapas até o valor final ser desviado. Com 30 dias, muita gente simplesmente perdia o direito de acionar o mecanismo antes mesmo de entender completamente o que havia acontecido.</p>
+
+<h2>Como Funciona o Processo Passo a Passo</h2>
+<ol>
+    <li><strong>Reporte o golpe ao seu banco</strong> assim que perceber a fraude, dentro do novo prazo de 80 dias;</li>
+    <li><strong>O banco da vítima aciona o banco de destino</strong>, que bloqueia preventivamente os valores disponíveis na conta de quem recebeu o Pix;</li>
+    <li><strong>A instituição financeira do lado do recebedor tem até 7 dias</strong> para analisar e responder ao pedido de devolução;</li>
+    <li><strong>Se a fraude for confirmada, a devolução — total ou parcial — acontece em até 96 horas</strong> depois da confirmação;</li>
+    <li><strong>Se o valor já tiver sido usado ou transferido para outro lugar</strong>, o mecanismo pode bloquear outros pagamentos da conta do golpista até recuperar o valor total ou até 90 dias se passarem, o que ocorrer primeiro.</li>
+</ol>
+<p>Vale notar que o resultado do MED depende diretamente de haver saldo disponível na conta de destino no momento do bloqueio. Se o golpista já tiver sacado ou transferido o dinheiro para fora do sistema bancário antes do acionamento, a devolução pode ser parcial ou, em alguns casos, não acontecer — daí a importância de agir o mais rápido possível, mesmo com o prazo agora mais generoso.</p>
+
+<h2>Por Que a Ampliação do Prazo Importa</h2>
+<p>Um dos esquemas mais elaborados que motivou a mudança envolve fraudadores se passando por vítimas de uma transferência "por engano": o golpista pede a devolução de um Pix para um lojista ou pessoa física alegando erro, recebe o dinheiro de volta e, depois, aciona o próprio MED contra a vítima original, tentando reaver o valor uma segunda vez de forma fraudulenta. Esse tipo de golpe é mais difícil de perceber rapidamente, o que reforça por que um prazo maior para contestação faz diferença real na prática.</p>
+
+<h2>O Que Fazer Se Você Caiu em um Golpe do Pix</h2>
+<p>Além de acionar o MED dentro do novo prazo, é importante reunir o máximo de evidências possível — prints da conversa, comprovante da transferência, qualquer contato do golpista — antes de formalizar a reclamação com o banco. Já detalhamos o processo completo, incluindo o que fazer se o banco negar o primeiro pedido, no nosso guia sobre <a href="/artigo/golpe-pix-como-recuperar-dinheiro-2026">como recuperar dinheiro de um golpe no Pix</a>.</p>
+<p>Também vale registrar um boletim de ocorrência, mesmo que a devolução pelo MED já esteja em andamento. O registro formal ajuda em eventuais desdobramentos, como uma ação judicial contra o golpista caso o valor não seja recuperado pela via administrativa, e serve como comprovação adicional caso o banco solicite mais documentação durante a análise do pedido de devolução.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney (dados do Banco Central) — <a href="https://www.infomoney.com.br/minhas-financas/nova-funcao-antifraudes-pix/" target="_blank" rel="noopener">Pix: como funciona a nova função antifraudes?</a></li>
+</ul>
+
+<p>Quer organizar suas finanças enquanto resolve uma situação de golpe? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'med pix prazo devolução, golpe pix devolver dinheiro, mecanismo especial de devolução, pix antifraude 2026',
+    ],
+
+    [
+        'slug' => 'leilao-imoveis-banco-como-funciona-vale-a-pena',
+        'title' => 'Leilão de Imóveis de Banco: Como Funciona e Vale a Pena',
+        'category' => ['Finanças', 'Educação'],
+        'date' => '2026-09-03',
+        'read_time' => '8 min',
+        'excerpt' => 'Entenda como funciona um leilão de imóveis de banco, os riscos do edital e se vale a pena comprar com desconto de até 82%.',
+        'image' => '/assets/img/post-leilao-imoveis-banco-como-funciona-vale-a-pena.jpg',
+        'full' => true,
+        'content' => '
+<p>Um leilão de imóveis de banco pode parecer a barganha perfeita — descontos que chegam a 80% ou mais do valor de avaliação, como o leilão do Santander com 198 imóveis residenciais espalhados por mais de 20 estados, com lances iniciais a partir de R$ 43,2 mil. Mas entender como funciona esse tipo de leilão antes de participar é o que separa uma oportunidade real de uma dor de cabeça cara.</p>
+
+<h2>Por Que Bancos Leiloam Imóveis</h2>
+<p>A maioria dos imóveis leiloados por bancos vem de financiamentos imobiliários inadimplentes: quando o comprador para de pagar, o banco retoma o imóvel dado em garantia (alienação fiduciária) e precisa se desfazer dele. Administrar e manter um imóvel não é o negócio principal de um banco, então a prioridade costuma ser vender rápido — mesmo que isso signifique um desconto agressivo sobre o valor de mercado — em vez de esperar pelo melhor preço possível.</p>
+<p>Existe também um custo contábil e regulatório para o banco em manter imóveis retomados na carteira por muito tempo, o que reforça ainda mais o incentivo para vender rápido, mesmo com desconto grande. Isso explica por que leilões desse tipo costumam surgir em lotes — dezenas ou centenas de imóveis ao mesmo tempo, como no caso citado — em vez de um imóvel isolado sendo vendido individualmente pelo banco.</p>
+
+<h2>Como Funciona o Processo</h2>
+<ol>
+    <li><strong>Cadastro na plataforma de leilão.</strong> Bancos costumam usar plataformas especializadas, como a Superbid, onde o interessado cria uma conta e aguarda aprovação do cadastro;</li>
+    <li><strong>Escolha do imóvel e leitura do edital.</strong> Cada imóvel tem seu próprio edital, documento que detalha condições de pagamento, situação de ocupação e eventuais dívidas vinculadas ao imóvel;</li>
+    <li><strong>Envio do lance dentro do prazo estabelecido.</strong> Os leilões têm data e hora limite para recebimento de lances, geralmente divulgadas com antecedência na própria plataforma;</li>
+    <li><strong>Pagamento e transferência.</strong> Uma vez arrematado, o comprador segue as condições de pagamento definidas no edital — à vista, financiado ou parcelado, dependendo da modalidade oferecida para aquele imóvel específico.</li>
+</ol>
+
+<h2>O Que Olhar no Edital Antes de Dar um Lance</h2>
+<p>O desconto anunciado, sozinho, não deve ser o fator decisivo. Antes de participar, vale conferir com atenção:</p>
+<ul>
+    <li><strong>Situação de ocupação:</strong> alguns imóveis ainda estão ocupados pelo antigo proprietário ou por terceiros, o que pode exigir uma ação judicial de reintegração de posse — um processo que consome tempo e, eventualmente, dinheiro adicional;</li>
+    <li><strong>Dívidas vinculadas ao imóvel:</strong> débitos de IPTU, condomínio ou outras taxas em aberto podem ser transferidos junto com o imóvel para o novo proprietário, dependendo das regras do edital;</li>
+    <li><strong>Condições de visita:</strong> em muitos casos não há vistoria presencial disponível antes do lance, o que significa comprar sem conhecer o real estado de conservação do imóvel por dentro;</li>
+    <li><strong>Documentação do imóvel:</strong> confirme se a matrícula está regularizada e se não há outras pendências registradas em cartório além das já informadas no edital.</li>
+</ul>
+
+<h2>Financiamento e FGTS no Leilão</h2>
+<p>Alguns bancos, como no caso do leilão citado, oferecem financiamento em prazos longos (até 420 meses, o equivalente a 35 anos) e permitem o uso do FGTS para quem se enquadra nas condições exigidas. Antes de contar com essa opção, vale simular as parcelas e confirmar se você atende aos requisitos de renda e score exigidos — as mesmas regras gerais que já detalhamos no guia sobre <a href="/artigo/financiamento-imobiliario-como-funciona-passo-a-passo">como funciona o financiamento imobiliário</a> se aplicam aqui.</p>
+
+<h2>Vale a Pena?</h2>
+<p>Um desconto grande não é, por si só, garantia de bom negócio. Ao somar o valor do lance com eventuais dívidas transferidas, custos de desocupação judicial e reformas necessárias, o "preço final" de um imóvel de leilão pode ficar mais próximo do valor de mercado do que o desconto anunciado sugere à primeira vista. Da mesma forma que recomendamos ao comparar propostas de financiamento, vale sempre calcular o Custo Efetivo Total da operação — incluindo taxas do leilão, comissão da plataforma e juros do financiamento, se houver — antes de decidir. Nosso guia sobre o <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">Custo Efetivo Total</a> explica esse cálculo com mais detalhes.</p>
+<p>Dito isso, para quem tem paciência para pesquisar editais com cuidado, disponibilidade financeira para lidar com eventuais imprevistos (como uma desocupação judicial que se estenda por meses) e não depende de mudar para o imóvel imediatamente, um leilão bem escolhido pode representar uma economia real em relação ao mercado tradicional. O ponto central é nunca decidir apenas pelo percentual de desconto anunciado — sempre pelo cálculo completo do custo final, incluindo todos os riscos identificados no edital.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/leilao-santander-imoveis/" target="_blank" rel="noopener">Leilão do Santander tem 200 imóveis com descontos de até 82%</a></li>
+</ul>
+
+<p>Quer simular o custo total de um financiamento antes de participar de um leilão? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'leilão de imóveis de banco, como funciona leilão imóvel banco, vale a pena comprar imóvel leilão, edital leilão imóvel',
+    ],
+
+    [
+        'slug' => 'o-que-e-cadastro-positivo-como-funciona',
+        'title' => 'O Que É o Cadastro Positivo e Como Ele Funciona',
+        'category' => ['Score de Crédito', 'Educação'],
+        'date' => '2026-09-03',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda o que é o Cadastro Positivo, como ele afeta seu score de crédito e como consultar, ativar ou solicitar a exclusão dos seus dados.',
+        'image' => '/assets/img/post-o-que-e-cadastro-positivo-como-funciona.jpg',
+        'full' => true,
+        'content' => '
+<p>O Cadastro Positivo é, hoje, um dos fatores que mais pesam na hora de calcular seu score de crédito — mas ainda gera dúvida sobre o que exatamente ele registra e como usar essa informação a seu favor. Entender como ele funciona ajuda a tomar decisões mais conscientes sobre suas contas do dia a dia.</p>
+
+<h2>O Que É o Cadastro Positivo</h2>
+<p>O Cadastro Positivo é um histórico de pagamentos mantido por birôs de crédito como Serasa e SPC Brasil, reunindo o comportamento de pagamento de contas recorrentes — não apenas dívidas em atraso, mas também contas pagas em dia, o que o diferencia dos cadastros tradicionais de inadimplência, focados só no lado negativo do histórico.</p>
+<p>Antes da criação do Cadastro Positivo, um birô de crédito costumava enxergar apenas a parte ruim do seu histórico financeiro: dívidas em atraso, protestos, ações judiciais. Alguém que sempre pagou tudo em dia, mas nunca teve uma pendência formal registrada, não tinha como comprovar esse comportamento positivo de forma estruturada. O Cadastro Positivo resolveu exatamente essa lacuna, dando início a uma pontuação que também reconhece o bom pagador, e não apenas pune quem já ficou inadimplente — o que, na prática, tende a beneficiar principalmente quem nunca teve acesso fácil a crédito e não tinha como comprovar de outra forma que é um bom pagador.</p>
+
+<h2>Desde Quando Ele É Automático</h2>
+<p>Desde 2019, o Cadastro Positivo passou a ser automático para a maioria dos CPFs, dispensando a necessidade de autorização explícita para que os birôs comecem a registrar o histórico de pagamentos. Antes disso, era preciso aderir voluntariamente para que contas pagas em dia contassem a favor da pontuação.</p>
+
+<h2>Como Ele Afeta Seu Score</h2>
+<p>Segundo a própria Serasa, o histórico de pagamentos — baseado justamente no Cadastro Positivo — é o fator de maior peso no cálculo do score, respondendo por 29% da pontuação final, como já detalhamos no nosso guia sobre <a href="/artigo/recuperar-score-credito">como recuperar o score de crédito</a>. Isso significa que, quanto mais consistente for o seu histórico de contas pagas em dia, maior tende a ser sua pontuação — mesmo que você nunca tenha ficado negativado.</p>
+
+<h2>Quais Dados Entram no Cadastro Positivo</h2>
+<p>O Cadastro Positivo reúne, principalmente, o histórico de pagamento de:</p>
+<ul>
+    <li>Contas de consumo, como água, luz e telefone;</li>
+    <li>Financiamentos e empréstimos, incluindo consignado;</li>
+    <li>Faturas de cartão de crédito;</li>
+    <li>Outras obrigações financeiras recorrentes reportadas pelas empresas credoras aos birôs.</li>
+</ul>
+<p>O importante aqui é o comportamento — se a conta foi paga no prazo ou não —, não necessariamente o valor da dívida ou o produto contratado. Duas pessoas com dívidas de valores bem diferentes podem ter um histórico igualmente positivo no Cadastro Positivo, desde que ambas tenham pagado tudo dentro do prazo combinado — o que reforça que consistência no pagamento pesa mais do que o tamanho do compromisso financeiro assumido.</p>
+
+<h2>Como Consultar Seus Dados</h2>
+<p>É possível consultar o que está registrado no seu Cadastro Positivo diretamente pelos aplicativos ou sites da Serasa e do SPC Brasil, usando o CPF. Vale revisar esses dados periodicamente para confirmar que as informações estão corretas e atualizadas, já que erros de cadastro — como uma conta registrada como atrasada quando na verdade foi paga — podem prejudicar sua pontuação sem justificativa.</p>
+<p>Se encontrar uma informação incorreta, é possível contestar diretamente com o birô responsável, que tem prazo para investigar e corrigir o registro junto à empresa que reportou o dado originalmente. Guardar comprovantes de pagamento por um período razoável facilita bastante esse tipo de contestação, caso ela seja necessária no futuro.</p>
+
+<h2>Você Pode Sair do Cadastro Positivo?</h2>
+<p>Sim — a Lei Geral de Proteção de Dados (LGPD) garante o direito de solicitar a exclusão dos seus dados do Cadastro Positivo a qualquer momento, diretamente com o birô de crédito. Na prática, porém, isso raramente compensa: como o histórico de pagamentos é o fator de maior peso do score, sair do Cadastro Positivo tende a eliminar justamente a informação que mais ajuda quem tem um bom histórico de pagamento. Costuma fazer sentido apenas em casos bem específicos, e mesmo assim vale considerar que negativações explícitas por dívidas em atraso continuam sendo registradas separadamente, independentemente dessa decisão.</p>
+<p>Antes de solicitar a exclusão, vale simular mentalmente o cenário: se o seu histórico de pagamento é majoritariamente positivo, sair do Cadastro Positivo tende a reduzir sua pontuação, não a proteger. A exclusão só costuma fazer sentido para quem, por algum motivo pessoal ligado à privacidade dos próprios dados, prefere abrir mão desse benefício mesmo sabendo do impacto no score — uma decisão pessoal que vale pesar com calma antes de solicitar.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/score/blog/cadastro-positivo-influencia-score/" target="_blank" rel="noopener">Como o Cadastro Positivo influencia o Serasa Score</a></li>
+</ul>
+
+<p>Quer simular como um bom histórico de pagamentos pode melhorar suas condições de crédito? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'o que é cadastro positivo, como funciona cadastro positivo, cadastro positivo score, sair do cadastro positivo',
+    ],
+
+    [
+        'slug' => 'spc-serasa-qual-diferenca',
+        'title' => 'SPC x Serasa: Qual a Diferença',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-09-03',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda a diferença entre SPC e Serasa, por que seu nome pode estar sujo em um e não no outro, e como consultar e negociar em cada um.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>SPC e Serasa costumam aparecer juntos em qualquer conversa sobre nome sujo, mas não são a mesma coisa — e entender a diferença ajuda a saber onde consultar e negociar quando o assunto é uma dívida em atraso.</p>
+
+<h2>O Que É o SPC</h2>
+<p>O SPC Brasil (Serviço de Proteção ao Crédito) é um birô de dados de crédito mantido pela Confederação Nacional de Dirigentes Lojistas (CNDL) e pelas Câmaras de Dirigentes Lojistas (CDLs) espalhadas pelo país. Historicamente, o SPC nasceu ligado ao comércio varejista — lojas associadas às CDLs reportavam inadimplência de clientes ao sistema —, embora hoje também trabalhe com dados de instituições financeiras.</p>
+<p>Por ter raiz no comércio local, o SPC costuma ter forte presença justamente em dívidas do dia a dia do consumo — parcelamentos de loja, crediário, compras feitas diretamente com pequenos e médios lojistas — que nem sempre passam pelo sistema bancário tradicional. Isso não significa que o SPC não trabalhe com bancos e grandes empresas também, mas explica por que sua origem e cobertura são um pouco diferentes das da Serasa.</p>
+
+<h2>O Que É a Serasa</h2>
+<p>A Serasa é uma empresa privada do grupo Serasa Experian, funcionando como birô de crédito independente. Ela reúne dados de um número muito maior de empresas parceiras — mais de 1.400, segundo a própria Serasa —, incluindo bancos, financeiras, operadoras de cartão e empresas de diversos setores, além do comércio.</p>
+<p>Por integrar um grupo internacional de dados de crédito, a Serasa também investe fortemente em produtos digitais próprios — como o aplicativo de monitoramento de CPF, alertas de possível fraude e o próprio Serasa Score — o que ajuda a explicar por que ela costuma ser a marca mais lembrada quando o assunto é consulta e limpeza de nome, mesmo quando a dívida específica está registrada apenas no SPC.</p>
+
+<h2>Por Que Seu Nome Pode Estar Sujo em Um e Não no Outro</h2>
+<p>Cada credor decide para qual birô — ou birôs — vai reportar uma dívida em atraso. Uma loja pode reportar apenas ao SPC, um banco pode reportar apenas à Serasa, e outros credores podem reportar aos dois ao mesmo tempo. É por isso que é perfeitamente possível estar com o nome limpo na Serasa e negativado no SPC, ou vice-versa — a mesma dívida não aparece automaticamente nos dois sistemas só porque você está inadimplente com um credor.</p>
+
+<h2>Como Consultar os Dois</h2>
+<p>A consulta em cada birô é feita separadamente, usando o CPF, pelo site ou aplicativo de cada um — consultar apenas a Serasa, por exemplo, não garante que você não tenha nenhuma pendência registrada no SPC, e o contrário também vale. Quem quer ter certeza de que está com o nome realmente limpo precisa checar as duas fontes.</p>
+<p>Vale o hábito de fazer essa consulta dupla antes de decisões importantes, como tentar um financiamento ou abrir uma conta em uma nova instituição financeira — descobrir uma pendência esquecida no meio de uma negociação já em andamento costuma atrasar o processo e, às vezes, até fazer a proposta cair.</p>
+
+<h2>Como Negociar em Cada Um</h2>
+<p>Ambos oferecem canais próprios de negociação — feirões de renegociação, aplicativos de "limpa nome" e atendimento direto — mas as condições e os credores participantes variam entre os dois birôs. Se a mesma dívida, por algum motivo, estiver registrada nos dois sistemas, pode ser necessário negociar separadamente em cada canal, ou diretamente com o credor original, para garantir que a baixa aconteça nos dois lugares depois do pagamento.</p>
+<p>Um erro comum é negociar e quitar uma dívida em um birô, assumir que o nome já está limpo, e só perceber semanas depois que ainda existe uma pendência registrada no outro sistema — muitas vezes porque o mesmo credor reportou a inadimplência aos dois birôs de forma independente. Depois de qualquer negociação, vale a pena consultar novamente os dois birôs alguns dias depois para confirmar que a baixa foi processada corretamente em ambos.</p>
+
+<h2>Isso Afeta Meu Score?</h2>
+<p>Sim — tanto SPC quanto Serasa mantêm seus próprios modelos de pontuação de crédito, calculados com base nos dados que cada um possui. Isso explica por que sua pontuação pode variar bastante entre birôs e aplicativos diferentes, tema que também exploramos no artigo sobre a <a href="/artigo/serasa-score-nuscore-diferenca">diferença entre Serasa Score e NuScore</a>. Se você já resolveu suas pendências e quer entender como reconstruir a pontuação de forma consistente em qualquer birô, vale revisar nosso guia sobre <a href="/artigo/recuperar-score-credito">como recuperar o score de crédito</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>SPC Brasil — <a href="https://www.spcbrasil.com.br/" target="_blank" rel="noopener">Quem somos</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/" target="_blank" rel="noopener">Sobre a Serasa Experian</a></li>
+</ul>
+
+<p>Quer simular a melhor forma de organizar suas dívidas antes de negociar? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'diferença entre spc e serasa, spc e serasa são a mesma coisa, nome sujo spc ou serasa, como consultar spc e serasa',
+    ],
+
 ];
 
 /**
