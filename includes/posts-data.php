@@ -6854,6 +6854,253 @@ $posts = [
         'tags' => 'diferença entre spc e serasa, spc e serasa são a mesma coisa, nome sujo spc ou serasa, como consultar spc e serasa',
     ],
 
+    [
+        'slug' => 'ipi-zero-2027-carros-eletrodomesticos',
+        'title' => 'IPI Zero em 2027: Carros e Eletrodomésticos Vão Ficar Mais Baratos? Entenda',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-03',
+        'read_time' => '6 min',
+        'excerpt' => 'O governo quer zerar o IPI em 2027 na Reforma Tributária. Entenda se isso vai baratear carros e eletrodomésticos de verdade.',
+        'image' => '/assets/img/post-ipi-zero-2027-carros-eletrodomesticos.jpg',
+        'full' => true,
+        'content' => '
+<p>O governo anunciou a intenção de zerar o IPI (Imposto sobre Produtos Industrializados) a partir de janeiro de 2027, como parte da transição da Reforma Tributária. A notícia levanta uma pergunta natural para quem está pensando em comprar um carro ou trocar a geladeira: os preços vão realmente cair?</p>
+<p>Manchetes anunciando "imposto zero" costumam gerar expectativa imediata de preços mais baixos, mas a realidade da Reforma Tributária brasileira é mais complexa do que a manchete sugere — e entender os detalhes evita tanto otimismo exagerado quanto uma frustração desnecessária quando a mudança finalmente entrar em vigor.</p>
+
+<h2>O Que É o IPI Zero</h2>
+<p>O IPI é um imposto federal cobrado sobre produtos industrializados, incluindo automóveis, eletrodomésticos e eletrônicos. Segundo o ministro da Fazenda, Dario Durigan, a proposta é eliminar o IPI a partir de 2027, dentro do processo mais amplo de transição para os novos tributos da Reforma Tributária — a CBS (Contribuição sobre Bens e Serviços) e o IBS (Imposto sobre Bens e Serviços), que vão substituir gradualmente uma série de impostos federais, estaduais e municipais, incluindo o próprio IPI.</p>
+<p>A eliminação do IPI faz parte de um movimento maior de simplificação tributária: em vez de dezenas de tributos diferentes incidindo sobre o consumo, com regras e alíquotas distintas para cada setor, o novo sistema pretende unificar a cobrança em torno de poucos tributos, tornando mais simples entender quanto imposto está embutido em cada compra. O objetivo declarado da reforma é reduzir a complexidade do sistema, não necessariamente reduzir a arrecadação total do governo.</p>
+
+<h2>Por Que os Preços Não Devem Cair Como se Espera</h2>
+<p>Apesar do nome "IPI zero" sugerir alívio direto no bolso, especialistas ouvidos pelo InfoMoney alertam que a reforma foi desenhada para ser neutra em termos de arrecadação — ou seja, o objetivo não é reduzir a carga tributária total, mas reorganizar como ela é cobrada. Como resume a economista Andrea Damico, "é uma mudança estrutural no sistema tributário, não necessariamente uma redução efetiva da carga tributária". Na prática, o que hoje é cobrado via IPI pode simplesmente passar a ser cobrado via CBS e IBS, sem uma queda real no preço final.</p>
+
+<h2>Por Que Ainda Não Dá Para Saber o Efeito Exato</h2>
+<p>Segundo a Anfavea (associação das fabricantes de veículos), as alíquotas da CBS, do IBS e do Imposto Seletivo ainda não foram divulgadas — o que torna impossível projetar com precisão o efeito real sobre o preço de carros e eletrodomésticos até este momento. Produtos hoje beneficiados por alíquotas reduzidas de IPI (como carros populares ou eletrodomésticos da linha branca) podem, inclusive, ficar proporcionalmente mais caros se o novo sistema não replicar os mesmos incentivos.</p>
+<p>Esse é um ponto central que costuma passar batido nas manchetes: o IPI, hoje, tem alíquotas diferentes para categorias diferentes de produto — carros populares, por exemplo, historicamente pagam menos IPI do que veículos de luxo, e eletrodomésticos essenciais costumam ter alíquota reduzida em relação a eletrônicos de consumo não essenciais. Se o Imposto Seletivo e as novas alíquotas de CBS/IBS não replicarem essa mesma lógica de diferenciação, produtos que hoje pagam pouco IPI podem passar a pagar proporcionalmente mais no novo sistema, mesmo que a "carga total" do país permaneça estável.</p>
+
+<h2>Vale a Pena Esperar Até 2027 Para Comprar?</h2>
+<p>Como as alíquotas finais dos novos tributos ainda não foram definidas, não é possível dizer com segurança se vale a pena esperar. Se você precisa comprar um carro ou eletrodoméstico com urgência, a decisão deveria continuar baseada nas condições de financiamento disponíveis hoje — comparando taxa de juros, entrada exigida e o <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">Custo Efetivo Total</a> de cada proposta — em vez de apostar em uma redução de preço que ainda não está garantida. Quem está pensando em financiar um veículo também pode comparar as condições com um consórcio, avaliando qual opção sai mais barata no seu caso específico, tema que já detalhamos no guia sobre <a href="/artigo/financiamento-ou-consorcio">financiamento ou consórcio</a>.</p>
+<p>Vale lembrar também que reformas tributárias desse tamanho costumam passar por ajustes até a versão final entrar em vigor, e prazos de implementação às vezes escorregam. Basear uma decisão de compra hoje inteiramente em uma expectativa de preço futuro que ainda depende de várias etapas regulatórias — divulgação de alíquotas, aprovação final, período de transição — é um risco real. Quem tem flexibilidade de esperar pode acompanhar as próximas divulgações antes de decidir, mas quem precisa comprar agora não deveria adiar a decisão só por essa expectativa ainda incerta.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/carros-e-eletrodomesticos-vao-ficar-mais-baratos-com-ipi-zero-em-2027-entenda/" target="_blank" rel="noopener">Carros e eletrodomésticos vão ficar mais baratos com IPI zero em 2027?</a></li>
+</ul>
+
+<p>Quer simular o custo total de um financiamento antes de decidir comprar agora ou esperar? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'ipi zero 2027, reforma tributária carros mais baratos, ibs cbs eletrodomésticos, vale a pena esperar 2027 comprar carro',
+    ],
+
+    [
+        'slug' => 'move-brasil-financiamento-taxista-motorista-app',
+        'title' => 'Move Brasil: Financiamento Para Taxista e Motorista de App Sobe Para R$ 200 Mil',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-03',
+        'read_time' => '6 min',
+        'excerpt' => 'O teto de financiamento do Move Brasil para taxistas e motoristas de app subiu de R$ 150 mil para R$ 200 mil. Veja as taxas e como funciona.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>O teto de financiamento do programa Move Brasil para taxistas e motoristas de aplicativo subiu de R$ 150 mil para R$ 200 mil, segundo autorização do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) em conjunto com o Ministério da Fazenda. A mudança amplia o alcance de um programa que já vinha oferecendo crédito mais barato para quem trabalha dirigindo.</p>
+<p>Para quem depende do carro como principal ferramenta de trabalho, o acesso a crédito com juros mais baixos do que os praticados no mercado tradicional pode representar uma diferença significativa no orçamento mensal — tanto na hora de trocar de veículo quanto na sustentabilidade financeira da própria atividade ao longo dos anos de financiamento.</p>
+
+<h2>O Que É o Move Brasil</h2>
+<p>Lançado em maio de 2026, o Move Brasil é um programa do governo federal que disponibiliza R$ 30 bilhões em crédito para a compra de carros novos com juros menores do que os praticados no financiamento tradicional, voltado especificamente para taxistas e motoristas de aplicativo.</p>
+<p>O programa faz parte de um conjunto de iniciativas do governo para estimular a indústria automotiva nacional, oferecendo condições de financiamento mais acessíveis em troca de exigências como a compra de veículos novos fabricados no país — o que também ajuda a explicar por que o programa é operado em parceria entre o MDIC (responsável pela política industrial) e o Ministério da Fazenda (responsável pelas condições de crédito).</p>
+
+<h2>O Que Mudou</h2>
+<p>Com a atualização, o valor máximo financiável passa de R$ 150 mil para R$ 200 mil, tanto para taxistas quanto para motoristas de aplicativo — um ajuste que acompanha a alta no preço médio dos veículos e amplia as opções de modelos elegíveis dentro do programa.</p>
+
+<h2>Quais São as Taxas de Juros</h2>
+<p>O programa mantém taxas diferenciadas por perfil: até 11,5% ao ano para mulheres, e até 12,6% ao ano para os demais motoristas e cooperativas. São taxas bem mais competitivas do que a média do financiamento de veículos fora de programas oficiais, especialmente em um cenário de Selic ainda em nível elevado.</p>
+<p>Para ter uma referência de comparação, financiamentos de veículos fora de programas oficiais costumam operar bem acima desse patamar, dependendo do perfil de crédito do comprador e da instituição financeira escolhida. É justamente essa diferença de taxa, mantida estável mesmo com o teto de financiamento subindo, que torna o programa atrativo para quem depende do carro como ferramenta de trabalho e não teria acesso a condições parecidas no mercado tradicional.</p>
+
+<h2>Por Que Essa Diferenciação Por Gênero</h2>
+<p>Taxas menores para mulheres motoristas seguem uma lógica já usada em outras políticas públicas de crédito no Brasil: buscar reduzir barreiras específicas enfrentadas por esse grupo no mercado de trabalho de transporte, historicamente dominado por homens, e incentivar a entrada e permanência de mulheres nessa atividade.</p>
+<p>Esse tipo de diferenciação também aparece em outras frentes de crédito no país, como linhas específicas para mulheres empreendedoras ou taxas reduzidas em determinados programas de crédito produtivo. A lógica por trás é sempre parecida: setores historicamente mais difíceis de acessar para um determinado grupo recebem condições de crédito mais favoráveis como forma de nivelar a entrada, sem depender apenas da força de mercado para corrigir essa desigualdade ao longo do tempo.</p>
+
+<h2>Vale a Pena Para Quem Depende do Carro Para Trabalhar</h2>
+<p>Para quem já trabalha ou pretende trabalhar como motorista de aplicativo ou taxista, comparar as condições do Move Brasil com outras formas de financiamento — ou mesmo com um <a href="/artigo/financiamento-ou-consorcio">consórcio de veículo</a> — é um passo importante antes de decidir. Como em qualquer financiamento, vale calcular o Custo Efetivo Total da proposta antes de assinar, considerando não apenas a taxa de juros anunciada, mas seguros e tarifas embutidas — detalhamos esse cálculo no guia sobre o <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">Custo Efetivo Total</a>. Também vale lembrar que um carro financiado é, ao mesmo tempo, ferramenta de trabalho e fonte de despesa fixa mensal — por isso, simular a capacidade real de pagamento considerando os custos variáveis da atividade (combustível, manutenção, seguro) é essencial antes de assumir o compromisso. O novo teto de R$ 200 mil também não significa que financiar o valor máximo seja sempre a melhor escolha — a parcela deve caber no orçamento mesmo em meses de faturamento mais baixo, algo comum na rotina de quem trabalha por aplicativo ou como taxista, sujeito a sazonalidade de demanda ao longo do ano. Reservar uma margem de segurança no orçamento mensal para os meses de faturamento mais fraco evita que o financiamento do próprio carro de trabalho se transforme, ironicamente, na maior fonte de aperto financeiro de quem depende dele para gerar renda.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/move-brasil-teto-para-financiamento-a-taxistas-e-motoristas-de-app-vai-a-r200-mil/" target="_blank" rel="noopener">Move Brasil: teto para financiamento a taxistas e motoristas de app vai a R$ 200 mil</a></li>
+</ul>
+
+<p>Quer simular as parcelas de um financiamento de veículo antes de contratar? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'move brasil financiamento carro, financiamento taxista motorista de app, move brasil taxa de juros, crédito carro novo motorista aplicativo',
+    ],
+
+    [
+        'slug' => 'pis-pasep-abono-salarial-quem-tem-direito',
+        'title' => 'PIS/PASEP: Abono Salarial — Quem Tem Direito e Como Consultar',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-03',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda quem tem direito ao abono salarial do PIS/PASEP em 2026, quanto pode receber e como consultar e sacar o valor.',
+        'image' => '/assets/img/post-pis-pasep-abono-salarial-quem-tem-direito.jpg',
+        'full' => true,
+        'content' => '
+<p>O abono salarial do PIS/PASEP é um benefício anual previsto na Constituição Federal, mas que ainda gera dúvida sobre quem realmente tem direito e como consultar o valor a receber. Entender as regras evita perder o prazo ou deixar de receber um dinheiro que já é seu por direito.</p>
+<p>Todo ano, milhões de trabalhadores brasileiros deixam esse valor parado por não saberem que têm direito a ele, ou por não conseguirem entender o calendário de pagamento — que muda de acordo com o mês de nascimento e costuma confundir quem não acompanha esse tipo de informação com regularidade.</p>
+
+<h2>O Que É o Abono Salarial</h2>
+<p>O abono salarial é um pagamento anual calculado a partir do salário mínimo dividido por 12 meses, multiplicado pelo número de meses trabalhados no ano-base considerado para o cálculo. Na prática, quanto mais meses trabalhados naquele ano, maior o valor recebido — até o limite de um salário mínimo integral para quem trabalhou os 12 meses completos.</p>
+<p>O PIS (Programa de Integração Social) e o PASEP (Programa de Formação do Patrimônio do Servidor Público) são dois programas distintos, criados décadas atrás com o mesmo objetivo de integrar o trabalhador aos resultados da economia do país. O PIS atende trabalhadores do setor privado, enquanto o PASEP é destinado a servidores públicos — mas, na prática, ambos hoje seguem exatamente as mesmas regras de elegibilidade e cálculo do abono salarial, o que costuma confundir quem não sabe em qual dos dois está inscrito.</p>
+
+<h2>Quem Tem Direito</h2>
+<p>Para ter direito ao abono, o trabalhador precisa atender a todos os seguintes requisitos:</p>
+<ul>
+    <li>Ter recebido, em média, até R$ 2.766 por mês durante o ano-base considerado;</li>
+    <li>Ter trabalhado para empregador que contribui para o PIS ou o PASEP;</li>
+    <li>Ter trabalhado pelo menos 30 dias, com vínculo formal, no ano-base;</li>
+    <li>Estar cadastrado no PIS ou no PASEP há pelo menos 5 anos;</li>
+    <li>Ter os dados corretamente informados pelo empregador no eSocial, dentro do prazo estabelecido pelo governo.</li>
+</ul>
+
+<h2>Quanto Você Pode Receber em 2026</h2>
+<p>Com o salário mínimo de 2026 em R$ 1.621, o valor do abono varia de aproximadamente R$ 136 (para quem trabalhou apenas 1 mês no ano-base) até R$ 1.621 (para quem trabalhou o ano completo), com incrementos de cerca de R$ 135 para cada mês adicional trabalhado.</p>
+
+<h2>Como Consultar e Receber</h2>
+<p>A consulta pode ser feita pela Carteira de Trabalho Digital ou pelo portal gov.br, a partir da data de liberação definida pelo governo para o calendário do ano. O pagamento segue um cronograma organizado pelo mês de nascimento do trabalhador, com início e fim de cada faixa de recebimento divulgados no calendário oficial.</p>
+<p>Trabalhadores vinculados ao PIS recebem pela Caixa Econômica Federal; quem está no PASEP recebe pelo Banco do Brasil. Em caso de dúvida sobre o valor ou a elegibilidade, o canal "Facilita" do Ministério do Trabalho e Emprego oferece atendimento específico sobre o benefício.</p>
+<p>Vale destacar que o abono, uma vez disponível para saque, não expira imediatamente — geralmente há um prazo relativamente longo dentro do calendário anual para retirar o valor antes que ele retorne ao fundo de origem. Ainda assim, não vale a pena deixar para sacar no último momento: consultar o quanto antes evita esquecimento e permite planejar melhor o uso do valor.</p>
+
+<h2>O Que Fazer Se Você Acha Que Tem Direito e Não Recebeu</h2>
+<p>O motivo mais comum para não receber o abono, mesmo cumprindo os requisitos, é uma inconsistência no envio dos dados pelo empregador ao eSocial dentro do prazo. Nesse caso, vale procurar o setor de recursos humanos da empresa para confirmar se as informações foram enviadas corretamente, e reforçar a consulta assim que o calendário de pagamento for atualizado. Esse valor extra pode ser uma boa oportunidade para reforçar sua <a href="/artigo/reserva-de-emergencia-quanto-guardar">reserva de emergência</a>, em vez de incorporá-lo apenas ao consumo do mês.</p>
+<p>Outro cenário comum é o trabalhador ter trocado de emprego ao longo do ano-base e um dos empregadores não ter enviado a informação corretamente — nesse caso, mesmo cumprindo o requisito de tempo mínimo somando os dois vínculos, o sistema pode não identificar a elegibilidade automaticamente até que a pendência seja corrigida. Documentar todos os vínculos de trabalho do período e ter em mãos os contracheques ajuda a resolver esse tipo de contestação mais rapidamente junto ao Ministério do Trabalho. Vale o hábito de guardar esses comprovantes por alguns anos, mesmo depois de já ter recebido o abono referente àquele período — eles também podem ser úteis em outras situações, como a comprovação de tempo de contribuição para a aposentadoria.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Governo Federal (gov.br) — <a href="https://www.gov.br/pt-br/servicos/receber-o-abono-salarial" target="_blank" rel="noopener">Consultar e receber o Abono Salarial</a></li>
+</ul>
+
+<p>Quer simular o melhor destino para esse valor extra? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'abono salarial pis pasep 2026, quem tem direito ao abono salarial, calendário abono salarial 2026, quanto recebe abono salarial',
+    ],
+
+    [
+        'slug' => 'seguro-desemprego-quem-tem-direito-como-solicitar',
+        'title' => 'Seguro-Desemprego: Quem Tem Direito e Como Solicitar',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-03',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda quem tem direito ao seguro-desemprego, quantas parcelas você pode receber e o passo a passo para solicitar o benefício.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>O seguro-desemprego é um benefício temporário pensado para dar um fôlego financeiro a quem perde o emprego sem ter culpa disso — mas as regras de quem tem direito, e por quanto tempo, ainda confundem muita gente na hora de precisar.</p>
+<p>É comum descobrir os detalhes desse benefício justamente no momento mais estressante possível — logo depois de uma demissão inesperada, quando a prioridade é organizar as finanças rapidamente. Conhecer as regras com antecedência, mesmo sem estar em risco imediato de perder o emprego, ajuda a agir com mais rapidez e menos ansiedade se a situação realmente acontecer.</p>
+
+<h2>O Que É o Seguro-Desemprego</h2>
+<p>É uma assistência financeira temporária paga pelo governo a trabalhadores formais demitidos sem justa causa, com o objetivo de ajudar a manter o sustento próprio e da família enquanto o trabalhador busca uma nova recolocação no mercado.</p>
+<p>É importante diferenciar o seguro-desemprego de outros benefícios que costumam ser confundidos com ele, como o FGTS e a multa de 40% pagos na demissão sem justa causa. São benefícios distintos, com origens e regras próprias: o FGTS é um fundo formado por depósitos mensais do empregador ao longo de todo o vínculo, enquanto o seguro-desemprego é um pagamento à parte, financiado pelo governo, específico para o período de transição entre empregos.</p>
+
+<h2>Quem Tem Direito</h2>
+<p>Para ter direito ao benefício, é preciso ter sido demitido sem justa causa e, além disso, atender a requisitos de tempo mínimo de trabalho, que variam conforme o número de vezes que a pessoa já solicitou o seguro-desemprego ao longo da vida:</p>
+<ul>
+    <li><strong>Primeira solicitação:</strong> pelo menos 12 meses trabalhados nos últimos 18 meses;</li>
+    <li><strong>Segunda solicitação:</strong> pelo menos 9 meses trabalhados nos últimos 12 meses;</li>
+    <li><strong>A partir da terceira solicitação:</strong> ter trabalhado em cada um dos 6 meses imediatamente anteriores à demissão.</li>
+</ul>
+<p>Também é preciso não ter renda própria suficiente para o próprio sustento e o da família, e não estar recebendo outro benefício previdenciário contínuo, com poucas exceções, como o auxílio-acidente. Quem pede demissão voluntariamente ou é demitido por justa causa não tem direito ao benefício — a exigência de demissão sem justa causa é um dos requisitos mais rígidos e menos flexíveis dessa lista.</p>
+
+<h2>Quantas Parcelas e Quanto Você Recebe</h2>
+<p>O número de parcelas e o valor exato variam conforme o tempo trabalhado e o salário médio recebido nos últimos meses antes da demissão — o cálculo é feito automaticamente pelo sistema no momento da solicitação, e o resultado pode ser acompanhado pelos canais oficiais de consulta.</p>
+<p>De forma geral, quem tem um histórico de trabalho mais longo e contínuo tende a ter direito a mais parcelas do que quem está solicitando o benefício por uma segunda ou terceira vez em um período curto. O valor de cada parcela também não é simplesmente igual ao último salário recebido — existe uma fórmula própria de cálculo que considera a média dos últimos salários, respeitando um valor mínimo (nunca inferior a um salário mínimo) e um teto máximo definido anualmente pelo governo.</p>
+
+<h2>Como Solicitar</h2>
+<ol>
+    <li><strong>Pela internet:</strong> através do portal <em>servicos.mte.gov.br</em>;</li>
+    <li><strong>Pelo aplicativo:</strong> Carteira de Trabalho Digital, disponível para Android e iOS;</li>
+    <li><strong>Por telefone:</strong> ligando para o número 158 ou entrando em contato com a superintendência do trabalho do seu estado;</li>
+    <li><strong>Documentos necessários:</strong> termo de rescisão do contrato de trabalho e CPF.</li>
+</ol>
+<p>O serviço é gratuito, e o prazo de processamento costuma variar entre 31 e 60 dias úteis a partir da solicitação — por isso, vale dar entrada assim que possível depois da demissão, em vez de esperar. Atrasar a solicitação não aumenta o valor do benefício, apenas posterga o momento em que o dinheiro começa a entrar — o que pode pesar bastante justamente no período em que a renda já está reduzida ou zerada.</p>
+
+<h2>Como Se Planejar Enquanto Recebe o Benefício</h2>
+<p>O seguro-desemprego costuma ser insuficiente para manter o mesmo padrão de vida do salário anterior, funcionando mais como uma ponte do que como substituição completa de renda. Por isso, ajustar o orçamento imediatamente após a demissão — usando um método como o <a href="/artigo/metodo-50-30-20-orcamento">50-30-20</a> ou priorizando apenas o essencial — ajuda a fazer o benefício durar até a recolocação. Se a demissão também envolveu <a href="/artigo/distribuicao-fgts-2026">saque do FGTS</a>, vale considerar esse valor como parte do mesmo planejamento, em vez de gastá-lo separadamente sem um plano definido. Tratar o conjunto de recursos disponíveis — seguro-desemprego, FGTS e qualquer reserva pessoal — como um único orçamento a ser distribuído ao longo dos meses até a recolocação tende a evitar que o dinheiro acabe antes do esperado.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Governo Federal (gov.br) — <a href="https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego" target="_blank" rel="noopener">Solicitar o Seguro-Desemprego</a></li>
+</ul>
+
+<p>Quer organizar seu orçamento enquanto recebe o seguro-desemprego? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'seguro desemprego quem tem direito, como solicitar seguro desemprego, quantas parcelas seguro desemprego, seguro desemprego demissão sem justa causa',
+    ],
+
+    [
+        'slug' => 'nao-pagar-fatura-cartao-credito-o-que-acontece',
+        'title' => 'O Que Acontece Se Você Não Pagar a Fatura do Cartão de Crédito',
+        'category' => ['Cartão de Crédito', 'Renegociação'],
+        'date' => '2026-09-03',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda o que acontece se você não pagar a fatura do cartão de crédito, o cronograma de cobrança e como negociar antes que a dívida cresça.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>Deixar de pagar a fatura do cartão de crédito, mesmo que pareça uma solução temporária para um mês difícil, tem um cronograma de consequências que vale conhecer antes de chegar lá. Entender o que acontece em cada etapa ajuda a agir a tempo, antes que a dívida saia do controle e se torne muito mais difícil de resolver do que seria no início do processo.</p>
+
+<h2>O Que Acontece Imediatamente: o Rotativo</h2>
+<p>Se você paga menos do que o valor total da fatura — mesmo que pague o mínimo — o restante entra automaticamente no <a href="/artigo/juros-rotativo-cartao-credito-como-sair">rotativo do cartão</a>, com juros que costumam superar 400% ao ano. Segundo a Serasa, "a aplicação de juros sobre juros, conhecida como efeito exponencial, faz com que a dívida original dobre de tamanho em poucos meses" quando o rotativo não é quitado rapidamente.</p>
+<p>Esse é o ponto em que muita gente subestima a urgência do problema: pagar "só o mínimo" parece uma solução razoável para aliviar o mês, mas na prática significa aceitar um dos juros mais altos do mercado de crédito brasileiro sobre o saldo restante. Quanto mais meses isso se repete, maior a proporção da fatura que passa a ser só juros acumulados, e não gastos novos.</p>
+
+<h2>O Cronograma de Cobrança</h2>
+<ul>
+    <li><strong>Até 30 dias de atraso:</strong> juros e encargos começam a se acumular sobre o saldo, e o banco já pode iniciar tentativas de cobrança por telefone, SMS ou e-mail;</li>
+    <li><strong>Até 60 dias:</strong> a dívida continua crescendo, e o cartão pode ter o limite restringido ou ser bloqueado para novas compras;</li>
+    <li><strong>Até 90 dias:</strong> a cobrança se intensifica, e o cartão pode ser cancelado definitivamente pelo banco;</li>
+    <li><strong>A partir de determinado ponto:</strong> o nome do titular pode ser incluído em cadastros de inadimplentes, como Serasa e SPC — já detalhamos a diferença entre os dois no artigo sobre <a href="/artigo/spc-serasa-qual-diferenca">SPC x Serasa</a>.</li>
+</ul>
+
+<h2>Pode Ir Para a Justiça?</h2>
+<p>Sim — o credor pode recorrer à Justiça para cobrar uma dívida de cartão de crédito, especialmente quando os valores são altos e as tentativas de negociação direta não têm sucesso. A penhora de bens é possível por decisão judicial, mas não é automática nem imediata: costuma ser o último recurso depois de outras tentativas de cobrança terem falhado, e depende de um processo judicial formal contra o devedor.</p>
+<p>Vale saber que alguns bens têm proteção legal contra penhora em qualquer circunstância, como o salário (em geral, até certo limite) e o único imóvel residencial da família, protegido pela chamada impenhorabilidade do bem de família. Isso não significa que a cobrança judicial deixe de ser desagradável ou custosa para o devedor — apenas que ela tem limites definidos por lei, e não é um processo instantâneo como muitas vezes se imagina.</p>
+
+<h2>Por Quanto Tempo o Nome Fica Sujo</h2>
+<p>A marca negativa costuma sair dos birôs de crédito depois de 5 anos, mesmo que a dívida em si continue existindo — isso não significa que a dívida "some": ela pode prescrever depois de determinado prazo (como detalhamos no artigo sobre <a href="/artigo/divida-prescrita-quanto-tempo-sai-nome">dívida prescrita</a>), mas o credor pode continuar cobrando de outras formas mesmo depois da negativação sair do birô. Enquanto a dívida estiver ativa, mesmo sem aparecer mais no birô, ela pode voltar a ser cobrada — inclusive judicialmente — dentro do prazo legal de prescrição.</p>
+
+<h2>Como Negociar Antes de Chegar Nesse Ponto</h2>
+<p>Segundo a própria Serasa, negociar diretamente pela plataforma pode gerar descontos de até 90% em algumas condições, dependendo do credor e do tempo de atraso. Outras opções incluem buscar um empréstimo pessoal ou uma linha de crédito mais barata para quitar o saldo do cartão de uma vez — trocando uma dívida cara por uma mais barata —, ou negociar diretamente com o banco emissor um parcelamento com juros menores do que os do rotativo. Já detalhamos essa abordagem de negociação, incluindo como não aceitar a primeira proposta oferecida, no guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos</a>. Quanto mais cedo a negociação começa, maiores tendem a ser as chances de conseguir um desconto relevante — credores costumam ficar mais flexíveis com dívidas recentes do que com dívidas já bastante antigas e de difícil recuperação.</p>
+
+<h2>Como Evitar Que Isso Se Repita</h2>
+<p>Depois de resolver a dívida, montar um orçamento simples — mesmo que básico, como o método 50-30-20 — e manter uma reserva de emergência, ainda que pequena, reduz bastante a chance de precisar recorrer ao cartão para cobrir imprevistos do dia a dia no futuro.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/divida-cartao-de-credito-o-que-pode-acontecer/" target="_blank" rel="noopener">Dívida de cartão de crédito: o que acontece se não pagar a fatura?</a></li>
+</ul>
+
+<p>Quer simular quanto tempo levaria para sair de uma dívida no cartão de crédito? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'o que acontece se não pagar a fatura do cartão, dívida de cartão de crédito, negativado por cartão de crédito, negociar dívida de cartão',
+    ],
+
 ];
 
 /**

@@ -249,6 +249,20 @@ $image_credits = [
         'source_name' => 'Wikimedia Commons',
         'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=55666535',
     ],
+    'ipi-zero-2027-carros-eletrodomesticos' => [
+        'title' => 'Person repairs a kitchen appliance in a home kitchen',
+        'creator' => 'Shixart1985',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=193330812',
+    ],
+    'pis-pasep-abono-salarial-quem-tem-direito' => [
+        'title' => 'Brazilian reals, money & banking',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/6041167/photo-image-public-domain-note-brazil',
+    ],
 ];
 
 /**
