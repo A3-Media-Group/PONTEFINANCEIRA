@@ -263,6 +263,34 @@ $image_credits = [
         'source_name' => 'rawpixel',
         'source_url' => 'https://www.rawpixel.com/image/6041167/photo-image-public-domain-note-brazil',
     ],
+    'carros-usados-desaceleram-vale-a-pena-comprar' => [
+        'title' => 'Free man holding car key',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/5927317/photo-image-public-domain-hand-person',
+    ],
+    'orcamento-2027-obra-ficcao-ex-banco-mundial' => [
+        'title' => 'National Congress of Brazil, Brasilia',
+        'creator' => 'CivArmy',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=75267531',
+    ],
+    'cartao-credito-x-debito-qual-diferenca' => [
+        'title' => 'Credit Cards in Wallet',
+        'creator' => 'Desconhecido (rawpixel)',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/5970162/credit-cards-wallet',
+    ],
+    'acordo-de-divida-vale-a-pena-como-avaliar' => [
+        'title' => 'Work Business',
+        'creator' => 'Kristin Hardwick',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/work-business-J5LXKNDREC',
+    ],
 ];
 
 /**

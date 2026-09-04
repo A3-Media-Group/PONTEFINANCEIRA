@@ -7101,6 +7101,236 @@ $posts = [
         'tags' => 'o que acontece se não pagar a fatura do cartão, dívida de cartão de crédito, negativado por cartão de crédito, negociar dívida de cartão',
     ],
 
+    [
+        'slug' => 'carros-usados-desaceleram-vale-a-pena-comprar',
+        'title' => 'Carros Usados Desaceleram em Agosto: Vale a Pena Comprar Agora?',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-04',
+        'read_time' => '6 min',
+        'excerpt' => 'O índice de preços de carros usados teve a menor alta desde 2024 em agosto. Entenda o que isso significa pra quem quer comprar ou vender.',
+        'image' => '/assets/img/post-carros-usados-desaceleram-vale-a-pena-comprar.jpg',
+        'full' => true,
+        'content' => '
+<p>O mercado de carros usados começou o segundo semestre de 2026 desacelerando visivelmente: o índice IBV Auto, que acompanha os preços de veículos usados, subiu apenas 0,01% em agosto — a menor variação mensal desde abril de 2024. Para quem está pensando em comprar ou vender um carro usado, entender esse movimento ajuda a negociar com mais informação.</p>
+
+<h2>O Que Mostra o Índice</h2>
+<p>No acumulado dos primeiros oito meses de 2026, os preços de carros usados subiram 3,55% — abaixo dos 3,74% registrados no mesmo período de 2025. Na comparação de 12 meses, a valorização também perdeu força, passando de 6,10% para 5,12%. São números que confirmam uma tendência de desaceleração consistente, não apenas um resultado isolado de um único mês.</p>
+<p>Esse tipo de índice funciona de forma parecida com o IPCA, só que aplicado especificamente ao mercado de veículos usados: ele acompanha a variação média de preços praticados nas negociações reais, servindo como termômetro para quem quer entender se é um bom momento para comprar, vender ou trocar de carro. Uma variação mensal de apenas 0,01%, como a de agosto, é praticamente estabilidade de preços — algo raro nesse mercado nos últimos anos, historicamente marcado por altas consistentes puxadas pela escassez de peças e componentes em determinados períodos, além da própria demanda represada por veículos mais acessíveis do que os modelos novos.</p>
+
+<h2>Por Que os Preços Estão Desacelerando</h2>
+<p>Segundo Roberto Padovani, economista-chefe do BV, "a desaceleração da atividade, a Selic em nível restritivo e a forte concorrência no mercado de carros novos explicam esse movimento". Ou seja: a economia mais fraca reduz a disposição de compra, os juros altos encarecem o financiamento tanto de carros novos quanto usados, e as montadoras de veículos novos — pressionadas a vender — acabam competindo diretamente com o mercado de usados por meio de descontos e condições agressivas de financiamento.</p>
+
+<h2>O Alerta dos Carros Elétricos</h2>
+<p>Um dado chama atenção especial dentro do levantamento: carros elétricos de modelos 2023 perderam, em média, 46,15% do valor em três anos — mais do que o dobro da perda de 21,72% registrada por carros a combustão no mesmo período. Isso acontece mesmo com as vendas de elétricos crescendo 195% na comparação anual, com 56.074 unidades vendidas somente em julho de 2026. A rápida evolução da tecnologia de baterias e a chegada constante de modelos novos e mais baratos tendem a acelerar a desvalorização dos elétricos já em circulação — um ponto importante para quem pensa em comprar um usado desse tipo esperando reter valor.</p>
+
+<h2>Diferença Entre Regiões</h2>
+<p>A desaceleração também varia bastante pelo país: São Paulo registrou alta de apenas 3,33% em 12 meses, ajudando a puxar a média nacional para baixo, enquanto o Rio de Janeiro teve valorização bem mais forte, de 6,28% no mesmo período — um lembrete de que o "mercado nacional" de carros usados, na prática, se comporta de forma bem diferente dependendo da região.</p>
+<p>Essa diferença regional costuma refletir fatores locais como oferta e demanda de modelos específicos, renda média da população e até a intensidade da concorrência entre revendedores e plataformas de venda direta em cada praça. Por isso, antes de decidir comprar ou vender, vale pesquisar o comportamento de preços especificamente na sua região, e não apenas confiar na média nacional divulgada pelos índices.</p>
+
+<h2>Vale a Pena Comprar Agora?</h2>
+<p>Uma desaceleração nos preços tende a favorecer quem está comprando — menos pressão de alta significa mais espaço para negociar o valor final, especialmente em regiões onde o índice está mais fraco, como São Paulo. Para quem está decidindo entre financiar um carro novo ou comprar um usado, vale comparar as condições disponíveis, incluindo programas específicos como o <a href="/artigo/move-brasil-financiamento-taxista-motorista-app">Move Brasil</a> para quem trabalha dirigindo, ou avaliar se um <a href="/artigo/financiamento-ou-consorcio">consórcio</a> sai mais barato no seu caso. Já para quem está pensando especificamente em um carro elétrico usado, o dado de desvalorização acelerada merece entrar na conta antes de decidir — o preço de entrada mais baixo pode não compensar a perda de valor mais rápida na hora de revender.</p>
+<p>Para quem está vendendo, o cenário pede um ajuste de expectativa: com a valorização mais fraca, o carro pode não ter subido tanto de preço quanto em anos anteriores, o que torna importante pesquisar o valor real de mercado antes de anunciar, em vez de basear o preço apenas na memória de quanto carros parecidos custavam há um ou dois anos. Anunciar um valor desatualizado, seja para cima ou para baixo, tende a alongar o tempo até a venda ou a resultar em uma negociação menos favorável.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney (dados do índice IBV Auto/BV) — <a href="https://www.infomoney.com.br/minhas-financas/mercado-de-carros-usados-comeca-a-desacelerar-neste-inicio-de-semestre/" target="_blank" rel="noopener">Mercado de carros usados começa a desacelerar neste início de semestre</a></li>
+</ul>
+
+<p>Quer simular o custo total de um financiamento antes de comprar? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'carros usados 2026, ibv auto índice, vale a pena comprar carro usado, carro elétrico desvalorização',
+    ],
+
+    [
+        'slug' => 'orcamento-2027-obra-ficcao-ex-banco-mundial',
+        'title' => 'Orçamento de 2027 é "Obra de Ficção", Diz Ex-Banco Mundial: o Que Isso Significa Pro Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-04',
+        'read_time' => '7 min',
+        'excerpt' => 'Ex-diretor do Banco Mundial diz que o orçamento de 2027 é "obra de ficção" e prevê estagflação. Entenda o que isso significa pra você.',
+        'image' => '/assets/img/post-orcamento-2027-obra-ficcao-ex-banco-mundial.jpg',
+        'full' => true,
+        'content' => '
+<p>Carlos Primo Braga, ex-diretor de política econômica e dívida do Banco Mundial e professor associado da Fundação Dom Cabral, classificou o orçamento de 2027 apresentado pelo governo como uma "obra de ficção" — uma crítica dura que reforça um coro de análises pessimistas sobre a situação fiscal do Brasil nos próximos anos.</p>
+
+<h2>Por Que Ele Chama de "Obra de Ficção"</h2>
+<p>Segundo Braga, o orçamento se apoia em expectativas otimistas demais de crescimento e arrecadação para projetar um superávit — a mesma projeção de <a href="/artigo/orcamento-2027-salario-minimo-1741-superavit-primario">R$ 18,6 bilhões de superávit ajustado</a> que já mostramos aqui. O problema, na visão dele, é que o mercado financeiro trabalha com uma expectativa bem diferente: a de déficits primários continuados, não de um resultado positivo.</p>
+<p>Esse tipo de divergência entre a projeção oficial do governo e a expectativa do mercado financeiro não é incomum, mas o tamanho da diferença apontada por Braga é o que chama atenção: quando analistas experientes classificam um documento oficial como "ficção", geralmente é porque as premissas usadas no cálculo — como o ritmo de crescimento do PIB ou o volume de arrecadação esperado — parecem descoladas da realidade observada nos indicadores mais recentes da economia.</p>
+
+<h2>O Desequilíbrio Nos Números</h2>
+<p>Como evidência do problema estrutural, Braga aponta que, desde 2023, as receitas do governo cresceram 17% em termos nominais, enquanto as despesas subiram 22% no mesmo período — um ritmo de crescimento de gastos superior ao da arrecadação que, mantido, torna cada vez mais difícil equilibrar as contas sem medidas adicionais de ajuste.</p>
+
+<h2>A Dívida Pode Chegar a 96% do PIB</h2>
+<p>A <a href="/artigo/divida-bruta-governo-825-pib-o-que-significa">dívida bruta do governo</a> já está em 82% do PIB pela metodologia do Banco Central — mas, segundo Braga, poderia alcançar 96% até o fim do ano se calculada pela metodologia usada pelo FMI, que considera critérios distintos. É uma diferença expressiva, que mostra como a forma de medir a dívida pode alterar significativamente a percepção sobre o tamanho real do problema.</p>
+<p>Essa diferença de metodologia não é um mero detalhe técnico: agências de classificação de risco e investidores internacionais costumam observar de perto justamente a métrica do FMI para comparar o Brasil com outros países emergentes. Um salto de 82% para 96% do PIB, ainda que apenas na forma de calcular, pode influenciar a percepção de risco do país no exterior, com efeitos práticos sobre o custo de captação externa e a atratividade do Brasil para investimento estrangeiro.</p>
+
+<h2>O Que É Estagflação e Por Que Ele Acha Inevitável</h2>
+<p>Braga defende que o Brasil enfrenta um cenário praticamente inevitável de estagflação em 2027 — a combinação de crescimento econômico baixo (perto de 2%) com inflação próxima do teto da meta, de 5%. Ele descreve essa combinação como uma crise "contratada", ou seja, já praticamente definida pelas condições atuais, independentemente do resultado das eleições.</p>
+
+<h2>Como Isso Se Conecta com o Endividamento das Famílias</h2>
+<p>O diagnóstico de Braga ecoa outros sinais já mostrados aqui: 82% dos brasileiros estavam endividados em julho de 2026, com 83,9 milhões de pessoas negativadas, enquanto o consumo das famílias caiu 0,4% no segundo trimestre. São números que se conectam diretamente ao alerta que já detalhamos sobre o <a href="/artigo/endividamento-familias-nivel-recorde-banco-central">endividamento das famílias em nível recorde</a> — o cenário macroeconômico difícil e o aperto no orçamento doméstico caminham juntos, um alimentando o outro.</p>
+
+<h2>O Que Fazer Diante Desse Cenário</h2>
+<p>Previsões de estagflação e crise fiscal, por mais alarmantes que pareçam, não mudam o que está ao seu alcance controlar diretamente: manter uma reserva de emergência, evitar dívidas caras e acompanhar de perto o próprio orçamento continuam sendo as defesas mais eficazes contra um cenário macroeconômico adverso, independentemente de como ele se desenrolar nos próximos meses.</p>
+<p>Vale lembrar que análises como a de Braga são projeções baseadas em cenários e premissas, não certezas absolutas — o próprio histórico econômico brasileiro está repleto de previsões pessimistas que não se confirmaram exatamente como esperado, assim como o inverso também já aconteceu. O valor prático desse tipo de alerta está menos em prever o futuro com precisão, e mais em reforçar a importância de se preparar financeiramente para múltiplos cenários possíveis, bons ou ruins. Independentemente de a estagflação prevista se confirmar exatamente como descrita, o diagnóstico de fundo — dívida pública elevada, famílias endividadas e crescimento fraco convivendo ao mesmo tempo — já é uma realidade presente, não apenas uma previsão para o futuro. Esse é justamente o motivo pelo qual vale acompanhar esse tipo de análise com atenção, mesmo sem concordar com cada detalhe do diagnóstico apresentado.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/crise-economica-2027-estagflacao-brasil/" target="_blank" rel="noopener">Orçamento de 2027 é "obra de ficção" e crise está contratada, diz ex-Banco Mundial</a></li>
+</ul>
+
+<p>Quer organizar suas finanças para atravessar um cenário econômico mais incerto? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'estagflação brasil 2027, orçamento 2027 crítica, dívida bruta 96% pib, brasileiros endividados 2026',
+    ],
+
+    [
+        'slug' => 'o-que-e-marcacao-a-mercado',
+        'title' => 'O Que É Marcação a Mercado: Por Que Seu Investimento Pode Mostrar Perda Sem Você Vender',
+        'category' => ['Finanças', 'Educação'],
+        'date' => '2026-09-04',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda o que é marcação a mercado, por que seu Tesouro IPCA+ ou CDB pode aparecer no vermelho no app, e quando isso realmente importa.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>Abrir o aplicativo do banco ou da corretora e ver o Tesouro IPCA+ ou um CDB prefixado "no vermelho" — mesmo sem ter vendido nada — costuma assustar quem está começando a investir em renda fixa. Entender o que é marcação a mercado explica exatamente por que isso acontece, e por que, na maioria das vezes, não significa perda real de dinheiro.</p>
+
+<h2>O Que É Marcação a Mercado</h2>
+<p>Marcação a mercado é a prática de atualizar diariamente o valor exibido de um título pelo preço que ele teria se fosse vendido naquele exato momento no mercado — e não pelo valor final prometido no vencimento. Ou seja, o número que aparece no seu extrato reflete uma venda hipotética hoje, não o que você necessariamente vai receber se mantiver o título até o fim do prazo contratado.</p>
+<p>Essa prática existe justamente para dar transparência ao investidor: sem ela, você só saberia o valor real do seu investimento no dia do vencimento, sem noção de quanto ele valeria caso precisasse vender antes. A marcação a mercado é, então, uma forma de mostrar continuamente "quanto valeria se você vendesse agora", mesmo que a intenção seja carregar o título até o fim.</p>
+
+<h2>Por Que Isso Acontece com Títulos Prefixados e IPCA+</h2>
+<p>Quando os juros de mercado sobem depois que você já comprou um título com taxa prefixada, os novos títulos emitidos passam a pagar mais do que o seu — o que reduz o valor de mercado do título antigo, já que ele ficou menos atrativo em comparação com as opções mais novas. O oposto também vale: se os juros caem depois da compra, seu título antigo com taxa mais alta fica mais valioso, e o preço de mercado sobe. Esse mesmo mecanismo afeta o <a href="/artigo/tesouro-direto-como-funciona-como-investir">Tesouro Direto</a> nas modalidades Prefixado e IPCA+, bem como CDBs com taxa fixa.</p>
+<p>Vale entender também que esse efeito é mais forte quanto mais longo for o prazo restante do título. Um título prefixado com vencimento em um ano sofre uma oscilação de preço bem menor diante de uma mudança nos juros do que um título de vinte anos, porque o impacto acumulado da diferença de taxa se espalha por muito mais tempo nesse segundo caso — daí a regra prática de que títulos de prazo mais longo tendem a mostrar oscilações maiores no extrato ao longo do caminho.</p>
+
+<h2>Isso Significa Que Eu Perdi Dinheiro de Verdade?</h2>
+<p>Só se você vender o título antes do vencimento nesse momento de preço baixo. Se você mantiver o título até a data final combinada na compra, recebe exatamente a rentabilidade contratada — independentemente de quantas vezes o valor de mercado subiu ou caiu no meio do caminho. A "perda" que aparece no extrato é apenas contábil e temporária, refletindo o preço de uma venda que você não precisa fazer.</p>
+
+<h2>E o Tesouro Selic ou um CDB Pós-fixado?</h2>
+<p>Títulos pós-fixados, como o Tesouro Selic, sofrem muito menos esse efeito, porque a remuneração já acompanha a taxa de juros vigente a cada momento — não existe uma taxa "congelada" no passado para ficar desatualizada em relação ao mercado atual. Por isso, esses títulos raramente mostram oscilações visíveis de valor no extrato, o que os torna mais indicados para quem pode precisar do dinheiro em um prazo mais curto ou imprevisível, como detalhamos na comparação entre <a href="/artigo/cdb-lci-lca-diferenca-qual-escolher">CDB, LCI e LCA</a>.</p>
+
+<h2>Quando a Marcação a Mercado Realmente Importa</h2>
+<p>O ponto central é o prazo: se existe uma chance real de precisar resgatar o dinheiro antes do vencimento combinado, vale evitar concentrar tudo em títulos prefixados ou IPCA+ de prazo longo, já que a marcação a mercado pode jogar contra você exatamente no momento em que precisar vender. Já para dinheiro que você sabe que não vai precisar tão cedo, a oscilação de curto prazo no extrato pode, na prática, ser ignorada — o que importa é o valor combinado na data de vencimento, não o número que aparece no aplicativo em um dia qualquer no meio do caminho. Entender essa distinção evita decisões precipitadas, como vender um título justamente no momento de preço mais baixo por pânico, transformando uma perda apenas contábil e temporária em uma perda real e definitiva. Manter esse conceito em mente ajuda a atravessar períodos de juros mais voláteis sem tomar decisões precipitadas baseadas apenas no número exibido em um momento específico. Na dúvida, o critério mais simples é sempre perguntar: "eu vou precisar desse dinheiro antes do vencimento combinado?" — a resposta a essa pergunta importa muito mais do que a oscilação momentânea mostrada no extrato.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>CVM — Portal do Investidor (gov.br/investidor), material educacional sobre renda fixa</li>
+</ul>
+
+<p>Quer simular quanto seu dinheiro pode render até o vencimento de um título? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'o que é marcação a mercado, tesouro ipca+ no vermelho app, por que investimento caiu sem vender, marcação a mercado renda fixa',
+    ],
+
+    [
+        'slug' => 'cartao-credito-x-debito-qual-diferenca',
+        'title' => 'Cartão de Crédito x Cartão de Débito: Qual a Diferença',
+        'category' => ['Cartão de Crédito', 'Educação'],
+        'date' => '2026-09-04',
+        'read_time' => '7 min',
+        'excerpt' => 'Entenda a diferença entre cartão de crédito e cartão de débito: quando o dinheiro sai da conta, os riscos e quando usar cada um.',
+        'image' => '/assets/img/post-cartao-credito-x-debito-qual-diferenca.jpg',
+        'full' => true,
+        'content' => '
+<p>Cartão de crédito e cartão de débito resolvem o mesmo problema básico — pagar sem usar dinheiro em espécie —, mas funcionam de formas bem diferentes por trás da tela da máquina. Entender essa diferença ajuda a escolher qual usar em cada situação, e evita cair em armadilhas comuns de quem confunde os dois.</p>
+
+<h2>Cartão de Débito: o Dinheiro Sai na Hora</h2>
+<p>O cartão de débito é vinculado diretamente à sua conta corrente. No momento da compra, o valor é debitado imediatamente do saldo disponível — se não houver saldo suficiente, a transação simplesmente não é aprovada. Não existe parcelamento nem fatura: é dinheiro saindo da conta em tempo real, o que naturalmente limita o gasto ao que você realmente tem disponível — não existe a possibilidade de gastar mais do que o saldo permite, salvo se a conta também tiver um limite de cheque especial vinculado.</p>
+<p>Essa característica torna o débito uma ferramenta natural de controle financeiro para quem tem dificuldade de acompanhar os próprios gastos: como o dinheiro sai imediatamente, fica mais fácil perceber, na hora, o impacto de cada compra sobre o saldo disponível, sem o efeito de "distância" que uma fatura de cartão de crédito só cobrada semanas depois pode criar.</p>
+
+<h2>Cartão de Crédito: Você Compra Agora, Paga Depois</h2>
+<p>O cartão de crédito funciona como um limite de crédito pré-aprovado pelo banco ou financeira. As compras feitas ao longo do mês são somadas em uma fatura, que você paga integralmente (ou não) na data de vencimento. Se pagar o valor total, não há cobrança de juros sobre o período. Se pagar menos do que o total — mesmo que pague o mínimo —, o restante entra automaticamente no <a href="/artigo/juros-rotativo-cartao-credito-como-sair">rotativo do cartão</a>, com juros que costumam superar 400% ao ano.</p>
+<p>Essa flexibilidade de "pagar depois" é justamente o que torna o cartão de crédito uma ferramenta poderosa quando usada com disciplina, e perigosa quando usada sem controle. Diferente do débito, o crédito permite gastar hoje um valor que só vai efetivamente impactar o seu saldo bancário no futuro, o que exige um nível de planejamento e autocontrole que o débito, pela própria natureza imediata, dispensa. Quem já teve dificuldade em controlar o próprio consumo no cartão de crédito costuma se beneficiar de migrar parte do dia a dia para o débito, reservando o crédito apenas para situações específicas, como compras parceladas planejadas com antecedência. Essa divisão prática — débito para o dia a dia, crédito para compras planejadas — costuma reduzir bastante o risco de fechar o mês com uma fatura maior do que o esperado.</p>
+
+<h2>Riscos de Cada Um</h2>
+<p>O cartão de débito reduz o risco de se endividar, já que você só gasta o que já tem — mas, historicamente, algumas modalidades de contestação de compra e proteção contra fraude são mais robustas no cartão de crédito, dependendo da bandeira e do banco emissor. Já o cartão de crédito, apesar do risco de rotativo se usado sem controle, facilita o parcelamento de compras maiores e costuma vir com programas de pontos, milhas ou cashback que o débito, em geral, não oferece.</p>
+
+<h2>Qual Usar em Cada Situação</h2>
+<p>Para despesas do dia a dia dentro do orçamento planejado, o débito ajuda a manter o controle automático dos gastos, já que não é possível gastar além do saldo disponível. Já para compras maiores, parceladas, ou em viagens — em que a proteção adicional e a facilidade de contestação podem ser úteis —, o crédito costuma ser mais vantajoso, desde que a fatura seja sempre paga integralmente. Antes de parcelar qualquer compra grande no cartão, vale entender o <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">Custo Efetivo Total</a> envolvido, e lembrar que compras internacionais no cartão também têm incidência de <a href="/artigo/iof-o-que-e-como-funciona-emprestimos-cartao">IOF</a>.</p>
+
+<h2>E o Cartão Múltiplo?</h2>
+<p>A maioria dos cartões físicos emitidos hoje no Brasil já é "múltipla" — um único plástico com as funções de débito e crédito combinadas no mesmo cartão. A diferença entre usar um ou outro está apenas em qual opção você escolhe no momento de passar o cartão na máquina, seja digitando a senha para débito ou assinando/aprovando como crédito. Vale conferir com atenção qual opção está selecionada antes de confirmar o pagamento, especialmente em compras de valor alto — escolher "crédito" por engano quando a intenção era pagar no débito pode gerar um compromisso na fatura do mês que não estava no planejamento — um deslize simples, mas comum, especialmente em máquinas de cartão que já vêm com uma opção pré-selecionada por padrão.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — regras gerais do Sistema de Pagamentos Brasileiro e regulação de cartões</li>
+</ul>
+
+<p>Quer simular o custo de uma compra parcelada no cartão antes de decidir? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'diferença cartão crédito débito, quando usar cartão de débito, cartão de crédito como funciona, vale mais a pena débito ou crédito',
+    ],
+
+    [
+        'slug' => 'acordo-de-divida-vale-a-pena-como-avaliar',
+        'title' => 'Acordo de Dívida: Vale a Pena? Como Avaliar Antes de Aceitar',
+        'category' => ['Renegociação', 'Score de Crédito'],
+        'date' => '2026-09-04',
+        'read_time' => '7 min',
+        'excerpt' => 'Antes de aceitar um acordo de dívida, veja o que avaliar: desconto real, valor total, parcelas e quando o nome sai do birô.',
+        'image' => '/assets/img/post-acordo-de-divida-vale-a-pena-como-avaliar.jpg',
+        'full' => true,
+        'content' => '
+<p>Receber uma proposta de acordo para quitar uma dívida negativada é, ao mesmo tempo, uma boa notícia e uma decisão financeira que merece atenção antes de aceitar de forma automática. Nem todo acordo é igualmente vantajoso — entender o que avaliar evita comprometer o orçamento com uma proposta que parece boa, mas não é.</p>
+
+<h2>Quando Um Acordo Realmente Vale a Pena</h2>
+<p>Segundo a Serasa, um acordo compensa quando a oferta disponível representa uma economia real em relação ao valor original, e as condições de pagamento realmente cabem no seu orçamento. Isso costuma incluir situações como um desconto substancial sobre a dívida, a possibilidade de pagar à vista, parcelas administráveis, ou o fato de a negativação estar bloqueando seu acesso a crédito que você precisa no momento.</p>
+<p>Vale lembrar que "vale a pena" nem sempre significa o maior desconto percentual possível — às vezes um desconto menor, mas com parcelas que realmente cabem no orçamento sem risco de atraso, é uma escolha mais segura do que um desconto maior com um compromisso mensal apertado demais para a sua realidade financeira atual.</p>
+
+<h2>O Que Checar Antes de Aceitar</h2>
+<ul>
+    <li><strong>Valor original x valor com desconto:</strong> a redução é realmente significativa em relação à dívida original?</li>
+    <li><strong>Custo final total:</strong> qual o valor total a pagar, somando todas as parcelas (se parcelado) ou o valor único (se à vista)?</li>
+    <li><strong>Tamanho da parcela mensal:</strong> ela compromete despesas essenciais do orçamento?</li>
+    <li><strong>Prazo de pagamento:</strong> o tempo total do acordo é administrável para sua realidade financeira?</li>
+    <li><strong>Quando a negativação sai:</strong> a baixa acontece já na primeira parcela, ou só depois de pagar tudo?</li>
+    <li><strong>Legitimidade do credor:</strong> a oferta vem de um parceiro oficial reconhecido pela Serasa ou pelo credor original?</li>
+</ul>
+
+<h2>Pagar à Vista ou Parcelado</h2>
+<p>Pagar o valor total de uma só vez costuma gerar os maiores descontos disponíveis, além de eliminar de imediato o risco de inadimplência futura sobre aquele acordo. Já o parcelamento faz sentido quando os pagamentos não comprometem despesas essenciais — mas, em geral, vem com descontos menores e um compromisso financeiro mais longo. Segundo a Serasa, pagamentos via Pix à vista podem, inclusive, refletir de forma quase imediata no seu score de crédito, algo que detalhamos com mais profundidade no guia sobre <a href="/artigo/recuperar-score-credito">como recuperar o score de crédito</a>.</p>
+
+<h2>O Que Acontece Depois de Pagar</h2>
+<p>Depois da confirmação do pagamento, o credor inicia o processo de retirada da negativação, que costuma ocorrer em até 5 dias. Um ponto de atenção importante em acordos parcelados: perder até mesmo uma única parcela pode reverter o desconto concedido, fazendo a dívida voltar ao valor original e reincluindo o nome nos cadastros de inadimplentes.</p>
+<p>Por isso, antes de assumir um acordo parcelado, vale simular com cuidado se o pagamento mensal cabe de forma confortável no orçamento em todos os meses seguintes — não apenas no mês da assinatura, quando a disposição de resolver o problema costuma estar mais alta. Um compromisso que hoje parece administrável pode se tornar apertado diante de um imprevisto financeiro alguns meses depois. Uma forma prática de testar isso antes de assinar é simular o valor da parcela dentro do orçamento mensal atual, verificando se ainda sobra espaço para despesas essenciais e para uma reserva mínima de segurança. Fazer essa conta com calma antes de assinar qualquer proposta é sempre melhor do que descobrir, dois ou três meses depois, que o compromisso ficou maior do que a capacidade real de pagamento.</p>
+
+<h2>Cuidado Com Golpes</h2>
+<p>A Serasa reforça um alerta recorrente: desconfie de ofertas recebidas por ligação não solicitada, de supostos "representantes" pedindo qualquer taxa extra para liberar o acordo, ou de boletos emitidos em nome diferente do credor original. Esse padrão se repete em outros tipos de fraude que já detalhamos, como o <a href="/artigo/golpe-desenrola-brasil-como-identificar">golpe do Desenrola</a> — a regra prática continua a mesma: negociação legítima nunca exige pagamento antecipado fora dos canais oficiais. Na dúvida, o caminho mais seguro é sempre acessar o acordo diretamente pelo aplicativo ou site oficial do birô ou do credor, em vez de responder a um contato recebido de forma espontânea.</p>
+
+<h2>Se o Acordo Não For Bom, o Que Fazer</h2>
+<p>Nem toda primeira proposta recebida é a melhor disponível. Vale revisar nosso guia sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a> antes de fechar qualquer acordo, e, se a dívida for antiga e o desconto oferecido ainda parecer pequeno, vale considerar entender o ciclo completo de negociação no artigo sobre <a href="/artigo/brasileiros-negativados-como-sair-ciclo-inadimplencia">como sair do ciclo de inadimplência</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, e não constitui recomendação de investimento, crédito ou qualquer produto financeiro. Antes de tomar uma decisão, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/acordo-serasa-vale-a-pena/" target="_blank" rel="noopener">Acordo Serasa vale a pena? Saiba como avaliar</a></li>
+</ul>
+
+<p>Quer simular quanto tempo levaria para pagar um acordo parcelado? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'acordo de dívida vale a pena, como negociar dívida serasa, desconto dívida negativado, acordo serasa avaliar',
+    ],
+
 ];
 
 /**
