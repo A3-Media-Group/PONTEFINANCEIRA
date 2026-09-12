@@ -7621,6 +7621,300 @@ $posts = [
         'tags' => 'nome protestado o que fazer, protesto em cartório, consulta CENPROT, certidão de protesto',
     ],
 
+    [
+        'slug' => 'greve-caixa-economica-federal-o-que-muda',
+        'title' => 'Greve na Caixa Econômica Federal: O Que Muda no Empréstimo, FGTS e Bolsa Família',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '6 min',
+        'excerpt' => 'Greve na Caixa Econômica Federal: veja o que continua funcionando normalmente e o que pode atrasar no FGTS, Bolsa Família e empréstimos.',
+        'image' => '/assets/img/post-greve-caixa-economica-federal-o-que-muda.jpg',
+        'full' => true,
+        'content' => '
+<p>A greve na Caixa Econômica Federal, iniciada em 10 de setembro de 2026 por tempo indeterminado, tem deixado clientes em dúvida sobre o que muda no dia a dia. Como a Caixa concentra serviços essenciais como FGTS, Bolsa Família, financiamento habitacional e uma fatia relevante do crédito consignado, entender o que continua funcionando normalmente e o que pode sofrer atraso ajuda a evitar dor de cabeça e imprevistos financeiros.</p>
+
+<h2>Por Que os Bancários da Caixa Estão em Greve</h2>
+<p>A paralisação nacional começou depois que os empregados da Caixa rejeitaram a proposta de renovação do Acordo Coletivo de Trabalho (ACT) apresentada pelo banco. O Banco do Brasil também registrou uma paralisação parcial, restrita às bases sindicais que rejeitaram o acordo naquele banco. Até o momento, nem a Caixa nem o BB divulgaram números oficiais sobre a adesão dos funcionários ou quantas agências foram afetadas em cada região.</p>
+
+<h2>O Que Continua Funcionando Normalmente</h2>
+<p>A boa notícia é que a maior parte dos serviços mais usados no dia a dia não depende de atendimento presencial e segue funcionando sem alterações, inclusive durante a greve:</p>
+<ul>
+    <li>App Caixa, Internet Banking e Caixa Tem;</li>
+    <li>WhatsApp Caixa e Cartões Caixa;</li>
+    <li>Consultas e movimentações do FGTS e do Habitação Caixa;</li>
+    <li>Pix, transferências, pagamentos de boletos e consultas de saldo;</li>
+    <li>Caixas eletrônicos, rede Banco24Horas, lotéricas e Correspondentes Caixa Aqui.</li>
+</ul>
+<p>Ou seja, quem recebe Bolsa Família, saca FGTS ou movimenta a conta pelo celular não deve sentir o impacto da greve na rotina.</p>
+
+<h2>O Que Pode Atrasar Durante a Paralisação</h2>
+<p>Os serviços que exigem análise humana ou atendimento direto de um funcionário são os mais suscetíveis a demora enquanto durar o movimento grevista:</p>
+<ul>
+    <li>Abertura de conta em agência;</li>
+    <li>Renegociação de contratos e dívidas em atraso;</li>
+    <li>Contratação de novo crédito ou financiamento imobiliário;</li>
+    <li>Resolução de demandas específicas que dependem de análise manual, como contestação de cobranças ou liberação de crédito consignado.</li>
+</ul>
+<p>Quem já estava no meio de uma negociação de dívida com a Caixa, por exemplo, pode notar mais lentidão nas respostas. Vale reforçar o pedido pelos canais digitais e, se possível, aguardar o fim da greve antes de precisar de um atendimento mais complexo.</p>
+
+<h2>Tenho Financiamento ou Empréstimo na Caixa: Preciso me Preocupar?</h2>
+<p>Não. As parcelas de financiamento imobiliário, consignado e outros contratos continuam sendo descontadas e processadas normalmente pelos sistemas automatizados do banco — a greve não altera datas de vencimento nem gera cobrança de multa por atraso do próprio banco. O que pode demorar mais é apenas a abertura de <strong>novos</strong> contratos ou pedidos de portabilidade que dependam de análise de crédito feita por um funcionário. Se você está pesquisando as condições atuais de financiamento habitacional, vale conferir nosso guia sobre <a href="/artigo/financiamento-imobiliario-como-funciona-passo-a-passo">como funciona o financiamento imobiliário passo a passo</a> antes de dar entrada em um novo pedido.</p>
+
+<h2>E o Bolsa Família e o Saque do FGTS?</h2>
+<p>Tanto o calendário de pagamento do Bolsa Família quanto os saques do FGTS seguem operando pelos canais digitais, sem depender de atendimento presencial nas agências. Quem prefere confirmar valores ou fazer simulações antes de sacar pode usar a <a href="/calculadoras.php">calculadora de FGTS</a> disponível no site. Para dúvidas sobre valores esquecidos em contas antigas de outros bancos, vale também a leitura do nosso guia sobre <a href="/artigo/recursos-esquecidos-banco-central">como consultar recursos esquecidos no Banco Central</a>.</p>
+
+<h2>Dica Prática Enquanto a Greve Durar</h2>
+<p>Priorize sempre os canais digitais — app, internet banking e WhatsApp — para qualquer operação que não exija necessariamente ir à agência. Isso evita filas maiores e reduz o risco de encontrar postos de atendimento com funcionamento reduzido. Se precisar mesmo de atendimento presencial, ligue antes para confirmar se a unidade mais próxima está com expediente normal.</p>
+
+<h2>Quem Tem Dívida ou Consignado na Caixa Deve se Preocupar?</h2>
+<p>Se você está em dia com os pagamentos, não há motivo para preocupação: os descontos automáticos de consignado, financiamento e outros contratos continuam sendo processados normalmente pelos sistemas do banco, independentemente do movimento grevista. A atenção maior é para quem já estava negociando uma pendência ou tentando resolver um desconto indevido no consignado — nesses casos, a resposta de um atendente humano pode simplesmente demorar mais até a greve terminar. Vale registrar o pedido pelos canais oficiais (app, ouvidoria ou telefone) para manter um protocolo formal, mesmo que a resposta não seja imediata, e evitar prejuízo por falta de registro da solicitação.</p>
+
+<h2>Greves Bancárias Costumam Durar Quanto Tempo?</h2>
+<p>Greves bancárias no Brasil, historicamente, tendem a ser resolvidas em poucos dias ou semanas, geralmente após rodadas de negociação entre sindicatos e a direção do banco, muitas vezes mediadas pela Justiça do Trabalho. Até a publicação deste conteúdo, nem a Caixa nem os sindicatos envolvidos haviam divulgado uma previsão oficial de encerramento da paralisação — por isso, o mais seguro é acompanhar os canais oficiais e evitar deixar para a última hora qualquer operação que dependa de atendimento presencial.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, com base em informações públicas disponíveis até a data de publicação. A situação da greve pode mudar rapidamente — consulte sempre os canais oficiais da Caixa para confirmar o atendimento na sua região.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/greve-na-caixa-e-paralisacao-no-bb-veja-como-fica-o-atendimento/" target="_blank" rel="noopener">Greve na Caixa e paralisação no BB: veja como fica o atendimento</a></li>
+</ul>
+
+<p>Precisa organizar suas contas enquanto acompanha a situação da greve? Use nossas <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'greve caixa econômica federal, greve bancários 2026, atendimento caixa durante greve, fgts durante greve',
+    ],
+
+    [
+        'slug' => 'decisao-fed-setembro-2026-dolar-brasil',
+        'title' => 'Decisão do Fed em Setembro: O Que Esperar e Como Isso Afeta o Dólar no Brasil',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '6 min',
+        'excerpt' => 'A decisão do Fed em setembro de 2026 pode mexer com o dólar e seus investimentos. Entenda o que está em jogo e como se proteger.',
+        'image' => '/assets/img/post-decisao-fed-setembro-2026-dolar-brasil.jpg',
+        'full' => true,
+        'content' => '
+<p>A decisão do Fed em setembro de 2026 é um dos eventos mais aguardados pelo mercado financeiro nas próximas semanas, e não é só assunto para quem investe nos Estados Unidos. Decisões do banco central americano costumam mexer com o dólar, os juros futuros e até o Ibovespa por aqui — o que significa impacto direto no bolso de quem tem investimentos, dívidas em dólar ou planeja viajar para o exterior.</p>
+
+<h2>O Que é o Fed e Por Que Sua Decisão Importa Para o Brasil</h2>
+<p>O Federal Reserve (Fed) é o banco central dos Estados Unidos e define a taxa básica de juros americana, hoje na faixa entre 3,50% e 3,75% ao ano, definida na reunião de julho de 2026. Como o dólar é a principal moeda de reserva global, mudanças na taxa de juros dos EUA afetam o fluxo de capital para mercados emergentes como o Brasil, influenciando diretamente a cotação do dólar por aqui e o apetite de investidores estrangeiros pela nossa bolsa e pelos nossos títulos públicos.</p>
+
+<h2>Quando é a Reunião e o Que o Mercado Espera</h2>
+<p>A próxima reunião do Comitê Federal de Mercado Aberto (FOMC), o órgão do Fed que decide os juros, está marcada para os dias 15 e 16 de setembro de 2026, conforme o calendário oficial divulgado pelo próprio Federal Reserve. Diferente do que muita gente espera quando o assunto é Fed, o mercado não está precificando um corte de juros dessa vez: os contratos futuros indicam cerca de 70% de probabilidade de uma <strong>alta</strong> de 0,25 ponto percentual.</p>
+
+<h2>Por Que Uma Alta (e Não um Corte) Está no Radar</h2>
+<p>O cenário é resultado de uma combinação pouco comum: pressão inflacionária nos Estados Unidos, alimentada pela escalada de conflitos no Oriente Médio e pela consequente disparada nos preços do petróleo no mercado internacional. Esse tipo de pressão de custos tende a jogar a inflação para cima, o que reduz o espaço do Fed para cortar juros e pode até justificar uma alta, mesmo em um momento em que outros bancos centrais, como o brasileiro, vêm reduzindo suas taxas.</p>
+
+<h2>O Que Isso Significa Para o Dólar</h2>
+<p>Juros mais altos nos Estados Unidos tendem a atrair capital de volta para lá, fortalecendo o dólar frente a outras moedas, inclusive o real. Só que o cenário brasileiro tem um contraponto: o noticiário eleitoral e a percepção de disciplina fiscal também influenciam o câmbio por aqui, o que pode suavizar ou até contrariar, no curto prazo, o movimento esperado lá fora. Quem já leu nosso guia sobre a <a href="/artigo/dolar-alta-agosto-2026-impacto-bolso">alta do dólar e o impacto no bolso</a> sabe que o câmbio no Brasil raramente responde a um único fator isolado.</p>
+
+<h2>Impacto Nos Seus Investimentos</h2>
+<p>Uma alta de juros nos EUA tende a deixar os investimentos em renda fixa americana mais atrativos, o que pode reduzir o fluxo de dinheiro estrangeiro para bolsas emergentes como a brasileira no curto prazo. Na prática, isso pode gerar mais volatilidade no Ibovespa e nos fundos que investem no exterior. Para quem tem parte da carteira em renda fixa brasileira, vale entender como funciona o <a href="/artigo/o-que-e-cdi-como-funciona">CDI</a> e comparar as opções de <a href="/artigo/cdb-lci-lca-diferenca-qual-escolher">CDB, LCI e LCA</a> disponíveis no mercado nacional, que seguem competitivas mesmo com esse pano de fundo internacional.</p>
+
+<h2>Fed x Copom: Cenários Que Andam em Direções Diferentes</h2>
+<p>Enquanto o Fed avalia até subir os juros por pressão inflacionária externa, o Banco Central do Brasil segue em movimento praticamente oposto, reduzindo a Selic ao longo de 2026 diante de um cenário doméstico de inflação mais controlada. Esse descompasso entre os dois bancos centrais tende a reduzir o chamado diferencial de juros entre Brasil e Estados Unidos — um dos fatores que mais atrai capital estrangeiro para investimentos em real. Para entender a lógica por trás das decisões do Banco Central brasileiro, vale conferir nosso guia sobre a <a href="/artigo/taxa-selic">taxa Selic e como ela funciona</a>, além do nosso panorama sobre a última <a href="/artigo/copom-setembro-2026-decisao-selic-o-que-esperar">decisão do Copom em setembro</a>.</p>
+
+<h2>O Que Fazer Diante da Incerteza</h2>
+<p>Tentar prever com exatidão a decisão do Fed e o movimento do dólar no dia seguinte é um exercício arriscado até para profissionais do mercado. Em vez de tentar acertar o timing, o mais seguro é manter a carteira diversificada e evitar decisões precipitadas baseadas só em manchetes de curto prazo. Quem pretende viajar para o exterior ou tem gastos programados em dólar pode considerar comprar a moeda de forma parcelada ao longo dos próximos meses, em vez de concentrar a compra em um único momento tentando "acertar" o câmbio mais baixo. Se você está começando a organizar seus investimentos agora, vale revisar os fundamentos no nosso guia <a href="/artigo/como-comecar-a-investir">como começar a investir</a> antes de se preocupar com o cenário internacional.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo e não constitui recomendação de investimento. Decisões de política monetária podem mudar rapidamente — acompanhe os canais oficiais do Federal Reserve e do Banco Central para informações atualizadas.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Federal Reserve — <a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" target="_blank" rel="noopener">Calendário de reuniões do FOMC</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/" target="_blank" rel="noopener">Últimas notícias de Economia</a></li>
+</ul>
+
+<p>Quer proteger sua carteira da volatilidade do câmbio? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> para planejar seus próximos passos.</p>
+',
+        'tags' => 'decisão do fed setembro 2026, juros dos eua, dólar hoje, reunião do fomc',
+    ],
+
+    [
+        'slug' => 'pgbl-ou-vgbl-qual-diferenca-qual-escolher',
+        'title' => 'PGBL ou VGBL: Qual a Diferença e Qual Escolher',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '7 min',
+        'excerpt' => 'PGBL ou VGBL: entenda a diferença na tributação e na declaração do Imposto de Renda para escolher o plano de previdência ideal.',
+        'image' => '/assets/img/post-pgbl-ou-vgbl-qual-diferenca-qual-escolher.jpg',
+        'full' => true,
+        'content' => '
+<p>Na hora de contratar um plano de previdência privada, a dúvida entre PGBL ou VGBL é praticamente inevitável. As siglas parecem complicadas, mas a escolha entre um plano e outro pode fazer diferença real no valor que você paga de Imposto de Renda hoje e no que vai receber lá na frente. Entender essa diferença antes de assinar qualquer contrato evita erro caro e difícil de corrigir depois.</p>
+
+<h2>O Que é PGBL</h2>
+<p>O PGBL (Plano Gerador de Benefício Livre) é um tipo de previdência privada que permite deduzir as contribuições da base de cálculo do Imposto de Renda, até o limite de 12% da renda bruta tributável anual. Isso significa que, dentro desse limite, você paga menos imposto no ano em que contribui — um benefício real para quem já tem outras deduções e declara no modelo completo.</p>
+
+<h2>O Que é VGBL</h2>
+<p>O VGBL (Vida Gerador de Benefício Livre) funciona de forma parecida na hora de investir, mas não oferece esse benefício de dedução no Imposto de Renda. Em compensação, a tributação na hora do resgate é mais vantajosa em outro aspecto, como veremos a seguir. O VGBL costuma ser mais indicado para quem faz a declaração simplificada do IR ou já usou todo o limite de dedução disponível no PGBL.</p>
+
+<h2>A Diferença Que Mais Pesa no Bolso: Como o Imposto é Cobrado no Resgate</h2>
+<p>Aqui está o ponto mais importante para decidir entre os dois planos:</p>
+<ul>
+    <li><strong>PGBL:</strong> o Imposto de Renda incide sobre o valor total resgatado ou recebido como renda, já que as contribuições foram deduzidas anteriormente;</li>
+    <li><strong>VGBL:</strong> o imposto incide apenas sobre os rendimentos obtidos, e não sobre o valor total investido, porque a contribuição já foi feita com dinheiro que já pagou imposto.</li>
+</ul>
+<p>Por isso, quem escolhe o PGBL sem ter direito à dedução — por exemplo, fazendo a declaração simplificada — acaba pagando imposto sobre um valor maior do que precisaria no resgate, sem ter aproveitado o benefício da dedução ao longo do caminho. Esse é o erro mais comum na escolha entre os dois planos.</p>
+
+<h2>Declaração Completa ou Simplificada: Isso Muda Tudo</h2>
+<p>A regra prática mais usada pelo mercado é simples:</p>
+<ul>
+    <li>Quem faz a <strong>declaração completa</strong> do Imposto de Renda e tem despesas dedutíveis suficientes para compensar deve considerar o <strong>PGBL</strong>, aproveitando a dedução de até 12% da renda bruta tributável;</li>
+    <li>Quem faz a <strong>declaração simplificada</strong>, ou já atingiu o limite de dedução do PGBL, tende a se beneficiar mais do <strong>VGBL</strong>.</li>
+</ul>
+<p>Vale lembrar que é possível ter os dois tipos de plano ao mesmo tempo: usar o PGBL até o limite de 12% dedutível e complementar os aportes extras em um VGBL, otimizando a carga tributária em cada faixa.</p>
+
+<h2>Regime de Tributação: Progressivo ou Regressivo</h2>
+<p>Além de escolher entre PGBL e VGBL, é preciso decidir o regime de tributação no resgate:</p>
+<ul>
+    <li><strong>Regressivo:</strong> a alíquota diminui quanto mais tempo o dinheiro fica investido, chegando a 10% após 10 anos — indicado para quem pretende deixar o dinheiro investido por muito tempo, pensando na aposentadoria;</li>
+    <li><strong>Progressivo:</strong> segue a tabela normal do Imposto de Renda, com alíquotas que variam conforme o valor resgatado — pode ser mais indicado para quem pretende resgatar em prazos mais curtos ou tem renda mais baixa na aposentadoria.</li>
+</ul>
+<p>Essa escolha costuma ser definitiva no momento da contratação, por isso vale simular os dois cenários antes de assinar o contrato.</p>
+
+<h2>Qual Escolher na Prática</h2>
+<p>Antes de contratar qualquer plano, faça as contas considerando sua renda atual, o modelo de declaração de IR que você usa, o prazo que pretende deixar o dinheiro investido e as taxas cobradas pela instituição — taxa de carregamento e taxa de administração podem corroer boa parte da rentabilidade ao longo dos anos. Vale lembrar também que a previdência privada é apenas uma entre várias formas de planejar o longo prazo: para quem ainda está montando a base financeira, o primeiro passo costuma ser garantir uma <a href="/artigo/reserva-de-emergencia-quanto-guardar">reserva de emergência</a> antes de travar dinheiro em um plano de previdência.</p>
+<p>Historicamente, mulheres investem menos em previdência privada do que homens, mesmo tendo expectativa de vida mais longa — um desequilíbrio que detalhamos no artigo sobre <a href="/artigo/mulheres-previdencia-privada-menos-investem">mulheres e previdência privada</a>. Entender bem as regras de PGBL e VGBL é um passo importante para reverter esse cenário e planejar a aposentadoria com mais segurança.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo e não constitui recomendação de investimento. Regras tributárias podem mudar — consulte a Receita Federal ou um profissional especializado antes de contratar um plano de previdência privada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Receita Federal — <a href="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf/declaracao/pgvl-vgbl" target="_blank" rel="noopener">Como declarar PGBL e VGBL</a></li>
+    <li>Receita Federal — <a href="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf/deducoes/despesa-de-previdencia-privada" target="_blank" rel="noopener">O quanto posso deduzir com previdência privada</a></li>
+    <li>SUSEP — <a href="https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/seguros-previdencia-e-capitalizacao/providencia-complementar-aberta/pgbl-vgbl" target="_blank" rel="noopener">PGBL e VGBL</a></li>
+</ul>
+
+<p>Quer simular quanto seu dinheiro pode render até a aposentadoria? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'pgbl ou vgbl, previdência privada qual escolher, declaração pgbl vgbl imposto de renda, dedução pgbl 12%',
+    ],
+
+    [
+        'slug' => 'quanto-preciso-ganhar-para-financiar-imovel',
+        'title' => 'Quanto Preciso Ganhar Para Financiar um Imóvel: Como Calcular a Renda Necessária',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '7 min',
+        'excerpt' => 'Descubra quanto precisa ganhar para financiar um imóvel usando a regra dos 30% e simulações reais de renda mínima exigida pelos bancos.',
+        'image' => '/assets/img/post-quanto-preciso-ganhar-para-financiar-imovel.jpg',
+        'full' => true,
+        'content' => '
+<p>Antes de sair procurando imóvel, muita gente esbarra na mesma dúvida: quanto preciso ganhar para financiar um imóvel do valor que eu quero? A resposta depende de alguns fatores — valor do imóvel, entrada disponível, prazo e sistema de amortização escolhido — mas existe uma regra usada por praticamente todos os bancos que ajuda a fazer essa conta de forma realista antes mesmo de simular no banco.</p>
+
+<h2>A Regra dos 30% Que Todo Banco Usa</h2>
+<p>A regra básica do mercado de crédito imobiliário é que a parcela do financiamento não pode comprometer mais de 30% da renda familiar bruta. Essa é a trava que os bancos aplicam na análise de crédito: se a prestação ultrapassar esse percentual da sua renda, o financiamento simplesmente não é aprovado, independentemente do seu histórico de crédito. Especialistas do mercado, no entanto, recomendam um limite ainda mais conservador — entre 20% e 25% da renda bruta — considerando que ao longo dos anos de contrato vão pesar também inflação, aumento de despesas médicas, manutenção do imóvel e a redução de renda projetada para a aposentadoria.</p>
+
+<h2>Exemplo Prático: Simulação Para um Imóvel de R$ 500 Mil</h2>
+<p>Simulações de mercado ajudam a visualizar como essa conta funciona na prática, considerando uma taxa de juros de 11,50% ao ano e prazo de 30 anos:</p>
+<ul>
+    <li><strong>Sistema SAC, com 30% de entrada (R$ 150 mil):</strong> financiando R$ 350 mil, a parcela inicial fica em torno de R$ 4.027, exigindo uma renda familiar mínima de aproximadamente <strong>R$ 13.423 por mês</strong>;</li>
+    <li><strong>Tabela Price, com 50% de entrada (R$ 250 mil):</strong> financiando R$ 250 mil, a parcela inicial fica em torno de R$ 2.369, exigindo uma renda familiar mínima de aproximadamente <strong>R$ 7.895 por mês</strong>.</li>
+</ul>
+<p>Note como o valor de entrada muda completamente a renda necessária: quanto mais dinheiro você consegue dar de entrada, menor o valor financiado e, consequentemente, menor a renda mínima exigida pelo banco.</p>
+
+<h2>SAC ou Price: Como o Sistema Escolhido Muda a Renda Exigida</h2>
+<p>No Sistema de Amortização Constante (SAC), as parcelas começam mais altas e vão diminuindo ao longo do contrato, o que exige uma renda inicial maior para aprovação, mas costuma gerar menos juros pagos no total. Já na Tabela Price, as parcelas são fixas do início ao fim, mas em geral exige uma entrada bem mais robusta — muitas vezes 50% do valor do imóvel — o que reduz o valor financiado e, por tabela, a renda mínima mensal exigida. A escolha entre os dois sistemas deve considerar não só a renda disponível hoje, mas também a expectativa de crescimento (ou redução) dessa renda ao longo dos próximos anos.</p>
+
+<h2>Outros Fatores Que Pesam na Aprovação</h2>
+<p>Além da renda comprovada, os bancos avaliam:</p>
+<ul>
+    <li><strong>Score de crédito e histórico:</strong> nome limpo e bom relacionamento bancário facilitam a aprovação e podem até melhorar a taxa de juros oferecida;</li>
+    <li><strong>Idade do comprador:</strong> financiamentos muito longos podem ser limitados pela idade, já que o contrato costuma precisar terminar antes de o comprador completar determinada idade;</li>
+    <li><strong>Comprovação de renda:</strong> autônomos e MEIs costumam precisar apresentar declaração de Imposto de Renda e extratos bancários dos últimos meses, já que não têm holerite tradicional;</li>
+    <li><strong>Outras dívidas em aberto:</strong> financiamentos, consignados e cartões de crédito em atraso reduzem a renda líquida considerada na análise.</li>
+</ul>
+<p>Se o seu nome está negativado ou seu score caiu recentemente, vale resolver essa pendência antes de simular o financiamento — nosso guia sobre <a href="/artigo/como-aumentar-score-credito">como aumentar o score de crédito</a> traz o passo a passo para isso.</p>
+
+<h2>Como Aumentar Suas Chances de Aprovação</h2>
+<ol>
+    <li>Junte o máximo de entrada possível — cada real a mais reduz o valor financiado e a renda mínima exigida;</li>
+    <li>Simule em mais de um banco, já que as taxas e as exigências de entrada variam bastante entre instituições;</li>
+    <li>Evite comprometer mais de 30% da renda mesmo que o banco aprove um valor próximo desse limite;</li>
+    <li>Quite ou negocie dívidas em atraso antes de solicitar o financiamento;</li>
+    <li>Considere incluir a renda de outro membro da família no financiamento, o que pode aumentar a renda familiar considerada na análise.</li>
+</ol>
+
+<h2>Vale a Pena Esperar os Juros Caírem?</h2>
+<p>Com a Selic em trajetória de queda, é natural se perguntar se vale esperar as taxas de financiamento imobiliário caírem antes de comprar. Na prática, mesmo com o corte da Selic, as taxas de financiamento habitacional têm demorado a acompanhar essa queda, já que dependem também do custo de captação de cada banco. Para entender melhor esse descompasso e decidir o melhor momento de comprar, vale a leitura completa do nosso guia sobre <a href="/artigo/financiamento-imobiliario-como-funciona-passo-a-passo">como funciona o financiamento imobiliário passo a passo</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo. Os valores de simulação usam taxas e condições de mercado que podem variar conforme o banco, a região e o perfil do comprador — sempre simule diretamente com a instituição financeira antes de tomar uma decisão.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/quer-financiar-um-imovel-de-r-500-mil-veja-qual-deve-ser-seu-salario/" target="_blank" rel="noopener">Quer financiar um imóvel de R$ 500 mil? Veja qual deve ser seu salário</a></li>
+    <li>Banco Central do Brasil — <a href="https://dadosabertos.bcb.gov.br/dataset/25497-taxa-media-mensal-de-juros-das-operacoes-de-credito-com-recursos-direcionados---pessoas-fisic" target="_blank" rel="noopener">Taxa média de juros do financiamento imobiliário</a></li>
+</ul>
+
+<p>Quer simular quanto ficaria a parcela do seu financiamento? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'quanto preciso ganhar para financiar imóvel, renda necessária financiamento imobiliário, simulação financiamento imobiliário, regra dos 30% financiamento',
+    ],
+
+    [
+        'slug' => 'penhora-salario-conta-divida-o-que-pode-acontecer',
+        'title' => 'Penhora de Salário e Conta Por Dívida: O Que Pode e o Que Não Pode Acontecer',
+        'category' => ['Renegociação', 'Score de Crédito'],
+        'date' => '2026-09-12',
+        'read_time' => '6 min',
+        'excerpt' => 'Posso ter salário penhorado por dívida? Entenda os limites legais da penhora de salário e conta bancária e o que fazer se isso acontecer.',
+        'image' => '/assets/img/post-penhora-salario-conta-divida-o-que-pode-acontecer.jpg',
+        'full' => true,
+        'content' => '
+<p>Com o número de brasileiros inadimplentes em patamar recorde, é cada vez mais comum surgir a dúvida: posso ter meu salário penhorado por dívida? A boa notícia é que a lei protege o salário na maioria dos casos, mas existem exceções importantes que todo mundo que está negociando uma dívida em atraso precisa conhecer, principalmente quando a cobrança já virou processo judicial.</p>
+
+<h2>A Regra Geral: Salário é Protegido</h2>
+<p>O artigo 833 do Código de Processo Civil estabelece que salários, aposentadorias, pensões e outras verbas de natureza salarial são, em regra, impenhoráveis — ou seja, protegidos contra penhora para pagamento de dívidas comuns, como cartão de crédito, empréstimo pessoal ou financiamento em atraso. A lógica por trás dessa proteção é simples: o salário existe para garantir o sustento do trabalhador e da sua família, e não pode ser totalmente comprometido para quitar dívidas.</p>
+
+<h2>Quando o Salário Pode Ser Penhorado</h2>
+<p>Apesar da proteção, existem situações em que a penhora de parte do salário é permitida:</p>
+<ul>
+    <li><strong>Pensão alimentícia:</strong> é a exceção mais tradicional e sem limite mínimo de renda — a soma da pensão atual com eventual parcela em atraso pode chegar a até 50% dos ganhos líquidos do devedor;</li>
+    <li><strong>Renda muito alta:</strong> quem recebe acima de 50 salários-mínimos por mês pode ter parte do valor excedente penhorado, mesmo para dívidas comuns;</li>
+    <li><strong>Dívidas comuns, em caráter excepcional:</strong> desde uma decisão do Superior Tribunal de Justiça (STJ) de 2023, juízes têm admitido, em casos específicos, a penhora de um percentual moderado do salário — normalmente entre 10% e 30% — mesmo em dívidas bancárias e de cartão de crédito, desde que fique comprovado que isso não compromete o sustento básico do devedor e da família.</li>
+</ul>
+<p>Não existe, porém, um percentual fixo definido em lei para esses casos excepcionais: cada juiz avalia caso a caso, levando em conta a renda total, o tipo de dívida e as despesas essenciais comprovadas pelo devedor.</p>
+
+<h2>E a Penhora de Conta Bancária?</h2>
+<p>A penhora de conta bancária segue lógica parecida: valores identificados como salário, mesmo depois de depositados em conta, mantêm parte da proteção legal, mas outros valores presentes na conta — como economias, rendimentos de investimentos ou dinheiro de outras fontes — podem ser bloqueados por decisão judicial através do sistema eletrônico usado pela Justiça para localizar e indisponibilizar valores em nome do devedor. Se isso acontecer, o valor costuma ficar bloqueado até que o juiz decida sobre a legalidade da penhora, o que pode gerar aperto financeiro imediato mesmo antes de qualquer decisão final.</p>
+
+<h2>O Que Fazer se Receber uma Notificação de Penhora</h2>
+<ol>
+    <li><strong>Não ignore a notificação:</strong> o prazo para se manifestar no processo costuma ser curto, e o silêncio pode ser interpretado contra o devedor;</li>
+    <li><strong>Verifique a legalidade do percentual aplicado:</strong> confirme se o valor bloqueado realmente respeita os limites de proteção ao salário e ao mínimo necessário para o sustento;</li>
+    <li><strong>Reúna comprovantes de despesas essenciais:</strong> aluguel, contas básicas, saúde e educação ajudam a embasar um pedido de revisão do valor penhorado;</li>
+    <li><strong>Busque orientação jurídica:</strong> um advogado ou a Defensoria Pública pode pedir a revisão ou o cancelamento da penhora quando ela extrapola os limites legais;</li>
+    <li><strong>Considere negociar a dívida:</strong> muitas vezes é possível suspender a penhora propondo um acordo de pagamento direto com o credor, especialmente se a cobrança ainda estiver em fase inicial.</li>
+</ol>
+
+<h2>Como Evitar Chegar Nesse Ponto</h2>
+<p>A penhora costuma ser o último recurso do credor, depois que outras tentativas de cobrança falharam — o que significa que, na maioria dos casos, há tempo de sobra para negociar antes que o processo chegue a essa fase. Negociar diretamente com o banco ou credor, buscando desconto ou parcelamento, é sempre mais barato do que deixar a cobrança virar processo judicial. Confira nosso guia completo sobre <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos</a> para entender o passo a passo antes de aceitar a primeira proposta. Se a dívida já está em nome protestado ou negativado, também vale entender <a href="/artigo/spc-serasa-qual-diferenca">a diferença entre SPC e Serasa</a> e como consultar sua real situação antes de decidir o que fazer.</p>
+<p>Para quem já está enfrentando dificuldade para pagar várias dívidas ao mesmo tempo, o <a href="/artigo/nas-nucleo-atendimento-superendividado-procon">Núcleo de Atendimento ao Superendividado (NAS) do Procon</a> oferece apoio gratuito para renegociar o conjunto de dívidas de forma coordenada, evitando justamente que a situação chegue à Justiça.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo e não substitui orientação jurídica individual. Cada processo de penhora tem particularidades — procure um advogado ou a Defensoria Pública para avaliar o seu caso específico.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/penhora-de-salario-para-pagamento-de-divida/" target="_blank" rel="noopener">Penhora de salário: entenda quando pode acontecer</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/impenhorabilidade-salario/" target="_blank" rel="noopener">Impenhorabilidade do salário: por que existe essa proteção</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/stj-decide-que-salario-pode-ser-penhorado-para-pagar-dividas-entenda/" target="_blank" rel="noopener">STJ decide que salário pode ser penhorado para pagar dívidas; entenda</a></li>
+</ul>
+
+<p>Quer negociar suas dívidas antes que elas virem um processo judicial? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> e organize seu plano de pagamento agora mesmo.</p>
+',
+        'tags' => 'penhora de salário por dívida, posso ter salário penhorado, impenhorabilidade do salário, penhora de conta bancária',
+    ],
+
 ];
 
 /**

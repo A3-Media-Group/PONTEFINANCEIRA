@@ -326,6 +326,41 @@ $image_credits = [
         'source_name' => 'Wikimedia Commons',
         'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=169893519',
     ],
+    'greve-caixa-economica-federal-o-que-muda' => [
+        'title' => 'Occupy Oakland General Strike Bank Protest',
+        'creator' => 'Rachel librarian',
+        'license' => 'CC BY-SA 3.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=17355352',
+    ],
+    'decisao-fed-setembro-2026-dolar-brasil' => [
+        'title' => '20120929 Federal Reserve Building of Chicago',
+        'creator' => 'TonyTheTiger',
+        'license' => 'CC BY-SA 3.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=21782686',
+    ],
+    'pgbl-ou-vgbl-qual-diferenca-qual-escolher' => [
+        'title' => 'Pink Piggy Bank (5737823348)',
+        'creator' => 'Ken Teegardin',
+        'license' => 'CC BY-SA 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=161237858',
+    ],
+    'quanto-preciso-ganhar-para-financiar-imovel' => [
+        'title' => 'Property Contract Law and Mortgages',
+        'creator' => 'advokatsmart.no',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=123024273',
+    ],
+    'penhora-salario-conta-divida-o-que-pode-acontecer' => [
+        'title' => 'The Empty Wallet',
+        'creator' => 'James Inskipp',
+        'license' => 'CC BY 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=153984397',
+    ],
 ];
 
 /**
