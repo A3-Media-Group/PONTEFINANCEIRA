@@ -7331,6 +7331,296 @@ $posts = [
         'tags' => 'acordo de dívida vale a pena, como negociar dívida serasa, desconto dívida negativado, acordo serasa avaliar',
     ],
 
+    [
+        'slug' => 'ipca-agosto-2026-deflacao-o-que-muda',
+        'title' => 'IPCA de Agosto Tem Deflação de 0,32%: O Que Isso Muda no Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'O IPCA de agosto 2026 registrou deflação de 0,32%, a mais intensa do ano. Entenda o que causou a queda e o que isso muda no seu bolso.',
+        'image' => '/assets/img/post-ipca-agosto-2026-deflacao-o-que-muda.jpg',
+        'full' => true,
+        'content' => '
+<p>O IPCA de agosto 2026 trouxe uma surpresa positiva para o bolso do consumidor: o índice oficial de inflação do país registrou deflação de 0,32%, divulgada pelo IBGE em 11 de setembro. É a queda de preços mais intensa do ano e ficou acima do que o mercado financeiro esperava, que projetava uma deflação de 0,29%.</p>
+<p>Na prática, isso significa que, na média, os produtos e serviços consumidos pelas famílias brasileiras ficaram mais baratos em agosto do que estavam em julho. Mas o número esconde diferenças importantes entre os grupos de gastos — e vale entender o que puxou essa queda antes de comemorar.</p>
+
+<h2>Por Que os Preços Caíram em Agosto</h2>
+<p>Segundo o IBGE, quatro dos nove grupos pesquisados pelo IPCA tiveram deflação em agosto: Habitação (-1,87%), Transportes (-0,86%), Alimentação e bebidas (-0,34%) e Comunicação (-0,09%). A maior contribuição veio da conta de luz, beneficiada pelo Bônus de Itaipu, e da queda sazonal nas passagens aéreas, que costuma ocorrer fora dos períodos de alta temporada.</p>
+<p>Ou seja, parte importante dessa deflação tem origem em fatores pontuais — um bônus na energia elétrica e uma sazonalidade nas passagens aéreas — e não necessariamente em uma tendência estrutural de queda de preços em toda a economia.</p>
+
+<h2>O Que Aconteceu com a Inflação Acumulada</h2>
+<p>Com o resultado de agosto, o IPCA acumulado em 12 meses recuou para 4,22%, abaixo dos 4,44% registrados até julho. No ano, o índice acumula alta de 3,11%. Isso confirma uma trajetória de desaceleração que já vinha sendo sinalizada pelo IPCA-15 de agosto, a prévia do indicador, que também havia apontado deflação.</p>
+<p>Esse movimento de queda gradual da inflação acumulada é acompanhado de perto pelo Banco Central, que usa o IPCA como referência principal para decidir os rumos da taxa Selic nas reuniões do Copom.</p>
+
+<h2>O Que Isso Muda no Seu Bolso</h2>
+<h3>Aluguel e Contratos Corrigidos por Índice</h3>
+<p>Contratos de aluguel e outros acordos que usam o IPCA como índice de reajuste tendem a sentir esse resultado no próximo reajuste anual — ainda que a maioria dos contratos tenha cláusula de piso zero, evitando reajuste negativo mesmo em meses de deflação.</p>
+<h3>Investimentos Atrelados à Inflação</h3>
+<p>Quem investe em títulos como o Tesouro IPCA+ precisa entender que a rentabilidade desses papéis está diretamente ligada à variação do índice: em meses de deflação, a parcela do rendimento ligada à inflação fica menor, embora a taxa de juros pré-fixada contratada continue valendo. Já detalhamos como esse tipo de investimento funciona no guia sobre o <a href="/artigo/tesouro-ipca-mais-vale-a-pena">Tesouro IPCA+</a>.</p>
+<h3>Poder de Compra no Dia a Dia</h3>
+<p>Na prática, uma inflação acumulada menor significa que o salário e os benefícios recebidos perdem menos poder de compra ao longo do ano. Isso não significa que os preços "voltaram" ao patamar anterior — apenas que a alta acumulada está desacelerando.</p>
+
+<h2>Deflação Não é o Mesmo que Preços Baixos Para Sempre</h2>
+<p>Um erro comum é interpretar um mês de deflação como uma reversão definitiva de preços altos. Fatores como o Bônus de Itaipu são temporários e tendem a não se repetir todos os meses, o que pode fazer a inflação voltar a acelerar nos próximos períodos, especialmente em grupos como alimentação, mais sensíveis ao câmbio e à safra agrícola.</p>
+<p>Por isso, mesmo em meses de deflação, vale manter o hábito de acompanhar a variação de preços na hora de planejar o orçamento doméstico, sobretudo se você usa a <a href="/artigo/correcao-monetaria-o-que-e-como-calcular">correção monetária</a> para reajustar valores de contratos, aluguéis ou dívidas antigas.</p>
+
+<h2>Como Isso se Conecta com a Taxa Selic</h2>
+<p>A trajetória de queda do IPCA reforça o espaço para o Banco Central continuar reduzindo a Selic nas próximas reuniões do Copom, já que a inflação controlada é justamente a condição que o comitê busca para afrouxar a política monetária. Isso afeta diretamente o rendimento de quem tem dinheiro na poupança ou no Tesouro Selic — comparamos as duas opções em detalhes no guia <a href="/artigo/tesouro-selic-ou-poupanca-2026">Poupança ou Tesouro Selic: qual rende mais</a>.</p>
+<p>Também vale acompanhar a prévia mensal do índice, que costuma antecipar a tendência do resultado oficial — explicamos como isso funcionou em agosto no artigo sobre o <a href="/artigo/ipca-15-deflacao-agosto-2026-o-que-significa">IPCA-15 de agosto</a>.</p>
+
+<h2>O Que Fazer Com Essa Informação</h2>
+<ul>
+    <li>Revise o orçamento doméstico considerando que a inflação acumulada está desacelerando, mas sem presumir que os preços vão continuar caindo todo mês;</li>
+    <li>Se você tem investimentos atrelados ao IPCA, entenda que a rentabilidade varia mês a mês conforme o índice, e o resultado só é totalmente capturado se o papel for levado até o vencimento;</li>
+    <li>Acompanhe a próxima reunião do Copom, já que a trajetória da inflação influencia diretamente a decisão sobre a Selic e, por consequência, o custo do crédito e o rendimento da renda fixa.</li>
+</ul>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, com base em dados oficiais do IBGE. Não constitui recomendação de investimento — antes de tomar decisões financeiras, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>IBGE — <a href="https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html" target="_blank" rel="noopener">Índice Nacional de Preços ao Consumidor Amplo (IPCA)</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/ipca-inflacao-agosto-2026-dados-ibge/" target="_blank" rel="noopener">IPCA registra deflação de 0,32% em agosto, mais intensa do que o esperado</a></li>
+</ul>
+
+<p>Quer simular como a inflação afeta seus investimentos ao longo do tempo? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'IPCA agosto 2026, deflação IPCA, inflação acumulada 12 meses, o que é IPCA',
+    ],
+
+    [
+        'slug' => 'copom-setembro-2026-decisao-selic-o-que-esperar',
+        'title' => 'Copom se Reúne em Setembro Para Decidir a Selic: O Que Esperar Para Seu Bolso',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'O Copom se reúne em 15 e 16 de setembro para decidir os rumos da Selic. Veja o que o mercado espera e o que muda no seu crédito e investimentos.',
+        'image' => '/assets/img/post-copom-setembro-2026-decisao-selic-o-que-esperar.jpg',
+        'full' => true,
+        'content' => '
+<p>O Copom setembro 2026 é um dos eventos mais aguardados do mês pelo mercado financeiro: nos dias 15 e 16, o Comitê de Política Monetária do Banco Central se reúne para decidir se dá continuidade ao ciclo de corte da taxa Selic, hoje em 14% ao ano. A decisão é divulgada na noite do segundo dia e afeta diretamente o custo do crédito, o rendimento da poupança e do Tesouro Direto para milhões de brasileiros.</p>
+
+<h2>O Que o Mercado Espera Para Essa Reunião</h2>
+<p>A expectativa predominante entre analistas é de um novo corte de 0,25 ponto percentual, levando a Selic de 14% para 13,75% ao ano. Esse seria mais um passo no ciclo de afrouxamento monetário que o Banco Central vem conduzindo depois de um período de juros bem mais altos, motivado pela necessidade de conter a inflação.</p>
+<p>A ata da reunião, com os detalhes da avaliação do comitê sobre inflação e atividade econômica, é divulgada alguns dias depois, no dia 22 de setembro, e costuma trazer pistas importantes sobre o ritmo dos próximos cortes.</p>
+
+<h2>Por Que a Selic Está Caindo</h2>
+<p>O espaço para reduzir os juros vem sendo aberto, em grande parte, pela trajetória de queda da inflação. O IPCA de agosto, divulgado pelo IBGE, registrou deflação de 0,32%, levando o acumulado em 12 meses para 4,22% — abaixo do patamar do mês anterior. Detalhamos esse resultado com mais profundidade no artigo sobre o <a href="/artigo/ipca-agosto-2026-deflacao-o-que-muda">IPCA de agosto</a>. Quando a inflação desacelera de forma consistente, o Banco Central ganha margem para reduzir a Selic sem comprometer a meta de inflação.</p>
+
+<h2>O Que Muda no Seu Bolso a Cada Corte na Selic</h2>
+<h3>Crédito Mais Barato aos Poucos</h3>
+<p>Financiamentos, empréstimos pessoais e cartão de crédito tendem a ficar levemente mais baratos com o tempo, embora o repasse de um corte de 0,25 ponto não seja imediato nem proporcional — os bancos consideram outros fatores de risco na hora de definir suas taxas. Quem está no <a href="/artigo/cheque-especial-como-funciona-como-sair">cheque especial</a> ou pagando o <a href="/artigo/juros-rotativo-cartao-teto-100">rotativo do cartão</a> não deve esperar uma queda relevante nessas modalidades, que têm juros regulados por outras regras.</p>
+<h3>Rendimento de Poupança e Renda Fixa</h3>
+<p>A poupança rende 70% da Selic sempre que a taxa básica está igual ou abaixo de 8,5% ao ano, mas com a Selic ainda em dois dígitos, a remuneração segue vinculada à TR mais 0,5% ao mês — o que faz outras opções de renda fixa, como o Tesouro Selic, seguirem mais vantajosas na comparação. Detalhamos essa conta no guia <a href="/artigo/tesouro-selic-ou-poupanca-2026">Poupança ou Tesouro Selic: qual rende mais</a>.</p>
+<h3>Financiamento Imobiliário</h3>
+<p>Quem pretende financiar um imóvel também sente o efeito da Selic nas taxas de juros oferecidas pelos bancos. O Banco Central tem testado mudanças no modelo de financiamento habitacional, que também influenciam esse custo — acompanhamos essas mudanças no artigo sobre o <a href="/artigo/financiamento-imobiliario-2026-novo-modelo">novo modelo de financiamento imobiliário</a>.</p>
+
+<h2>Cenário Internacional Também Pesa na Decisão</h2>
+<p>O Copom não decide olhando apenas para o cenário doméstico. A política monetária dos Estados Unidos, definida pelo Federal Reserve (Fed), também influencia o fluxo de capital para o Brasil e a cotação do dólar, o que por sua vez afeta a inflação de produtos importados e combustíveis. Um Fed mais cauteloso ou mais agressivo em seus próprios cortes de juros pode alterar a margem de manobra do Banco Central brasileiro nas próximas reuniões.</p>
+
+<h2>O Que Fazer Enquanto Espera a Decisão</h2>
+<ul>
+    <li>Não conte com quedas expressivas e imediatas no custo do seu crédito — o efeito de um corte de 0,25 ponto é gradual;</li>
+    <li>Se você tem uma reserva de emergência ou investimentos em renda fixa pós-fixada, revise periodicamente se a aplicação escolhida ainda é a mais vantajosa diante da Selic atual;</li>
+    <li>Acompanhe o comunicado divulgado na noite da decisão e a ata, publicada uma semana depois, para entender o que o Banco Central sinaliza sobre os próximos passos.</li>
+</ul>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, com base em dados e comunicados oficiais do Banco Central. Não constitui recomendação de investimento — antes de tomar decisões financeiras, avalie sua situação e, se necessário, procure orientação profissional habilitada.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/publicacoes/atascopom" target="_blank" rel="noopener">Atas e comunicados do Copom</a></li>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/economia/" target="_blank" rel="noopener">Cobertura da reunião do Copom de setembro de 2026</a></li>
+</ul>
+
+<p>Quer simular quanto seu dinheiro pode render com a Selic atual? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'Copom setembro 2026, reunião do Copom, Selic 13,75%, decisão taxa de juros',
+    ],
+
+    [
+        'slug' => 'diferenca-pix-ted-doc-qual-usar',
+        'title' => 'Diferença Entre Pix, TED e DOC: Qual Usar em Cada Situação',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'Entenda a diferença entre Pix, TED e DOC: horários, limites, tarifas e quando cada meio de transferência ainda faz sentido usar.',
+        'image' => '/assets/img/post-diferenca-pix-ted-doc-qual-usar.jpg',
+        'full' => true,
+        'content' => '
+<p>A diferença entre Pix, TED e DOC ainda gera dúvida na hora de transferir dinheiro, mesmo com o Pix dominando praticamente todas as transferências do dia a dia dos brasileiros. Entender quando cada um faz sentido evita esperas desnecessárias, tarifas indevidas e problemas em transferências de valores mais altos.</p>
+
+<h2>Pix: O Mais Usado e Mais Rápido</h2>
+<p>O Pix é o meio de pagamento instantâneo criado pelo Banco Central e funciona 24 horas por dia, todos os dias da semana, incluindo fins de semana e feriados. O dinheiro chega à conta de destino em poucos segundos, independentemente do banco ou instituição de pagamento envolvida.</p>
+<p>Uma regra de segurança importante definida pelo Banco Central: transferências via Pix entre pessoas físicas feitas no período noturno, das 20h às 6h, têm limite de R$ 1.000 por operação, salvo se o próprio usuário configurar um limite diferente diretamente no aplicativo do banco. Essa medida foi criada justamente para reduzir o risco de golpes que costumam ocorrer nesse horário — já mostramos como agir em casos de <a href="/artigo/golpe-pix-como-recuperar-dinheiro-2026">golpe do Pix</a> e como funciona o prazo do <a href="/artigo/golpe-pix-med-prazo-80-dias">Mecanismo Especial de Devolução (MED)</a>.</p>
+
+<h2>TED: Para Valores Altos Durante o Dia Útil</h2>
+<p>A TED (Transferência Eletrônica Disponível) continua existindo, mas perdeu espaço para o Pix na maioria das situações. Ela pode ser feita até as 17h em dias úteis — depois desse horário, a operação só é processada no próximo dia útil. Diferente do Pix, a TED não tem limite de valor definido pelo Banco Central, o que faz alguns bancos ainda recomendá-la em transferências corporativas ou de valores muito altos, quando o cliente prefere manter esse canal específico por política interna da empresa ou por integração com sistemas de conciliação bancária.</p>
+
+<h2>DOC: Praticamente Extinto</h2>
+<p>O DOC (Documento de Ordem de Crédito) era usado antes da chegada do Pix para transferências de valores menores, com limite de até R$ 4.999,99 por operação e prazo de compensação em até um dia útil. Desde o fim de fevereiro de 2024, a maioria dos bancos deixou de oferecer essa modalidade, já que o Pix cobre com folga o mesmo tipo de necessidade, com a vantagem de ser instantâneo e funcionar em qualquer horário.</p>
+
+<h2>Comparando os Três na Prática</h2>
+<ul>
+    <li><strong>Horário de funcionamento:</strong> Pix funciona 24h; TED até 17h em dias úteis; DOC (quando ainda disponível) até 22h em dias úteis;</li>
+    <li><strong>Tempo até o dinheiro cair na conta:</strong> Pix em segundos; TED em minutos, se dentro do horário; DOC só no próximo dia útil;</li>
+    <li><strong>Limite de valor:</strong> Pix pode ter limite noturno de R$ 1.000 entre pessoas físicas (ajustável pelo usuário); TED sem limite definido pelo Banco Central; DOC tinha teto de R$ 4.999,99;</li>
+    <li><strong>Tarifa:</strong> Pix costuma ser gratuito para pessoa física; TED geralmente tem tarifa cobrada pelo banco, especialmente em contas sem pacote de isenção.</li>
+</ul>
+
+<h2>Quando Ainda Faz Sentido Usar TED em Vez de Pix</h2>
+<p>Na grande maioria das situações do dia a dia, o Pix é a opção mais rápida e sem custo. A TED ainda pode ser preferida em casos específicos, como transferências entre contas de instituições que exigem rastreabilidade adicional para fins contábeis, movimentações de valores muito altos que a empresa prefere registrar por esse canal, ou quando algum sistema de pagamento automatizado do usuário ainda está configurado apenas para TED.</p>
+
+<h2>Segurança Também Faz Parte da Escolha</h2>
+<p>Independentemente do meio escolhido, vale sempre confirmar os dados do destinatário antes de confirmar qualquer transferência — o Pix, por ser instantâneo, não permite o mesmo tipo de cancelamento simples que outras modalidades mais lentas podem oferecer em caso de erro. Reforçamos boas práticas de segurança financeira digital no artigo sobre <a href="/artigo/seguranca-compras-online">segurança nas compras online</a>, que também vale para transferências bancárias.</p>
+
+<h2>Resumo: Qual Escolher</h2>
+<p>Para o uso cotidiano — pagar uma conta, dividir uma despesa, comprar algo de um vendedor — o Pix é praticamente sempre a melhor escolha, por ser rápido, disponível a qualquer hora e, na maioria dos casos, gratuito. A TED permanece relevante para operações específicas de maior valor ou com exigências particulares de registro, enquanto o DOC já não faz mais parte do dia a dia bancário na prática.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, com base em regras definidas pelo Banco Central do Brasil. Condições específicas de tarifa e limite podem variar por instituição financeira — consulte sempre o aplicativo do seu banco antes de realizar uma transferência.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" target="_blank" rel="noopener">Pix: o que é e como funciona</a></li>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix_limites" target="_blank" rel="noopener">Limites e regras de segurança do Pix</a></li>
+</ul>
+
+<p>Quer organizar melhor suas transferências e seu orçamento mensal? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'diferença entre pix ted e doc, pix ou ted, limite pix ted doc, quando usar ted',
+    ],
+
+    [
+        'slug' => 'auxilio-doenca-inss-quem-tem-direito-como-pedir',
+        'title' => 'Auxílio-Doença do INSS: Quem Tem Direito e Como Pedir o Benefício',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '6 min',
+        'excerpt' => 'Entenda quem tem direito ao auxílio-doença do INSS, a carência exigida e o passo a passo para solicitar o benefício por incapacidade.',
+        'image' => '/assets/img/post-auxilio-doenca-inss-quem-tem-direito-como-pedir.jpg',
+        'full' => true,
+        'content' => '
+<p>O auxílio-doença do INSS, oficialmente chamado de benefício por incapacidade temporária, é um dos direitos mais buscados por trabalhadores brasileiros que precisam se afastar do trabalho por motivo de saúde. Apesar de ser um benefício conhecido, muita gente ainda tem dúvida sobre quem pode pedir, quanto tempo precisa ter contribuído e como fazer a solicitação sem errar no processo.</p>
+
+<h2>O Que é o Auxílio-Doença</h2>
+<p>O benefício é pago pelo INSS a segurados que ficam temporariamente incapazes de trabalhar por motivo de doença ou acidente, por mais de 15 dias consecutivos. Nos primeiros 15 dias de afastamento, quem tem carteira assinada recebe o salário normalmente pago pela empresa; a partir do 16º dia, passa a ser responsabilidade do INSS, caso a incapacidade continue.</p>
+
+<h2>Quem Tem Direito</h2>
+<p>Para ter direito ao benefício, é preciso atender três condições ao mesmo tempo:</p>
+<ul>
+    <li><strong>Qualidade de segurado:</strong> estar contribuindo para o INSS ou dentro do chamado "período de graça", que mantém a qualidade de segurado por um tempo mesmo após parar de contribuir;</li>
+    <li><strong>Carência mínima:</strong> em regra, 12 contribuições mensais ao INSS, com algumas exceções que dispensam esse prazo;</li>
+    <li><strong>Incapacidade temporária comprovada:</strong> atestada por perícia médica ou por análise documental, quando a documentação enviada é suficiente para comprovar o problema de saúde.</li>
+</ul>
+<p>Podem solicitar o benefício empregados com carteira assinada, contribuintes individuais, autônomos, microempreendedores individuais (MEI), trabalhadores rurais, pescadores artesanais, empregados domésticos e até donas de casa que contribuem como seguradas facultativas.</p>
+
+<h2>Quando a Carência de 12 Meses é Dispensada</h2>
+<p>Em casos de acidente de qualquer natureza (inclusive de trabalho) ou de doenças graves listadas pelo INSS, não é exigida a carência mínima de contribuições. Entre as condições que dispensam esse prazo estão tuberculose ativa, hanseníase, câncer (neoplasia maligna), cegueira, cardiopatia grave, esclerose múltipla, doença de Parkinson e HIV/Aids, entre outras.</p>
+
+<h2>Como Solicitar o Benefício Passo a Passo</h2>
+<ol>
+    <li>Acesse o site ou aplicativo <strong>Meu INSS</strong> com login gov.br;</li>
+    <li>Escolha a opção "Novo Pedido" e busque por "Benefício por Incapacidade";</li>
+    <li>Preencha as informações solicitadas e anexe atestados médicos, exames e laudos que comprovem a incapacidade e o tempo estimado de afastamento;</li>
+    <li>Aguarde a análise: se a documentação for suficiente, o INSS pode aprovar o pedido por análise documental, sem necessidade de perícia presencial;</li>
+    <li>Se for necessária perícia médica, acompanhe a convocação pelo próprio aplicativo e compareça com todos os documentos originais.</li>
+</ol>
+<p>Também é possível dar entrada no pedido presencialmente em uma agência do INSS ou pela Central de Atendimento 135, embora o canal digital costume ser mais rápido para quem já tem os documentos organizados.</p>
+
+<h2>Quanto Tempo Demora e Quanto o Benefício Paga</h2>
+<p>O prazo de análise varia conforme a demanda de cada região e a necessidade ou não de perícia presencial. Enquanto o pedido está em análise, é importante manter a documentação médica atualizada, já que atestados vencidos podem atrasar a decisão. O valor do benefício é calculado com base na média das contribuições do segurado, seguindo as regras previdenciárias vigentes — por isso, quem contribui de forma mais regular e com valores mais altos tende a ter um benefício maior.</p>
+
+<h2>Erros Comuns Que Atrasam o Pedido</h2>
+<ul>
+    <li>Enviar atestados incompletos, sem CID (Código Internacional de Doenças) ou sem informações sobre o tempo estimado de afastamento;</li>
+    <li>Deixar a qualidade de segurado vencer antes de dar entrada no pedido;</li>
+    <li>Não atualizar a documentação quando o INSS solicita complementação;</li>
+    <li>Confundir o auxílio-doença com a aposentadoria por invalidez (hoje chamada de aposentadoria por incapacidade permanente), que se aplica a casos de incapacidade definitiva, não temporária.</li>
+</ul>
+<p>Para quem já está próximo da aposentadoria e quer entender as regras de tempo de contribuição, vale consultar nosso guia sobre <a href="/artigo/aposentadoria-inss-regras-tempo-contribuicao-2026">aposentadoria pelo INSS</a>.</p>
+
+<h2>O Que Fazer Se o Pedido For Negado</h2>
+<p>Se o benefício for negado, o segurado pode pedir reconsideração administrativa ao próprio INSS, apresentando novos documentos ou laudos que reforcem a incapacidade, ou recorrer à via judicial com o apoio de um advogado ou da Defensoria Pública. Guardar cópias de todos os atestados, exames e protocolos de solicitação facilita esse processo caso seja necessário recorrer.</p>
+
+<h2>Cuidado Com o Impacto no Orçamento Durante o Afastamento</h2>
+<p>O período entre o afastamento do trabalho e a liberação do benefício pode gerar aperto financeiro, especialmente se o pedido demorar para ser analisado. Nesses casos, vale revisar o orçamento doméstico e priorizar despesas essenciais enquanto o benefício não é liberado — mostramos como fazer isso no guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a>. Quem também tem descontos consignados no INSS deve redobrar a atenção, já que valores indevidos podem passar despercebidos justamente nesse período; confira como identificá-los no artigo sobre <a href="/artigo/inss-consignado-desconto-indevido-devolucao">descontos indevidos do consignado do INSS</a>.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo, com base em regras públicas do INSS. Cada caso pode ter particularidades — consulte o Meu INSS ou um profissional especializado em direito previdenciário para avaliar sua situação específica.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Governo Federal (gov.br) — <a href="https://www.gov.br/pt-br/servicos/solicitar-beneficio-por-incapacidade-temporaria-auxilio-doenca" target="_blank" rel="noopener">Solicitar Benefício por Incapacidade Temporária (Auxílio-Doença)</a></li>
+</ul>
+
+<p>Quer organizar suas finanças enquanto aguarda a liberação de um benefício? Use nossas <a href="/calculadoras.php">calculadoras financeiras gratuitas</a>.</p>
+',
+        'tags' => 'auxílio-doença INSS, benefício por incapacidade, como pedir auxílio doença, carência INSS',
+    ],
+
+    [
+        'slug' => 'nome-protestado-cartorio-como-tirar',
+        'title' => 'Nome Protestado em Cartório: Como Tirar e Regularizar Passo a Passo',
+        'category' => ['Renegociação', 'Score de Crédito'],
+        'date' => '2026-09-12',
+        'read_time' => '6 min',
+        'excerpt' => 'Nome protestado em cartório? Veja como consultar, negociar e tirar o registro passo a passo, e como evitar golpes durante o processo.',
+        'image' => '/assets/img/post-nome-protestado-cartorio-como-tirar.jpg',
+        'full' => true,
+        'content' => '
+<p>Descobrir que o nome está protestado em cartório costuma pegar o consumidor de surpresa, principalmente porque muita gente já conhece a negativação no Serasa e no SPC, mas não sabe que existe um registro separado, feito em cartório, que pode tornar a cobrança de uma dívida ainda mais séria. Entender a diferença e saber exatamente o que fazer é o primeiro passo para resolver a situação sem perder tempo nem dinheiro.</p>
+
+<h2>O Que é o Protesto em Cartório</h2>
+<p>O protesto é um procedimento extrajudicial, feito em um cartório de protesto de títulos, que formaliza publicamente que existe uma dívida em aberto contra o seu nome. Diferente da simples negativação em birôs de crédito, o protesto tem caráter mais formal e pode ser usado pelo credor como prova em uma eventual ação judicial de cobrança.</p>
+<p>Quando o título é protestado, o cartório costuma repassar essa informação também para os órgãos de proteção ao crédito, como Serasa e SPC Brasil — ou seja, quem tem o nome protestado normalmente também fica negativado nesses birôs.</p>
+
+<h2>Como Saber se Seu Nome Está Protestado</h2>
+<p>É possível fazer uma consulta gratuita pela CENPROT (Central Nacional de Protestos), que reúne os registros de milhares de cartórios de protesto espalhados pelo Brasil em um único local de busca. Também vale consultar diretamente o Serasa e o SPC Brasil, já que o protesto costuma aparecer refletido nesses cadastros. Se você ainda não sabe a diferença entre esses dois birôs, explicamos em detalhes no artigo <a href="/artigo/spc-serasa-qual-diferenca">SPC x Serasa: qual a diferença</a>.</p>
+
+<h2>Passo a Passo Para Tirar o Nome do Cartório</h2>
+<ol>
+    <li><strong>Confirme a dívida:</strong> verifique com o credor o valor atualizado, incluindo juros, multa e as taxas cartorárias que normalmente ficam por conta do devedor;</li>
+    <li><strong>Negocie antes de pagar:</strong> assim como em qualquer negativação, vale tentar negociar desconto ou parcelamento antes de quitar o valor integral — veja como fazer isso sem aceitar a primeira proposta no guia <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos</a>;</li>
+    <li><strong>Pague a dívida e guarde o comprovante:</strong> o recibo de pagamento ou a carta de anuência do credor é o documento que comprova a quitação;</li>
+    <li><strong>Leve o comprovante ao cartório onde o título foi protestado:</strong> a baixa do protesto não é automática — é preciso solicitar formalmente no cartório responsável, apresentando o comprovante com firma reconhecida, quando exigido;</li>
+    <li><strong>Pague as taxas cartorárias de baixa:</strong> além da dívida original, normalmente há uma taxa cobrada pelo próprio cartório para efetivar a retirada do registro;</li>
+    <li><strong>Confirme a retirada do nome nos birôs de crédito:</strong> depois da baixa no cartório, o credor tem até 5 dias úteis para solicitar a exclusão do seu nome do Serasa e do SPC Brasil.</li>
+</ol>
+
+<h2>E Se a Dívida For Muito Antiga?</h2>
+<p>Dívidas têm um prazo de prescrição, ou seja, um tempo depois do qual elas não podem mais ser cobradas judicialmente nem manter seu nome negativado nos birôs de crédito. Esse prazo varia conforme o tipo de dívida. Se você suspeita que está lidando com uma dívida antiga demais para ainda ser cobrada, vale conferir o guia <a href="/artigo/divida-prescrita-quanto-tempo-sai-nome">dívida prescrita: depois de quanto tempo ela sai do Serasa e do SPC</a> antes de negociar ou pagar qualquer valor.</p>
+
+<h2>Vale a Pena Negociar Antes de o Protesto Acontecer?</h2>
+<p>Sempre. Uma vez que o título já foi levado a protesto, o processo de baixa costuma ser mais burocrático e gerar custos extras com taxas cartorárias, além de deixar um histórico público da cobrança. Se você já recebeu um aviso de que uma dívida está prestes a ser protestada, negociar diretamente com o credor ou usar plataformas de negociação, como o Serasa Limpa Nome, costuma ser mais rápido e barato do que resolver depois que o protesto já foi lavrado. Antes de aceitar qualquer proposta, vale avaliar se ela realmente compensa — reunimos os principais pontos de atenção no guia <a href="/artigo/acordo-de-divida-vale-a-pena-como-avaliar">acordo de dívida: vale a pena?</a>.</p>
+
+<h2>Depois de Resolver, Cuide do Score</h2>
+<p>Quitar a dívida e tirar o nome do protesto resolve o problema imediato, mas o score de crédito pode levar um tempo para refletir totalmente essa mudança. Entender os fatores que compõem essa pontuação ajuda a acelerar a recuperação — detalhamos isso no guia <a href="/artigo/como-aumentar-score-credito">como aumentar o score de crédito</a>.</p>
+
+<h2>Cuidado Com Cobranças Falsas de Protesto</h2>
+<p>Golpistas costumam se aproveitar do medo de ter o nome protestado para aplicar fraudes, cobrando taxas via boleto ou Pix fora dos canais oficiais do cartório ou do credor. Antes de pagar qualquer valor para "evitar" ou "cancelar" um protesto, confirme a informação diretamente pela CENPROT ou pelo cartório indicado na consulta oficial — nunca por um link recebido de forma espontânea por mensagem ou ligação.</p>
+
+<div class="callout">
+    <p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e informativo. Procedimentos e taxas cartorárias podem variar conforme o estado e o cartório responsável — consulte sempre os canais oficiais antes de fechar qualquer negociação.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/protesto-em-cartorio/" target="_blank" rel="noopener">Protesto em cartório: o que é e como resolver</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/divida-em-protesto/" target="_blank" rel="noopener">O que é dívida em protesto e como regularizar</a></li>
+</ul>
+
+<p>Pronto para organizar suas dívidas de vez? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> e comece o planejamento hoje mesmo.</p>
+',
+        'tags' => 'nome protestado o que fazer, protesto em cartório, consulta CENPROT, certidão de protesto',
+    ],
+
 ];
 
 /**

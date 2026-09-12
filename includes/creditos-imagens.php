@@ -291,6 +291,41 @@ $image_credits = [
         'source_name' => 'StockSnap',
         'source_url' => 'https://stocksnap.io/photo/work-business-J5LXKNDREC',
     ],
+    'ipca-agosto-2026-deflacao-o-que-muda' => [
+        'title' => 'Shoppingcarts outside a supermarket',
+        'creator' => 'Markus Spiske',
+        'license' => 'CC0 1.0',
+        'source_name' => 'rawpixel',
+        'source_url' => 'https://www.rawpixel.com/image/432253/free-photo-image-supermarket-retail-shopping-carts',
+    ],
+    'copom-setembro-2026-decisao-selic-o-que-esperar' => [
+        'title' => 'Ilan Goldfajn participa de reunião do Copom',
+        'creator' => 'Marcelo Camargo/Agência Brasil (Agência Brasil Fotografias)',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=54535329',
+    ],
+    'diferenca-pix-ted-doc-qual-usar' => [
+        'title' => 'Businesswoman making a payment with cash while using a smartphone in a modern office setting',
+        'creator' => 'Shixart1985',
+        'license' => 'CC BY 2.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=196043381',
+    ],
+    'auxilio-doenca-inss-quem-tem-direito-como-pedir' => [
+        'title' => 'Doctor Patient',
+        'creator' => 'Direct Media',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/doctor-patient-EDI8LWKSBB',
+    ],
+    'nome-protestado-cartorio-como-tirar' => [
+        'title' => 'Notary Public Document Register with Stamp Tax',
+        'creator' => 'KingMarineWP',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=169893519',
+    ],
 ];
 
 /**
