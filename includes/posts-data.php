@@ -7621,6 +7621,320 @@ $posts = [
         'tags' => 'nome protestado o que fazer, protesto em cartório, consulta CENPROT, certidão de protesto',
     ],
 
+    [
+        'slug' => 'boletim-focus-selic-13-75-credito-investimentos',
+        'title' => 'Boletim Focus: Selic Deve Ficar em 13,75% até o Fim de 2026 — Veja o Que Muda no Crédito e nos Investimentos',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'Boletim Focus mantém Selic em 13,75% para 2026. Entenda o que isso muda no custo do crédito e no rendimento dos investimentos.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>O Boletim Focus divulgado pelo Banco Central em 8 de setembro trouxe uma mensagem que interessa direto ao bolso de quem tem dívida ou pensa em investir: a Selic deve permanecer perto de 13,75% ao ano até o fim de 2026, enquanto a inflação segue projetada acima do teto da meta. Entender o que esses números significam na prática ajuda a decidir se vale a pena travar um financiamento agora, esperar ou redirecionar a reserva de emergência para outro lugar.</p>
+
+<h2>O Que Mostrou o Boletim Focus de Setembro</h2>
+<p>O relatório reúne as projeções de mais de 130 instituições financeiras consultadas semanalmente pelo Banco Central e serve de termômetro para o mercado. Segundo a edição divulgada em 8 de setembro:</p>
+<ul>
+<li><strong>IPCA (inflação) 2026:</strong> projeção recuou para 5%, ainda acima do teto de 4,5% perseguido pelo Banco Central;</li>
+<li><strong>Selic 2026:</strong> mantida em 13,75% ao ano;</li>
+<li><strong>PIB 2026:</strong> leve revisão para cima, a 1,93%;</li>
+<li><strong>Câmbio (dólar):</strong> expectativa estável em R$ 5,20 até o fim do ano.</li>
+</ul>
+<p>Na prática, o mercado não vê um corte agressivo de juros no curto prazo. Mesmo com a inflação recuando, ela segue distante da meta central de 3%, o que tira o espaço do Banco Central para acelerar o ciclo de queda da Selic.</p>
+
+<h2>Por Que a Selic Parada Pesa no Seu Orçamento</h2>
+<p>Quando a taxa básica de juros permanece em patamar elevado por mais tempo, isso afeta diretamente:</p>
+<ul>
+<li>O custo de financiamentos de carro e imóvel, que seguem com parcelas mais altas;</li>
+<li>Os juros do cartão de crédito rotativo e do cheque especial, historicamente atrelados à Selic — situações que, se já estão fora de controle, merecem atenção redobrada antes que a dívida cresça ainda mais, como explicamos no guia <a href="/artigo/juros-rotativo-cartao-credito-como-sair">juros do rotativo do cartão de crédito: como sair dessa dívida</a>;</li>
+<li>O rendimento de aplicações de renda fixa atreladas ao CDI, que continuam remunerando bem quem tem dinheiro guardado.</li>
+</ul>
+<p>Ou seja, o mesmo cenário que penaliza quem está endividado favorece quem consegue poupar. Se você já tem uma reserva de emergência formada, vale a pena revisar onde ela está aplicada — comparamos as principais opções no guia <a href="/artigo/tesouro-selic-ou-poupanca-2026">poupança ou Tesouro Selic: qual rende mais</a>.</p>
+
+<h2>Vale a Pena Travar um Financiamento Agora?</h2>
+<p>Como o mercado não projeta uma queda relevante da Selic neste ano, esperar por "juros mais baixos" para financiar um imóvel ou veículo pode não trazer o alívio esperado no curto prazo. Antes de assinar qualquer contrato, o mais importante continua sendo comparar o Custo Efetivo Total (CET) entre instituições — e não apenas a taxa de juros anunciada. Explicamos como fazer essa comparação no guia <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">o que é CET e como usar para comparar empréstimos</a>.</p>
+<p>Quem já tem crédito contratado em condições piores também pode buscar uma taxa menor sem trocar de banco, usando a portabilidade — veja como funciona no guia <a href="/artigo/portabilidade-credito-como-trocar-banco-sem-perder-dinheiro">portabilidade de crédito: como trocar de banco sem perder dinheiro</a>.</p>
+
+<h2>E Para Quem Investe?</h2>
+<p>Com a Selic ainda alta e sem sinal de queda relevante no curto prazo, aplicações atreladas ao CDI — como CDBs, LCIs e LCAs de bancos médios — seguem entre as alternativas mais rentáveis e de baixo risco para quem tem prazo mais curto. Já quem consegue deixar o dinheiro aplicado por mais tempo pode considerar títulos que travam uma taxa real, protegendo o poder de compra mesmo se a inflação voltar a subir.</p>
+
+<h2>Como se Planejar Nesse Cenário</h2>
+<ol>
+<li>Revise dívidas com juros variáveis atrelados à Selic antes que qualquer alta adicional pese ainda mais no orçamento;</li>
+<li>Priorize quitar primeiro as dívidas mais caras, como o cartão rotativo e o cheque especial, que seguem entre os juros mais altos do mercado;</li>
+<li>Aproveite a Selic ainda alta para reforçar a reserva de emergência em aplicações atreladas ao CDI;</li>
+<li>Evite assumir novos financiamentos de longo prazo sem simular o CET com calma, já que a taxa básica deve seguir elevada por mais alguns meses.</li>
+</ol>
+<p>Do lado externo, o diferencial de juros entre Brasil e Estados Unidos também é um fator observado de perto pelo mercado: se o Federal Reserve avançar no seu próprio ciclo de cortes enquanto a Selic segue parada por aqui, a tendência é que o real se mantenha relativamente valorizado frente ao dólar — o que ajuda a conter a inflação de produtos importados e combustíveis, mas também reduz a vantagem de quem recebe rendimentos em moeda estrangeira.</p>
+
+<h3>Projeção Não é Garantia</h3>
+<p>É importante lembrar que o Boletim Focus reúne expectativas de mercado, não uma previsão garantida: os números são atualizados toda semana conforme novos dados de inflação, atividade econômica e emprego são divulgados. Ainda assim, o relatório funciona como um guia confiável porque o próprio Banco Central usa essas expectativas para calibrar suas decisões sobre a Selic.</p>
+
+<div class="callout">
+<p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Consulte sempre a edição mais recente do Boletim Focus no site do Banco Central antes de tomar decisões financeiras.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+<li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/publicacoes/focus" target="_blank" rel="noopener">Boletim Focus</a></li>
+<li>InfoMoney — <a href="https://www.infomoney.com.br/economia/boletim-focus-projecoes-08092026/" target="_blank" rel="noopener">Focus: projeção de inflação para 2026 cai para 5%, enquanto PIB tem leve revisão</a></li>
+</ul>
+
+<p>Quer simular como a Selic afeta seus investimentos e financiamentos? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'boletim focus setembro 2026, selic 13,75% 2026, quando a selic vai cair, projeção selic e inflação',
+    ],
+
+    [
+        'slug' => 'poupanca-saida-agosto-2026-para-onde-vai-dinheiro',
+        'title' => 'Poupança Tem Saída de R$ 10,5 Bilhões em Agosto: Para Onde Está Indo o Dinheiro dos Brasileiros',
+        'category' => ['Notícias', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'Poupança teve saída líquida de R$ 10,5 bilhões em agosto de 2026. Veja por que e para onde os brasileiros estão levando o dinheiro.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>A caderneta de poupança registrou saída líquida de R$ 10,573 bilhões em agosto de 2026, segundo dados divulgados pelo Banco Central — o maior volume mensal de retiradas do ano e uma aceleração em relação aos R$ 7,152 bilhões sacados em julho. O resultado levanta uma pergunta prática: se os brasileiros estão tirando dinheiro da poupança, para onde ele está indo, e vale a pena seguir esse movimento?</p>
+
+<h2>Os Números da Poupança em Agosto</h2>
+<ul>
+<li><strong>Depósitos:</strong> R$ 357,652 bilhões;</li>
+<li><strong>Saques:</strong> R$ 368,225 bilhões;</li>
+<li><strong>Saldo aplicado ao fim do mês:</strong> R$ 1,016 trilhão;</li>
+<li><strong>Rendimento gerado no mês:</strong> R$ 6,507 bilhões.</li>
+</ul>
+<p>No acumulado de 2026, entre janeiro e agosto, a poupança já soma R$ 57,082 bilhões em saques líquidos. Maio foi o único mês do ano com entrada líquida positiva de recursos.</p>
+
+<h3>Uma Tendência Que Já Vinha de 2025</h3>
+<p>O movimento não é exatamente uma novidade: a poupança encerrou 2025 com saques líquidos de R$ 85,568 bilhões, um dos piores resultados da série em anos recentes. O que chama atenção agora é a aceleração mês a mês em 2026, com agosto marcando o maior volume mensal de saques do ano até aqui.</p>
+
+<h2>Por Que os Brasileiros Estão Tirando Dinheiro da Poupança</h2>
+<p>A explicação mais direta é a rentabilidade. Com a Selic em patamar elevado, a poupança — que rende 70% da Selic mais a Taxa Referencial sempre que a Selic está acima de 8,5% ao ano — perde para outras aplicações de renda fixa igualmente simples e seguras, como o Tesouro Selic e CDBs de liquidez diária que pagam próximo de 100% do CDI. Comparamos as duas opções em detalhe no guia <a href="/artigo/tesouro-selic-ou-poupanca-2026">poupança ou Tesouro Selic: qual rende mais</a>.</p>
+<p>Outro fator é o aperto no orçamento das famílias: parte dos saques também é usada para cobrir contas do dia a dia, quitar dívidas em atraso ou lidar com imprevistos, especialmente em um cenário de juros altos no crédito rotativo e no cheque especial.</p>
+
+<h2>Para Onde Está Indo o Dinheiro</h2>
+<p>Levantamentos do mercado apontam que boa parte dos recursos que saem da poupança é redirecionada para:</p>
+<ol>
+<li><strong>Tesouro Direto e CDBs de liquidez diária</strong>, que oferecem a mesma segurança e liquidez da poupança, mas com rendimento maior;</li>
+<li><strong>Fundos de renda fixa, LCIs e LCAs</strong>, isentos de Imposto de Renda para pessoa física — veja as diferenças entre eles no guia <a href="/artigo/cdb-lci-lca-diferenca-qual-escolher">CDB, LCI ou LCA: qual a diferença e qual escolher</a>;</li>
+<li><strong>Pagamento de dívidas</strong>, uma estratégia que, apesar de reduzir a reserva disponível, costuma valer mais a pena quando os juros da dívida superam qualquer rendimento possível de se conseguir aplicando o dinheiro.</li>
+</ol>
+
+<h2>Vale a Pena Sair da Poupança Também?</h2>
+<p>Para a maior parte dos brasileiros, sim — desde que a alternativa escolhida mantenha o mesmo nível de segurança e liquidez que a poupança oferece, especialmente se o dinheiro for a sua reserva de emergência. Antes de migrar, vale revisar quanto você realmente precisa manter disponível e com que rapidez pode resgatar — detalhamos isso no guia <a href="/artigo/reserva-de-emergencia-quanto-guardar">reserva de emergência: quanto guardar e onde investir</a>.</p>
+<p>O único cuidado é não trocar a poupança por aplicações mais arriscadas ou de baixa liquidez achando que está "só melhorando o rendimento". Reserva de emergência não é o lugar para buscar retorno extra assumindo risco — o objetivo dela é estar disponível exatamente no momento em que você mais precisar, não render o máximo possível.</p>
+
+<h2>Como Comparar Antes de Migrar</h2>
+<ol>
+<li>Confirme se a aplicação escolhida tem liquidez diária (resgate no mesmo dia ou em D+1);</li>
+<li>Verifique se o valor está protegido pelo Fundo Garantidor de Créditos (FGC), até o limite de R$ 250 mil por CPF e instituição;</li>
+<li>Compare o rendimento líquido de impostos, já que CDBs e Tesouro Selic têm Imposto de Renda regressivo, enquanto a poupança e LCIs/LCAs são isentas;</li>
+<li>Simule diferentes cenários antes de decidir para onde migrar o dinheiro.</li>
+</ol>
+
+<h2>A Poupança Ainda Faz Sentido Para Alguém?</h2>
+<p>Apesar de tudo, a poupança segue sendo uma opção válida para quem não quer ou não pode acompanhar comparações de rendimento com frequência, já que é isenta de Imposto de Renda, não tem taxas e o dinheiro fica disponível a qualquer momento sem perda de rendimento proporcional. O problema não é a poupança em si, mas o fato de ela ter deixado de ser a opção mais eficiente para a mesma finalidade — segurança e liquidez — quando existem alternativas igualmente simples que rendem mais.</p>
+<p>Bancos digitais e corretoras já oferecem contas remuneradas e fundos de liquidez diária com processo de abertura tão simples quanto abrir uma poupança, o que reduziu bastante a "barreira de entrada" que antes justificava manter tudo na caderneta por comodidade.</p>
+
+<div class="callout">
+<p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não constitui recomendação de investimento. Rentabilidades passadas não garantem resultados futuros.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+<li>Banco Central do Brasil — dados de captação líquida da caderneta de poupança</li>
+<li>Metrópoles — <a href="https://www.metropoles.com/brasil/brasileiros-sacaram-r-105-bilhoes-da-poupanca-em-agosto-diz-bc" target="_blank" rel="noopener">Brasileiros sacaram R$ 10,5 bilhões da poupança em agosto, diz BC</a></li>
+</ul>
+
+<p>Quer comparar o rendimento da poupança com outras aplicações? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a>.</p>
+',
+        'tags' => 'poupança saque agosto 2026, poupança rende menos, saída da poupança banco central, onde investir em vez da poupança',
+    ],
+
+    [
+        'slug' => 'clt-ou-pj-qual-vale-mais-a-pena',
+        'title' => 'CLT ou PJ: Qual Vale Mais a Pena? Veja Prós, Contras e Como Calcular',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'CLT ou PJ: qual vale mais a pena? Compare direitos, impostos e veja como calcular quanto cobrar em uma proposta como pessoa jurídica.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>Receber uma proposta de emprego como Pessoa Jurídica (PJ) em vez de CLT costuma vir acompanhada de um salário bruto maior — e da dúvida se CLT ou PJ vale mais a pena de verdade. A resposta depende de contas que vão muito além do valor que cai na conta todo mês: direitos trabalhistas, impostos, previdência e a disciplina necessária para guardar dinheiro sozinho fazem toda a diferença no resultado final.</p>
+
+<h2>O Que Muda na Prática Entre CLT e PJ</h2>
+<p>Na CLT, o vínculo é diretamente com a empresa, que arca com encargos trabalhistas e garante direitos previstos na Consolidação das Leis do Trabalho. Como PJ, o profissional presta serviço por meio de uma empresa própria — geralmente um MEI, microempresa ou empresa do Simples Nacional — e emite nota fiscal contra o contratante, sem vínculo empregatício.</p>
+<p>Essa diferença de natureza jurídica explica todas as demais: quem é PJ não tem os mesmos direitos automáticos de quem é CLT, mas também paga menos impostos sobre o valor recebido, o que costuma resultar em um salário líquido maior para o mesmo valor bruto contratado.</p>
+
+<h2>O Que a CLT Garante e o PJ Não</h2>
+<ul>
+<li><strong>FGTS:</strong> depósito mensal de 8% sobre o salário, feito pelo empregador — veja como consultar e sacar no guia <a href="/artigo/fgts-calculadora">tudo sobre FGTS</a>;</li>
+<li><strong>13º salário:</strong> pagamento adicional obrigatório no fim do ano — veja como é calculado no guia <a href="/artigo/decimo-terceiro-salario-como-calcular-quando-pago">13º salário: como é calculado e quando é pago</a>;</li>
+<li><strong>Férias remuneradas com 1/3 constitucional:</strong> 30 dias de descanso por ano, com acréscimo de um terço do salário;</li>
+<li><strong>Aviso prévio e multa de 40% do FGTS</strong> em caso de demissão sem justa causa;</li>
+<li><strong>Seguro-desemprego</strong> em caso de demissão sem justa causa, dentro dos critérios de elegibilidade — detalhamos as regras no guia <a href="/artigo/seguro-desemprego-quem-tem-direito-como-solicitar">seguro-desemprego: quem tem direito e como solicitar</a>;</li>
+<li><strong>Contribuição previdenciária</strong> descontada automaticamente, contando tempo de contribuição para a aposentadoria.</li>
+</ul>
+<p>Como PJ, nada disso é automático: o profissional precisa se organizar para guardar o equivalente ao 13º e às férias por conta própria, além de contribuir voluntariamente para o INSS caso queira manter os direitos previdenciários, incluindo o tempo de contribuição para a aposentadoria.</p>
+
+<h2>Quanto Cobrar Para uma Proposta PJ Valer a Pena</h2>
+<p>Uma regra prática usada por consultores de carreira é multiplicar o salário CLT desejado por um fator entre 1,5 e 2 para chegar ao valor bruto mensal como PJ, dependendo de quanto de benefícios e estabilidade a empresa oferecia na CLT. O cálculo deve considerar, no mínimo:</p>
+<ol>
+<li>O 13º e o terço de férias que você deixará de receber automaticamente (o equivalente a mais de um salário extra por ano);</li>
+<li>O custo do FGTS que a empresa deixará de depositar (8% do salário);</li>
+<li>Os impostos que a sua empresa (geralmente MEI ou Simples Nacional) vai pagar sobre a nota fiscal emitida — veja como calcular no guia <a href="/artigo/simples-nacional-como-calcular-aliquota-das">Simples Nacional: como calcular a alíquota efetiva e o valor do DAS</a>;</li>
+<li>A contribuição previdenciária que você mesmo terá que recolher para não perder tempo de contribuição para a aposentadoria.</li>
+</ol>
+
+<h2>Contribuição ao INSS Como PJ ou Autônomo</h2>
+<p>Quem presta serviço como PJ ou autônomo pode contribuir ao INSS de duas formas principais: pelo pró-labore da própria empresa (no caso de MEI ou Simples Nacional) ou como contribuinte individual, recolhendo a guia diretamente. Sem essa contribuição, o tempo trabalhado como PJ não conta para a aposentadoria — um detalhe que costuma passar despercebido nos primeiros anos e só é percebido (tarde) na hora de somar o tempo de contribuição. Veja as regras completas no guia <a href="/artigo/aposentadoria-inss-regras-tempo-contribuicao-2026">aposentadoria pelo INSS: regras e tempo de contribuição</a>.</p>
+
+<h2>Quando o PJ Pode Valer a Pena</h2>
+<p>A modalidade costuma compensar para quem já tem outras fontes de renda, reserva financeira formada e disciplina para guardar dinheiro todo mês sem depender do 13º ou das férias como forma "forçada" de poupança. Também é mais vantajosa para quem consegue manter uma carga tributária baixa dentro do Simples Nacional, já que a alíquota efetiva sobre o faturamento tende a ser bem menor do que o desconto de Imposto de Renda e INSS na folha CLT.</p>
+
+<h2>Quando a CLT Ainda Vale Mais a Pena</h2>
+<p>Para quem está começando a carreira, não tem reserva de emergência ou prefere não lidar com burocracia tributária, a CLT segue sendo a opção mais segura: os direitos são automáticos, e o vínculo formal facilita o acesso a crédito, financiamento imobiliário e outros produtos financeiros que exigem comprovação de renda estável.</p>
+
+<div class="callout">
+<p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. A decisão entre CLT e PJ depende da situação de cada profissional — consulte um contador antes de abrir uma empresa ou aceitar uma proposta como pessoa jurídica.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+<li>Receita Federal — <a href="https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/simples-nacional" target="_blank" rel="noopener">Simples Nacional</a></li>
+<li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/cidadaniafinanceira" target="_blank" rel="noopener">Cidadania Financeira</a></li>
+</ul>
+
+<p>Quer simular quanto sobra no fim do mês em cada cenário? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a>.</p>
+',
+        'tags' => 'clt ou pj qual vale mais a pena, diferença entre clt e pj, quanto cobrar como pj, vantagens e desvantagens de ser pj',
+    ],
+
+    [
+        'slug' => 'como-calcular-hora-extra',
+        'title' => 'Como Calcular Hora Extra: Fórmula, Percentuais e Exemplos Práticos',
+        'category' => ['Educação'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => 'Aprenda como calcular hora extra com adicional de 50% e 100%, o reflexo no DSR e veja exemplos práticos passo a passo.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>Saber como calcular hora extra é essencial para conferir se o valor que aparece no seu contracheque está correto — e para negociar com mais segurança quando o assunto é trabalhar além da jornada normal. A boa notícia é que a conta segue uma fórmula simples, definida pela CLT, que qualquer trabalhador pode reproduzir com a calculadora do celular.</p>
+
+<h2>O Que Diz a Lei Sobre Hora Extra</h2>
+<p>A CLT prevê um adicional mínimo de 50% sobre o valor da hora normal para horas extras trabalhadas em dias úteis e sábados. Já para trabalho em domingos e feriados, o adicional sobe para 100%, salvo compensação em banco de horas. Convenções coletivas de trabalho podem prever percentuais ainda maiores — por isso vale sempre conferir o acordo da sua categoria antes de fazer a conta.</p>
+
+<h2>Passo a Passo Para Calcular a Hora Extra</h2>
+<ol>
+<li><strong>Calcule o valor da sua hora normal:</strong> divida o salário bruto pela jornada mensal contratual (geralmente 220 horas, mas pode ser 180 ou 200 horas dependendo do contrato);</li>
+<li><strong>Aplique o adicional:</strong> multiplique o valor da hora normal por 1,5 (adicional de 50%) ou por 2 (adicional de 100%), conforme o dia trabalhado;</li>
+<li><strong>Multiplique pelo número de horas extras feitas no mês</strong> para chegar ao valor total a receber.</li>
+</ol>
+<p><strong>Exemplo prático:</strong> um trabalhador com salário de R$ 2.200 e jornada mensal de 220 horas tem hora normal de R$ 10. Se ele fizer 8 horas extras em dias úteis, o cálculo é: R$ 10 × 1,5 × 8 = R$ 120 de hora extra no mês. Se essas mesmas 8 horas fossem feitas em um domingo, o valor dobraria para R$ 160.</p>
+
+<h2>Não Esqueça do DSR (Descanso Semanal Remunerado)</h2>
+<p>Quem recebe salário fixo mais horas extras habituais também tem direito ao reflexo dessas horas no Descanso Semanal Remunerado (DSR) — ou seja, um valor adicional referente aos domingos e feriados do mês, calculado proporcionalmente às horas extras feitas nos dias úteis. Esse reflexo costuma ser o detalhe que mais gera dúvida e diferença de valores entre o que o trabalhador calcula "de cabeça" e o que aparece no contracheque.</p>
+<p>A fórmula do DSR sobre horas extras é: (total de horas extras no mês × valor da hora extra ÷ dias úteis do mês) × domingos e feriados do mês. Por envolver mais variáveis, o mais prático é usar uma calculadora que já aplique a fórmula automaticamente — nossa <a href="/calculadoras/horas-extras.php">calculadora de horas extras com DSR</a> faz essa conta para você, incluindo percentuais personalizados por convenção coletiva.</p>
+
+<h2>Hora Extra Noturna</h2>
+<p>Se a hora extra for feita no período noturno (entre 22h e 5h, na maioria das atividades urbanas), ela também deve receber o adicional noturno — de pelo menos 20% sobre o valor da hora — cumulado com o adicional de hora extra. Além disso, a hora noturna é reduzida: cada 52 minutos e 30 segundos trabalhados equivalem a uma hora "cheia" para fins de pagamento, o que também aumenta o valor final devido ao trabalhador.</p>
+
+<h2>Hora Extra Habitual e Reflexos em Outras Verbas</h2>
+<p>Quando a hora extra é feita de forma habitual (repetida mês a mês), ela deixa de ser um valor pontual e passa a integrar a remuneração do trabalhador para outros fins, como o cálculo de férias, 13º salário e, em caso de desligamento, a própria rescisão. Isso significa que uma hora extra mal calculada hoje pode gerar diferenças em vários outros valores recebidos ao longo do ano.</p>
+
+<h2>Hora Extra ou Banco de Horas?</h2>
+<p>Nem toda hora trabalhada além da jornada normal vira dinheiro no fim do mês. Se a empresa adota um sistema de banco de horas, formalizado por acordo individual ou convenção coletiva, as horas extras podem ser compensadas com folgas em vez de pagas em dinheiro — desde que dentro do prazo previsto no acordo (em geral, seis meses a um ano). Vale sempre pedir por escrito qual é a política adotada pela empresa, já que a ausência de acordo formal para banco de horas obriga o pagamento em dinheiro, com os adicionais normais.</p>
+
+<h2>O Que Fazer se o Valor Estiver Errado</h2>
+<p>Se depois de calcular você perceber uma diferença entre o valor esperado e o que a empresa pagou, o primeiro passo é solicitar o espelho de ponto e o holerite detalhado para comparar mês a mês. Divergências recorrentes podem ser levantadas diretamente com o RH ou, se não resolvidas, encaminhadas à Justiça do Trabalho. Vale lembrar que, em caso de desligamento, horas extras não pagas também entram no cálculo da rescisão — veja como funciona no guia <a href="/artigo/rescisao-contrato-de-trabalho">rescisão de contrato de trabalho: seus direitos</a>.</p>
+
+<div class="callout">
+<p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional. Percentuais e regras podem variar conforme convenção coletiva da categoria — consulte o sindicato da sua profissão ou um advogado trabalhista em caso de dúvida.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+<li>Planalto — <a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm" target="_blank" rel="noopener">Consolidação das Leis do Trabalho (CLT)</a></li>
+</ul>
+
+<p>Calcule agora o valor exato das suas horas extras com reflexo no DSR na nossa <a href="/calculadoras/horas-extras.php">calculadora gratuita</a>.</p>
+',
+        'tags' => 'como calcular hora extra, hora extra 50 e 100 por cento, dsr hora extra, calculadora de horas extras',
+    ],
+
+    [
+        'slug' => 'ciclo-da-inadimplencia-como-quebrar-de-vez',
+        'title' => 'Por Que Você Sempre Volta a Ficar Negativado? Como Quebrar o Ciclo da Inadimplência de Vez',
+        'category' => ['Score de Crédito', 'Renegociação'],
+        'date' => '2026-09-12',
+        'read_time' => '5 min',
+        'excerpt' => '42% dos negativados já estavam sujos há 10 anos, mostra a Serasa. Veja como quebrar o ciclo da inadimplência de uma vez por todas.',
+        'image' => '/assets/img/post-default.jpg',
+        'full' => true,
+        'content' => '
+<p>Se esta não é a primeira vez que seu nome fica negativado, você não está sozinho — e o problema pode não ser só falta de organização. Um levantamento da Serasa mostra que 42% dos brasileiros inadimplentes hoje já tinham o nome sujo há dez anos, um sinal de que, para muita gente, a dívida vira um ciclo que se repete em vez de um problema pontual resolvido de vez. Entender por que isso acontece é o primeiro passo para sair dele definitivamente.</p>
+
+<h2>O Que Mostram os Dados da Serasa</h2>
+<ul>
+<li><strong>42%</strong> dos negativados atuais já estavam com o nome sujo há uma década;</li>
+<li>O número de brasileiros com contas em atraso cresceu <strong>38,1%</strong> nos últimos dez anos;</li>
+<li>O perfil mudou: as mulheres, que eram minoria entre os negativados, hoje representam <strong>50,5%</strong> do total;</li>
+<li>A inadimplência avançou entre pessoas com mais de 60 anos, enquanto caiu entre jovens de 18 a 25 anos.</li>
+</ul>
+<p>Esses números mostram que quitar uma dívida e sair do Serasa não é garantia de ficar de fora dele para sempre. Sem mudar a forma como o orçamento é organizado, é comum voltar a contrair dívidas que não cabem na renda — reiniciando o ciclo.</p>
+
+<h2>Por Que o Ciclo se Repete</h2>
+<p>Alguns motivos aparecem com mais frequência entre quem volta a ficar negativado:</p>
+<ol>
+<li><strong>Pagar a dívida sem entender por que ela aconteceu:</strong> quitar o débito resolve o problema imediato, mas não corrige o hábito ou o imprevisto que gerou o atraso;</li>
+<li><strong>Usar crédito novo para cobrir dívida antiga:</strong> pegar um empréstimo ou parcelar no cartão para "resolver" uma pendência costuma trocar uma dívida cara por outra ainda mais cara;</li>
+<li><strong>Voltar a gastar no limite da renda assim que o nome é limpo</strong>, sem reconstruir uma margem de segurança no orçamento;</li>
+<li><strong>Não ter uma reserva mínima</strong> para lidar com o próximo imprevisto, um dos motivos mais comuns de reincidência na inadimplência.</li>
+</ol>
+
+<h2>Passo a Passo Para Quebrar o Ciclo de Vez</h2>
+<ol>
+<li><strong>Negocie a dívida atual com desconto, mas sem aceitar a primeira proposta</strong> — veja como negociar com mais poder de barganha no guia <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos sem aceitar a primeira proposta</a>;</li>
+<li><strong>Monte um orçamento realista para o pós-negociação</strong>, priorizando as contas essenciais antes de qualquer parcela nova — o guia de <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> ajuda a organizar isso mesmo com o orçamento apertado;</li>
+<li><strong>Construa uma reserva mínima antes de assumir qualquer crédito novo</strong>, mesmo que pequena — ela é o que evita que o próximo imprevisto vire uma dívida nova;</li>
+<li><strong>Acompanhe o score de crédito regularmente</strong>, não só depois de negativado, para entender o que está pesando contra você — veja os fatores no guia <a href="/artigo/como-aumentar-score-credito">como aumentar o score de crédito</a>;</li>
+<li><strong>Se a dívida for maior do que a renda consegue pagar de forma realista</strong>, procure apoio gratuito e especializado antes de assumir qualquer novo compromisso — o <a href="/artigo/nas-nucleo-atendimento-superendividado-procon">Núcleo de Atendimento ao Superendividado (NAS) do Procon</a> orienta gratuitamente quem está nessa situação.</li>
+</ol>
+
+<h2>O Erro de Tratar Cada Dívida Como um Caso Isolado</h2>
+<p>Quem trata cada negativação como um problema separado tende a resolver o sintoma sem tratar a causa. O caminho mais eficaz é olhar para o padrão: se você já ficou negativado mais de uma vez, vale revisar de forma honesta quais gastos, hábitos ou fontes de renda instável estão por trás disso — e não só a dívida específica que está sendo cobrada agora.</p>
+
+<h2>Mulheres e Idosos: Atenção ao Novo Perfil da Inadimplência</h2>
+<p>O avanço da inadimplência entre mulheres e pessoas acima de 60 anos, apontado pela Serasa, reforça a importância de um planejamento financeiro que considere fases específicas da vida — como aposentadoria, viuvez ou mudanças na renda familiar. Se esse é o seu caso, vale reforçar o planejamento para essa fase no guia sobre <a href="/artigo/aposentadoria-inss-regras-tempo-contribuicao-2026">aposentadoria pelo INSS: regras e tempo de contribuição</a>.</p>
+
+<h2>Sinais de Que Você Está Preso no Ciclo</h2>
+<ul>
+<li>Você negocia e quita uma dívida, mas em poucos meses já está usando o cartão no limite de novo;</li>
+<li>Não sobra nada da renda assim que as contas fixas são pagas, mesmo sem nenhum gasto "extra" no mês;</li>
+<li>Você não sabe, sem consultar um aplicativo, se está ou não com o nome negativado agora;</li>
+<li>Toda vez que surge um imprevisto, a única saída é um novo empréstimo ou parcelamento.</li>
+</ul>
+<p>Se dois ou mais desses sinais fazem parte da sua rotina, vale tratar isso como prioridade — antes que a próxima negativação aconteça.</p>
+
+<div class="callout">
+<p><strong>Aviso importante:</strong> este conteúdo tem caráter exclusivamente educacional e não substitui orientação financeira ou jurídica individualizada. Em caso de superendividamento, procure apoio gratuito no Procon da sua cidade.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+<li>Serasa — <a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">10 anos do Mapa da Inadimplência</a></li>
+<li>InfoMoney — <a href="https://www.infomoney.com.br/economia/inadimplencia-no-brasil-da-salto-em-10-anos-e-atinge-quase-metade-da-populacao-adulta/" target="_blank" rel="noopener">Inadimplência no Brasil dá salto em 10 anos e atinge quase metade da população adulta</a></li>
+</ul>
+
+<p>Pronto para organizar as contas e sair do ciclo de vez? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> para planejar os próximos passos.</p>
+',
+        'tags' => 'ciclo da inadimplência, por que fico negativado de novo, sair da inadimplência de vez, reincidência negativação serasa',
+    ],
+
 ];
 
 /**
