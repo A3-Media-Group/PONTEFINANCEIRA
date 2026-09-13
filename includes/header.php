@@ -15,7 +15,7 @@ if (!isset($page_description))  $page_description = SITE_DEFAULT_DESCRIPTION;
 if (!isset($page_url))          $page_url = SITE_URL . strtok($_SERVER['REQUEST_URI'], '?');
 if (!isset($page_image))        $page_image = SITE_DEFAULT_IMAGE;
 if (!isset($page_type))         $page_type = 'website';
-if (!isset($page_robots))       $page_robots = 'index, follow';
+if (!isset($page_robots))       $page_robots = 'index, follow, max-image-preview:large';
 if (!isset($body_class))        $body_class = '';
 if (!isset($page_prev))         $page_prev = null; // URL da página anterior (paginação)
 if (!isset($page_next))         $page_next = null; // URL da próxima página (paginação)
@@ -30,7 +30,7 @@ if (!isset($page_next))         $page_next = null; // URL da próxima página (p
 <?php if ($page_prev): ?><link rel="prev" href="<?php echo htmlspecialchars($page_prev); ?>"><?php endif; ?>
 <?php if ($page_next): ?><link rel="next" href="<?php echo htmlspecialchars($page_next); ?>"><?php endif; ?>
 <meta name="robots" content="<?php echo htmlspecialchars($page_robots); ?>">
-<meta name="theme-color" content="#0B1520">
+<meta name="theme-color" content="#123E35">
 
 <!-- Open Graph -->
 <meta property="og:type" content="<?php echo htmlspecialchars($page_type); ?>">
@@ -95,22 +95,22 @@ echo json_encode($organization_schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_U
 <header class="site-header">
     <div class="container header-inner">
         <a href="/" class="logo">
-            <img src="/assets/img/logo.png" alt="Ponte Financeira" class="logo-img" width="46" height="39">
+            <img src="/assets/img/brand-mark.svg" alt="" class="logo-img" width="46" height="39"><span class="brand-wordmark">ponte<span>financeira<span class="brand-dot">.</span></span></span>
         </a>
 
         <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="siteNav" aria-label="Abrir menu">
             <span></span><span></span><span></span>
         </button>
 
-        <nav class="site-nav" id="siteNav">
+        <nav class="site-nav" id="siteNav" aria-label="Navegação principal">
             <ul>
                 <?php foreach ($GLOBALS['main_menu'] as $label => $href): ?>
                     <li><a href="<?php echo $href; ?>" class="<?php echo (($_SERVER['REQUEST_URI'] === $href) || ($href !== '/' && strpos($_SERVER['REQUEST_URI'], $href) === 0)) ? 'active' : ''; ?>"><?php echo $label; ?></a></li>
                 <?php endforeach; ?>
             </ul>
-            <a href="/simuladores-financeiros.php" class="btn btn-primary nav-cta">Simular Dívida Grátis</a>
+            <a href="/simuladores-financeiros.php" class="btn btn-primary nav-cta">Simular agora ↗</a>
         </nav>
     </div>
 </header>
 
-<main id="conteudo">
+<main id="conteudo" tabindex="-1">

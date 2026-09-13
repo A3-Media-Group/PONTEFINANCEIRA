@@ -4,7 +4,7 @@
     <div class="container footer-grid">
         <div class="footer-brand">
             <a href="/" class="logo">
-                <img src="/assets/img/logo.png" alt="Ponte Financeira" class="logo-img logo-img-footer" width="56" height="47">
+                <img src="/assets/img/brand-mark.svg" alt="" class="logo-img logo-img-footer" width="56" height="47"><span class="brand-wordmark">ponte<span>financeira.</span></span>
             </a>
             <p><?php echo SITE_TAGLINE; ?></p>
             <p class="footer-disclaimer">Portal de educação financeira independente.<br>Não realizamos empréstimos.</p>
