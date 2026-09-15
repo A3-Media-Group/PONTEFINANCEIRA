@@ -361,6 +361,41 @@ $image_credits = [
         'source_name' => 'Wikimedia Commons',
         'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=153984397',
     ],
+    'aluguel-aumento-2026-como-se-proteger' => [
+        'title' => 'For rent sign, Israel',
+        'creator' => 'Danielrosehill',
+        'license' => 'CC BY 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=176460316',
+    ],
+    'gasto-com-apostas-bets-orcamento-familiar' => [
+        'title' => 'Young men in a betting shop',
+        'creator' => 'Stephany5757',
+        'license' => 'CC BY-SA 4.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=124235622',
+    ],
+    'quem-ganha-ate-5-mil-paga-imposto-de-renda' => [
+        'title' => 'Income tax calculator',
+        'creator' => 'stevepb',
+        'license' => 'CC0 1.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=79003441',
+    ],
+    'tabela-sac-ou-price-qual-escolher' => [
+        'title' => 'Mortgage Rates',
+        'creator' => 'Words as Pictures',
+        'license' => 'CC0 1.0',
+        'source_name' => 'StockSnap',
+        'source_url' => 'https://stocksnap.io/photo/mortgage-rates-YAQVEUBTSB',
+    ],
+    'feirao-limpa-nome-como-negociar-divida' => [
+        'title' => 'Business agreement handshake at coffee shop',
+        'creator' => 'rawpixel.com',
+        'license' => 'CC0 1.0',
+        'source_name' => 'Wikimedia Commons',
+        'source_url' => 'https://commons.wikimedia.org/w/index.php?curid=67537455',
+    ],
 ];
 
 /**

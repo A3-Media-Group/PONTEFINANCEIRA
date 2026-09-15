@@ -7915,6 +7915,387 @@ $posts = [
         'tags' => 'penhora de salário por dívida, posso ter salário penhorado, impenhorabilidade do salário, penhora de conta bancária',
     ],
 
+
+    [
+        'slug' => 'aluguel-aumento-2026-como-se-proteger',
+        'title' => 'Aluguel Sobe 9,16% em 12 Meses e Supera o Dobro da Inflação: Como se Proteger',
+        'category' => ['Notícias', 'Orçamento'],
+        'date' => '2026-09-15',
+        'read_time' => '7 min',
+        'excerpt' => 'O aumento do aluguel em 2026 já chega a 9,16% em 12 meses, mais que o dobro do IPCA. Veja o que explica a alta e como proteger seu orçamento.',
+        'image' => '/assets/img/post-aluguel-aumento-2026-como-se-proteger.jpg',
+        'full' => true,
+        'content' => '
+<p>O aumento do aluguel em 2026 continua sendo uma das maiores pressões sobre o orçamento das famílias brasileiras. Segundo o Índice FipeZAP de Locação Residencial, divulgado nesta segunda-feira (15), o preço médio do aluguel residencial subiu 9,16% nos últimos 12 meses — mais que o dobro da inflação oficial medida pelo IPCA no mesmo período, de 4,22%. Para quem paga aluguel, isso significa uma conta que cresce mais rápido do que o salário e do que praticamente todas as outras despesas da casa.</p>
+
+<h2>Os Números da Alta do Aluguel em 2026</h2>
+<p>O levantamento do FipeZAP, feito em parceria entre a Fipe e o Grupo OLX, acompanha anúncios de locação em 36 cidades brasileiras, incluindo 22 capitais. Os dados mais recentes mostram:</p>
+<ul>
+    <li><strong>Agosto de 2026:</strong> alta de 0,55% no mês;</li>
+    <li><strong>Acumulado de 2026 (janeiro a agosto):</strong> alta de 6,56%;</li>
+    <li><strong>Últimos 12 meses:</strong> alta de 9,16%.</li>
+</ul>
+<p>A comparação com os índices de inflação deixa o descolamento evidente: no mesmo período de 12 meses, o IPCA acumulou 4,22% e o IGP-M — índice tradicionalmente usado no reajuste de contratos de locação — ficou em apenas 2,16%. No acumulado de 2026, o IPCA está em 3,11%, contra os 6,56% do aluguel.</p>
+<p>Há um lado positivo: o ritmo desacelerou. A alta de 0,55% em agosto é menor do que a média mensal registrada no início do ano, o que sugere que o mercado de locação começa a perder força depois de um longo ciclo de valorização.</p>
+
+<h3>Onde o Aluguel Subiu Mais</h3>
+<p>A alta não é uniforme pelo país. No acumulado de 2026, as maiores altas foram registradas em:</p>
+<ul>
+    <li><strong>Campo Grande (MS):</strong> 16,25%;</li>
+    <li><strong>Natal (RN):</strong> 13,84%;</li>
+    <li><strong>Aracaju (SE):</strong> 13,57%.</li>
+</ul>
+<p>Na janela de 12 meses, o ranking muda de ordem: Aracaju lidera com 21,61%, seguida por Fortaleza (16,81%) e Natal (16,60%). Ou seja, boa parte da pressão está concentrada em capitais do Norte e do Nordeste, mercados que historicamente tinham aluguéis mais baratos e agora passam por um movimento de reprecificação acelerado.</p>
+<p>Em valores absolutos, o preço médio anunciado ficou em R$ 54,47 por metro quadrado na média das cidades pesquisadas. São Paulo segue como a capital mais cara, a R$ 65,36 por metro quadrado — o que significa que um apartamento de 50 m² sai, em média, por cerca de R$ 3.268 na capital paulista, sem contar condomínio e IPTU.</p>
+
+<h2>Por Que o Aluguel Sobe Mais que a Inflação?</h2>
+<p>Três fatores se combinam para explicar o descolamento entre aluguel e inflação:</p>
+<ol>
+    <li><strong>Juros altos afastam a compra:</strong> com o crédito imobiliário caro, muita gente que planejava comprar um imóvel adia a decisão e continua alugando. Isso aumenta a demanda por locação justamente quando o estoque de imóveis disponíveis não cresce no mesmo ritmo;</li>
+    <li><strong>O aluguel virou alternativa de renda:</strong> a rentabilidade média do aluguel (o chamado rental yield) está em 6,14% ao ano, e em Recife chega a 8,40% ao ano. Com retornos nesse patamar, proprietários têm mais disposição para segurar preços do que para dar desconto;</li>
+    <li><strong>Reajuste contratual é só parte da história:</strong> o IGP-M corrige contratos já em vigor, mas o índice FipeZAP mede o preço de <em>novos anúncios</em>. Quem está trocando de imóvel sente muito mais a alta do que quem apenas renova um contrato antigo.</li>
+</ol>
+
+<h2>Como Proteger o Orçamento da Alta do Aluguel</h2>
+<p>O aluguel costuma ser a maior despesa fixa de uma família — e por isso é também o item que mais desorganiza as contas quando sobe. Algumas medidas práticas ajudam a absorver o impacto:</p>
+<ul>
+    <li><strong>Negocie antes do reajuste chegar:</strong> o reajuste anual está previsto em contrato, mas o valor é negociável. Chegue à conversa com dados: pesquise quanto custam imóveis semelhantes no mesmo bairro e mostre ao proprietário que dois ou três meses de imóvel vazio custam mais caro do que conceder um desconto;</li>
+    <li><strong>Confira qual índice está no seu contrato:</strong> contratos indexados ao IGP-M tiveram reajuste de apenas 2,16% em 12 meses, bem abaixo do IPCA. Se o seu usa outro índice, vale entender <a href="/artigo/correcao-monetaria-o-que-e-como-calcular">como funciona a correção monetária</a> antes de aceitar qualquer número;</li>
+    <li><strong>Reveja o peso do aluguel na renda:</strong> como regra prática, aluguel mais condomínio e IPTU não deveriam passar de 30% da renda líquida. Acima disso, o orçamento fica sem folga para imprevistos;</li>
+    <li><strong>Considere prazos mais longos:</strong> contratos de 36 meses, em vez de 30, às vezes vêm com condições melhores, porque reduzem o risco de o imóvel ficar vazio;</li>
+    <li><strong>Reorganize o resto das despesas:</strong> se o aluguel subiu e a renda não, o ajuste tem que vir de outro lugar. O <a href="/artigo/metodo-50-30-20-orcamento">método 50-30-20</a> ajuda a enxergar onde há gordura para cortar, e o <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> é o caminho quando o aperto é imediato.</li>
+</ul>
+
+<h3>Vale a Pena Sair do Aluguel e Financiar?</h3>
+<p>Com aluguéis subindo 9,16% ao ano, é natural perguntar se não sairia mais barato financiar. A resposta depende de números concretos, não de intuição: prazo, valor de entrada, taxa de juros e, principalmente, quanto da renda a parcela vai comprometer. Antes de decidir, entenda <a href="/artigo/quanto-preciso-ganhar-para-financiar-imovel">quanto você precisa ganhar para financiar um imóvel</a> e compare a parcela simulada com o aluguel que paga hoje. Em muitos casos a parcela inicial é maior que o aluguel — mas parte dela amortiza a dívida, e não vira despesa perdida.</p>
+
+<div class="callout">
+    <p><strong>Atenção ao cálculo completo:</strong> ao comparar aluguel e financiamento, inclua condomínio, IPTU, seguro, manutenção e os custos de escritura e registro. Comparar apenas aluguel contra parcela do financiamento distorce a conta a favor da compra.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/aluguel-desacelera-mas-alta-de-916-supera-mais-que-o-dobro-da-inflacao-em-12-meses/" target="_blank" rel="noopener">Aluguel desacelera, mas alta de 9,16% supera mais que o dobro da inflação em 12 meses</a> (com dados do Índice FipeZAP de Locação Residencial)</li>
+    <li>IBGE — <a href="https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html" target="_blank" rel="noopener">Índice Nacional de Preços ao Consumidor Amplo (IPCA)</a></li>
+</ul>
+
+<p>Quer saber se a parcela de um financiamento caberia melhor no seu bolso do que o aluguel atual? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> e compare os números antes de decidir.</p>
+',
+        'tags' => 'aumento do aluguel 2026, índice FipeZAP aluguel, reajuste de aluguel IGP-M, como negociar aumento do aluguel',
+    ],
+
+    [
+        'slug' => 'gasto-com-apostas-bets-orcamento-familiar',
+        'title' => 'Gasto com Apostas Online Chega a R$ 2,2 Bilhões por Ano: O Impacto das Bets no Orçamento',
+        'category' => ['Notícias', 'Orçamento'],
+        'date' => '2026-09-15',
+        'read_time' => '7 min',
+        'excerpt' => 'O gasto com apostas online já consome 5,5% da renda de quem aposta. Veja os números da pesquisa e como identificar e cortar esse vazamento.',
+        'image' => '/assets/img/post-gasto-com-apostas-bets-orcamento-familiar.jpg',
+        'full' => true,
+        'content' => '
+<p>O gasto com apostas online deixou de ser um detalhe no orçamento das famílias brasileiras e virou uma despesa de peso. Um levantamento do Instituto Fecomércio de Pesquisas e Análises (IFec RJ), divulgado nesta segunda-feira (15), estima que os moradores da Região Metropolitana do Rio de Janeiro gastem R$ 2,2 bilhões por ano em apostas — valor três vezes superior ao que a mesma população deve gastar com presentes de Natal. O dado importa muito além do Rio, porque revela um padrão de consumo que já aparece em todo o país.</p>
+
+<h2>O Que a Pesquisa Mostrou</h2>
+<p>O estudo entrevistou 1.024 moradores da Região Metropolitana do Rio entre 22 e 25 de junho. Os principais números:</p>
+<ul>
+    <li><strong>22,8% dos entrevistados</strong> já participaram de apostas online;</li>
+    <li><strong>R$ 96,30</strong> é o gasto médio mensal declarado por apostador;</li>
+    <li><strong>R$ 182 milhões</strong> é a movimentação mensal estimada na região;</li>
+    <li><strong>5,5% da renda mensal</strong> do apostador vai para apostas, em média.</li>
+</ul>
+<p>Esses 5,5% são o número mais revelador da pesquisa. Para colocar em perspectiva: é mais do que a maioria das famílias brasileiras consegue guardar por mês. Um gasto dessa ordem, recorrente e invisível no controle financeiro, é suficiente para explicar por que muita gente sente que o dinheiro não fecha o mês sem conseguir apontar onde ele foi.</p>
+
+<h3>De Onde Sai o Dinheiro Apostado</h3>
+<p>A pesquisa também mapeou a origem dos recursos usados nas apostas — e aqui o sinal de alerta é claro:</p>
+<ul>
+    <li><strong>Salário:</strong> 69,9%;</li>
+    <li><strong>Reserva financeira:</strong> 14,2%;</li>
+    <li><strong>Outras rendas:</strong> 10,3%;</li>
+    <li><strong>Bônus das próprias plataformas:</strong> 2,6%.</li>
+</ul>
+<p>Quase 70% do dinheiro apostado vem do salário, ou seja, da renda que deveria cobrir despesas essenciais. E 14,2% vem da reserva financeira — justamente o dinheiro que existe para cobrir emergências. Quando a reserva é consumida por apostas, qualquer imprevisto (um conserto de carro, uma consulta médica, um mês de desemprego) passa a ser financiado por cartão de crédito ou empréstimo, com juros.</p>
+
+<h2>O Custo Invisível: Endividamento e Saúde Mental</h2>
+<p>O levantamento foi além do dinheiro e perguntou sobre a relação dos apostadores com o hábito. Entre quem aposta:</p>
+<ul>
+    <li><strong>22,3%</strong> relataram dificuldade para parar;</li>
+    <li><strong>29,1%</strong> sentiram culpa relacionada às apostas;</li>
+    <li><strong>34,8%</strong> foram criticados por pessoas próximas por causa do hábito;</li>
+    <li><strong>6,9%</strong> disseram ter prejudicado a si mesmos ou a outras pessoas;</li>
+    <li><strong>5,1%</strong> se endividaram por causa de apostas.</li>
+</ul>
+<p>Esse último número parece pequeno, mas não é. Se 22,8% da população adulta aposta e 5,1% dos apostadores se endividaram por isso, estamos falando de mais de um em cada cem adultos com dívida originada em aposta — uma dívida que, diferente de um financiamento ou de uma compra parcelada, não deixou nenhum bem ou serviço como contrapartida.</p>
+<p>A combinação de culpa, crítica de pessoas próximas e dificuldade de parar é exatamente o quadro que descrevemos no artigo sobre <a href="/artigo/estresse-financeiro">estresse financeiro</a>. E quando a dívida se soma a isso, o ciclo se fecha: a pessoa aposta para tentar recuperar o que perdeu, perde mais, e a pressão aumenta.</p>
+
+<h2>Como Identificar se as Apostas Estão Furando Seu Orçamento</h2>
+<p>O gasto com bets é especialmente difícil de rastrear porque acontece em valores pequenos e frequentes, quase sempre via Pix ou cartão, e sem descrição clara no extrato. Três passos para medir o tamanho real:</p>
+<ol>
+    <li><strong>Baixe o extrato dos últimos 3 meses</strong> da conta e do cartão e filtre por nome das plataformas e por transferências Pix recorrentes de valores baixos;</li>
+    <li><strong>Some tudo e divida por 3</strong> para achar o gasto médio mensal. Compare esse número com o que você consegue guardar por mês;</li>
+    <li><strong>Calcule o percentual da renda:</strong> divida o gasto médio mensal pela sua renda líquida. Se passar de 1%, já é um vazamento relevante. Se estiver perto dos 5,5% da pesquisa, é a maior despesa variável do seu orçamento.</li>
+</ol>
+
+<h3>O Que Fazer Depois de Medir</h3>
+<ul>
+    <li><strong>Bloqueie o meio de pagamento, não só a intenção:</strong> desinstalar o aplicativo raramente funciona. Bloquear a categoria de jogos no cartão, definir um limite de Pix muito baixo e retirar cartões salvos das plataformas cria uma barreira prática;</li>
+    <li><strong>Use o autoexcluir das plataformas reguladas:</strong> as casas autorizadas a operar no Brasil são obrigadas a oferecer mecanismos de autoexclusão, que impedem o acesso à conta por um período escolhido;</li>
+    <li><strong>Redirecione o valor imediatamente:</strong> programe uma transferência automática, no dia do salário, do mesmo valor que ia para apostas. Se o dinheiro sai da conta antes, ele não fica disponível para o impulso. Nosso guia de <a href="/artigo/dinheiro-durar-ate-fim-do-mes">como fazer o dinheiro durar até o fim do mês</a> traz o passo a passo;</li>
+    <li><strong>Trate a dívida separadamente:</strong> se já existe dívida de aposta no cartão ou no rotativo, ela precisa de um plano próprio. Veja <a href="/artigo/juros-rotativo-cartao-credito-como-sair">como sair do juros rotativo do cartão</a> antes de qualquer outra coisa;</li>
+    <li><strong>Busque ajuda quando houver dificuldade de parar:</strong> os 22,3% que relatam não conseguir parar não têm um problema de disciplina financeira, e sim um quadro que pode exigir apoio profissional. O tema é tratado no nosso artigo sobre <a href="/artigo/saude-mental-financeira">saúde mental e finanças</a>.</li>
+</ul>
+
+<div class="callout">
+    <p><strong>Importante:</strong> este conteúdo é educacional e não substitui acompanhamento médico ou psicológico. Se as apostas já causaram dívida, conflito familiar ou dificuldade de parar, procure apoio profissional — o problema deixa de ser financeiro e passa a ser de saúde.</p>
+</div>
+
+<h2>Fontes</h2>
+<ul>
+    <li>InfoMoney — <a href="https://www.infomoney.com.br/minhas-financas/bets-comem-o-natal-brasileiros-gastam-3x-mais-em-apostas-do-que-em-presentes/" target="_blank" rel="noopener">Bets comem o Natal: brasileiros gastam 3x mais em apostas do que em presentes</a> (com dados do Instituto Fecomércio de Pesquisas e Análises — IFec RJ)</li>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/estatisticas/estatisticasmonetariascredito" target="_blank" rel="noopener">Estatísticas monetárias e de crédito</a></li>
+</ul>
+
+<p>Descobriu quanto as apostas custam por mês e quer ver esse dinheiro trabalhando a seu favor? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> e simule quanto o mesmo valor renderia em um ano.</p>
+',
+        'tags' => 'gasto com apostas online, bets e endividamento, quanto o brasileiro gasta em apostas, como parar de apostar dívida',
+    ],
+
+    [
+        'slug' => 'quem-ganha-ate-5-mil-paga-imposto-de-renda',
+        'title' => 'Quem Ganha Até R$ 5.000 Paga Imposto de Renda? Como Funciona a Regra de 2026',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-14',
+        'read_time' => '8 min',
+        'excerpt' => 'Quem ganha até 5 mil paga imposto de renda? Entenda o redutor criado pela Lei 15.270/2025, a tabela de 2026 e o desconto parcial até R$ 7.350.',
+        'image' => '/assets/img/post-quem-ganha-ate-5-mil-paga-imposto-de-renda.jpg',
+        'full' => true,
+        'content' => '
+<p>Quem ganha até 5 mil paga imposto de renda? A resposta curta é não — mas o mecanismo que garante essa isenção não é o que a maioria das pessoas imagina. A faixa de isenção da tabela do Imposto de Renda continua sendo de R$ 2.428,80 por mês. O que zera o imposto de quem ganha até R$ 5.000 é um desconto adicional, chamado de redutor, criado pela Lei 15.270/2025. Entender essa diferença é o que explica por que algumas pessoas com salário próximo de R$ 5.000 ainda veem desconto na folha e outras não.</p>
+
+<h2>A Tabela do Imposto de Renda em 2026</h2>
+<p>Segundo a Receita Federal, a tabela progressiva de incidência mensal em 2026 é:</p>
+<ul>
+    <li><strong>Até R$ 2.428,80:</strong> isento;</li>
+    <li><strong>De R$ 2.428,81 a R$ 2.826,65:</strong> alíquota de 7,5%, com dedução de R$ 182,16;</li>
+    <li><strong>De R$ 2.826,66 a R$ 3.751,05:</strong> alíquota de 15%, com dedução de R$ 394,16;</li>
+    <li><strong>De R$ 3.751,06 a R$ 4.664,68:</strong> alíquota de 22,5%, com dedução de R$ 675,49;</li>
+    <li><strong>Acima de R$ 4.664,68:</strong> alíquota de 27,5%, com dedução de R$ 908,73.</li>
+</ul>
+<p>Além disso, permanecem duas deduções importantes: R$ 189,59 por dependente ao mês e a isenção de até R$ 1.903,98 sobre rendimentos previdenciários para quem tem 65 anos ou mais.</p>
+
+<h2>O Redutor: É Ele que Garante a Isenção Até R$ 5.000</h2>
+<p>A Lei 15.270/2025 criou um desconto aplicado <em>depois</em> do cálculo normal da tabela. Funciona assim:</p>
+<ol>
+    <li>Calcula-se o imposto pela tabela progressiva, do jeito de sempre;</li>
+    <li>Aplica-se o redutor sobre o valor encontrado;</li>
+    <li>O que sobra é o imposto efetivamente devido.</li>
+</ol>
+<p>Para rendimentos tributáveis mensais de até R$ 5.000, o redutor chega a R$ 312,89 — valor calibrado exatamente para zerar o imposto de quem está no teto dessa faixa. Na prática, portanto, quem ganha até R$ 5.000 por mês não paga Imposto de Renda, mesmo que a tabela, isolada, indicasse imposto a pagar.</p>
+
+<h3>E Quem Ganha Entre R$ 5.000 e R$ 7.350?</h3>
+<p>Aqui está o detalhe que mais gera dúvida. Entre R$ 5.000,01 e R$ 7.350,00, o redutor não desaparece de uma vez: ele decresce de forma linear até zerar. Ou seja:</p>
+<ul>
+    <li>Quanto mais perto de R$ 5.000 estiver a renda, maior o desconto;</li>
+    <li>Quanto mais perto de R$ 7.350, menor o desconto;</li>
+    <li>Acima de R$ 7.350, não há redutor — o imposto é o da tabela cheia.</li>
+</ul>
+<p>Esse desenho evita o chamado degrau tributário, em que ganhar R$ 1 a mais faria a pessoa perder centenas de reais em benefício. Com o redutor decrescente, um aumento de salário nunca reduz a renda líquida.</p>
+
+<h2>Os Valores Anuais: R$ 60 Mil e R$ 88,2 Mil</h2>
+<p>A mesma lógica vale na declaração anual, com limites proporcionais:</p>
+<ul>
+    <li><strong>Até R$ 60.000 de rendimentos tributáveis no ano:</strong> imposto zerado pelo redutor;</li>
+    <li><strong>Entre R$ 60.000,01 e R$ 88.200:</strong> redutor decrescente, com desconto parcial;</li>
+    <li><strong>Acima de R$ 88.200:</strong> tributação integral pela tabela.</li>
+</ul>
+<p>Vale reforçar um ponto que costuma confundir: ficar isento de <em>pagar</em> não é o mesmo que ficar isento de <em>declarar</em>. As regras de obrigatoriedade de entrega da declaração são independentes do redutor e envolvem outros critérios, como posse de bens, ganhos de capital e receita de atividade rural.</p>
+
+<div class="callout">
+    <p><strong>Atenção:</strong> o redutor incide sobre <em>rendimentos tributáveis</em>. Rendimentos isentos (como parte dos lucros e dividendos, ou indenizações) não entram nessa conta, e rendimentos de fontes diferentes podem exigir ajuste na declaração anual. Em caso de dúvida sobre a sua situação, consulte um contador.</p>
+</div>
+
+<h2>Como Saber Quanto Você Vai Pagar</h2>
+<p>O cálculo prático segue três passos:</p>
+<ol>
+    <li><strong>Encontre a base de cálculo:</strong> salário bruto menos a contribuição ao INSS, menos R$ 189,59 por dependente, menos outras deduções legais (como pensão alimentícia judicial);</li>
+    <li><strong>Aplique a tabela:</strong> multiplique a base pela alíquota da faixa e subtraia a parcela a deduzir correspondente;</li>
+    <li><strong>Aplique o redutor:</strong> se o rendimento tributável mensal for de até R$ 5.000, o resultado será zero. Entre R$ 5.000,01 e R$ 7.350, subtraia o redutor proporcional.</li>
+</ol>
+<p>Note que a base de cálculo é menor que o salário bruto, porque o INSS é descontado antes. Isso significa que há quem receba um pouco mais de R$ 5.000 brutos e ainda assim fique com rendimento tributável abaixo do limite — mais um motivo para fazer a conta em vez de olhar apenas o valor do contracheque.</p>
+
+<h2>O Que Muda na Prática para Cada Perfil</h2>
+<ul>
+    <li><strong>CLT:</strong> a isenção é aplicada automaticamente na folha de pagamento pelo empregador. Não é preciso pedir nada;</li>
+    <li><strong>Aposentados e pensionistas do INSS:</strong> a mesma regra vale, e quem tem 65 anos ou mais ainda soma a parcela isenta de R$ 1.903,98 sobre o benefício previdenciário;</li>
+    <li><strong>Autônomos e MEI:</strong> a lógica é a mesma sobre o rendimento tributável recebido de pessoa física ou jurídica, mas a apuração é diferente. Se você está decidindo entre regimes, vale ler nossa comparação entre <a href="/artigo/mei-autonomo-clt-qual-vale-mais-a-pena">MEI, autônomo e CLT</a>;</li>
+    <li><strong>Quem tem mais de uma fonte de renda:</strong> cada fonte desconta isoladamente, o que costuma gerar imposto a pagar no ajuste anual. Vale simular antes para não ter surpresa.</li>
+</ul>
+
+<h3>E a Restituição?</h3>
+<p>Quem teve imposto retido na fonte ao longo do ano e, no ajuste anual, apurar imposto devido menor do que o retido, recebe a diferença de volta. Com o redutor em vigor, a tendência é que mais contribuintes caiam nessa situação. Acompanhe o funcionamento dos lotes no nosso artigo sobre a <a href="/artigo/restituicao-imposto-renda-2026-quarto-lote">restituição do Imposto de Renda 2026</a> e entenda também como funciona o <a href="/artigo/cashback-imposto-renda">cashback do Imposto de Renda</a>.</p>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Receita Federal — <a href="https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026" target="_blank" rel="noopener">Tributação de 2026: tabelas do Imposto de Renda</a></li>
+    <li>Ministério da Fazenda — <a href="https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/medidas-de-fortalecimento-da-regra-fiscal/isencao-do-imposto-de-renda-de-pessoa-fisica" target="_blank" rel="noopener">Isenção do Imposto de Renda de Pessoa Física</a></li>
+</ul>
+
+<p>Quer conferir seus descontos na folha e o que sobra de fato no fim do mês? Use nossas <a href="/calculadoras.php">calculadoras gratuitas</a> e confira os números do seu contracheque.</p>
+',
+        'tags' => 'quem ganha até 5 mil paga imposto de renda, tabela imposto de renda 2026, redutor imposto de renda, isenção imposto de renda R$ 5.000',
+    ],
+
+    [
+        'slug' => 'tabela-sac-ou-price-qual-escolher',
+        'title' => 'Tabela SAC ou Price: Qual a Diferença e Qual Escolher no Financiamento',
+        'category' => ['Educação', 'Finanças'],
+        'date' => '2026-09-13',
+        'read_time' => '8 min',
+        'excerpt' => 'Tabela SAC ou Price: entenda a diferença entre os dois sistemas de amortização, qual sai mais barato e como escolher no seu financiamento.',
+        'image' => '/assets/img/post-tabela-sac-ou-price-qual-escolher.jpg',
+        'full' => true,
+        'content' => '
+<p>Ao contratar um financiamento imobiliário, uma das primeiras escolhas que o banco apresenta é entre tabela SAC ou Price. A decisão parece técnica, mas mexe em duas coisas muito concretas: o valor da primeira parcela — que define se o financiamento é aprovado ou não — e o total de juros que você vai pagar até o fim do contrato. Em um financiamento de 30 anos, a diferença entre os dois sistemas pode chegar a centenas de milhares de reais.</p>
+
+<h2>O Que São Sistemas de Amortização</h2>
+<p>Toda parcela de um financiamento tem dois componentes: a <strong>amortização</strong>, que é a fatia que efetivamente abate o saldo devedor, e os <strong>juros</strong>, cobrados sobre o saldo que ainda resta. O sistema de amortização é apenas a regra que define como esses dois pedaços se distribuem ao longo do tempo.</p>
+<p>Como os juros incidem sobre o saldo devedor, quem reduz o saldo mais rápido paga menos juros no total. É exatamente aí que os dois sistemas se diferenciam.</p>
+
+<h2>Tabela SAC: Parcelas que Caem ao Longo do Tempo</h2>
+<p>SAC significa Sistema de Amortização Constante. Nele, a parcela de amortização é sempre a mesma: se você financia R$ 300 mil em 300 meses, amortiza R$ 1.000 por mês do começo ao fim. Os juros, calculados sobre o saldo restante, vão diminuindo mês a mês.</p>
+<p>Resultado prático:</p>
+<ul>
+    <li><strong>As parcelas começam mais altas</strong> e caem de forma contínua até a última;</li>
+    <li><strong>O saldo devedor cai mais rápido</strong> desde o primeiro mês;</li>
+    <li><strong>O total de juros pagos é menor</strong> do que na Price, em contratos de mesmo prazo e taxa.</li>
+</ul>
+
+<h2>Tabela Price: Parcelas Fixas do Início ao Fim</h2>
+<p>A Price, também chamada de Sistema Francês de Amortização, funciona ao contrário: a parcela é fixa (em valor nominal, antes de correção pelo indexador). O que muda é a composição interna dela — no começo, a maior parte é juros e pouco vai para amortização; com o tempo, essa proporção se inverte.</p>
+<p>Resultado prático:</p>
+<ul>
+    <li><strong>A primeira parcela é menor</strong> do que na SAC, o que facilita a aprovação do crédito;</li>
+    <li><strong>O saldo devedor cai devagar nos primeiros anos</strong>, porque a amortização inicial é pequena;</li>
+    <li><strong>O total de juros é maior</strong>, justamente porque o saldo fica alto por mais tempo.</li>
+</ul>
+
+<h3>Um Exemplo de Quanto Isso Custa</h3>
+<p>Segundo simulação divulgada pela Serasa, em um financiamento de R$ 400 mil por 30 anos a 9% ao ano, a tabela Price custou cerca de R$ 200 mil mais em juros do que a SAC. É meio imóvel de diferença — pago apenas pela escolha do sistema de amortização.</p>
+<p>A contrapartida é o fluxo de caixa: na SAC, aquela parcela inicial mais alta é a que o banco usa para calcular se a sua renda comporta o financiamento. Como a regra prática dos bancos limita a prestação a cerca de 30% da renda, um financiamento em SAC exige renda maior para o mesmo valor de imóvel. Vale conferir <a href="/artigo/quanto-preciso-ganhar-para-financiar-imovel">quanto você precisa ganhar para financiar um imóvel</a> em cada cenário.</p>
+
+<h2>Comparativo Direto</h2>
+<ul>
+    <li><strong>Primeira parcela:</strong> SAC mais alta / Price mais baixa;</li>
+    <li><strong>Evolução das parcelas:</strong> SAC decrescente / Price fixa;</li>
+    <li><strong>Última parcela:</strong> SAC bem menor que a primeira / Price igual à primeira;</li>
+    <li><strong>Total de juros:</strong> SAC menor / Price maior;</li>
+    <li><strong>Renda exigida:</strong> SAC maior / Price menor;</li>
+    <li><strong>Amortização antecipada:</strong> mais vantajosa na Price, porque o saldo devedor está inflado nos primeiros anos.</li>
+</ul>
+
+<h2>Quando Escolher Cada Uma</h2>
+<h3>Prefira a SAC quando:</h3>
+<ul>
+    <li>O prazo é longo — financiamentos imobiliários podem chegar a 420 meses, e é nos prazos longos que a economia de juros da SAC aparece com força;</li>
+    <li>Sua renda comporta a parcela inicial mais alta com folga;</li>
+    <li>Você pretende manter o financiamento até o fim, ou por muitos anos;</li>
+    <li>Você quer que a despesa fixa diminua com o tempo — o que ajuda quem está perto da aposentadoria.</li>
+</ul>
+
+<h3>Prefira a Price quando:</h3>
+<ul>
+    <li>O prazo é curto. É o caso típico do financiamento de veículos, normalmente limitado a 48 meses, em que a diferença de juros entre os sistemas é pequena;</li>
+    <li>A parcela inicial da SAC não caberia no limite de comprometimento de renda;</li>
+    <li>Você precisa de previsibilidade exata da parcela para planejar o orçamento;</li>
+    <li>Você espera que sua renda cresça pouco nos próximos anos.</li>
+</ul>
+
+<div class="callout">
+    <p><strong>Cuidado com a correção do saldo:</strong> nos dois sistemas, o saldo devedor e as parcelas são corrigidos pelo indexador do contrato (TR, IPCA ou poupança, dependendo da linha). Isso significa que, na Price, a parcela é fixa apenas em termos nominais — ela pode subir com a correção. Compare sempre pelo <a href="/artigo/o-que-e-cet-custo-efetivo-total-emprestimos">Custo Efetivo Total (CET)</a>, que engloba juros, seguros e tarifas.</p>
+</div>
+
+<h2>A Estratégia que Poucos Usam: Amortizar Antecipadamente</h2>
+<p>Independentemente do sistema escolhido, a forma mais eficiente de reduzir o custo do financiamento é amortizar antecipadamente, abatendo o saldo devedor. E há uma decisão dentro da decisão: ao amortizar, você pode pedir redução do prazo ou redução do valor da parcela.</p>
+<ul>
+    <li><strong>Reduzir o prazo</strong> economiza mais juros no total, porque elimina as parcelas finais;</li>
+    <li><strong>Reduzir a parcela</strong> alivia o orçamento no presente, mas economiza menos.</li>
+</ul>
+<p>Se o seu objetivo é pagar menos no total, a combinação mais eficiente costuma ser Price com amortizações frequentes reduzindo prazo — ou, melhor ainda, SAC desde o início, se a renda permitir. Para entender todo o processo de contratação, veja nosso guia sobre <a href="/artigo/financiamento-imobiliario-como-funciona-passo-a-passo">como funciona o financiamento imobiliário passo a passo</a>.</p>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Caixa Econômica Federal — <a href="https://www.caixa.gov.br/voce/habitacao/perguntas-frequentes-novos-financiamentos/Paginas/default.aspx" target="_blank" rel="noopener">Perguntas frequentes sobre financiamento habitacional</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/credito/blog/sistema-sac-e-price-saiba-como-decidir-entre-eles/" target="_blank" rel="noopener">Sistema SAC e Price: como decidir entre eles</a></li>
+    <li>Banco Central do Brasil — <a href="https://www.bcb.gov.br/estabilidadefinanceira/creditoimobiliario" target="_blank" rel="noopener">Crédito imobiliário</a></li>
+</ul>
+
+<p>Quer ver a diferença entre SAC e Price nos seus próprios números antes de assinar? Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> e compare as parcelas nos dois sistemas.</p>
+',
+        'tags' => 'tabela SAC ou Price, diferença entre SAC e Price, sistema de amortização constante, qual a melhor tabela de financiamento',
+    ],
+
+    [
+        'slug' => 'feirao-limpa-nome-como-negociar-divida',
+        'title' => 'Feirão Limpa Nome: Como Negociar Dívida com Até 99% de Desconto Passo a Passo',
+        'category' => ['Renegociação', 'Score de Crédito'],
+        'date' => '2026-09-15',
+        'read_time' => '8 min',
+        'excerpt' => 'O Feirão Limpa Nome oferece descontos de até 99% em dívidas negativadas. Veja o passo a passo para negociar e o que checar antes de aceitar.',
+        'image' => '/assets/img/post-feirao-limpa-nome-como-negociar-divida.jpg',
+        'full' => true,
+        'content' => '
+<p>Se o seu nome está negativado e você já desistiu de negociar porque a proposta que apareceu era impagável, o Feirão Limpa Nome é provavelmente a sua melhor janela de oportunidade no ano. É um mutirão de renegociação em que credores concentram as ofertas mais agressivas do período — com descontos que chegam a 99% do valor da dívida. Este guia mostra o passo a passo para negociar e, mais importante, o que checar antes de aceitar qualquer proposta.</p>
+
+<h2>Por Que Isso Importa Agora</h2>
+<p>Os números explicam o tamanho do problema. Segundo a Serasa, em agosto de 2026 o Brasil chegou a 83,9 milhões de negativados — o maior número de toda a série histórica. E um levantamento dos 10 anos do Mapa da Inadimplência mostrou algo ainda mais duro: <strong>42% dos brasileiros inadimplentes hoje já estavam com o nome restrito há uma década</strong>. Em dez anos, o número de pessoas com contas em atraso cresceu 38,1%, e o total de dívidas registradas passou de 332 milhões, volume 43% maior do que em 2016.</p>
+<p>Ou seja: não se trata de gente que caiu na inadimplência por um acidente pontual. Trata-se, em grande parte, de dívidas antigas que nunca foram resolvidas — muitas já sem juros correndo, muitas já prescritas para efeito de cobrança judicial, mas ainda sujando o nome e travando o acesso a crédito.</p>
+
+<h2>Como Funciona o Feirão Limpa Nome</h2>
+<p>A plataforma Serasa Limpa Nome funciona durante todo o ano, mas periodicamente a Serasa realiza edições concentradas do Feirão, quando o volume e a agressividade das ofertas aumentam. A edição de 2026 — a 34ª da história — ocorreu entre 23 de fevereiro e 1º de abril e reuniu, pela primeira vez, mais de 2.200 empresas parceiras, incluindo bancos, operadoras de telefonia, varejo, universidades e concessionárias de água, luz e gás.</p>
+<p>As condições típicas de um feirão:</p>
+<ul>
+    <li><strong>Descontos de até 99%</strong> — o percentual é definido pela empresa credora, não pela Serasa;</li>
+    <li><strong>Parcelas a partir de R$ 9,90</strong>, em até 72 vezes;</li>
+    <li><strong>Pagamento por Pix ou boleto</strong>;</li>
+    <li><strong>Baixa da negativação após o pagamento</strong> da dívida quitada ou da primeira parcela do acordo — pelo Pix, a retirada pode ser imediata.</li>
+</ul>
+<p>A negociação é gratuita nos canais oficiais, que são: o site serasa.com.br, o aplicativo Serasa (Android e iOS), o WhatsApp oficial, o telefone 3003-6300 e mais de 7.000 agências dos Correios.</p>
+
+<h2>O Passo a Passo para Negociar</h2>
+<ol>
+    <li><strong>Consulte sua situação completa antes de negociar.</strong> Acesse o app ou o site com CPF e senha e veja todas as dívidas registradas, não só a que você lembra. Negociar sem o quadro completo é o erro mais comum;</li>
+    <li><strong>Liste as dívidas por prioridade, não por valor.</strong> Dívidas com garantia (financiamento de carro ou imóvel) e dívidas essenciais (água, luz, gás) vêm primeiro, porque o prejuízo de não pagar é maior. Cartão e crédito pessoal vêm depois;</li>
+    <li><strong>Verifique se a dívida já prescreveu.</strong> Depois de cinco anos, a dívida sai dos cadastros de negativados e não pode mais ser cobrada judicialmente — embora continue existindo. Entenda o funcionamento no nosso artigo sobre <a href="/artigo/divida-prescrita-quanto-tempo-sai-nome">dívida prescrita e quanto tempo o nome fica sujo</a> antes de pagar algo que talvez já não trave mais o seu CPF;</li>
+    <li><strong>Calcule quanto cabe no orçamento antes de abrir as ofertas.</strong> Defina o valor máximo de parcela que você consegue pagar todo mês sem atrasar as contas do mês corrente. Esse número é o seu limite — e ele não muda porque a oferta tem prazo;</li>
+    <li><strong>Compare à vista e parcelado.</strong> O desconto máximo quase sempre está na quitação à vista. Se der para juntar o valor esperando uma edição do feirão, a economia costuma ser muito maior do que parcelar em 72 vezes;</li>
+    <li><strong>Revise as condições antes de confirmar:</strong> valor total, desconto aplicado, número e valor das parcelas, data de vencimento e se há juros no parcelamento;</li>
+    <li><strong>Guarde o comprovante e o acordo.</strong> Baixe o documento do acordo e o comprovante de pagamento. É o que você vai usar caso a baixa da negativação não aconteça no prazo;</li>
+    <li><strong>Confirme a baixa em até 5 dias úteis.</strong> Consulte o CPF novamente. Se o nome não saiu, acione o credor com o comprovante em mãos.</li>
+</ol>
+
+<h3>O Erro que Anula Todo o Esforço</h3>
+<p>Em agosto de 2026, o valor médio de cada acordo fechado na plataforma foi de R$ 741, e os descontos concedidos no mês somaram mais de R$ 11,8 bilhões. Mas uma parte desses acordos é descumprida na segunda ou terceira parcela — e um acordo quebrado costuma reativar a dívida original, com juros, e devolver a negativação.</p>
+<p>Por isso a regra é simples: <strong>é melhor fechar um acordo menor que você vai cumprir do que o maior desconto que vai furar em três meses</strong>. Se hoje você não tem folga para nenhuma parcela, o caminho é primeiro reorganizar as despesas com um <a href="/artigo/orcamento-de-sobrevivencia">orçamento de sobrevivência</a> e só depois negociar. Nosso guia sobre <a href="/artigo/acordo-de-divida-vale-a-pena-como-avaliar">como avaliar se um acordo de dívida vale a pena</a> traz os critérios objetivos para essa decisão.</p>
+
+<div class="callout">
+    <p><strong>Cuidado com golpes:</strong> a Serasa nunca cobra taxa, adiantamento ou depósito para liberar descontos. Qualquer pessoa pedindo pagamento antecipado em troca de desconto está aplicando um golpe. Negocie apenas pelos canais oficiais e confira o boleto ou o QR Code do Pix antes de pagar. Veja também como funciona o <a href="/artigo/golpe-desenrola-brasil-como-identificar">golpe que usa o nome de programas de renegociação</a>.</p>
+</div>
+
+<h2>Depois de Limpar o Nome: Reconstruir o Score</h2>
+<p>Tirar o nome da lista de negativados não devolve o score automaticamente ao nível anterior. O score reage ao histórico de pagamentos ao longo do tempo, então a recuperação é gradual. Os passos que funcionam: manter as contas básicas em dia e no nome do CPF, cadastrar-se no <a href="/artigo/o-que-e-cadastro-positivo-como-funciona">Cadastro Positivo</a> e usar pouco crédito de forma constante e pontual. O caminho completo está no nosso guia de <a href="/artigo/recuperar-score-credito">como recuperar o score de crédito</a>.</p>
+<p>E se a sua dívida é com um banco e você quer negociar diretamente, em vez de pela plataforma, veja antes as táticas reunidas em <a href="/artigo/negociar-dividas-bancos">como negociar dívidas com bancos</a> — muitas vezes o banco iguala ou supera a oferta do feirão quando o cliente chega preparado.</p>
+
+<h2>Fontes</h2>
+<ul>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/como-funciona-feirao-limpa-nome/" target="_blank" rel="noopener">Como funciona o Feirão Limpa Nome: guia completo</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">42% dos brasileiros inadimplentes em 2026 já enfrentaram restrições há 10 anos</a></li>
+    <li>Serasa — <a href="https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/" target="_blank" rel="noopener">Mapa da Inadimplência e Renegociação de Dívidas no Brasil</a></li>
+</ul>
+
+<p>Antes de aceitar qualquer proposta, descubra quanto realmente cabe no seu orçamento. Use nossos <a href="/simuladores-financeiros.php">simuladores financeiros gratuitos</a> e monte seu plano de pagamento com números reais.</p>
+',
+        'tags' => 'feirão limpa nome, como negociar dívida com desconto, limpar nome Serasa, Serasa Limpa Nome passo a passo',
+    ],
 ];
 
 /**
