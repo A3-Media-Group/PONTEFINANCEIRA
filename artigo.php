@@ -73,14 +73,22 @@ if (!empty($post['faq'])) {
 
 include __DIR__ . '/includes/header.php';
 
-// Sugestões: 3 outros artigos (mesma categoria quando possível)
-$related = array_values(array_filter($posts, function ($p) use ($post) {
-    return $p['slug'] !== $post['slug'] && array_intersect($p['category'], $post['category']);
+// Sugestões: 3 artigos da mesma categoria vizinhos na ordem cronológica
+// (anterior, seguinte, anterior...). Antes eram sempre os 3 mais recentes,
+// então artigos antigos nunca recebiam link de nenhum outro artigo e só eram
+// alcançáveis pela paginação profunda — o Google os "detectava" mas não
+// rastreava. Com vizinhos, todo artigo é linkado pelo anterior e pelo seguinte.
+$pool = array_values(array_filter($posts, function ($p) use ($post) {
+    return $p['slug'] === $post['slug'] || array_intersect($p['category'], $post['category']);
 }));
-if (count($related) < 3) {
-    $related = array_values(array_filter($posts, function ($p) use ($post) { return $p['slug'] !== $post['slug']; }));
+if (count($pool) < 4) $pool = $posts;
+$pos = array_search($post['slug'], array_column($pool, 'slug'), true);
+$related = [];
+for ($d = 1; count($related) < 3 && $d < count($pool); $d++) {
+    foreach ([$pos + $d, $pos - $d] as $i) {
+        if (isset($pool[$i]) && count($related) < 3) $related[] = $pool[$i];
+    }
 }
-$related = array_slice($related, 0, 3);
 
 $cta = contextual_cta($post['category']);
 $has_disclaimer = strpos($post['content'], 'class="callout"') !== false;

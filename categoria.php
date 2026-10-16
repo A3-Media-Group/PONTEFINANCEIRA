@@ -31,7 +31,7 @@ $page_posts = array_slice($cat_posts, ($page_num - 1) * $per_page, $per_page);
 
 $intro = category_description($cat_name);
 $page_title = $cat_name . ($page_num > 1 ? ' – Página ' . $page_num : '') . ' | Artigos | ' . SITE_NAME;
-$page_description = $intro;
+$page_description = $intro . ($page_num > 1 ? ' Página ' . $page_num . '.' : '');
 $page_url = SITE_URL . '/categoria/' . $slug . ($page_num > 1 ? '?pagina=' . $page_num : '');
 if ($page_num > 1) $page_prev = SITE_URL . '/categoria/' . $slug . ($page_num - 1 > 1 ? '?pagina=' . ($page_num - 1) : '');
 if ($page_num < $total_pages) $page_next = SITE_URL . '/categoria/' . $slug . '?pagina=' . ($page_num + 1);
