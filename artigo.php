@@ -123,10 +123,14 @@ $has_disclaimer = strpos($post['content'], 'class="callout"') !== false;
         </div>
         <?php endif; ?>
 
-        <?php if (!empty($post['tags'])): ?>
+        <?php if (!empty($post['tags'])): $tag_counts = array_column(get_all_tags($posts), 'count', 'slug'); ?>
         <div class="article-tags">
-            <?php foreach (explode(',', $post['tags']) as $tag): $tag = trim($tag); if ($tag === '') continue; ?>
-                <a href="/tag/<?php echo htmlspecialchars(slugify($tag)); ?>"><?php echo htmlspecialchars($tag); ?></a>
+            <?php foreach (explode(',', $post['tags']) as $tag): $tag = trim($tag); if ($tag === '') continue; $tag_slug = slugify($tag); ?>
+                <?php if (($tag_counts[$tag_slug] ?? 0) >= TAG_INDEX_MIN_POSTS): ?>
+                <a href="/tag/<?php echo htmlspecialchars($tag_slug); ?>"><?php echo htmlspecialchars($tag); ?></a>
+                <?php else: // tag noindex: só texto, sem link (ver TAG_INDEX_MIN_POSTS) ?>
+                <span><?php echo htmlspecialchars($tag); ?></span>
+                <?php endif; ?>
             <?php endforeach; ?>
         </div>
         <?php endif; ?>
