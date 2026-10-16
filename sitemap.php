@@ -16,6 +16,16 @@ function static_lastmod($file)
     $t = @filemtime(__DIR__ . '/' . $file);
     return $t ? date('Y-m-d', $t) : date('Y-m-d');
 }
+
+/**
+ * lastmod de uma listagem (categoria, autor) = data do artigo mais recente
+ * (publicação ou atualização) que aparece nela.
+ */
+function listing_lastmod($list_posts)
+{
+    $dates = array_map(function ($p) { return !empty($p['updated']) ? $p['updated'] : $p['date']; }, $list_posts);
+    return $dates ? max($dates) : null;
+}
 ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url><loc><?php echo SITE_URL; ?>/</loc><lastmod><?php echo static_lastmod('index.php'); ?></lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
@@ -41,6 +51,7 @@ function static_lastmod($file)
     <?php foreach (get_all_categories($posts) as $cat): ?>
     <url>
         <loc><?php echo SITE_URL; ?>/categoria/<?php echo $cat['slug']; ?></loc>
+        <lastmod><?php echo listing_lastmod(get_posts_by_category_slug($posts, $cat['slug'])); ?></lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -49,6 +60,7 @@ function static_lastmod($file)
     <?php if ($tag['count'] < TAG_INDEX_MIN_POSTS) continue; // páginas de tag com pouco conteúdo estão noindex (ver tag.php) — não faz sentido listá-las aqui ?>
     <url>
         <loc><?php echo SITE_URL; ?>/tag/<?php echo $tag['slug']; ?></loc>
+        <lastmod><?php echo listing_lastmod(get_posts_by_tag_slug($posts, $tag['slug'])); ?></lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
@@ -56,6 +68,8 @@ function static_lastmod($file)
     <?php foreach ($GLOBALS['authors'] as $author): ?>
     <url>
         <loc><?php echo SITE_URL; ?>/autor/<?php echo $author['slug']; ?></loc>
+        <?php $author_lastmod = listing_lastmod(array_filter($posts, function ($p) use ($author) { return ($p['author'] ?? 'equipe-ponte-financeira') === $author['slug']; })); ?>
+        <?php if ($author_lastmod): ?><lastmod><?php echo $author_lastmod; ?></lastmod><?php endif; ?>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
