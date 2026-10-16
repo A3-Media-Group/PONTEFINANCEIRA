@@ -41,7 +41,7 @@ $schema_json = json_encode([
     'datePublished' => $post['date'],
     'dateModified' => $updated_date ?: $post['date'],
     'image' => $page_image,
-    'author' => ['@type' => 'Person', 'name' => $author['name'], 'url' => $author_url],
+    'author' => ['@type' => $author['type'] ?? 'Person', 'name' => $author['name'], 'url' => $author_url],
     'publisher' => [
         '@type' => 'Organization',
         'name' => SITE_NAME,
