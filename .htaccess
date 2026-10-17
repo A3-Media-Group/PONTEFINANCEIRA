@@ -1,16 +1,22 @@
 RewriteEngine On
 
-# Força HTTPS
-RewriteCond %{HTTPS} off
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# Bloqueia (403) arquivos e pastas ocultos (/.git/, /.claude/, .gitignore...)
+# e arquivos de desenvolvimento que não fazem parte do site. /.well-known/
+# continua acessível (validação de certificado SSL, etc.).
+RewriteRule (^|/)\.(?!well-known(/|$)) - [F,L]
+RewriteRule ^(scripts/|README\.md$) - [F,L]
 
-# Força versão com www
-RewriteCond %{HTTP_HOST} ^pontefinanceira\.com\.br [NC]
-RewriteRule ^ https://www.pontefinanceira.com.br%{REQUEST_URI} [L,R=301]
-
-# Redireciona a URL antiga do artigo (?slug=) para a versão amigável
+# Redireciona a URL antiga do artigo (?slug=) direto para a versão amigável
+# no host canônico (vem antes da regra de host para não gerar dois saltos)
 RewriteCond %{THE_REQUEST} /artigo\.php\?slug=([^\s&]+) [NC]
-RewriteRule ^ /artigo/%1? [R=301,L]
+RewriteRule ^ https://www.pontefinanceira.com.br/artigo/%1? [R=301,L]
+
+# Host canônico: https://www.pontefinanceira.com.br em UM único 301.
+# http://sem-www, https://sem-www e http://www vão direto para https://www
+# (antes eram duas regras em sequência, gerando cadeia http -> https -> www).
+RewriteCond %{HTTP_HOST} ^pontefinanceira\.com\.br$ [NC,OR]
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://www.pontefinanceira.com.br%{REQUEST_URI} [L,R=301]
 
 # URL amigável do artigo (/artigo/slug) aponta internamente para artigo.php
 RewriteRule ^artigo/([a-zA-Z0-9-]+)/?$ artigo.php?slug=$1 [L,QSA]

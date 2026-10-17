@@ -15,6 +15,7 @@
 $GLOBALS['authors'] = [
     'equipe-ponte-financeira' => [
         'slug' => 'equipe-ponte-financeira',
+        'type' => 'Organization', // equipe, não pessoa — autores reais usam 'Person'
         'name' => 'Equipe Ponte Financeira',
         'role' => 'Redação e curadoria de conteúdo',
         'bio' => 'A equipe editorial da Ponte Financeira pesquisa e revisa cada artigo com base em fontes oficiais — Banco Central, CVM, B3, Serasa — para traduzir temas financeiros complexos em orientação prática, sem jargão e sem promessas milagrosas.',

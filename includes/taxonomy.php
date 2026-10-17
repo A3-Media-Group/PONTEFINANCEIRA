@@ -99,6 +99,14 @@ function category_name_from_slug($posts, $slug)
 }
 
 /**
+ * Mínimo de artigos para uma página /tag/[slug] ser indexável. Abaixo disso
+ * a página fica "noindex, follow" (conteúdo fino), não entra no sitemap e
+ * o artigo mostra a tag como texto, sem link — assim o Googlebot não gasta
+ * rastreio em centenas de páginas que pedimos para não indexar.
+ */
+define('TAG_INDEX_MIN_POSTS', 3);
+
+/**
  * Retorna a lista de tags únicas presentes em $posts, com slug e contagem.
  */
 function get_all_tags($posts)

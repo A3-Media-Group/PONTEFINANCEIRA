@@ -35,18 +35,20 @@ $breadcrumb_items = [
 ];
 $breadcrumb_json = breadcrumb_schema($breadcrumb_items);
 
+$author_entity = [
+    '@type' => $author['type'] ?? 'Person',
+    'name' => $author['name'],
+    'description' => $author['bio'],
+    'url' => $page_url,
+];
+if ($author_entity['@type'] === 'Person') $author_entity['jobTitle'] = $author['role'];
+
 $schema_json = json_encode([
     '@context' => 'https://schema.org',
     '@type' => 'ProfilePage',
     'name' => $author['name'],
     'url' => $page_url,
-    'mainEntity' => [
-        '@type' => 'Person',
-        'name' => $author['name'],
-        'jobTitle' => $author['role'],
-        'description' => $author['bio'],
-        'url' => $page_url,
-    ],
+    'mainEntity' => $author_entity,
 ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 
 include __DIR__ . '/includes/header.php';

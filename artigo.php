@@ -41,7 +41,7 @@ $schema_json = json_encode([
     'datePublished' => $post['date'],
     'dateModified' => $updated_date ?: $post['date'],
     'image' => $page_image,
-    'author' => ['@type' => 'Person', 'name' => $author['name'], 'url' => $author_url],
+    'author' => ['@type' => $author['type'] ?? 'Person', 'name' => $author['name'], 'url' => $author_url],
     'publisher' => [
         '@type' => 'Organization',
         'name' => SITE_NAME,
@@ -73,14 +73,22 @@ if (!empty($post['faq'])) {
 
 include __DIR__ . '/includes/header.php';
 
-// Sugestões: 3 outros artigos (mesma categoria quando possível)
-$related = array_values(array_filter($posts, function ($p) use ($post) {
-    return $p['slug'] !== $post['slug'] && array_intersect($p['category'], $post['category']);
+// Sugestões: 3 artigos da mesma categoria vizinhos na ordem cronológica
+// (anterior, seguinte, anterior...). Antes eram sempre os 3 mais recentes,
+// então artigos antigos nunca recebiam link de nenhum outro artigo e só eram
+// alcançáveis pela paginação profunda — o Google os "detectava" mas não
+// rastreava. Com vizinhos, todo artigo é linkado pelo anterior e pelo seguinte.
+$pool = array_values(array_filter($posts, function ($p) use ($post) {
+    return $p['slug'] === $post['slug'] || array_intersect($p['category'], $post['category']);
 }));
-if (count($related) < 3) {
-    $related = array_values(array_filter($posts, function ($p) use ($post) { return $p['slug'] !== $post['slug']; }));
+if (count($pool) < 4) $pool = $posts;
+$pos = array_search($post['slug'], array_column($pool, 'slug'), true);
+$related = [];
+for ($d = 1; count($related) < 3 && $d < count($pool); $d++) {
+    foreach ([$pos + $d, $pos - $d] as $i) {
+        if (isset($pool[$i]) && count($related) < 3) $related[] = $pool[$i];
+    }
 }
-$related = array_slice($related, 0, 3);
 
 $cta = contextual_cta($post['category']);
 $has_disclaimer = strpos($post['content'], 'class="callout"') !== false;
@@ -123,10 +131,14 @@ $has_disclaimer = strpos($post['content'], 'class="callout"') !== false;
         </div>
         <?php endif; ?>
 
-        <?php if (!empty($post['tags'])): ?>
+        <?php if (!empty($post['tags'])): $tag_counts = array_column(get_all_tags($posts), 'count', 'slug'); ?>
         <div class="article-tags">
-            <?php foreach (explode(',', $post['tags']) as $tag): $tag = trim($tag); if ($tag === '') continue; ?>
-                <a href="/tag/<?php echo htmlspecialchars(slugify($tag)); ?>"><?php echo htmlspecialchars($tag); ?></a>
+            <?php foreach (explode(',', $post['tags']) as $tag): $tag = trim($tag); if ($tag === '') continue; $tag_slug = slugify($tag); ?>
+                <?php if (($tag_counts[$tag_slug] ?? 0) >= TAG_INDEX_MIN_POSTS): ?>
+                <a href="/tag/<?php echo htmlspecialchars($tag_slug); ?>"><?php echo htmlspecialchars($tag); ?></a>
+                <?php else: // tag noindex: só texto, sem link (ver TAG_INDEX_MIN_POSTS) ?>
+                <span><?php echo htmlspecialchars($tag); ?></span>
+                <?php endif; ?>
             <?php endforeach; ?>
         </div>
         <?php endif; ?>

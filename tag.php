@@ -27,8 +27,8 @@ usort($tag_posts, function ($a, $b) { return strtotime($b['date']) <=> strtotime
 // cópia da página do próprio artigo) e consomem crawl budget do Google sem
 // necessidade. A navegação continua funcionando normalmente — só pedimos
 // para o Google não indexar essa página específica enquanto ela tiver
-// menos de 3 artigos.
-if (count($tag_posts) < 3) {
+// menos de TAG_INDEX_MIN_POSTS artigos.
+if (count($tag_posts) < TAG_INDEX_MIN_POSTS) {
     $page_robots = 'noindex, follow';
 }
 
